@@ -19,13 +19,11 @@ XMLTV Electronic Program Guides for supported IPTV providers.
 
 ## 🚀 Quick Start
 
-Use the appropriate XMLTV guide URL in your IPTV player.
-
-| Provider | XMLTV | GZIP |
-| :------- | :---- | :--- |
-| RunNTV | `https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/runntv.xml` | `https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/runntv.xml.gz` |
-| YuppTV | `https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/yupptv.xml` | `https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/yupptv.xml.gz` |
-| SunDirect GO | `https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/sundirectgo.xml` | `https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/sundirectgo.xml.gz` |
+| Provider | XMLTV Guide |
+| :------- | :---------- |
+| RunNTV | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/runntv.xml) • [GZIP](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/runntv.xml.gz) |
+| YuppTV | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/yupptv.xml) • [GZIP](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/yupptv.xml.gz) |
+| SunDirect GO | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/sundirectgo.xml) • [GZIP](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/sundirectgo.xml.gz) |
 
 ---
 
@@ -42,13 +40,11 @@ Use the appropriate XMLTV guide URL in your IPTV player.
 
 ## 📡 Available Providers
 
-| Provider | XML | XML.GZ | Status |
-| :------- | :-- | :----- | :----: |
-| RunNTV | ✅ | ✅ | 🟢 |
-| YuppTV | ✅ | ✅ | 🟢 |
-| SunDirect GO | ✅ | ✅ | 🟢 |
-
-More providers will be added over time.
+| Provider | XML | XML.GZ |
+| :------- | :--- | :----- |
+| RunNTV | `runntv.xml` | `runntv.xml.gz` |
+| YuppTV | `yupptv.xml` | `yupptv.xml.gz` |
+| SunDirect GO | `sundirectgo.xml` | `sundirectgo.xml.gz` |
 
 ---
 
