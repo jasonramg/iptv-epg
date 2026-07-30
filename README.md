@@ -19,11 +19,14 @@ XMLTV Electronic Program Guides for supported IPTV providers.
 
 ## 🚀 Quick Start
 
-| Provider | XMLTV Guide |
-| :------- | :---------- |
-| RunNTV | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/runntv.xml) • [GZIP](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/runntv.xml.gz) |
-| YuppTV | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/yupptv.xml) • [GZIP](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/yupptv.xml.gz) |
-| SunDirect GO | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/sundirectgo.xml) • [GZIP](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/sundirectgo.xml.gz) |
+Use the appropriate XMLTV guide URL in your IPTV player.
+
+| Provider | XML | XML.GZ |
+| :------- | :-- | :------ |
+| RunNTV | [runntv.xml](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/runntv.xml) | [runntv.xml.gz](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/runntv.xml.gz) |
+| YuppTV | [yupptv.xml](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/yupptv.xml) | [yupptv.xml.gz](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/yupptv.xml.gz) |
+| SunDirect GO | [sundirectgo.xml](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/sundirectgo.xml) | [sundirectgo.xml.gz](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/sundirectgo.xml.gz) |
+| ZEE5 | [zee5.xml](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/zee5.xml) | [zee5.xml.gz](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/zee5.xml.gz) |
 
 ---
 
@@ -45,6 +48,7 @@ XMLTV Electronic Program Guides for supported IPTV providers.
 | RunNTV | `runntv.xml` | `runntv.xml.gz` |
 | YuppTV | `yupptv.xml` | `yupptv.xml.gz` |
 | SunDirect GO | `sundirectgo.xml` | `sundirectgo.xml.gz` |
+| ZEE5 | `zee5.xml` | `zee5.xml.gz` |
 
 ---
 
@@ -73,7 +77,9 @@ epg/
 ├── yupptv.xml
 ├── yupptv.xml.gz
 ├── sundirectgo.xml
-└── sundirectgo.xml.gz
+├── sundirectgo.xml.gz
+├── zee5.xml
+└── zee5.xml.gz
 ```
 
 ---
