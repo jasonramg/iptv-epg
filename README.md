@@ -11,7 +11,7 @@ Reliable • Lightweight • XMLTV Compatible
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/jasonramg/iptv-epg?style=for-the-badge)
 ![GitHub Stars](https://img.shields.io/github/stars/jasonramg/iptv-epg?style=for-the-badge)
 
-XMLTV Electronic Program Guides for supported IPTV providers.
+Free XMLTV EPGs for supported IPTV providers.
 
 </div>
 
@@ -19,52 +19,44 @@ XMLTV Electronic Program Guides for supported IPTV providers.
 
 ## 🚀 Quick Start
 
-Use the appropriate XMLTV guide URL in your IPTV player.
+Use the appropriate guide URL in your IPTV player.
 
-| Provider | XML | XML.GZ |
-| :------- | :-- | :------ |
-| RunNTV | [runntv.xml](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/runntv.xml) | [runntv.xml.gz](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/runntv.xml.gz) |
-| YuppTV | [yupptv.xml](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/yupptv.xml) | [yupptv.xml.gz](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/yupptv.xml.gz) |
+| Provider     | XML                                                                                              | XML.GZ                                                                                                 |
+| :----------- | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------- |
+| Airtel       | [airtel.xml](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/airtel.xml)           | [airtel.xml.gz](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/airtel.xml.gz)           |
+| Dish TV      | [dishtv.xml](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/dishtv.xml)           | [dishtv.xml.gz](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/dishtv.xml.gz)           |
+| JioTV        | [jiotv.xml](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/jiotv.xml)             | [jiotv.xml.gz](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/jiotv.xml.gz)             |
+| RunNTV       | [runntv.xml](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/runntv.xml)           | [runntv.xml.gz](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/runntv.xml.gz)           |
+| Sling TV     | [slingtv.xml](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/slingtv.xml)         | [slingtv.xml.gz](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/slingtv.xml.gz)         |
 | SunDirect GO | [sundirectgo.xml](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/sundirectgo.xml) | [sundirectgo.xml.gz](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/sundirectgo.xml.gz) |
-| ZEE5 | [zee5.xml](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/zee5.xml) | [zee5.xml.gz](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/zee5.xml.gz) |
+| Tata Play    | [tataplay.xml](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/tataplay.xml)       | [tataplay.xml.gz](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/tataplay.xml.gz)       |
+| YuppTV       | [yupptv.xml](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/yupptv.xml)           | [yupptv.xml.gz](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/yupptv.xml.gz)           |
+| ZEE5         | [zee5.xml](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/zee5.xml)               | [zee5.xml.gz](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/zee5.xml.gz)               |
 
 ---
 
 ## ✨ Features
 
-- 📺 XMLTV compliant
-- 🔄 Automatically updated
-- 📦 Available in both `.xml` and `.xml.gz` formats
-- ⚡ Lightweight and ready to use
-- 📱 Compatible with most IPTV players
-- 🌏 Easily expandable with additional providers
-
----
-
-## 📡 Available Providers
-
-| Provider | XML | XML.GZ |
-| :------- | :--- | :----- |
-| RunNTV | `runntv.xml` | `runntv.xml.gz` |
-| YuppTV | `yupptv.xml` | `yupptv.xml.gz` |
-| SunDirect GO | `sundirectgo.xml` | `sundirectgo.xml.gz` |
-| ZEE5 | `zee5.xml` | `zee5.xml.gz` |
+* 📺 XMLTV compliant
+* 🔄 Regularly updated
+* 📦 Available in `.xml` and `.xml.gz`
+* ⚡ Lightweight and ready to use
+* 📱 Compatible with most IPTV players
+* 🌍 Organized by provider
 
 ---
 
 ## 📱 Compatible Applications
 
-These guides work with any application supporting the XMLTV format, including:
-
-- IPTV Smarters
-- TiviMate
-- OTT Navigator
-- Sparkle TV
-- Kodi
-- VLC
-- Jellyfin
-- Emby
-- Plex
+* IPTV Smarters
+* TiviMate
+* OTT Navigator
+* Sparkle TV
+* Kodi
+* VLC
+* Jellyfin
+* Emby
+* Plex
 
 ---
 
@@ -72,12 +64,22 @@ These guides work with any application supporting the XMLTV format, including:
 
 ```text
 epg/
+├── airtel.xml
+├── airtel.xml.gz
+├── dishtv.xml
+├── dishtv.xml.gz
+├── jiotv.xml
+├── jiotv.xml.gz
 ├── runntv.xml
 ├── runntv.xml.gz
-├── yupptv.xml
-├── yupptv.xml.gz
+├── slingtv.xml
+├── slingtv.xml.gz
 ├── sundirectgo.xml
 ├── sundirectgo.xml.gz
+├── tataplay.xml
+├── tataplay.xml.gz
+├── yupptv.xml
+├── yupptv.xml.gz
 ├── zee5.xml
 └── zee5.xml.gz
 ```
@@ -88,13 +90,13 @@ epg/
 
 Depending on the provider, each guide may include:
 
-- Programme titles
-- Programme descriptions
-- Categories
-- Start and end times
-- Episode information
-- Languages
-- Channel icons (where available)
+* Programme titles
+* Descriptions
+* Categories
+* Start and end times
+* Languages
+* Episode information
+* Channel icons (where available)
 
 ---
 
@@ -102,59 +104,43 @@ Depending on the provider, each guide may include:
 
 ### What is XMLTV?
 
-XMLTV is a standard XML-based format used by IPTV players and media servers to display Electronic Program Guide (EPG) information.
+XMLTV is the standard format used by IPTV players and media servers for Electronic Program Guide (EPG) data.
 
-### Should I use the `.xml` or `.xml.gz` file?
+### Should I use `.xml` or `.xml.gz`?
 
-Both contain the same guide data.
+Both files contain the same guide data.
 
-- Use **`.xml.gz`** if your application supports compressed guides (recommended).
-- Use **`.xml`** if your application does not support GZIP-compressed files.
+* **`.xml.gz`** is recommended if your application supports compressed guides.
+* Use **`.xml`** if GZIP is not supported.
 
-### Does this repository include IPTV playlists?
+### Does this repository include IPTV playlists or streams?
 
-No. This repository only provides XMLTV EPG metadata.
-
-### Does this repository provide live TV streams?
-
-No.
+No. This repository provides **EPG metadata only**.
 
 ---
 
 ## ⚠️ Disclaimer
 
-This repository distributes **Electronic Program Guide (EPG) metadata only**.
-
-It does **not** host, distribute, or provide:
-
-- IPTV playlists
-- Live TV streams
-- DRM keys
-- Video or audio content
-- Subscription services
-
-Users are responsible for ensuring they have the necessary rights or subscriptions required to access television content through their chosen IPTV provider.
+This repository distributes **Electronic Program Guide (EPG) metadata only** and does **not** host IPTV playlists, live streams, DRM keys, or any video/audio content.
 
 ---
 
 ## 🤝 Contributing
 
-Suggestions, bug reports, and pull requests are welcome.
-
-If you'd like to request support for another IPTV provider, feel free to open an issue.
+Issues, suggestions, and pull requests are welcome.
 
 ---
 
 ## 📜 License
 
-This project is licensed under the **MIT License**.
+Licensed under the **MIT License**.
 
 ---
 
 <div align="center">
 
-⭐ If you find this project useful, consider giving it a star.
+⭐ If this project helps you, consider giving it a star.
 
-Made with ❤️ by <strong>JasonRamG</strong>
+Made with ❤️ by **JasonRamG**
 
 </div>
