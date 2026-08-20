@@ -124,6 +124,10 @@
     <display-name>Puthiya Thalaimurai</display-name>
     <icon src="https://metaimg.sundirectgo.in/epgChannels/143225_03c9a8a5-9042-4217-8cb5-85151a4802ae.png" />
   </channel>
+  <channel id="149064">
+    <display-name>Velicham Plus</display-name>
+    <icon src="https://metaimg.sundirectgo.in/epgChannels/149064_e6f735a3-0310-43fc-be33-2b3e8f735c0a.png" />
+  </channel>
   <channel id="143237">
     <display-name>Sathiyam TV</display-name>
     <icon src="https://metaimg.sundirectgo.in/epgChannels/143237_b8c6d08a-838b-4532-98ff-17bf755d71bb.png" />
@@ -1191,6 +1195,10 @@
   <channel id="143221">
     <display-name>Prarthana Life</display-name>
     <icon src="https://metaimg.sundirectgo.in/epgChannels/143221_5b866b2d-a8f0-4755-8c21-87beb22d3e42.png" />
+  </channel>
+  <channel id="712129">
+    <display-name>DD Chattisgarh</display-name>
+    <icon src="https://sun-direct-max.s3.ap-south-1.amazonaws.com/Logo/DDChhattisgarh739.png" />
   </channel>
   <channel id="143257">
     <display-name>Sun Marathi HD</display-name>
@@ -9926,6 +9934,438 @@
     <language>Tamil</language>
     <category>News</category>
     <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820000000 +0530" stop="20260820003000 +0530">
+    <title>UK Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/c06f0a4c-6716-40f1-b8cf-c6657555c816_VelichamTV_UKBulletin_1995735.jpg" />
+    <desc>The host delivers the latest updates and developments from the United Kingdom, covering political, socio-economic, and key news stories to keep viewers informed.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820003000 +0530" stop="20260820010000 +0530">
+    <title>UP Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/b570af37-e4fd-494b-bf84-306c4f1531fb_VelichamTV_UPBulletin_1995736.jpg" />
+    <desc>The host delivers timely updates from Uttar Pradesh, covering political, socio-economic, and key developments, providing viewers with concise and relevant state news.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820010000 +0530" stop="20260820013000 +0530">
+    <title>Haryana Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/74b351d1-9847-448d-8194-c498fd15a49a_VelichamTV_HaryanaBulletin_1995728.jpg" />
+    <desc>The host delivers timely coverage of major political and socio-economic developments across Haryana, presenting key updates and important stories from the state.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820013000 +0530" stop="20260820020000 +0530">
+    <title>Teleshopping</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/a19c337b-0fec-41ac-ba48-08002e375340_AAJTAKHD_Teleshopping_930090.jpg" />
+    <desc>The host presents a range of products from popular brands, highlighting features and benefits, allowing viewers to conveniently explore and purchase items from home.</desc>
+    <language>Tamil</language>
+    <category>Tamil</category>
+    <category>TeleShopping</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820020000 +0530" stop="20260820023000 +0530">
+    <title>MP-CG Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/59b40df2-f7fc-4b07-bd1f-b3955605e78b_VelichamTV_MP-CGBulletin_1995731.jpg" />
+    <desc>The host delivers the latest updates from MP-CG, covering political, socio-economic, sports, and entertainment news, providing viewers a concise daily briefing.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820023000 +0530" stop="20260820030000 +0530">
+    <title>UK Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/ffb2f3ee-f162-421c-a570-1615a1565f4a_VelichamTV_UKBulletin_1995735.jpg" />
+    <desc>The host delivers the latest updates and developments from the United Kingdom, covering political, socio-economic, and key news stories to keep viewers informed.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820030000 +0530" stop="20260820033000 +0530">
+    <title>UP Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/4b271bc0-b5d2-4b9e-8f23-d9ac5d388e6b_VelichamTV_UPBulletin_1995736.jpg" />
+    <desc>The host delivers timely updates from Uttar Pradesh, covering political, socio-economic, and key developments, providing viewers with concise and relevant state news.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820033000 +0530" stop="20260820040000 +0530">
+    <title>Haryana Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/a3cf33c5-d453-49e9-837b-1f3436a8848c_VelichamTV_HaryanaBulletin_1995728.jpg" />
+    <desc>The host delivers timely coverage of major political and socio-economic developments across Haryana, presenting key updates and important stories from the state.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820040000 +0530" stop="20260820043000 +0530">
+    <title>UP Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/a7de21e2-0c93-4ac6-a0cf-e6e1f4bcf845_VelichamTV_UPBulletin_1995736.jpg" />
+    <desc>The host delivers timely updates from Uttar Pradesh, covering political, socio-economic, and key developments, providing viewers with concise and relevant state news.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820043000 +0530" stop="20260820050000 +0530">
+    <title>MP-CG Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/e2fb09e8-10eb-4d1b-9b9f-d2298dc1a902_VelichamTV_MP-CGBulletin_1995731.jpg" />
+    <desc>The host delivers the latest updates from MP-CG, covering political, socio-economic, sports, and entertainment news, providing viewers a concise daily briefing.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820050000 +0530" stop="20260820053000 +0530">
+    <title>CG Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/40828fdb-6b68-4fc3-8d43-64aab781415f_VelichamTV_CGBulletin_1995725.jpg" />
+    <desc>CG Bulletin on Velicham TV brings clear and timely coverage of major political and socio-economic developments across the country, with key updates.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820053000 +0530" stop="20260820060000 +0530">
+    <title>UK Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/f86b98c0-9fa8-4209-939d-d77c8f014c14_VelichamTV_UKBulletin_1995735.jpg" />
+    <desc>The host delivers the latest updates and developments from the United Kingdom, covering political, socio-economic, and key news stories to keep viewers informed.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820060000 +0530" stop="20260820063000 +0530">
+    <title>Iskcon</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/71a23dd0-6bf1-487f-899d-bb03cad0c194_VelichamTV_Iskcon_1995729.jpg" />
+    <desc>Hindu priests and devotees perform sacred rituals and chant verses in praise of Lord Krishna, sharing devotional practices and spiritual experiences from the ISKCON Temple.</desc>
+    <language>Tamil</language>
+    <category>Religious</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820063000 +0530" stop="20260820070000 +0530">
+    <title>Swami Hari Chaitanya Mahaprabhu Ji</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/e92d4b9c-9b94-485a-9e36-0e5d97276027_VelichamTV_SwamiHariChaitanyaMahaprabhuJi_1995733.jpg" />
+    <desc>Swami Hari Chaitanya Ji delivers discourses on religious teachings, inspiring devotees to embrace spirituality and guiding them to follow principles of faith and righteous living.</desc>
+    <language>Tamil</language>
+    <category>Religious</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820070000 +0530" stop="20260820073000 +0530">
+    <title>UK Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/1c17412d-83a8-48ac-b8a8-54623cc8cb79_VelichamTV_UKBulletin_1995735.jpg" />
+    <desc>The host delivers the latest updates and developments from the United Kingdom, covering political, socio-economic, and key news stories to keep viewers informed.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820073000 +0530" stop="20260820080000 +0530">
+    <title>Teleshopping</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/a145ee1a-abb1-4f49-b73f-bcae674f0a5a_AAJTAKHD_Teleshopping_930090.jpg" />
+    <desc>The host presents a range of products from popular brands, highlighting features and benefits, allowing viewers to conveniently explore and purchase items from home.</desc>
+    <language>Tamil</language>
+    <category>Tamil</category>
+    <category>TeleShopping</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820080000 +0530" stop="20260820083000 +0530">
+    <title>UK Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/18f262f9-8b74-4ec8-96c3-458248515d6c_VelichamTV_UKBulletin_1995735.jpg" />
+    <desc>The host delivers the latest updates and developments from the United Kingdom, covering political, socio-economic, and key news stories to keep viewers informed.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820083000 +0530" stop="20260820090000 +0530">
+    <title>Haryana Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/0d36be7b-07d3-4f15-a8d3-6ca21704ca0f_VelichamTV_HaryanaBulletin_1995728.jpg" />
+    <desc>The host delivers timely coverage of major political and socio-economic developments across Haryana, presenting key updates and important stories from the state.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820090000 +0530" stop="20260820093000 +0530">
+    <title>MP-CG Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/708360d0-cac9-4d19-80fa-5521cbd82c84_VelichamTV_MP-CGBulletin_1995731.jpg" />
+    <desc>The host delivers the latest updates from MP-CG, covering political, socio-economic, sports, and entertainment news, providing viewers a concise daily briefing.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820093000 +0530" stop="20260820100000 +0530">
+    <title>Divya Drishti</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/8f5fd41c-8d68-4fa7-984c-88eaa4943003_VelichamTV_DivyaDrishti_1995726.jpg" />
+    <desc>A revered religious leader shares the teachings of the Almighty, offering deep spiritual insight and practical guidance to help devotees walk the path of faith and righteous living with devotion.</desc>
+    <language>Tamil</language>
+    <category>Entertainment</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820100000 +0530" stop="20260820103000 +0530">
+    <title>Halka Halchal Haryana</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/6880b267-b7f2-4304-977c-8a594d0688bc_VelichamTV_HalkaHalchalHaryana_1995727.jpg" />
+    <desc>The host presents crisp updates and key developments on social, cultural and political happenings across Haryana, bringing viewers timely regional news and grounded perspectives.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820103000 +0530" stop="20260820110000 +0530">
+    <title>Haryana Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/35dc066f-cdb9-4805-b0c0-0709bd99ea49_VelichamTV_HaryanaBulletin_1995728.jpg" />
+    <desc>The host delivers timely coverage of major political and socio-economic developments across Haryana, presenting key updates and important stories from the state.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820110000 +0530" stop="20260820113000 +0530">
+    <title>Sukh Sagar</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/ca3557eb-87ad-4955-993f-0cf16b634ec5_VelichamTV_SukhSagar_1995732.jpg" />
+    <desc>The host shares insights on religious teachings and spirituality, guiding listeners toward moral living and encouraging them to follow the path of righteousness and faith.</desc>
+    <language>Tamil</language>
+    <category>Entertainment</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820113000 +0530" stop="20260820120000 +0530">
+    <title>Badi Khabar</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/adfa9bbc-67d7-4be4-b9f5-40f76f21d242_VelichamTV_BadiKhabar_1995721.jpg" />
+    <desc>The host delivers an in-depth breakdown of the day's most important headlines, key updates, and major developments, offering clear insight and context for viewers across politics and public affairs.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820120000 +0530" stop="20260820123000 +0530">
+    <title>Velicham Tv</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/5162fd75-0c65-45c8-bfc4-42c6313dc6d2_VelichamTV_VelichamTv_1995737.jpg" />
+    <desc>A Tamil television channel based in Chennai, launched on 14 April 2016, featuring live inaugural coverage by prominent leaders including Vijayakanth, Vaiko, and Communist figures.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820123000 +0530" stop="20260820130000 +0530">
+    <title>Bhagya Uday</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/4a5c4165-cc48-4d0b-9428-3233725b4e80_VelichamTV_BhagyaUday_1995724.jpg" />
+    <desc>Bhagya Uday, also called Bhagyodayam, is a Malayalam Christian spiritual show on Velicham TV featuring biblical teachings and messages of faith, hope, and spiritual enlightenment.</desc>
+    <language>Tamil</language>
+    <category>Astrology</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820130000 +0530" stop="20260820133000 +0530">
+    <title>CG Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/35669cd7-3377-4e15-9d83-db60707e6c79_VelichamTV_CGBulletin_1995725.jpg" />
+    <desc>CG Bulletin on Velicham TV brings clear and timely coverage of major political and socio-economic developments across the country, with key updates.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820133000 +0530" stop="20260820140000 +0530">
+    <title>MP Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/15ee86a0-17cb-4bb3-9351-02c49d5420e9_VelichamTV_MPBulletin_1995730.jpg" />
+    <desc>The host delivers the latest updates from Madhya Pradesh, covering political, socio-economic, sports, and entertainment news, providing viewers a concise daily briefing.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820140000 +0530" stop="20260820143000 +0530">
+    <title>UK Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/1558f8b5-1017-4c3e-a87b-adc6a71f8737_VelichamTV_UKBulletin_1995735.jpg" />
+    <desc>The host delivers the latest updates and developments from the United Kingdom, covering political, socio-economic, and key news stories to keep viewers informed.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820143000 +0530" stop="20260820150000 +0530">
+    <title>MP-CG Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/c6d1ee7b-8586-4d7f-adff-b9bc4fba1905_VelichamTV_MP-CGBulletin_1995731.jpg" />
+    <desc>The host delivers the latest updates from MP-CG, covering political, socio-economic, sports, and entertainment news, providing viewers a concise daily briefing.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820150000 +0530" stop="20260820153000 +0530">
+    <title>Haryana Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/369a078d-d641-421e-8f57-a345f752eb9c_VelichamTV_HaryanaBulletin_1995728.jpg" />
+    <desc>The host delivers timely coverage of major political and socio-economic developments across Haryana, presenting key updates and important stories from the state.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820153000 +0530" stop="20260820160000 +0530">
+    <title>UP Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/8be3a859-d12e-4b7f-8dee-1e72b953882f_VelichamTV_UPBulletin_1995736.jpg" />
+    <desc>The host delivers timely updates from Uttar Pradesh, covering political, socio-economic, and key developments, providing viewers with concise and relevant state news.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820160000 +0530" stop="20260820163000 +0530">
+    <title>MP-CG Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/88a1fecd-35d3-443f-b5f6-2f44f6164395_VelichamTV_MP-CGBulletin_1995731.jpg" />
+    <desc>The host delivers the latest updates from MP-CG, covering political, socio-economic, sports, and entertainment news, providing viewers a concise daily briefing.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820163000 +0530" stop="20260820170000 +0530">
+    <title>Haryana Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/936ef06e-75fc-4445-b794-9158ca145237_VelichamTV_HaryanaBulletin_1995728.jpg" />
+    <desc>The host delivers timely coverage of major political and socio-economic developments across Haryana, presenting key updates and important stories from the state.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820170000 +0530" stop="20260820173000 +0530">
+    <title>MP-CG Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/9efa798a-232b-45d8-a09c-28e5f79af0fb_VelichamTV_MP-CGBulletin_1995731.jpg" />
+    <desc>The host delivers the latest updates from MP-CG, covering political, socio-economic, sports, and entertainment news, providing viewers a concise daily briefing.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820173000 +0530" stop="20260820180000 +0530">
+    <title>Haryana Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/8920bec2-7cc2-47da-8b71-8f7a18c62d3e_VelichamTV_HaryanaBulletin_1995728.jpg" />
+    <desc>The host delivers timely coverage of major political and socio-economic developments across Haryana, presenting key updates and important stories from the state.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820180000 +0530" stop="20260820183000 +0530">
+    <title>UK Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/4ea513e8-6caa-477c-a3de-e9b8ac8a5a59_VelichamTV_UKBulletin_1995735.jpg" />
+    <desc>The host delivers the latest updates and developments from the United Kingdom, covering political, socio-economic, and key news stories to keep viewers informed.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820183000 +0530" stop="20260820190000 +0530">
+    <title>CG Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/ca021722-f61c-4737-9660-c048936016c9_VelichamTV_CGBulletin_1995725.jpg" />
+    <desc>CG Bulletin on Velicham TV brings clear and timely coverage of major political and socio-economic developments across the country, with key updates.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820190000 +0530" stop="20260820193000 +0530">
+    <title>Haryana Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/17d9ed42-d5bc-4449-977c-514f111efdc5_VelichamTV_HaryanaBulletin_1995728.jpg" />
+    <desc>The host delivers timely coverage of major political and socio-economic developments across Haryana, presenting key updates and important stories from the state.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820193000 +0530" stop="20260820200000 +0530">
+    <title>CG Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/5792f472-ce31-4fbc-add9-67b7b7c8b3e3_VelichamTV_CGBulletin_1995725.jpg" />
+    <desc>CG Bulletin on Velicham TV brings clear and timely coverage of major political and socio-economic developments across the country, with key updates.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820200000 +0530" stop="20260820203000 +0530">
+    <title>UK Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/37e31c05-e227-4180-8207-9a67bd29edf5_VelichamTV_UKBulletin_1995735.jpg" />
+    <desc>The host delivers the latest updates and developments from the United Kingdom, covering political, socio-economic, and key news stories to keep viewers informed.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820203000 +0530" stop="20260820210000 +0530">
+    <title>Haryana Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/3b806772-92ff-4443-9a5f-81a862f13a93_VelichamTV_HaryanaBulletin_1995728.jpg" />
+    <desc>The host delivers timely coverage of major political and socio-economic developments across Haryana, presenting key updates and important stories from the state.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820210000 +0530" stop="20260820213000 +0530">
+    <title>MP-CG Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/6e7d0945-23c5-4cdc-a612-e4108f5f0f45_VelichamTV_MP-CGBulletin_1995731.jpg" />
+    <desc>The host delivers the latest updates from MP-CG, covering political, socio-economic, sports, and entertainment news, providing viewers a concise daily briefing.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820213000 +0530" stop="20260820220000 +0530">
+    <title>UP Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/7c1a73c9-001b-4204-839d-53f711612f63_VelichamTV_UPBulletin_1995736.jpg" />
+    <desc>The host delivers timely updates from Uttar Pradesh, covering political, socio-economic, and key developments, providing viewers with concise and relevant state news.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820220000 +0530" stop="20260820223000 +0530">
+    <title>CG Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/4638551a-8b7c-497a-ab1d-84fa785dbfc3_VelichamTV_CGBulletin_1995725.jpg" />
+    <desc>CG Bulletin on Velicham TV brings clear and timely coverage of major political and socio-economic developments across the country, with key updates.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820223000 +0530" stop="20260820230000 +0530">
+    <title>Haryana Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/f0c63956-c286-4e5b-acce-47919657c7cb_VelichamTV_HaryanaBulletin_1995728.jpg" />
+    <desc>The host delivers timely coverage of major political and socio-economic developments across Haryana, presenting key updates and important stories from the state.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820230000 +0530" stop="20260820233000 +0530">
+    <title>CG Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/4abf14ae-ead4-4b24-8b4b-fe1bd171f84f_VelichamTV_CGBulletin_1995725.jpg" />
+    <desc>CG Bulletin on Velicham TV brings clear and timely coverage of major political and socio-economic developments across the country, with key updates.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="149064" start="20260820233000 +0530" stop="20260821000000 +0530">
+    <title>Teleshopping</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/aa36b2f8-f3b1-4f99-b5e0-b1240242c7c8_AAJTAKHD_Teleshopping_930090.jpg" />
+    <desc>The host presents a range of products from popular brands, highlighting features and benefits, allowing viewers to conveniently explore and purchase items from home.</desc>
+    <language>Tamil</language>
+    <category>Tamil</category>
+    <category>TeleShopping</category>
     <date>20260820</date>
   </programme>
   <programme channel="143237" start="20260820000000 +0530" stop="20260820003000 +0530">
@@ -93477,6 +93917,560 @@
     <category>Odia</category>
     <date>20260820</date>
   </programme>
+  <programme channel="712129" start="20260820000000 +0530" stop="20260820001500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/27015dea-10c6-4e9c-b321-4833f87013ce_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820001500 +0530" stop="20260820003000 +0530">
+    <title>Promos with Song&amp; Promotion al Videos</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/0743ff90-f8d4-47fb-85f2-d7839834807c_DDChattisgarh_PromoswithSongPromotionalVideos_2011584.jpg" />
+    <desc>Promos with Songand Promotion al Videos</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820003000 +0530" stop="20260820010000 +0530">
+    <title>Ghar Sansaar/Archive</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/2f645ad6-dc81-43de-b7dd-e16b8d0b9c96_DDChattisgarh_GharSansaarArchive_2011571.jpg" />
+    <desc>Ghar Sansaar/Archive</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820010000 +0530" stop="20260820011500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/4d78cdbc-a420-4bc5-95c7-782b24c60557_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820011500 +0530" stop="20260820013000 +0530">
+    <title>Flagship Prog</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/14aa5d4d-24d3-4e1d-86e8-caa4e3f8d8a7_DDChattisgarh_FlagshipProg_2011568.jpg" />
+    <desc>Flagship Prog</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820013000 +0530" stop="20260820020000 +0530">
+    <title>Bhuiyan Ke Goth</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/57a7fe9b-d110-45d1-97d3-b08f86ecf4a4_DDChattisgarh_BhuiyanKeGoth_1918254.jpg" />
+    <desc>Bhuiyan Ke Goth</desc>
+    <language>Odia</language>
+    <category>Drama</category>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820020000 +0530" stop="20260820023000 +0530">
+    <title>Hamar Pahuna/Hamar Chhattisgarh/Archive</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/62966087-d8fe-4a8e-8719-ac63217cbc07_DDChattisgarh_HamarPahunaHamarChhattisgarhArchive_2011575.jpg" />
+    <desc>Hamar Pahuna/Hamar Chhattisgarh/Archive</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820023000 +0530" stop="20260820030000 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/807928a6-8bcf-4f37-8b57-3e145e5e1cbe_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820030000 +0530" stop="20260820031500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/f3c8df75-f1b7-4ec2-8cdd-123132f7eaeb_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820031500 +0530" stop="20260820033000 +0530">
+    <title>Folk Music</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/66121ccb-a2af-4609-9866-b09aa08638ed_DDChattisgarh_FolkMusic_2011569.jpg" />
+    <desc>Folk Music</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820033000 +0530" stop="20260820040000 +0530">
+    <title>Tarane Purane</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/4f40dd57-ee3e-4757-95f2-a6020e7f1061_DDChattisgarh_TaranePurane_2011585.jpg" />
+    <desc>Tarane Purane</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820040000 +0530" stop="20260820041500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/a19e6e90-8c98-4b3c-b988-305506e08436_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820041500 +0530" stop="20260820043000 +0530">
+    <title>Promos with Song&amp; Promotion al Videos</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/12cf67b4-38d5-4c1e-b888-84fc1055487b_DDChattisgarh_PromoswithSongPromotionalVideos_2011584.jpg" />
+    <desc>Promos with Songand Promotion al Videos</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820043000 +0530" stop="20260820050000 +0530">
+    <title>Ghar Sansaar/Archive</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/af6b41b8-18a0-461d-b95d-bf88c2317215_DDChattisgarh_GharSansaarArchive_2011571.jpg" />
+    <desc>Ghar Sansaar/Archive</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820050000 +0530" stop="20260820051500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/ae476a54-3d55-447b-b31b-0595704b8bf2_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820051500 +0530" stop="20260820053000 +0530">
+    <title>Flagship Prog</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/7bf01f1e-0b8e-4c47-9004-4643e2142e36_DDChattisgarh_FlagshipProg_2011568.jpg" />
+    <desc>Flagship Prog</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820053000 +0530" stop="20260820060000 +0530">
+    <title>Bhuiyan Ke Goth</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/2e48e920-4bb8-4732-a285-d68723e2b965_DDChattisgarh_BhuiyanKeGoth_1918254.jpg" />
+    <desc>Bhuiyan Ke Goth</desc>
+    <language>Odia</language>
+    <category>Drama</category>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820060000 +0530" stop="20260820063000 +0530">
+    <title>Hamar Pahuna/Hamar Chhattisgarh/Archive</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/2bb13e37-307c-4481-a6f2-36c0e34734f6_DDChattisgarh_HamarPahunaHamarChhattisgarhArchive_2011575.jpg" />
+    <desc>Hamar Pahuna/Hamar Chhattisgarh/Archive</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820063000 +0530" stop="20260820070000 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/6faf8a17-68e4-434e-a77c-3bdfb744396d_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820070000 +0530" stop="20260820071500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/d39dc2fa-bb2f-4deb-8bd2-2ebfc2f32814_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820071500 +0530" stop="20260820073000 +0530">
+    <title>Folk Music</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/25591c0d-829d-4582-98aa-336497328ce5_DDChattisgarh_FolkMusic_2011569.jpg" />
+    <desc>Folk Music</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820073000 +0530" stop="20260820080000 +0530">
+    <title>Tarane Purane</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/9c158530-46ca-4dd8-93c4-6f2af17801a6_DDChattisgarh_TaranePurane_2011585.jpg" />
+    <desc>Tarane Purane</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820080000 +0530" stop="20260820081500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/825dbc6a-45ec-4264-a554-f0e73e0f1853_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820081500 +0530" stop="20260820083000 +0530">
+    <title>Promos with Song&amp; Promotion al Videos</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/028fcae8-7b17-4aff-bb51-b20b65e77226_DDChattisgarh_PromoswithSongPromotionalVideos_2011584.jpg" />
+    <desc>Promos with Songand Promotion al Videos</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820083000 +0530" stop="20260820090000 +0530">
+    <title>Ghar Sansaar/Archive</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/b17e0d30-4549-441a-9cb2-0ff9e53db32c_DDChattisgarh_GharSansaarArchive_2011571.jpg" />
+    <desc>Ghar Sansaar/Archive</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820090000 +0530" stop="20260820091500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/085be06b-df1e-4bf6-b03e-860f3b958451_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820091500 +0530" stop="20260820093000 +0530">
+    <title>Flagship Prog</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/b530cb5f-c28e-4452-b8b9-ef6a4ac08568_DDChattisgarh_FlagshipProg_2011568.jpg" />
+    <desc>Flagship Prog</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820093000 +0530" stop="20260820100000 +0530">
+    <title>Bhuiyan Ke Goth</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/1db3342c-5058-4e88-9e19-fd21ce6591da_DDChattisgarh_BhuiyanKeGoth_1918254.jpg" />
+    <desc>Bhuiyan Ke Goth</desc>
+    <language>Odia</language>
+    <category>Drama</category>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820100000 +0530" stop="20260820103000 +0530">
+    <title>Hamar Pahuna/Hamar Chhattisgarh/Archive</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/613b4d19-615d-4188-b620-30a4c83e96e8_DDChattisgarh_HamarPahunaHamarChhattisgarhArchive_2011575.jpg" />
+    <desc>Hamar Pahuna/Hamar Chhattisgarh/Archive</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820103000 +0530" stop="20260820110000 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/07961f3c-484e-4baf-96f9-317f8f03487a_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820110000 +0530" stop="20260820111500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/e686446a-bc0d-47c9-8ceb-3bf510c79192_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820111500 +0530" stop="20260820113000 +0530">
+    <title>Folk Music</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/d9dd49f5-7b2e-4360-9349-ced9a5fad62d_DDChattisgarh_FolkMusic_2011569.jpg" />
+    <desc>Folk Music</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820113000 +0530" stop="20260820120000 +0530">
+    <title>Tarane Purane</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/f3ca55f7-4099-4577-81f7-c2b2c4d72a63_DDChattisgarh_TaranePurane_2011585.jpg" />
+    <desc>Tarane Purane</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820120000 +0530" stop="20260820121500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/d925c472-a5f4-4655-8187-2119fc9ce6d7_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820121500 +0530" stop="20260820123000 +0530">
+    <title>Promos with Song&amp; Promotion al Videos</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/199958b5-cb3f-47f8-8997-36342a5b9f7a_DDChattisgarh_PromoswithSongPromotionalVideos_2011584.jpg" />
+    <desc>Promos with Songand Promotion al Videos</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820123000 +0530" stop="20260820130000 +0530">
+    <title>Ghar Sansaar/Archive</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/09fb6111-e811-450c-bcb6-780803800a4a_DDChattisgarh_GharSansaarArchive_2011571.jpg" />
+    <desc>Ghar Sansaar/Archive</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820130000 +0530" stop="20260820131500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/7583d06b-5131-408c-9165-ed991bfad11d_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820131500 +0530" stop="20260820133000 +0530">
+    <title>Flagship Prog</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/162fdff8-92a6-460b-a269-e82649ca0904_DDChattisgarh_FlagshipProg_2011568.jpg" />
+    <desc>Flagship Prog</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820133000 +0530" stop="20260820140000 +0530">
+    <title>Bhuiyan Ke Goth</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/0fbb30bd-76f5-48cd-b3ce-f9af53e9b053_DDChattisgarh_BhuiyanKeGoth_1918254.jpg" />
+    <desc>Bhuiyan Ke Goth</desc>
+    <language>Odia</language>
+    <category>Drama</category>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820140000 +0530" stop="20260820143000 +0530">
+    <title>Hamar Pahuna/Hamar Chhattisgarh/Archive</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/efff98b3-a9d9-4e0d-88f9-a9f8898af48b_DDChattisgarh_HamarPahunaHamarChhattisgarhArchive_2011575.jpg" />
+    <desc>Hamar Pahuna/Hamar Chhattisgarh/Archive</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820143000 +0530" stop="20260820150000 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/2e4025dc-d66f-4390-bd24-b4347573bb6a_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820150000 +0530" stop="20260820151500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/5ac6878e-675e-429a-b574-b472970797b2_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820151500 +0530" stop="20260820153000 +0530">
+    <title>Light Music</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/97e1b833-d684-4ca6-94ad-9ed11db0b246_DDChattisgarh_LightMusic_2011578.jpg" />
+    <desc>Light Music</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820153000 +0530" stop="20260820160000 +0530">
+    <title>Tarane Purane</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/db586154-30e7-407b-9c1a-556a88e26401_DDChattisgarh_TaranePurane_2011585.jpg" />
+    <desc>Tarane Purane</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820160000 +0530" stop="20260820161500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/0c1f6a7f-5e77-42e4-9a73-221bc55291a2_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820161500 +0530" stop="20260820163000 +0530">
+    <title>Ek Bharat Shresth Bharat</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/83bdfa32-490e-428b-96a3-eef6e06a011f_DDChattisgarh_EkBharatShresthBharat_2011567.jpg" />
+    <desc>Ek Bharat Shresth Bharat</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820163000 +0530" stop="20260820170000 +0530">
+    <title>Bastar Anchal Se</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/8dd497c8-e3d8-4677-ada7-baa07c34932d_DDChattisgarh_BastarAnchalSe_1918255.jpg" />
+    <desc>Bastar Anchal Se</desc>
+    <language>Odia</language>
+    <category>Drama</category>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820170000 +0530" stop="20260820171500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/89f20f80-0d08-4aba-8c16-1fb0fa36bc58_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820171500 +0530" stop="20260820180000 +0530">
+    <title>Flagship Prog</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/8e30492d-76cd-4a1e-ae72-af266e10c2f7_DDChattisgarh_FlagshipProg_2011568.jpg" />
+    <desc>Flagship Prog</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820180000 +0530" stop="20260820183000 +0530">
+    <title>Dr. Kahat Hai</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/798230ca-6a77-475e-b304-e6bab70d2524_DDChattisgarh_DrKahatHai_2011566.jpg" />
+    <desc>Dr. Kahat Hai</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820183000 +0530" stop="20260820190000 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/daba0e85-fed5-499d-92cc-9f24eaadd2cd_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820190000 +0530" stop="20260820193000 +0530">
+    <title>Light Music / Bhajan</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/bc3de061-f901-46d3-996e-f8e093a2c126_DDChattisgarh_LightMusicBhajan_2011579.jpg" />
+    <desc>Light Music / Bhajan</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820193000 +0530" stop="20260820200000 +0530">
+    <title>Tarane Purane</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/bbd5747d-c6c3-4515-82c6-2543f1eee3ea_DDChattisgarh_TaranePurane_2011585.jpg" />
+    <desc>Tarane Purane</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820200000 +0530" stop="20260820203000 +0530">
+    <title>Sponsored Based In-House Production</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/62de9b64-d74e-448a-80e0-a37a811979bb_DDChattisgarh_SponsoredBasedIn-HouseProduction_2011587.jpg" />
+    <desc>Sponsored Based In-House Production</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820203000 +0530" stop="20260820210000 +0530">
+    <title>Sponsored Based In-House Production</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/1119a636-e727-4c67-b9fa-20248c9d4298_DDChattisgarh_SponsoredBasedIn-HouseProduction_2011587.jpg" />
+    <desc>Sponsored Based In-House Production</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820210000 +0530" stop="20260820220000 +0530">
+    <title>Sponsored Programmes/Folk Music &amp; Dance/Songs</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/dbd13053-3e7b-43d7-a729-b26ab56f50a8_DDChattisgarh_SponsoredProgrammesFolkMusicDanceSongs_2011582.jpg" />
+    <desc>Sponsored Programmes/Folk Music and Dance/Songs</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820220000 +0530" stop="20260820223000 +0530">
+    <title>Doctor Kahat He</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/0105e1d0-4eb9-4090-9c52-e7923872b837_DDChattisgarh_DoctorKahatHe_2011565.jpg" />
+    <desc>Doctor Kahat He</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820223000 +0530" stop="20260820230000 +0530">
+    <title>Tele Film / Documentary / Stage Play /Serials</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/49a832d4-714b-4a62-8005-7c93e56a6ce6_DDChattisgarh_TeleFilmDocumentaryStagePlaySerials_2011586.jpg" />
+    <desc>Tele Film / Documentary / Stage Play /Serials</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820230000 +0530" stop="20260820231500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/8a6b25e3-10fd-4f33-b98a-d1fb7dc07286_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820231500 +0530" stop="20260820233000 +0530">
+    <title>Light Music</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/54cf5335-2fd0-448b-b553-2a6e799b07eb_DDChattisgarh_LightMusic_2011578.jpg" />
+    <desc>Light Music</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
+  <programme channel="712129" start="20260820233000 +0530" stop="20260821000000 +0530">
+    <title>Tarane Purane</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/9cc0e24e-523f-4b97-9be4-d27d2410f230_DDChattisgarh_TaranePurane_2011585.jpg" />
+    <desc>Tarane Purane</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260820</date>
+  </programme>
   <programme channel="143257" start="20260820000000 +0530" stop="20260820003000 +0530">
     <title>Julali Gaath Ga</title>
     <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/0b9f1285-5112-4bf6-b9e7-d1d908440940_SunMarathi_JulaliGaathGa_1792587.jpg" />
@@ -125934,6 +126928,438 @@
     <language>Tamil</language>
     <category>News</category>
     <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821000000 +0530" stop="20260821003000 +0530">
+    <title>UK Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/f52fb1e5-07cb-4b96-bccf-9ca7be7b3199_VelichamTV_UKBulletin_1995735.jpg" />
+    <desc>The host delivers the latest updates and developments from the United Kingdom, covering political, socio-economic, and key news stories to keep viewers informed.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821003000 +0530" stop="20260821010000 +0530">
+    <title>UP Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/0f85d53c-7572-4e3f-b483-6f58898ea675_VelichamTV_UPBulletin_1995736.jpg" />
+    <desc>The host delivers timely updates from Uttar Pradesh, covering political, socio-economic, and key developments, providing viewers with concise and relevant state news.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821010000 +0530" stop="20260821013000 +0530">
+    <title>Haryana Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/19abcaa9-abc9-4a0f-9066-10eb84d8f46e_VelichamTV_HaryanaBulletin_1995728.jpg" />
+    <desc>The host delivers timely coverage of major political and socio-economic developments across Haryana, presenting key updates and important stories from the state.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821013000 +0530" stop="20260821020000 +0530">
+    <title>Teleshopping</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/88376de7-3511-4ce5-a1b4-6ae34ba39507_AAJTAKHD_Teleshopping_930090.jpg" />
+    <desc>The host presents a range of products from popular brands, highlighting features and benefits, allowing viewers to conveniently explore and purchase items from home.</desc>
+    <language>Tamil</language>
+    <category>Tamil</category>
+    <category>TeleShopping</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821020000 +0530" stop="20260821023000 +0530">
+    <title>MP-CG Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/b9c11e19-4398-478b-be22-13e9724cf3c6_VelichamTV_MP-CGBulletin_1995731.jpg" />
+    <desc>The host delivers the latest updates from MP-CG, covering political, socio-economic, sports, and entertainment news, providing viewers a concise daily briefing.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821023000 +0530" stop="20260821030000 +0530">
+    <title>UK Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/d3e704fc-f465-4afe-8607-f04ec08fc7c9_VelichamTV_UKBulletin_1995735.jpg" />
+    <desc>The host delivers the latest updates and developments from the United Kingdom, covering political, socio-economic, and key news stories to keep viewers informed.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821030000 +0530" stop="20260821033000 +0530">
+    <title>UP Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/539b511c-42cc-46c3-913f-a8dfe534c64b_VelichamTV_UPBulletin_1995736.jpg" />
+    <desc>The host delivers timely updates from Uttar Pradesh, covering political, socio-economic, and key developments, providing viewers with concise and relevant state news.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821033000 +0530" stop="20260821040000 +0530">
+    <title>Haryana Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/6c502172-2067-4100-8a36-74a0a315de5d_VelichamTV_HaryanaBulletin_1995728.jpg" />
+    <desc>The host delivers timely coverage of major political and socio-economic developments across Haryana, presenting key updates and important stories from the state.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821040000 +0530" stop="20260821043000 +0530">
+    <title>UP Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/0c8beb97-4b27-4114-9d48-ff9e21f7eeaf_VelichamTV_UPBulletin_1995736.jpg" />
+    <desc>The host delivers timely updates from Uttar Pradesh, covering political, socio-economic, and key developments, providing viewers with concise and relevant state news.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821043000 +0530" stop="20260821050000 +0530">
+    <title>MP-CG Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/4516db48-edf2-4f72-8505-3bc895b0a3e6_VelichamTV_MP-CGBulletin_1995731.jpg" />
+    <desc>The host delivers the latest updates from MP-CG, covering political, socio-economic, sports, and entertainment news, providing viewers a concise daily briefing.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821050000 +0530" stop="20260821053000 +0530">
+    <title>CG Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/e36179c0-c9e6-468d-8274-9329645e01b4_VelichamTV_CGBulletin_1995725.jpg" />
+    <desc>CG Bulletin on Velicham TV brings clear and timely coverage of major political and socio-economic developments across the country, with key updates.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821053000 +0530" stop="20260821060000 +0530">
+    <title>UK Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/fda69e50-dd88-464c-b773-e3187f1b40c7_VelichamTV_UKBulletin_1995735.jpg" />
+    <desc>The host delivers the latest updates and developments from the United Kingdom, covering political, socio-economic, and key news stories to keep viewers informed.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821060000 +0530" stop="20260821063000 +0530">
+    <title>Iskcon</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/d862fc6c-128d-4d90-80cc-9201cb17d524_VelichamTV_Iskcon_1995729.jpg" />
+    <desc>Hindu priests and devotees perform sacred rituals and chant verses in praise of Lord Krishna, sharing devotional practices and spiritual experiences from the ISKCON Temple.</desc>
+    <language>Tamil</language>
+    <category>Religious</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821063000 +0530" stop="20260821070000 +0530">
+    <title>Swami Hari Chaitanya Mahaprabhu Ji</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/10475914-69d2-45a1-9109-d78a3b4fd3a2_VelichamTV_SwamiHariChaitanyaMahaprabhuJi_1995733.jpg" />
+    <desc>Swami Hari Chaitanya Ji delivers discourses on religious teachings, inspiring devotees to embrace spirituality and guiding them to follow principles of faith and righteous living.</desc>
+    <language>Tamil</language>
+    <category>Religious</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821070000 +0530" stop="20260821073000 +0530">
+    <title>UK Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/422eb6ad-9f88-4a33-8ef2-7b4e9bf44506_VelichamTV_UKBulletin_1995735.jpg" />
+    <desc>The host delivers the latest updates and developments from the United Kingdom, covering political, socio-economic, and key news stories to keep viewers informed.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821073000 +0530" stop="20260821080000 +0530">
+    <title>Teleshopping</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/c523fbe3-a942-40a0-bbc9-025d9be2e782_AAJTAKHD_Teleshopping_930090.jpg" />
+    <desc>The host presents a range of products from popular brands, highlighting features and benefits, allowing viewers to conveniently explore and purchase items from home.</desc>
+    <language>Tamil</language>
+    <category>Tamil</category>
+    <category>TeleShopping</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821080000 +0530" stop="20260821083000 +0530">
+    <title>UK Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/2a54acf2-4e9a-4846-9f20-4745a0c442ae_VelichamTV_UKBulletin_1995735.jpg" />
+    <desc>The host delivers the latest updates and developments from the United Kingdom, covering political, socio-economic, and key news stories to keep viewers informed.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821083000 +0530" stop="20260821090000 +0530">
+    <title>Haryana Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/0b72fd4f-ced2-468a-a2e2-16e9274669e2_VelichamTV_HaryanaBulletin_1995728.jpg" />
+    <desc>The host delivers timely coverage of major political and socio-economic developments across Haryana, presenting key updates and important stories from the state.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821090000 +0530" stop="20260821093000 +0530">
+    <title>MP-CG Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/8f7b64d6-8b8b-40d1-b69f-9beaf19582c5_VelichamTV_MP-CGBulletin_1995731.jpg" />
+    <desc>The host delivers the latest updates from MP-CG, covering political, socio-economic, sports, and entertainment news, providing viewers a concise daily briefing.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821093000 +0530" stop="20260821100000 +0530">
+    <title>Divya Drishti</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/0e67f516-f01e-40f8-ad0a-9484f1eb5c2f_VelichamTV_DivyaDrishti_1995726.jpg" />
+    <desc>A revered religious leader shares the teachings of the Almighty, offering deep spiritual insight and practical guidance to help devotees walk the path of faith and righteous living with devotion.</desc>
+    <language>Tamil</language>
+    <category>Entertainment</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821100000 +0530" stop="20260821103000 +0530">
+    <title>Halka Halchal Haryana</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/0ad431bb-c738-4a9c-9c4b-f0ef67cce846_VelichamTV_HalkaHalchalHaryana_1995727.jpg" />
+    <desc>The host presents crisp updates and key developments on social, cultural and political happenings across Haryana, bringing viewers timely regional news and grounded perspectives.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821103000 +0530" stop="20260821110000 +0530">
+    <title>Haryana Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/86d91b24-acbf-466f-9091-45dffbcadea7_VelichamTV_HaryanaBulletin_1995728.jpg" />
+    <desc>The host delivers timely coverage of major political and socio-economic developments across Haryana, presenting key updates and important stories from the state.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821110000 +0530" stop="20260821113000 +0530">
+    <title>Sukh Sagar</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/4c99abee-14d8-45be-a899-b39f79a0512b_VelichamTV_SukhSagar_1995732.jpg" />
+    <desc>The host shares insights on religious teachings and spirituality, guiding listeners toward moral living and encouraging them to follow the path of righteousness and faith.</desc>
+    <language>Tamil</language>
+    <category>Entertainment</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821113000 +0530" stop="20260821120000 +0530">
+    <title>Badi Khabar</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/7c178bf5-be4d-42f8-8694-a4d4ea589e7b_VelichamTV_BadiKhabar_1995721.jpg" />
+    <desc>The host delivers an in-depth breakdown of the day's most important headlines, key updates, and major developments, offering clear insight and context for viewers across politics and public affairs.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821120000 +0530" stop="20260821123000 +0530">
+    <title>Velicham Tv</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/396b4d00-7b0e-4fcb-8307-dbeffeda93eb_VelichamTV_VelichamTv_1995737.jpg" />
+    <desc>A Tamil television channel based in Chennai, launched on 14 April 2016, featuring live inaugural coverage by prominent leaders including Vijayakanth, Vaiko, and Communist figures.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821123000 +0530" stop="20260821130000 +0530">
+    <title>Bhagya Uday</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/ecd0c144-cc38-45e3-bc7b-6db2bb309318_VelichamTV_BhagyaUday_1995724.jpg" />
+    <desc>Bhagya Uday, also called Bhagyodayam, is a Malayalam Christian spiritual show on Velicham TV featuring biblical teachings and messages of faith, hope, and spiritual enlightenment.</desc>
+    <language>Tamil</language>
+    <category>Astrology</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821130000 +0530" stop="20260821133000 +0530">
+    <title>CG Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/0b584434-e713-4bd4-9003-1dbdf79b712d_VelichamTV_CGBulletin_1995725.jpg" />
+    <desc>CG Bulletin on Velicham TV brings clear and timely coverage of major political and socio-economic developments across the country, with key updates.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821133000 +0530" stop="20260821140000 +0530">
+    <title>MP Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/6562f9f3-fd4d-440d-8ca5-e4d9d85f3dd0_VelichamTV_MPBulletin_1995730.jpg" />
+    <desc>The host delivers the latest updates from Madhya Pradesh, covering political, socio-economic, sports, and entertainment news, providing viewers a concise daily briefing.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821140000 +0530" stop="20260821143000 +0530">
+    <title>UK Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/fe553eae-3312-4543-b288-45315d0dfbc7_VelichamTV_UKBulletin_1995735.jpg" />
+    <desc>The host delivers the latest updates and developments from the United Kingdom, covering political, socio-economic, and key news stories to keep viewers informed.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821143000 +0530" stop="20260821150000 +0530">
+    <title>MP-CG Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/509a0300-5dd5-40cf-976b-6eb4dd892889_VelichamTV_MP-CGBulletin_1995731.jpg" />
+    <desc>The host delivers the latest updates from MP-CG, covering political, socio-economic, sports, and entertainment news, providing viewers a concise daily briefing.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821150000 +0530" stop="20260821153000 +0530">
+    <title>Haryana Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/5bf39793-46a8-445b-b30c-79ba0b4f392e_VelichamTV_HaryanaBulletin_1995728.jpg" />
+    <desc>The host delivers timely coverage of major political and socio-economic developments across Haryana, presenting key updates and important stories from the state.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821153000 +0530" stop="20260821160000 +0530">
+    <title>UP Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/ec8d546f-b8e0-4d6e-ad83-3a561824d7db_VelichamTV_UPBulletin_1995736.jpg" />
+    <desc>The host delivers timely updates from Uttar Pradesh, covering political, socio-economic, and key developments, providing viewers with concise and relevant state news.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821160000 +0530" stop="20260821163000 +0530">
+    <title>MP-CG Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/d0b4b4e5-cd95-4b01-92e0-29e08edf8620_VelichamTV_MP-CGBulletin_1995731.jpg" />
+    <desc>The host delivers the latest updates from MP-CG, covering political, socio-economic, sports, and entertainment news, providing viewers a concise daily briefing.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821163000 +0530" stop="20260821170000 +0530">
+    <title>Haryana Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/f42a5ab8-736a-4e0d-8860-5f085eef69ce_VelichamTV_HaryanaBulletin_1995728.jpg" />
+    <desc>The host delivers timely coverage of major political and socio-economic developments across Haryana, presenting key updates and important stories from the state.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821170000 +0530" stop="20260821173000 +0530">
+    <title>MP-CG Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/1f375f32-62b8-439d-b4fa-7cd384ce9106_VelichamTV_MP-CGBulletin_1995731.jpg" />
+    <desc>The host delivers the latest updates from MP-CG, covering political, socio-economic, sports, and entertainment news, providing viewers a concise daily briefing.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821173000 +0530" stop="20260821180000 +0530">
+    <title>Haryana Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/7355484e-644d-4092-aedc-96d5dda66701_VelichamTV_HaryanaBulletin_1995728.jpg" />
+    <desc>The host delivers timely coverage of major political and socio-economic developments across Haryana, presenting key updates and important stories from the state.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821180000 +0530" stop="20260821183000 +0530">
+    <title>UK Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/1b692b32-13d5-414f-a713-f07286ae8ce8_VelichamTV_UKBulletin_1995735.jpg" />
+    <desc>The host delivers the latest updates and developments from the United Kingdom, covering political, socio-economic, and key news stories to keep viewers informed.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821183000 +0530" stop="20260821190000 +0530">
+    <title>CG Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/8afa0e81-2558-4fb8-965f-7f110308275d_VelichamTV_CGBulletin_1995725.jpg" />
+    <desc>CG Bulletin on Velicham TV brings clear and timely coverage of major political and socio-economic developments across the country, with key updates.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821190000 +0530" stop="20260821193000 +0530">
+    <title>Haryana Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/2b38a9b4-0a6e-4ef7-a0a6-9e1a0adbc638_VelichamTV_HaryanaBulletin_1995728.jpg" />
+    <desc>The host delivers timely coverage of major political and socio-economic developments across Haryana, presenting key updates and important stories from the state.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821193000 +0530" stop="20260821200000 +0530">
+    <title>CG Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/3815d74f-f0ea-45aa-97d5-6bcfb70ef23c_VelichamTV_CGBulletin_1995725.jpg" />
+    <desc>CG Bulletin on Velicham TV brings clear and timely coverage of major political and socio-economic developments across the country, with key updates.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821200000 +0530" stop="20260821203000 +0530">
+    <title>UK Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/1e28af56-8c42-4842-8461-fd50b10a901f_VelichamTV_UKBulletin_1995735.jpg" />
+    <desc>The host delivers the latest updates and developments from the United Kingdom, covering political, socio-economic, and key news stories to keep viewers informed.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821203000 +0530" stop="20260821210000 +0530">
+    <title>Haryana Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/560b0083-96a3-4d12-82c0-369a967a46ad_VelichamTV_HaryanaBulletin_1995728.jpg" />
+    <desc>The host delivers timely coverage of major political and socio-economic developments across Haryana, presenting key updates and important stories from the state.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821210000 +0530" stop="20260821213000 +0530">
+    <title>MP-CG Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/65690b49-af76-47e5-ad3c-5cd5bfb6c339_VelichamTV_MP-CGBulletin_1995731.jpg" />
+    <desc>The host delivers the latest updates from MP-CG, covering political, socio-economic, sports, and entertainment news, providing viewers a concise daily briefing.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821213000 +0530" stop="20260821220000 +0530">
+    <title>UP Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/1eea05a7-7368-46bc-95c9-c3bc068bd234_VelichamTV_UPBulletin_1995736.jpg" />
+    <desc>The host delivers timely updates from Uttar Pradesh, covering political, socio-economic, and key developments, providing viewers with concise and relevant state news.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821220000 +0530" stop="20260821223000 +0530">
+    <title>CG Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/c3f921d3-a712-437b-8278-adc3c27dbee2_VelichamTV_CGBulletin_1995725.jpg" />
+    <desc>CG Bulletin on Velicham TV brings clear and timely coverage of major political and socio-economic developments across the country, with key updates.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821223000 +0530" stop="20260821230000 +0530">
+    <title>Haryana Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/93131110-9f82-4204-acf1-7b05800c5f34_VelichamTV_HaryanaBulletin_1995728.jpg" />
+    <desc>The host delivers timely coverage of major political and socio-economic developments across Haryana, presenting key updates and important stories from the state.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821230000 +0530" stop="20260821233000 +0530">
+    <title>CG Bulletin</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/0e4434f2-3124-4b2a-b5d0-2c4e9113fff1_VelichamTV_CGBulletin_1995725.jpg" />
+    <desc>CG Bulletin on Velicham TV brings clear and timely coverage of major political and socio-economic developments across the country, with key updates.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="149064" start="20260821233000 +0530" stop="20260822000000 +0530">
+    <title>Teleshopping</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/427fc7c7-25d3-4169-a97d-104fcaf09ab6_AAJTAKHD_Teleshopping_930090.jpg" />
+    <desc>The host presents a range of products from popular brands, highlighting features and benefits, allowing viewers to conveniently explore and purchase items from home.</desc>
+    <language>Tamil</language>
+    <category>Tamil</category>
+    <category>TeleShopping</category>
     <date>20260821</date>
   </programme>
   <programme channel="143237" start="20260821000000 +0530" stop="20260821003000 +0530">
@@ -208452,6 +209878,534 @@
     <desc>The show's hosts journey through Odisha's villages and rural communities, showcasing local arts, cultural traditions, rural lifestyles, and the hidden talents that enrich the state's heritage.</desc>
     <language>Odia</language>
     <category>Devotional</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821000000 +0530" stop="20260821001500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/557b608a-9b8e-4b77-b12d-0587a16e01c4_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821001500 +0530" stop="20260821003000 +0530">
+    <title>Ek Bharat Shresth Bharat</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/344db0df-8aa3-4a13-a8d0-01278a8018df_DDChattisgarh_EkBharatShresthBharat_2011567.jpg" />
+    <desc>Ek Bharat Shresth Bharat</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821003000 +0530" stop="20260821010000 +0530">
+    <title>Bastar Anchal Se</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/ada42c29-915f-4093-ab63-aad5b91a8efa_DDChattisgarh_BastarAnchalSe_1918255.jpg" />
+    <desc>Bastar Anchal Se</desc>
+    <language>Odia</language>
+    <category>Drama</category>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821010000 +0530" stop="20260821011500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/2c0b54f3-d8bd-4f22-ae1a-46e287ebcfe6_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821011500 +0530" stop="20260821020000 +0530">
+    <title>Flagship Prog</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/56639825-e7b7-4f07-8ba8-afa4287ed6d4_DDChattisgarh_FlagshipProg_2011568.jpg" />
+    <desc>Flagship Prog</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821020000 +0530" stop="20260821023000 +0530">
+    <title>Dr. Kahat Hai</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/0646bf53-2405-4455-9f41-e5a3c0b03127_DDChattisgarh_DrKahatHai_2011566.jpg" />
+    <desc>Dr. Kahat Hai</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821023000 +0530" stop="20260821030000 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/a7c9cbef-4872-4e87-8d35-a33e8d2637a2_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821030000 +0530" stop="20260821031500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/ed7945f4-f767-4f89-a02d-e25fce36a21f_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821031500 +0530" stop="20260821033000 +0530">
+    <title>Light Music</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/9bb3f86f-2c05-4915-bdb4-8615f560b3f4_DDChattisgarh_LightMusic_2011578.jpg" />
+    <desc>Light Music</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821033000 +0530" stop="20260821040000 +0530">
+    <title>Tarane Purane</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/b9d3a34c-a84a-402d-addf-3af8d9dcdf19_DDChattisgarh_TaranePurane_2011585.jpg" />
+    <desc>Tarane Purane</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821040000 +0530" stop="20260821041500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/b895a035-3528-4800-88f3-535fc29922c9_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821041500 +0530" stop="20260821043000 +0530">
+    <title>Ek Bharat Shresth Bharat</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/8e5abd2b-cba5-4e46-92a4-1b4cf84e74e5_DDChattisgarh_EkBharatShresthBharat_2011567.jpg" />
+    <desc>Ek Bharat Shresth Bharat</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821043000 +0530" stop="20260821050000 +0530">
+    <title>Bastar Anchal Se</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/596c74c3-47f5-4537-af12-8246aee8bd0e_DDChattisgarh_BastarAnchalSe_1918255.jpg" />
+    <desc>Bastar Anchal Se</desc>
+    <language>Odia</language>
+    <category>Drama</category>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821050000 +0530" stop="20260821051500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/3fb65a6b-1fd6-46a0-abcd-6fee9b2b2ab9_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821051500 +0530" stop="20260821060000 +0530">
+    <title>Flagship Prog</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/19457899-2b62-41bf-b6ae-d5a4e183cc0f_DDChattisgarh_FlagshipProg_2011568.jpg" />
+    <desc>Flagship Prog</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821060000 +0530" stop="20260821063000 +0530">
+    <title>Dr. Kahat Hai</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/5f4c6add-2a35-4d09-9b78-4f9ba2ab75b1_DDChattisgarh_DrKahatHai_2011566.jpg" />
+    <desc>Dr. Kahat Hai</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821063000 +0530" stop="20260821070000 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/f8c2ad60-963e-4fc5-9dce-82c00aca3185_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821070000 +0530" stop="20260821071500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/4f758434-6289-43cd-a1e2-559a08bde013_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821071500 +0530" stop="20260821073000 +0530">
+    <title>Light Music</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/f71dfde2-35f0-4a2a-bdc9-9d0a6fc0e296_DDChattisgarh_LightMusic_2011578.jpg" />
+    <desc>Light Music</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821073000 +0530" stop="20260821080000 +0530">
+    <title>Tarane Purane</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/72f0721a-33fc-490d-9dfc-08a082e5135d_DDChattisgarh_TaranePurane_2011585.jpg" />
+    <desc>Tarane Purane</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821080000 +0530" stop="20260821081500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/714c4bae-1cef-47e0-bb57-957521bcb3d3_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821081500 +0530" stop="20260821083000 +0530">
+    <title>Ek Bharat Shresth Bharat</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/d1d8f551-0095-4aaf-acdc-8c118f63d0dc_DDChattisgarh_EkBharatShresthBharat_2011567.jpg" />
+    <desc>Ek Bharat Shresth Bharat</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821083000 +0530" stop="20260821090000 +0530">
+    <title>Bastar Anchal Se</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/05688fed-1ec4-44d8-adf9-088b9c504701_DDChattisgarh_BastarAnchalSe_1918255.jpg" />
+    <desc>Bastar Anchal Se</desc>
+    <language>Odia</language>
+    <category>Drama</category>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821090000 +0530" stop="20260821091500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/1659196c-b9ca-4b5e-955f-323c8301b57d_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821091500 +0530" stop="20260821100000 +0530">
+    <title>Flagship Prog</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/9299f94d-1c4d-4ef8-a418-cc9adbecfaee_DDChattisgarh_FlagshipProg_2011568.jpg" />
+    <desc>Flagship Prog</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821100000 +0530" stop="20260821103000 +0530">
+    <title>Dr. Kahat Hai</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/c6a78a13-83da-4b41-9149-4045e5492862_DDChattisgarh_DrKahatHai_2011566.jpg" />
+    <desc>Dr. Kahat Hai</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821103000 +0530" stop="20260821110000 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/1899dd33-bb12-428e-abc8-785ae8e99675_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821110000 +0530" stop="20260821111500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/215196fe-345f-4a45-a746-f2bd8386e164_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821111500 +0530" stop="20260821113000 +0530">
+    <title>Light Music</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/82fcf418-f75d-44e1-aa65-5973db3a0673_DDChattisgarh_LightMusic_2011578.jpg" />
+    <desc>Light Music</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821113000 +0530" stop="20260821120000 +0530">
+    <title>Tarane Purane</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/aa6423c1-1e5f-4d11-8225-1d83fd39aa27_DDChattisgarh_TaranePurane_2011585.jpg" />
+    <desc>Tarane Purane</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821120000 +0530" stop="20260821121500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/2237aeec-2432-423c-bf1e-e45418185f20_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821121500 +0530" stop="20260821123000 +0530">
+    <title>Ek Bharat Shresth Bharat</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/2b5d93ea-29b9-405a-a5f0-b711f8f3391f_DDChattisgarh_EkBharatShresthBharat_2011567.jpg" />
+    <desc>Ek Bharat Shresth Bharat</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821123000 +0530" stop="20260821130000 +0530">
+    <title>Bastar Anchal Se</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/7f7b53f7-1de5-4a5d-87b6-e4e1bb51a246_DDChattisgarh_BastarAnchalSe_1918255.jpg" />
+    <desc>Bastar Anchal Se</desc>
+    <language>Odia</language>
+    <category>Drama</category>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821130000 +0530" stop="20260821131500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/9f8a67ff-a32d-415f-8b8d-2a4053f19aa0_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821131500 +0530" stop="20260821140000 +0530">
+    <title>Flagship Prog</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/5081af05-cf7c-4bdd-bdf5-85ff64a0f07c_DDChattisgarh_FlagshipProg_2011568.jpg" />
+    <desc>Flagship Prog</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821140000 +0530" stop="20260821143000 +0530">
+    <title>Dr. Kahat Hai</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/4748346f-469a-444c-b435-2282de514408_DDChattisgarh_DrKahatHai_2011566.jpg" />
+    <desc>Dr. Kahat Hai</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821143000 +0530" stop="20260821150000 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/9d2a0432-563b-4c99-bebe-b86f8240b1b2_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821150000 +0530" stop="20260821151500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/6947b920-1f3d-402d-8df7-fdb00bda6bae_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821151500 +0530" stop="20260821153000 +0530">
+    <title>Folk Music</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/5aa37842-95d7-498f-825d-c5d4c2d8dce5_DDChattisgarh_FolkMusic_2011569.jpg" />
+    <desc>Folk Music</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821153000 +0530" stop="20260821160000 +0530">
+    <title>Tarane Purane</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/f0d3b40b-fa16-4771-8775-97eb4035f7db_DDChattisgarh_TaranePurane_2011585.jpg" />
+    <desc>Tarane Purane</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821160000 +0530" stop="20260821163000 +0530">
+    <title>Charcha Me RNU Live</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/f007089e-a39a-4117-8f3a-ced727990461_DDChattisgarh_CharchaMeRNULive_2011563.jpg" />
+    <desc>Charcha Me RNU Live</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821163000 +0530" stop="20260821170000 +0530">
+    <title>Khel Jagat/LWE/Khula Akash</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/62244237-e595-4fd2-9250-3ff96c9f56cb_DDChattisgarh_KhelJagatLWEKhulaAkash_2011577.jpg" />
+    <desc>Khel Jagat/LWE/Khula Akash</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821170000 +0530" stop="20260821171500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/fb7925cd-e3f0-43b2-a42b-ec70412d5c0c_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821171500 +0530" stop="20260821173000 +0530">
+    <title>Flagship Prog</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/3bf45fb2-d4e8-4474-be84-b0c74a890a49_DDChattisgarh_FlagshipProg_2011568.jpg" />
+    <desc>Flagship Prog</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821173000 +0530" stop="20260821180000 +0530">
+    <title>Folk Music</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/e89b828c-e7b6-4213-bc8b-4b0823ae65d6_DDChattisgarh_FolkMusic_2011569.jpg" />
+    <desc>Folk Music</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821180000 +0530" stop="20260821183000 +0530">
+    <title>Aap Ki Baaten</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/c092bd6d-4923-42a4-9a66-c0ab3894e68f_DDChattisgarh_AapKiBaaten_1918256.jpg" />
+    <desc>Aap Ki Baaten</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <category>Talk Show</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821183000 +0530" stop="20260821190000 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/a3e52660-edba-4f61-88d6-79178f4c3161_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821190000 +0530" stop="20260821193000 +0530">
+    <title>Folk Music &amp; Dance</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/1736b631-3a06-4b82-9ada-338b7657cedf_DDChattisgarh_FolkMusicDance_2011570.jpg" />
+    <desc>Folk Music and Dance</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821193000 +0530" stop="20260821200000 +0530">
+    <title>Tarane Purane</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/57cfa3dd-dd52-4aa4-8bb4-44399e1c4983_DDChattisgarh_TaranePurane_2011585.jpg" />
+    <desc>Tarane Purane</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821200000 +0530" stop="20260821203000 +0530">
+    <title>Sponsored Based In-House Production</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/9b036c68-21a5-4a85-b578-50630d2500d2_DDChattisgarh_SponsoredBasedIn-HouseProduction_2011587.jpg" />
+    <desc>Sponsored Based In-House Production</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821203000 +0530" stop="20260821210000 +0530">
+    <title>Sponsored Based In-House Production</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/009b5682-0cf4-41df-b6cc-b4b721d3ed8e_DDChattisgarh_SponsoredBasedIn-HouseProduction_2011587.jpg" />
+    <desc>Sponsored Based In-House Production</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821210000 +0530" stop="20260821213000 +0530">
+    <title>Sponsored Programmes/Folk Music &amp; Dance/Songs</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/cd652665-9089-4ea6-94fe-3e5c950bfe0f_DDChattisgarh_SponsoredProgrammesFolkMusicDanceSongs_2011582.jpg" />
+    <desc>Sponsored Programmes/Folk Music and Dance/Songs</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821213000 +0530" stop="20260821220000 +0530">
+    <title>Folk Music &amp; Dance</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/3c083ed5-c23b-4708-a843-31a45953c0f0_DDChattisgarh_FolkMusicDance_2011570.jpg" />
+    <desc>Folk Music and Dance</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821220000 +0530" stop="20260821223000 +0530">
+    <title>Aap Ki Baaten</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/05961369-4d4e-490f-8c2f-4bf48d513f04_DDChattisgarh_AapKiBaaten_1918256.jpg" />
+    <desc>Aap Ki Baaten</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <category>Talk Show</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821223000 +0530" stop="20260821230000 +0530">
+    <title>Tele Film / Documentary / Stage Play /Serials</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/912519e3-fd0e-4506-8ba6-455c04ba3b68_DDChattisgarh_TeleFilmDocumentaryStagePlaySerials_2011586.jpg" />
+    <desc>Tele Film / Documentary / Stage Play /Serials</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821230000 +0530" stop="20260821231500 +0530">
+    <title>Regional News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/ff1747ca-6ce3-4901-9aa5-fe5e1170aa58_DDChattisgarh_RegionalNews_2011588.jpg" />
+    <desc>Regional News</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821231500 +0530" stop="20260821233000 +0530">
+    <title>Folk Music</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/6d45c905-563a-425c-800c-7828b3978024_DDChattisgarh_FolkMusic_2011569.jpg" />
+    <desc>Folk Music</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
+    <category>Odia</category>
+    <date>20260821</date>
+  </programme>
+  <programme channel="712129" start="20260821233000 +0530" stop="20260822000000 +0530">
+    <title>Tarane Purane</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/20082026/426522a7-725d-4a53-b760-4c35caee4ac8_DDChattisgarh_TaranePurane_2011585.jpg" />
+    <desc>Tarane Purane</desc>
+    <language>Odia</language>
+    <category>Entertainment</category>
     <category>Odia</category>
     <date>20260821</date>
   </programme>
