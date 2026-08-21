@@ -24,50 +24,6 @@
         <display-name lang="en">YRF Music</display-name>
         <icon src="http://p-img.movetv.com/1280x720/196a15781456a01e024336fc52320df8.png" />
     </channel>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260821080000 +0000" stop="20260821080600 +0000">
-        <title lang="en">Sony KAL • Click here to browse all available programs</title>
-    </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260821080600 +0000" stop="20260821083300 +0000">
-        <title lang="en">Suryaputra Karn</title>
-        <desc lang="en">A great archer is born with supernatural powers to fight against any evil.</desc>
-        <category lang="en">Drama</category>
-        <category lang="en">Fantasy</category>
-        <category lang="en">Science Fiction</category>
-        <category lang="en">Action</category>
-        <date>2015</date>
-        <rating>
-            <value>TV-G</value>
-        </rating>
-        <credits>
-            <actor>Gautam Rode</actor>
-            <actor>Saurabh Pandey</actor>
-            <actor>Farnaz Shetty</actor>
-            <actor>Mouli Ganguly</actor>
-            <actor>Richa Mukherjee</actor>
-            <actor>Ayush Shrivastava</actor>
-            <actor>Akbar Ali</actor>
-            <actor>Vashu Chauhan</actor>
-            <actor>Anand Suryavanshi</actor>
-            <actor>Aayush Shah</actor>
-            <actor>Kaushik Chakravorty</actor>
-            <actor>Vikram Soni</actor>
-            <actor>Alice Kaushik</actor>
-            <actor>Zohaib Siddiqui</actor>
-            <actor>Malhar Pandya</actor>
-            <actor>Ashwin Patil</actor>
-            <actor>Karan Sharma</actor>
-            <actor>Anish Surana</actor>
-            <actor>Hasnain Hyderabadwala</actor>
-            <actor>Gautam Nagrath</actor>
-            <actor>Kamal Monga</actor>
-            <actor>Nitin Gupta</actor>
-            <actor>Tinnu Verma</actor>
-            <actor>Deepak Garg</actor>
-            <actor>Amol Soorvey</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/cms/images/6a64a983a2c3b9442bb521b3456d7eb7e22832ea.JPEG" />
-        <live />
-    </programme>
     <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260821083300 +0000" stop="20260821093000 +0000">
         <title lang="en">Crime Patrol Dial 100</title>
         <desc lang="en">A re-enactment of real-life heinous crimes inflicted upon innocent individuals, including murder, kidnapping, theft and forgery.</desc>
@@ -88,6 +44,7 @@
             <actor>Kevin Couto</actor>
         </credits>
         <icon src="http://p-img.movetv.com/1920x1080/9eb2cde352104fa7bdcf3a61da7d4bb4.jpeg" />
+        <live />
     </programme>
     <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260821093000 +0000" stop="20260821100000 +0000">
         <title lang="en">Baal Veer</title>
@@ -1234,15 +1191,32 @@
         </credits>
         <icon src="http://p-img.movetv.com/1920x1080/9eb2cde352104fa7bdcf3a61da7d4bb4.jpeg" />
     </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260821053000 +0000" stop="20260821084000 +0000">
-        <title lang="en">Top End Series: ACT Comets vs. Kingsmen</title>
-        <desc lang="en">Match 2.</desc>
-        <category lang="en">Cricket</category>
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260822053000 +0000" stop="20260822060000 +0000">
+        <title lang="en">Baal Veer</title>
+        <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
+        <category lang="en">Fantasy</category>
         <rating>
-            <value>Not Rated</value>
+            <value>TV-G</value>
         </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/a64d5ebcbfad13d3d73d9e4de390eee0.jpeg" />
-        <live />
+        <credits>
+            <actor>Dev Joshi</actor>
+            <actor>Anushka Sen</actor>
+            <actor>Rudra Soni</actor>
+            <actor>Kaivalya Chheda</actor>
+            <actor>Gaurav Walia</actor>
+            <actor>Purvesh Pimple</actor>
+            <actor>Karishma Tanna</actor>
+            <actor>Shweta Katra</actor>
+            <actor>Aditi Sajwan</actor>
+            <actor>Shama Sikander</actor>
+            <actor>Sanjay Satvase</actor>
+            <actor>Kushal Awasthi</actor>
+            <actor>Ambare Sachin</actor>
+            <actor>Amarpreet Chhabra</actor>
+            <actor>Vijay Saini</actor>
+            <actor>Nilesh Ambekar</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
     </programme>
     <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260821084000 +0000" stop="20260821114000 +0000">
         <title lang="en">Top End Series: NT Strike vs. Nepal</title>
@@ -1252,6 +1226,7 @@
             <value>Not Rated</value>
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/a64d5ebcbfad13d3d73d9e4de390eee0.jpeg" />
+        <live />
     </programme>
     <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260821114000 +0000" stop="20260821121000 +0000">
         <title lang="en">Top End T20 Series - NT Strike vs. Nepal</title>
@@ -1434,29 +1409,14 @@
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/877d1b0d76634bcb8a433c043f10f6f8.jpeg" />
     </programme>
-    <programme channel="9089345df1fa4a1680b64fd695297e25" start="20260821045200 +0000" stop="20260821090000 +0000">
-        <title lang="en">Luck</title>
-        <desc lang="en">A wealthy gambler recruits a dozen people to participate in a deadly game of survival in which the losers pay with their lives.</desc>
-        <category lang="en">Drama</category>
-        <category lang="en">Thriller</category>
-        <date>2009</date>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260822050000 +0000" stop="20260822070000 +0000">
+        <title lang="en">2nd Test, Day 1, 3rd Session</title>
+        <desc lang="en">2nd Test, Day 1.</desc>
+        <category lang="en">Cricket</category>
         <rating>
             <value>Not Rated</value>
         </rating>
-        <credits>
-            <actor>Imran Khan</actor>
-            <actor>Danny Denzongpa</actor>
-            <actor>Mithun Chakraborty</actor>
-            <actor>Sanjay Dutt</actor>
-            <actor>Chitrashi Rawat</actor>
-            <actor>Rati Agnihotri</actor>
-            <actor>Shruti Haasan</actor>
-            <actor>Ravi Kishan</actor>
-            <actor>Soham Shah</actor>
-            <actor>Emily Warren</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/1920x1080/3e4f0cfb3da913c3502e2c8e09eafa8b.jpeg" />
-        <live />
+        <icon src="http://p-img.movetv.com/1920x1080/877d1b0d76634bcb8a433c043f10f6f8.jpeg" />
     </programme>
     <programme channel="9089345df1fa4a1680b64fd695297e25" start="20260821090000 +0000" stop="20260821120500 +0000">
         <title lang="en">Jhoothi</title>
@@ -1487,6 +1447,7 @@
             <actor>Hrishikesh Mukherjee</actor>
         </credits>
         <icon src="http://p-img.movetv.com/1920x1080/3ddffca3f179268e36fac8b4a991d5ce.jpeg" />
+        <live />
     </programme>
     <programme channel="9089345df1fa4a1680b64fd695297e25" start="20260821120500 +0000" stop="20260821160000 +0000">
         <title lang="en">Deewaar</title>
@@ -1639,28 +1600,6 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/7810099d493a7bbb23c374264bd3a19ca520f3e1.JPEG" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260821073000 +0000" stop="20260821083000 +0000">
-        <title lang="en">Aawaaz De Kahan Hai</title>
-        <desc lang="en">Compilation of classic hit Hindi film songs.</desc>
-        <category lang="en">Music</category>
-        <category lang="en">Entertainment</category>
-        <date>2009</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/cms/images/6666e639da0b0cdf5d9b6dd33a7677828c02a137.JPEG" />
-        <live />
-    </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260821083000 +0000" stop="20260821090000 +0000">
-        <title lang="en">SOLID HITS</title>
-        <desc lang="en">Non-stop hits.</desc>
-        <category lang="en">Music</category>
-        <date>2009</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/cms/images/d6fc01cdc26065bbed519db6be5f75c2820aa65c.jpg" />
-    </programme>
     <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260821090000 +0000" stop="20260821093000 +0000">
         <title lang="en">Bollywood Bang Bang</title>
         <desc lang="en">Biggest hits of Bollywood stars.</desc>
@@ -1671,6 +1610,7 @@
             <value>Not Rated</value>
         </rating>
         <icon src="http://p-img.movetv.com/cms/images/ada21bbad7e5bc7bf02b36f1ebf49551c9678c91.JPEG" />
+        <live />
     </programme>
     <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260821093000 +0000" stop="20260821100000 +0000">
         <title lang="en">SOLID HITS</title>
@@ -1976,15 +1916,15 @@
         </rating>
         <icon src="http://p-img.movetv.com/cms/images/a67260a5c6dc8e6001bc2b3cff950ac6d1200df4.jpg" />
     </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260821073000 +0000" stop="20260821083000 +0000">
-        <title lang="en">2000s Nostalgia</title>
-        <desc lang="en">A comprehensive compilation of some of the popular songs from the 2000s by various artists played back-to-back to entertain the audience.</desc>
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260822050000 +0000" stop="20260822060000 +0000">
+        <title lang="en">Boom Box</title>
+        <desc lang="en">Boom Box is all about the foot-tapping, dance tracks, playing the very best of the club hits to be released out of Bollywood.</desc>
         <category lang="en">Music</category>
+        <date>2014</date>
         <rating>
             <value>Not Rated</value>
         </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/be4b48cf4037bf3bc9367ffda87f9314.jpeg" />
-        <live />
+        <icon src="http://p-img.movetv.com/1920x1080/6124723f44f1d754f70e2932d6f2d0c7.jpeg" />
     </programme>
     <programme channel="ae993e3f72e849aab121396cef98e450" start="20260821083000 +0000" stop="20260821103000 +0000">
         <title lang="en">Desi Vibes</title>
@@ -1994,6 +1934,7 @@
             <value>Not Rated</value>
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/ada4514fe11e9418c7f4186cbca29da0.jpeg" />
+        <live />
     </programme>
     <programme channel="ae993e3f72e849aab121396cef98e450" start="20260821103000 +0000" stop="20260821113000 +0000">
         <title lang="en">Monsoon Mood</title>
@@ -2147,6 +2088,15 @@
             <value>Not Rated</value>
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/43abb815ad43d6e8db78ac5a55b8208b.jpeg" />
+    </programme>
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260822053000 +0000" stop="20260822063000 +0000">
+        <title lang="en">Viral Chartbusters</title>
+        <desc lang="en">A comprehensive compilation of trending chart-topping songs by renowned artists is played back-to-back to enthral the audience.</desc>
+        <category lang="en">Music</category>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/f43e1f2a2a5e0ea78a9fe20e45d2df2b.jpeg" />
     </programme>
     <programme channel="d8262178bab6464da998ab5577a616ae" start="20260821063000 +0000" stop="20260821100000 +0000">
         <title lang="en">Adhi Akshar Prem Na</title>
