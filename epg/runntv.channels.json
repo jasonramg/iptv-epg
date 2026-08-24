@@ -1,12 +1,5 @@
 [
     {
-        "id": "abp_news",
-        "name": "ABP NEWS",
-        "category": "News",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPNEW/Web/thumbnail/logo_web.png",
-        "stream": "https://abpnews.cdn.runn.tv/2042871-b/abpnews/master.m3u8"
-    },
-    {
         "id": "blywcm",
         "name": "Eros Universe Bollywood Cinema",
         "category": "Movies",
@@ -14,18 +7,18 @@
         "stream": "https://eros-blywdcnm.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8"
     },
     {
-        "id": "altmov",
-        "name": "All Time Movies",
-        "category": "Movies",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ALTMOV/Web/thumbnail/6b0ed93c-db95-4d9b-8bad-a0c0245782c2.png",
-        "stream": "https://alltimemovies.cdn.runn.tv/penmusic/stream/altmov/playlist.m3u8"
-    },
-    {
         "id": "blyflx",
         "name": "NH BollyFlix",
         "category": "Movies",
         "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYFLX/Web/thumbnail/a3b425cc-d6bd-4618-b78f-27c875df5da5.png",
         "stream": "https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8"
+    },
+    {
+        "id": "altmov",
+        "name": "All Time Movies",
+        "category": "Movies",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ALTMOV/Web/thumbnail/6b0ed93c-db95-4d9b-8bad-a0c0245782c2.png",
+        "stream": "https://alltimemovies.cdn.runn.tv/penmusic/stream/altmov/playlist.m3u8"
     },
     {
         "id": "kuting",
@@ -91,18 +84,25 @@
         "stream": "https://supflm.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8"
     },
     {
-        "id": "prd_navbht",
-        "name": "Navbharat",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_NAVBHT/Web/thumbnail/logo_web.png",
-        "stream": "https://navbharat.cdn.runn.tv/master.m3u8"
-    },
-    {
         "id": "shemaroo-filmigaane",
         "name": "Shemaroo Filmigaane",
         "category": "Entertainment",
         "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRFGN/Web/thumbnail/logo_web.png",
         "stream": "https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8"
+    },
+    {
+        "id": "abp_news",
+        "name": "ABP NEWS",
+        "category": "News",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPNEW/Web/thumbnail/logo_web.png",
+        "stream": "https://abpnews.cdn.runn.tv/2042871-b/abpnews/master.m3u8"
+    },
+    {
+        "id": "prd_navbht",
+        "name": "Navbharat",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_NAVBHT/Web/thumbnail/logo_web.png",
+        "stream": "https://navbharat.cdn.runn.tv/master.m3u8"
     },
     {
         "id": "gregld",
