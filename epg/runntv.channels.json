@@ -1,52 +1,17 @@
 [
     {
-        "id": "9xjalw",
-        "name": "9X Jalwa",
-        "category": "Music",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/9XJALW/Mobile/thumbnail/1fc78aac-ac76-4f74-b0da-0b889cff39f8.png",
-        "stream": "https://9x.cdn.runn.tv/9X_Jalwa/master.m3u8"
+        "id": "blywcm",
+        "name": "Eros Universe Bollywood Cinema",
+        "category": "Movies",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYWCM/Web/thumbnail/26a59852-eecf-4255-b59b-efeb012344fb.png",
+        "stream": "https://eros-blywdcnm.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8"
     },
     {
-        "id": "run9xm",
-        "name": "9XM",
-        "category": "Music",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/RUN9XM/Mobile/thumbnail/66e1721d-864f-46cf-a583-73c2837e5a75.png",
-        "stream": "https://9x.cdn.runn.tv/9XM/master.m3u8"
-    },
-    {
-        "id": "apkadt",
-        "name": "Aap ki Adalat",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/APKADT/Web/thumbnail/cdba5a41-acf5-4b89-ae0a-ddb2fb8820a6.png",
-        "stream": "https://indiatv.cdn.runn.tv/v1/vglive-sk-912213/main.m3u8"
-    },
-    {
-        "id": "abpana",
-        "name": "ABP Ananda",
-        "category": "News",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPANA/Web/thumbnail/677e1366-c162-47dd-8ba6-ca44a19ccbc4.png",
-        "stream": "https://abpnews.cdn.runn.tv/2042873/ananda/master.m3u8"
-    },
-    {
-        "id": "abpasm",
-        "name": "ABP Asmita",
-        "category": "News",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/thumbnail/8574857e-c550-4838-97b9-9b971c1d8976.png",
-        "stream": "https://abpnews.cdn.runn.tv/2042876/asmita/master.m3u8"
-    },
-    {
-        "id": "abpmaj",
-        "name": "ABP Majha",
-        "category": "News",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/thumbnail/f07ad06d-c6ef-4154-a888-baeb3455205b.png",
-        "stream": "https://abpnews.cdn.runn.tv/2042872/majha/master.m3u8"
-    },
-    {
-        "id": "abp_news",
-        "name": "ABP NEWS",
-        "category": "News",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPNEW/Web/thumbnail/logo_web.png",
-        "stream": "https://abpnews.cdn.runn.tv/2042871-b/abpnews/master.m3u8"
+        "id": "blyflx",
+        "name": "NH BollyFlix",
+        "category": "Movies",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYFLX/Web/thumbnail/a3b425cc-d6bd-4618-b78f-27c875df5da5.png",
+        "stream": "https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8"
     },
     {
         "id": "altmov",
@@ -56,195 +21,6 @@
         "stream": "https://alltimemovies.cdn.runn.tv/penmusic/stream/altmov/playlist.m3u8"
     },
     {
-        "id": "alrght",
-        "name": "Alright",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ALRGHT/Web/thumbnail/5874f95e-ceff-4ef3-b514-06dbb5d83396.png",
-        "stream": "https://ruskmedia.cdn.runn.tv/ruskmedia/stream/alrght/playlist.m3u8"
-    },
-    {
-        "id": "amuspo",
-        "name": "Amuzi Sports",
-        "category": "Sports",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/AMUSPO/Web/thumbnail/22a7374c-1090-4a08-b461-57b7c777be64.png",
-        "stream": "https://amuzi-sports.cdn.runn.tv/amuzisports/stream/amzspt/playlist.m3u8"
-    },
-    {
-        "id": "b4ubho",
-        "name": "B4U Bhojpuri",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UBHO/Web/thumbnail/1843e74c-cf03-4baa-91f1-d81f925fb2a3.png",
-        "stream": "https://b4u-bhojpuri.cdn.runn.tv/master.m3u8"
-    },
-    {
-        "id": "b4ukad",
-        "name": "B4U Kadak",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UKAD/Web/thumbnail/4b80eee0-6cf3-4448-983d-cf7da7e9a44d.png",
-        "stream": "https://b4u-kadak.cdn.runn.tv/playlist.m3u8"
-    },
-    {
-        "id": "b4umov",
-        "name": "B4U Movies",
-        "category": "Movies",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UMOV/Mobile/thumbnail/da5513b7-b46e-4a45-9c56-08a4f2fc7d86.png",
-        "stream": "https://b4u-movies.cdn.runn.tv/playlist.m3u8"
-    },
-    {
-        "id": "b4umus",
-        "name": "B4U Music",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UMUS/Mobile/thumbnail/a7139e1a-3391-412c-9478-f8feb183f143.png",
-        "stream": "https://b4u-music.cdn.runn.tv/playlist.m3u8"
-    },
-    {
-        "id": "carcar",
-        "name": "Cartoon TV",
-        "category": "Kids",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CARCAR/Mobile/thumbnail/54317851-3356-4b71-85af-f36b5c0250ae.png",
-        "stream": "https://streams2.sofast.tv/ptnr-runntv/title-CARTOON_TV/sofastplayout/3e3230ae-4664-4ba3-9ea7-15c06471d5ce_0_HLS/manifest.m3u8"
-    },
-    {
-        "id": "p_cinshf",
-        "name": "Cineshorts Premiere",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_CINSHF/Web/thumbnail/logo_web.png",
-        "stream": "https://cinshf.cdn.runn.tv/runntv/stream/p_cinshf/playlist.m3u8"
-    },
-    {
-        "id": "cinply",
-        "name": "Cineshorts-Playout-linear",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CINPLY/Web/thumbnail/3e8c5885-401e-4ae8-a4c7-d67aa319b87d.png",
-        "stream": ""
-    },
-    {
-        "id": "n18cnn",
-        "name": "CNN News18",
-        "category": "News",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/N18CNN/Web/thumbnail/c21f0390-e6a5-4bd9-85a5-8f17095f22c6.png",
-        "stream": "https://n18syndication-runn-tv.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8"
-    },
-    {
-        "id": "criusa",
-        "name": "Cricket Gold USA",
-        "category": "Sports",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CRIUSA/Mobile/thumbnail/88e00abc-1b7b-45a9-b2e9-5bbed8a756e8.png",
-        "stream": "https://streams2.sofast.tv/ptnr-runntv/title-CricketGold/sofastplayout/CricketGold/manifest.m3u8"
-    },
-    {
-        "id": "dicmed",
-        "name": "Dice Media",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DICMED/Web/thumbnail/0aa6a674-abc8-47d5-90ca-71bf92597042.png",
-        "stream": "https://dicemedia.cdn.runn.tv/pocketaces/stream/dicmed/playlist.m3u8"
-    },
-    {
-        "id": "divbha",
-        "name": "Divya Bhajan",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVBHA/Mobile/thumbnail/c545dbe3-3a90-41dd-addf-2012badf35a4.png",
-        "stream": "https://pitaaratv.cdn.runn.tv/ptnr-RUNNTV/title-Divya_Bhajan_NONSSAI/v1/vglive-sk-987805/playlist.m3u8"
-    },
-    {
-        "id": "divdiv",
-        "name": "Divya TV",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/thumbnail/2e4bed94-9351-4ca8-9e99-9b2b6795ae5d.png",
-        "stream": "https://pitaaratv.cdn.runn.tv/ptnr-RunnTV/title-DivyaTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-906482/playlist.m3u8"
-    },
-    {
-        "id": "dridri",
-        "name": "Drive",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DRIDRI/Mobile/thumbnail/61491ba4-e10b-41dc-aafc-da010990a4fc.png",
-        "stream": "https://streams2.sofast.tv/ptnr-runntv/title-DRIVE__SPEED/sofastplayout/2f833f43-9e48-4a6e-88a8-8d99c32eb898_0_HLS/manifest.m3u8"
-    },
-    {
-        "id": "blywcm",
-        "name": "Eros Universe Bollywood Cinema",
-        "category": "Movies",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYWCM/Web/thumbnail/26a59852-eecf-4255-b59b-efeb012344fb.png",
-        "stream": "https://eros-blywdcnm.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8"
-    },
-    {
-        "id": "ersent",
-        "name": "Eros Universe Entertainment",
-        "category": "Movies",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ERSENT/Web/thumbnail/4b435974-1477-4e41-a8ea-bf05ddf4113b.png",
-        "stream": "https://eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8"
-    },
-    {
-        "id": "figfig",
-        "name": "Fight TV",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/FIGFIG/Mobile/thumbnail/d6897b5a-de4d-4655-943a-106aafa7d130.png",
-        "stream": "https://streams2.sofast.tv/ptnr-runntv/title-FIGHT-TV-ENG/sofastplayout/2c1b92e0-9ef4-41b1-9713-ba53b562e94c_0_HLS/manifest.m3u8"
-    },
-    {
-        "id": "filcop",
-        "name": "Filter Copy",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/FILCOP/Web/thumbnail/3dc5c491-2433-494e-a15e-2ebfd3baef65.png",
-        "stream": "https://filtercopy.cdn.runn.tv/pocketaces/stream/fltrcopy/playlist.m3u8"
-    },
-    {
-        "id": "goagoa",
-        "name": "Goal TV",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/GOAGOA/Mobile/thumbnail/6bb1bd7a-25c7-47fd-aa07-43c3155e73a8.png",
-        "stream": "https://streams2.sofast.tv/ptnr-runntv/title-Goal_TV/sofastplayout/WiseM3U8_1/master.m3u8"
-    },
-    {
-        "id": "gregld",
-        "name": "Green Gold TV",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/GREGLD/Web/thumbnail/ce985205-5974-48c4-94d4-0d7551e94b85.png",
-        "stream": "https://runntv-grngld.cdn.runn.tv/greengold/stream/grngld/playlist.m3u8"
-    },
-    {
-        "id": "gtcnew",
-        "name": "GTC News",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/GTCNEW/Web/thumbnail/2dd84780-dad8-4485-819e-afb57d0f0e1a.png",
-        "stream": "https://gtc.ottlive.co.in/gtcnews/index.m3u8"
-    },
-    {
-        "id": "gtcpun",
-        "name": "GTC Punjabi",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/GTCPUN/Web/thumbnail/1f1b329c-f534-4206-80a2-173e0e75f154.png",
-        "stream": "https://gtc.ottlive.co.in/gtcpunjabi/index.m3u8"
-    },
-    {
-        "id": "hoohoo",
-        "name": "Hoop TV",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/HOOHOO/Mobile/thumbnail/9eedcb6c-542b-4153-b5f9-524f0b6b0e5e.png",
-        "stream": "https://streams2.sofast.tv/ptnr-runntv/title-Hoop_TV/WiseM3U8_28/sofast/cleanhls/master.m3u8"
-    },
-    {
-        "id": "india_tv_news",
-        "name": "INDIA TV",
-        "category": "News",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDIA_TV/Web/thumbnail/863443d2-7b28-41a2-8593-a59e0e431a85.png",
-        "stream": "https://indiatv.cdn.runn.tv/v1/vglive-sk-274906/main.m3u8"
-    },
-    {
-        "id": "indtvy",
-        "name": "India TV Yoga",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDTVY/Web/thumbnail/aecf3b8e-1ad3-40b0-a997-c68cf372cb81.png",
-        "stream": "https://indiatv.cdn.runn.tv/v1/vglive-sk-385006/main.m3u8"
-    },
-    {
-        "id": "jusgag",
-        "name": "Just For Laugh Gags",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/JUSGAG/Mobile/thumbnail/325ec691-30b6-4f83-b158-ed37c8f6388e.png",
-        "stream": "https://streams2.sofast.tv/ptnr-runntv/title-JUST_FOR_LAUGHS_GAGS/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/manifest.m3u8"
-    },
-    {
         "id": "kuting",
         "name": "Kutingg",
         "category": "Entertainment",
@@ -252,39 +28,18 @@
         "stream": "https://balajitelefilms-runntv.vgcdn.net/vglive-sk-864130/v1/019d675553f51ea540a815e5635b31/019d67562bdd1ea540a815e5635b34/playlist.m3u8"
     },
     {
-        "id": "lookid",
-        "name": "LooLoo Kids",
-        "category": "Kids",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/LOOKID/Web/thumbnail/cf5efe29-152b-474c-a26c-cdec6c950e9a.png",
-        "stream": "https://loolookids.cdn.runn.tv/146-235-11653.m3u8"
-    },
-    {
-        "id": "mahkhb",
-        "name": "Mahua Khabar",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MAHKHB/Web/thumbnail/8988666c-08ab-4d70-a22b-3f8fdc971f8e.png",
-        "stream": "https://mahua-khabar.cdn.runn.tv/mahuakhabarjio/index.m3u8"
-    },
-    {
-        "id": "mahply",
-        "name": "Mahua Play",
+        "id": "blygld",
+        "name": "NH BollyGold",
         "category": "Movies",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MAHPLY/Web/thumbnail/ed72db6c-836f-4ea6-9f89-09863775897d.png",
-        "stream": "https://mahua-play.cdn.runn.tv/mahuaplayjio/index.m3u8"
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYGLD/Web/thumbnail/d4eada62-e3ab-48b9-afe7-44942db7cf00.png",
+        "stream": "https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8"
     },
     {
-        "id": "mangot",
-        "name": "Mango Mobile TV",
+        "id": "shemaroo-bollywood",
+        "name": "Shemaroo Bollywood",
         "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MANGOT/Web/thumbnail/a34f6ed6-2c01-4c7e-9d46-97bb2a83de13.png",
-        "stream": "https://amg01911-amg01911c2-amgplt0249.playout.now3.amagi.tv/playout/amg01911/amg01911c2/amgplt0249/amgplt0249.m3u8"
-    },
-    {
-        "id": "mmaatv",
-        "name": "MMA TV",
-        "category": "Sports",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MMAATV/Mobile/thumbnail/aa2ac48f-d5f3-4ad9-9025-19579e98b30e.png",
-        "stream": "https://streams2.sofast.tv/ptnr-runntv/title-MMA/vglive-sk-462904/playlist.m3u8"
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRBOL/Web/thumbnail/logo_web.png",
+        "stream": "https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8"
     },
     {
         "id": "mrbean",
@@ -294,6 +49,55 @@
         "stream": "https://mrbeanus.cdn.runn.tv/master.m3u8"
     },
     {
+        "id": "run9xm",
+        "name": "9XM",
+        "category": "Music",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/RUN9XM/Mobile/thumbnail/66e1721d-864f-46cf-a583-73c2837e5a75.png",
+        "stream": "https://9x.cdn.runn.tv/9XM/master.m3u8"
+    },
+    {
+        "id": "b4umus",
+        "name": "B4U Music",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UMUS/Mobile/thumbnail/a7139e1a-3391-412c-9478-f8feb183f143.png",
+        "stream": "https://b4u-music.cdn.runn.tv/playlist.m3u8"
+    },
+    {
+        "id": "ersent",
+        "name": "Eros Universe Entertainment",
+        "category": "Movies",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ERSENT/Web/thumbnail/4b435974-1477-4e41-a8ea-bf05ddf4113b.png",
+        "stream": "https://eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8"
+    },
+    {
+        "id": "b4ubho",
+        "name": "B4U Bhojpuri",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UBHO/Web/thumbnail/1843e74c-cf03-4baa-91f1-d81f925fb2a3.png",
+        "stream": "https://b4u-bhojpuri.cdn.runn.tv/master.m3u8"
+    },
+    {
+        "id": "p_supjio",
+        "name": "Superfine Films",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SUPJIO/Web/thumbnail/62d65198-5f33-4640-9ebf-d80d94d23507.png",
+        "stream": "https://supflm.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8"
+    },
+    {
+        "id": "shemaroo-filmigaane",
+        "name": "Shemaroo Filmigaane",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRFGN/Web/thumbnail/logo_web.png",
+        "stream": "https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8"
+    },
+    {
+        "id": "abp_news",
+        "name": "ABP NEWS",
+        "category": "News",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPNEW/Web/thumbnail/logo_web.png",
+        "stream": "https://abpnews.cdn.runn.tv/2042871-b/abpnews/master.m3u8"
+    },
+    {
         "id": "prd_navbht",
         "name": "Navbharat",
         "category": "Entertainment",
@@ -301,11 +105,459 @@
         "stream": "https://navbharat.cdn.runn.tv/master.m3u8"
     },
     {
+        "id": "gregld",
+        "name": "Green Gold TV",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/GREGLD/Web/thumbnail/ce985205-5974-48c4-94d4-0d7551e94b85.png",
+        "stream": "https://runntv-grngld.cdn.runn.tv/greengold/stream/grngld/playlist.m3u8"
+    },
+    {
+        "id": "filcop",
+        "name": "Filter Copy",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/FILCOP/Web/thumbnail/3dc5c491-2433-494e-a15e-2ebfd3baef65.png",
+        "stream": "https://filtercopy.cdn.runn.tv/pocketaces/stream/fltrcopy/playlist.m3u8"
+    },
+    {
+        "id": "9xjalw",
+        "name": "9X Jalwa",
+        "category": "Music",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/9XJALW/Mobile/thumbnail/1fc78aac-ac76-4f74-b0da-0b889cff39f8.png",
+        "stream": "https://9x.cdn.runn.tv/9X_Jalwa/master.m3u8"
+    },
+    {
+        "id": "b4umov",
+        "name": "B4U Movies",
+        "category": "Movies",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UMOV/Mobile/thumbnail/da5513b7-b46e-4a45-9c56-08a4f2fc7d86.png",
+        "stream": "https://b4u-movies.cdn.runn.tv/playlist.m3u8"
+    },
+    {
+        "id": "blyrag",
+        "name": "NH BollyRaga",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYRAG/Web/thumbnail/edac5b07-addf-45c8-97fb-77af5ff4831b.png",
+        "stream": "https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8"
+    },
+    {
+        "id": "swasto",
+        "name": "Swastik Stories",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SWASTO/Web/thumbnail/5f09744f-ffd9-4ae1-8baa-324589fd171c.png",
+        "stream": "https://amg14122-amg14122c1-amgplt0249.playout.now3.amagi.tv/playout/amg14122/amg14122c1/amgplt0249/amgplt0249.m3u8"
+    },
+    {
+        "id": "b4ukad",
+        "name": "B4U Kadak",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UKAD/Web/thumbnail/4b80eee0-6cf3-4448-983d-cf7da7e9a44d.png",
+        "stream": "https://b4u-kadak.cdn.runn.tv/playlist.m3u8"
+    },
+    {
+        "id": "yrfmus",
+        "name": "YRF Music",
+        "category": "Music",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/YRFMUS/Web/thumbnail/c736cc42-ce6c-43ad-a2a1-28e668ba4d49.png",
+        "stream": "https://runntv.kableone.com/hls/live/2111218/YrfMusic/master.m3u8"
+    },
+    {
+        "id": "p_runshf",
+        "name": "Runn Short Films",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_RUNSHF/Web/thumbnail/logo_web.png",
+        "stream": "https://runshf.cdn.runn.tv/runntv/stream/p_runshf/playlist.m3u8"
+    },
+    {
+        "id": "dicmed",
+        "name": "Dice Media",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DICMED/Web/thumbnail/0aa6a674-abc8-47d5-90ca-71bf92597042.png",
+        "stream": "https://dicemedia.cdn.runn.tv/pocketaces/stream/dicmed/playlist.m3u8"
+    },
+    {
+        "id": "alrght",
+        "name": "Alright",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ALRGHT/Web/thumbnail/5874f95e-ceff-4ef3-b514-06dbb5d83396.png",
+        "stream": "https://ruskmedia.cdn.runn.tv/ruskmedia/stream/alrght/playlist.m3u8"
+    },
+    {
+        "id": "divbha",
+        "name": "Divya Bhajan",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVBHA/Mobile/thumbnail/c545dbe3-3a90-41dd-addf-2012badf35a4.png",
+        "stream": "https://pitaaratv.cdn.runn.tv/ptnr-RUNNTV/title-Divya_Bhajan_NONSSAI/v1/vglive-sk-987805/playlist.m3u8"
+    },
+    {
+        "id": "lookid",
+        "name": "LooLoo Kids",
+        "category": "Kids",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/LOOKID/Web/thumbnail/cf5efe29-152b-474c-a26c-cdec6c950e9a.png",
+        "stream": "https://loolookids.cdn.runn.tv/146-235-11653.m3u8"
+    },
+    {
+        "id": "pitcom",
+        "name": "Pitaara Comedy",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITCOM/Web/thumbnail/7dbe24ad-ae8e-4f50-a44c-dd7b2ea97ccc.png",
+        "stream": "https://pitaaratv.cdn.runn.tv/ptnr-RunnTV/title-Pitaara_Comedy/v1/vglive-sk-217489/playlist.m3u8"
+    },
+    {
+        "id": "p_runthr",
+        "name": "Runn Thrillers",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_RUNTHR/Web/thumbnail/logo_web.png",
+        "stream": "https://runthr.cdn.runn.tv/runntv/stream/p_runthr/playlist.m3u8"
+    },
+    {
+        "id": "tv9bha",
+        "name": "TV9 Bharatvarsh",
+        "category": "News",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/TV9BHA/Web/thumbnail/4eaef931-e0a5-449e-90aa-aa4da623b0c0.png",
+        "stream": "https://tv9-bharatvarsh.cdn.runn.tv/amg01106c2/hls.m3u8"
+    },
+    {
         "id": "newnat",
         "name": "News Nation",
         "category": "News",
         "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NEWNAT/Web/thumbnail/NEWS NATION Channel Logo.png",
         "stream": "https://newsnation.cdn.runn.tv/national/master_nnna_runntv.m3u8"
+    },
+    {
+        "id": "india_tv_news",
+        "name": "INDIA TV",
+        "category": "News",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDIA_TV/Web/thumbnail/863443d2-7b28-41a2-8593-a59e0e431a85.png",
+        "stream": "https://indiatv.cdn.runn.tv/v1/vglive-sk-274906/main.m3u8"
+    },
+    {
+        "id": "p_tttflm",
+        "name": "Terribly Tiny Tales",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_TTTFLM/Web/thumbnail/logo_web.png",
+        "stream": "https://tttflm.cdn.runn.tv/runntv/stream/p_ttflm/playlist.m3u8"
+    },
+    {
+        "id": "sagmus",
+        "name": "Saga Music",
+        "category": "Music",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SAGMUS/Web/thumbnail/f25166ec-57f6-47af-bd0d-93fa3c662991.png",
+        "stream": "https://runntv.kableone.com/hls/live/2111218/SagaMusic/master.m3u8"
+    },
+    {
+        "id": "spdnws",
+        "name": "Speed News",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Web/thumbnail/4548a0b5-230a-4d7d-a6a8-97b48954c8be.png",
+        "stream": "https://indiatv.cdn.runn.tv/v1/vglive-sk-479089/main.m3u8"
+    },
+    {
+        "id": "pitara",
+        "name": "Pitaara TV",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITARA/Web/thumbnail/f80dc323-cd86-4001-ae97-f22f66da030b.png",
+        "stream": "https://pitaaratv.cdn.runn.tv/ptnr-RunnTV/title-PitaaraTV_NonSSAI/v1/vglive-sk-326599/playlist.m3u8"
+    },
+    {
+        "id": "apkadt",
+        "name": "Aap ki Adalat",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/APKADT/Web/thumbnail/cdba5a41-acf5-4b89-ae0a-ddb2fb8820a6.png",
+        "stream": "https://indiatv.cdn.runn.tv/v1/vglive-sk-912213/main.m3u8"
+    },
+    {
+        "id": "carcar",
+        "name": "Cartoon TV",
+        "category": "Kids",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CARCAR/Mobile/thumbnail/54317851-3356-4b71-85af-f36b5c0250ae.png",
+        "stream": "https://streams2.sofast.tv/ptnr-runntv/title-CARTOON_TV/sofastplayout/3e3230ae-4664-4ba3-9ea7-15c06471d5ce_0_HLS/manifest.m3u8"
+    },
+    {
+        "id": "mangot",
+        "name": "Mango Mobile TV",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MANGOT/Web/thumbnail/a34f6ed6-2c01-4c7e-9d46-97bb2a83de13.png",
+        "stream": "https://amg01911-amg01911c2-amgplt0249.playout.now3.amagi.tv/playout/amg01911/amg01911c2/amgplt0249/amgplt0249.m3u8"
+    },
+    {
+        "id": "p_cinshf",
+        "name": "Cineshorts Premiere",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_CINSHF/Web/thumbnail/logo_web.png",
+        "stream": "https://cinshf.cdn.runn.tv/runntv/stream/p_cinshf/playlist.m3u8"
+    },
+    {
+        "id": "goagoa",
+        "name": "Goal TV",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/GOAGOA/Mobile/thumbnail/6bb1bd7a-25c7-47fd-aa07-43c3155e73a8.png",
+        "stream": "https://streams2.sofast.tv/ptnr-runntv/title-Goal_TV/sofastplayout/WiseM3U8_1/master.m3u8"
+    },
+    {
+        "id": "p_pktflm",
+        "name": "Pocket Films",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_PKTFLM/Web/thumbnail/logo_web.png",
+        "stream": "https://pktflm.cdn.runn.tv/runntv/stream/p_pktflm/playlist.m3u8"
+    },
+    {
+        "id": "divdiv",
+        "name": "Divya TV",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/thumbnail/2e4bed94-9351-4ca8-9e99-9b2b6795ae5d.png",
+        "stream": "https://pitaaratv.cdn.runn.tv/ptnr-RunnTV/title-DivyaTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-906482/playlist.m3u8"
+    },
+    {
+        "id": "criusa",
+        "name": "Cricket Gold USA",
+        "category": "Sports",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CRIUSA/Mobile/thumbnail/88e00abc-1b7b-45a9-b2e9-5bbed8a756e8.png",
+        "stream": "https://streams2.sofast.tv/ptnr-runntv/title-CricketGold/sofastplayout/CricketGold/manifest.m3u8"
+    },
+    {
+        "id": "indtvy",
+        "name": "India TV Yoga",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDTVY/Web/thumbnail/aecf3b8e-1ad3-40b0-a997-c68cf372cb81.png",
+        "stream": "https://indiatv.cdn.runn.tv/v1/vglive-sk-385006/main.m3u8"
+    },
+    {
+        "id": "tv9news9",
+        "name": "News9",
+        "category": "News",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/TV9NEWS9/Web/thumbnail/f39177fb-49a6-4104-9ccc-db5ee3354e73.png",
+        "stream": "https://news9.cdn.runn.tv/amg01106c3/hls.m3u8"
+    },
+    {
+        "id": "abpmaj",
+        "name": "ABP Majha",
+        "category": "News",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/thumbnail/f07ad06d-c6ef-4154-a888-baeb3455205b.png",
+        "stream": "https://abpnews.cdn.runn.tv/2042872/majha/master.m3u8"
+    },
+    {
+        "id": "abpasm",
+        "name": "ABP Asmita",
+        "category": "News",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/thumbnail/8574857e-c550-4838-97b9-9b971c1d8976.png",
+        "stream": "https://abpnews.cdn.runn.tv/2042876/asmita/master.m3u8"
+    },
+    {
+        "id": "abpana",
+        "name": "ABP Ananda",
+        "category": "News",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPANA/Web/thumbnail/677e1366-c162-47dd-8ba6-ca44a19ccbc4.png",
+        "stream": "https://abpnews.cdn.runn.tv/2042873/ananda/master.m3u8"
+    },
+    {
+        "id": "nnatuk",
+        "name": "News State UP/UK",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Web/thumbnail/aa098647-c807-4387-9be0-61289f46ad44.png",
+        "stream": "https://newsnation.cdn.runn.tv/nnup/master_nnup_runntv.m3u8"
+    },
+    {
+        "id": "jusgag",
+        "name": "Just For Laugh Gags",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/JUSGAG/Mobile/thumbnail/325ec691-30b6-4f83-b158-ed37c8f6388e.png",
+        "stream": "https://streams2.sofast.tv/ptnr-runntv/title-JUST_FOR_LAUGHS_GAGS/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/manifest.m3u8"
+    },
+    {
+        "id": "p_supflm",
+        "name": "Superfine Films",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SUPFLM/Web/thumbnail/logo_web.png",
+        "stream": "https://prod-runn.cdn.runn.tv/runntv/stream/p_supflm/playlist.m3u8"
+    },
+    {
+        "id": "amuspo",
+        "name": "Amuzi Sports",
+        "category": "Sports",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/AMUSPO/Web/thumbnail/22a7374c-1090-4a08-b461-57b7c777be64.png",
+        "stream": "https://amuzi-sports.cdn.runn.tv/amuzisports/stream/amzspt/playlist.m3u8"
+    },
+    {
+        "id": "p_nunutv",
+        "name": "NuNu TV",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_NUNUTV/Web/thumbnail/logo_mobile.png",
+        "stream": "https://nunutv.cdn.runn.tv/runntv/stream/p_nunutv/playlist.m3u8"
+    },
+    {
+        "id": "figfig",
+        "name": "Fight TV",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/FIGFIG/Mobile/thumbnail/d6897b5a-de4d-4655-943a-106aafa7d130.png",
+        "stream": "https://streams2.sofast.tv/ptnr-runntv/title-FIGHT-TV-ENG/sofastplayout/2c1b92e0-9ef4-41b1-9713-ba53b562e94c_0_HLS/manifest.m3u8"
+    },
+    {
+        "id": "dridri",
+        "name": "Drive",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DRIDRI/Mobile/thumbnail/61491ba4-e10b-41dc-aafc-da010990a4fc.png",
+        "stream": "https://streams2.sofast.tv/ptnr-runntv/title-DRIVE__SPEED/sofastplayout/2f833f43-9e48-4a6e-88a8-8d99c32eb898_0_HLS/manifest.m3u8"
+    },
+    {
+        "id": "mmaatv",
+        "name": "MMA TV",
+        "category": "Sports",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MMAATV/Mobile/thumbnail/aa2ac48f-d5f3-4ad9-9025-19579e98b30e.png",
+        "stream": "https://streams2.sofast.tv/ptnr-runntv/title-MMA/vglive-sk-462904/playlist.m3u8"
+    },
+    {
+        "id": "hoohoo",
+        "name": "Hoop TV",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/HOOHOO/Mobile/thumbnail/9eedcb6c-542b-4153-b5f9-524f0b6b0e5e.png",
+        "stream": "https://streams2.sofast.tv/ptnr-runntv/title-Hoop_TV/WiseM3U8_28/sofast/cleanhls/master.m3u8"
+    },
+    {
+        "id": "xtrspo",
+        "name": "XTREM Sports",
+        "category": "Sports",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/XTRSPO/Mobile/thumbnail/c72df825-0310-4388-bdc4-26855d832871.png",
+        "stream": "https://streams2.sofast.tv/ptnr-runntv/title-XTREM-SPORTS-ENG/sofastplayout/dd07c1bf-9b89-4e56-b819-224b2bbcd807_0_HLS/manifest.m3u8"
+    },
+    {
+        "id": "tv9tel",
+        "name": "TV9 Telugu",
+        "category": "News",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/TV9TEL/Mobile/thumbnail/8266b9a7-0c86-4afd-b655-0740ec7605c2.png",
+        "stream": "https://tv9-telugu.cdn.runn.tv/amg01106c4/hls.m3u8"
+    },
+    {
+        "id": "tv9mar",
+        "name": "TV9 Marathi",
+        "category": "News",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/TV9MAR/Mobile/thumbnail/ae52c8c0-1da5-4083-998d-64b094f441b2.png",
+        "stream": "https://tv9-marathi.cdn.runn.tv/amg01106c7/hls.m3u8"
+    },
+    {
+        "id": "saghar",
+        "name": "Saga Music Haryanvi",
+        "category": "Music",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SAGHAR/Web/thumbnail/20e8e32d-8c49-409d-8757-8f58e139c0d9.png",
+        "stream": "https://runntv.kableone.com/hls/live/2111218/SagaHaryanvi/master.m3u8"
+    },
+    {
+        "id": "sikrat",
+        "name": "Sikh Ratnavali",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SIKRAT/Web/thumbnail/16451ec3-88b2-4dfa-91db-585da3bd3e96.png",
+        "stream": "https://runntv.kableone.com/hls/live/2111218/SikhRatnavali/master.m3u8"
+    },
+    {
+        "id": "gtcpun",
+        "name": "GTC Punjabi",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/GTCPUN/Web/thumbnail/1f1b329c-f534-4206-80a2-173e0e75f154.png",
+        "stream": "https://gtc.ottlive.co.in/gtcpunjabi/index.m3u8"
+    },
+    {
+        "id": "punsho",
+        "name": "Punjabi Shorts",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PUNSHO/Web/thumbnail/d41fab8a-7d24-4304-9dae-9b1952bb7201.png",
+        "stream": "https://gtc.ottlive.co.in/punjabshort/index.m3u8"
+    },
+    {
+        "id": "suptam",
+        "name": "Superfine Tamil",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SUPTAM/Web/thumbnail/22ccb58a-9662-4702-9340-341b18816788.png",
+        "stream": "https://supflm-tamil.cdn.runn.tv/runntv/stream/suptam/playlist.m3u8"
+    },
+    {
+        "id": "gtcnew",
+        "name": "GTC News",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/GTCNEW/Web/thumbnail/2dd84780-dad8-4485-819e-afb57d0f0e1a.png",
+        "stream": "https://gtc.ottlive.co.in/gtcnews/index.m3u8"
+    },
+    {
+        "id": "jagran",
+        "name": "OnlyMyHealth",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/JAGRAN/Web/thumbnail/988b33e9-8db1-44ee-82e7-6ba6aaf0d753.png",
+        "stream": "https://prod-runn.cdn.runn.tv/runntv/stream/jagran/playlist.m3u8"
+    },
+    {
+        "id": "cinply",
+        "name": "Cineshorts-Playout-linear",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CINPLY/Web/thumbnail/3e8c5885-401e-4ae8-a4c7-d67aa319b87d.png",
+        "stream": ""
+    },
+    {
+        "id": "n18ind",
+        "name": "News18 India",
+        "category": "News",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/N18IND/Web/thumbnail/03c35150-97d3-46f4-87ce-3ae606e16d0e.png",
+        "stream": "https://n18syndication-runn-tv.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8"
+    },
+    {
+        "id": "n18mpcg",
+        "name": "News18 Madhya Pradesh / Chhattisgarh",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/N18MPCG/Web/thumbnail/8b278bd1-fb17-4c21-b6ba-cf29fa28f791.png",
+        "stream": " https://n18syndication-runn-tv.akamaized.net/bpk-tv/News18_MP_Chhattisgarh_NW18_MOB/output01/index.m3u8"
+    },
+    {
+        "id": "n18upuk",
+        "name": "News18 Uttar Pradesh / Uttarakhand",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/N18UPUK/Web/thumbnail/0e1a0ad8-d9da-48e4-b4fb-bc928d0b5276.png",
+        "stream": "https://n18syndication-runn-tv.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/index.m3u8"
+    },
+    {
+        "id": "n18mrt",
+        "name": "News18 Marathi",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/N18MRT/Web/thumbnail/14b8f100-7b23-4b42-b54c-9fa5ee7de0e2.png",
+        "stream": "https://n18syndication-runn-tv.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8"
+    },
+    {
+        "id": "n18tml",
+        "name": "News18 Tamil",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/N18TML/Web/thumbnail/38e688b5-2649-416a-bab3-15189380af65.png",
+        "stream": "https://n18syndication-runn-tv.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/index.m3u8"
+    },
+    {
+        "id": "mahply",
+        "name": "Mahua Play",
+        "category": "Movies",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MAHPLY/Web/thumbnail/ed72db6c-836f-4ea6-9f89-09863775897d.png",
+        "stream": "https://mahua-play.cdn.runn.tv/mahuaplayjio/index.m3u8"
+    },
+    {
+        "id": "p_runact",
+        "name": "Runn Action",
+        "category": "Movies",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_RUNACT/Web/thumbnail/logo_web.png",
+        "stream": "https://runact.cdn.runn.tv/runntv/stream/p_runact/playlist.m3u8"
+    },
+    {
+        "id": "n18bng",
+        "name": "News18 Bangla",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/N18BNG/Web/thumbnail/5a8831af-49ff-4bbe-80fb-c03c47366b21.png",
+        "stream": "https://n18syndication-runn-tv.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/index.m3u8"
+    },
+    {
+        "id": "n18pbhr",
+        "name": "News18 Punjab Haryana",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/N18PBHR/Web/thumbnail/22f3e97a-33a8-4921-b8f8-1afe920022fc.png",
+        "stream": "https://n18syndication-runn-tv.akamaized.net/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/index.m3u8"
+    },
+    {
+        "id": "n18cnn",
+        "name": "CNN News18",
+        "category": "News",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/N18CNN/Web/thumbnail/c21f0390-e6a5-4bd9-85a5-8f17095f22c6.png",
+        "stream": "https://n18syndication-runn-tv.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8"
     },
     {
         "id": "nnbrjh",
@@ -329,102 +581,11 @@
         "stream": " https://newsnation.cdn.runn.tv/nnpunj/master_nnpunj_runntv.m3u8"
     },
     {
-        "id": "nnatuk",
-        "name": "News State UP/UK",
+        "id": "mahkhb",
+        "name": "Mahua Khabar",
         "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Web/thumbnail/aa098647-c807-4387-9be0-61289f46ad44.png",
-        "stream": "https://newsnation.cdn.runn.tv/nnup/master_nnup_runntv.m3u8"
-    },
-    {
-        "id": "n18bng",
-        "name": "News18 Bangla",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/N18BNG/Web/thumbnail/5a8831af-49ff-4bbe-80fb-c03c47366b21.png",
-        "stream": "https://n18syndication-runn-tv.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/index.m3u8"
-    },
-    {
-        "id": "n18ind",
-        "name": "News18 India",
-        "category": "News",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/N18IND/Web/thumbnail/03c35150-97d3-46f4-87ce-3ae606e16d0e.png",
-        "stream": "https://n18syndication-runn-tv.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8"
-    },
-    {
-        "id": "n18mpcg",
-        "name": "News18 Madhya Pradesh / Chhattisgarh",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/N18MPCG/Web/thumbnail/8b278bd1-fb17-4c21-b6ba-cf29fa28f791.png",
-        "stream": " https://n18syndication-runn-tv.akamaized.net/bpk-tv/News18_MP_Chhattisgarh_NW18_MOB/output01/index.m3u8"
-    },
-    {
-        "id": "n18mrt",
-        "name": "News18 Marathi",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/N18MRT/Web/thumbnail/14b8f100-7b23-4b42-b54c-9fa5ee7de0e2.png",
-        "stream": "https://n18syndication-runn-tv.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8"
-    },
-    {
-        "id": "n18pbhr",
-        "name": "News18 Punjab Haryana",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/N18PBHR/Web/thumbnail/22f3e97a-33a8-4921-b8f8-1afe920022fc.png",
-        "stream": "https://n18syndication-runn-tv.akamaized.net/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/index.m3u8"
-    },
-    {
-        "id": "n18tml",
-        "name": "News18 Tamil",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/N18TML/Web/thumbnail/38e688b5-2649-416a-bab3-15189380af65.png",
-        "stream": "https://n18syndication-runn-tv.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/index.m3u8"
-    },
-    {
-        "id": "n18upuk",
-        "name": "News18 Uttar Pradesh / Uttarakhand",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/N18UPUK/Web/thumbnail/0e1a0ad8-d9da-48e4-b4fb-bc928d0b5276.png",
-        "stream": "https://n18syndication-runn-tv.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/index.m3u8"
-    },
-    {
-        "id": "tv9news9",
-        "name": "News9",
-        "category": "News",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/TV9NEWS9/Web/thumbnail/f39177fb-49a6-4104-9ccc-db5ee3354e73.png",
-        "stream": "https://news9.cdn.runn.tv/amg01106c3/hls.m3u8"
-    },
-    {
-        "id": "blyflx",
-        "name": "NH BollyFlix",
-        "category": "Movies",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYFLX/Web/thumbnail/a3b425cc-d6bd-4618-b78f-27c875df5da5.png",
-        "stream": "https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8"
-    },
-    {
-        "id": "blygld",
-        "name": "NH BollyGold",
-        "category": "Movies",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYGLD/Web/thumbnail/d4eada62-e3ab-48b9-afe7-44942db7cf00.png",
-        "stream": "https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8"
-    },
-    {
-        "id": "blyrag",
-        "name": "NH BollyRaga",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYRAG/Web/thumbnail/edac5b07-addf-45c8-97fb-77af5ff4831b.png",
-        "stream": "https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8"
-    },
-    {
-        "id": "p_nunutv",
-        "name": "NuNu TV",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_NUNUTV/Web/thumbnail/logo_mobile.png",
-        "stream": "https://nunutv.cdn.runn.tv/runntv/stream/p_nunutv/playlist.m3u8"
-    },
-    {
-        "id": "jagran",
-        "name": "OnlyMyHealth",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/JAGRAN/Web/thumbnail/988b33e9-8db1-44ee-82e7-6ba6aaf0d753.png",
-        "stream": "https://prod-runn.cdn.runn.tv/runntv/stream/jagran/playlist.m3u8"
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MAHKHB/Web/thumbnail/8988666c-08ab-4d70-a22b-3f8fdc971f8e.png",
+        "stream": "https://mahua-khabar.cdn.runn.tv/mahuakhabarjio/index.m3u8"
     },
     {
         "id": "outcha",
@@ -434,171 +595,10 @@
         "stream": "https://d3dtdt06tmqos6.cloudfront.net/scheduler/scheduleMaster/455.m3u8"
     },
     {
-        "id": "pitcom",
-        "name": "Pitaara Comedy",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITCOM/Web/thumbnail/7dbe24ad-ae8e-4f50-a44c-dd7b2ea97ccc.png",
-        "stream": "https://pitaaratv.cdn.runn.tv/ptnr-RunnTV/title-Pitaara_Comedy/v1/vglive-sk-217489/playlist.m3u8"
-    },
-    {
-        "id": "pitara",
-        "name": "Pitaara TV",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITARA/Web/thumbnail/f80dc323-cd86-4001-ae97-f22f66da030b.png",
-        "stream": "https://pitaaratv.cdn.runn.tv/ptnr-RunnTV/title-PitaaraTV_NonSSAI/v1/vglive-sk-326599/playlist.m3u8"
-    },
-    {
-        "id": "p_pktflm",
-        "name": "Pocket Films",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_PKTFLM/Web/thumbnail/logo_web.png",
-        "stream": "https://pktflm.cdn.runn.tv/runntv/stream/p_pktflm/playlist.m3u8"
-    },
-    {
-        "id": "punsho",
-        "name": "Punjabi Shorts",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PUNSHO/Web/thumbnail/d41fab8a-7d24-4304-9dae-9b1952bb7201.png",
-        "stream": "https://gtc.ottlive.co.in/punjabshort/index.m3u8"
-    },
-    {
-        "id": "p_runact",
-        "name": "Runn Action",
-        "category": "Movies",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_RUNACT/Web/thumbnail/logo_web.png",
-        "stream": "https://runact.cdn.runn.tv/runntv/stream/p_runact/playlist.m3u8"
-    },
-    {
-        "id": "p_runshf",
-        "name": "Runn Short Films",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_RUNSHF/Web/thumbnail/logo_web.png",
-        "stream": "https://runshf.cdn.runn.tv/runntv/stream/p_runshf/playlist.m3u8"
-    },
-    {
-        "id": "p_runthr",
-        "name": "Runn Thrillers",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_RUNTHR/Web/thumbnail/logo_web.png",
-        "stream": "https://runthr.cdn.runn.tv/runntv/stream/p_runthr/playlist.m3u8"
-    },
-    {
-        "id": "sagmus",
-        "name": "Saga Music",
-        "category": "Music",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SAGMUS/Web/thumbnail/f25166ec-57f6-47af-bd0d-93fa3c662991.png",
-        "stream": "https://runntv.kableone.com/hls/live/2111218/SagaMusic/master.m3u8"
-    },
-    {
-        "id": "saghar",
-        "name": "Saga Music Haryanvi",
-        "category": "Music",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SAGHAR/Web/thumbnail/20e8e32d-8c49-409d-8757-8f58e139c0d9.png",
-        "stream": "https://runntv.kableone.com/hls/live/2111218/SagaHaryanvi/master.m3u8"
-    },
-    {
-        "id": "shemaroo-bollywood",
-        "name": "Shemaroo Bollywood",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRBOL/Web/thumbnail/logo_web.png",
-        "stream": "https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8"
-    },
-    {
-        "id": "shemaroo-filmigaane",
-        "name": "Shemaroo Filmigaane",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRFGN/Web/thumbnail/logo_web.png",
-        "stream": "https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8"
-    },
-    {
-        "id": "sikrat",
-        "name": "Sikh Ratnavali",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SIKRAT/Web/thumbnail/16451ec3-88b2-4dfa-91db-585da3bd3e96.png",
-        "stream": "https://runntv.kableone.com/hls/live/2111218/SikhRatnavali/master.m3u8"
-    },
-    {
-        "id": "spdnws",
-        "name": "Speed News",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Web/thumbnail/4548a0b5-230a-4d7d-a6a8-97b48954c8be.png",
-        "stream": "https://indiatv.cdn.runn.tv/v1/vglive-sk-479089/main.m3u8"
-    },
-    {
-        "id": "p_supjio",
-        "name": "Superfine Films",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SUPJIO/Web/thumbnail/62d65198-5f33-4640-9ebf-d80d94d23507.png",
-        "stream": "https://supflm.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8"
-    },
-    {
-        "id": "p_supflm",
-        "name": "Superfine Films",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SUPFLM/Web/thumbnail/logo_web.png",
-        "stream": "https://prod-runn.cdn.runn.tv/runntv/stream/p_supflm/playlist.m3u8"
-    },
-    {
-        "id": "suptam",
-        "name": "Superfine Tamil",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SUPTAM/Web/thumbnail/22ccb58a-9662-4702-9340-341b18816788.png",
-        "stream": "https://supflm-tamil.cdn.runn.tv/runntv/stream/suptam/playlist.m3u8"
-    },
-    {
         "id": "suptel",
         "name": "Superfine Telugu",
         "category": "Entertainment",
         "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SUPTEL/Web/thumbnail/2a77cbcc-4c18-4f09-bdc4-ba722efebe6d.png",
         "stream": "https://supflm-telugu.cdn.runn.tv/runntv/stream/suptel/playlist.m3u8"
-    },
-    {
-        "id": "swasto",
-        "name": "Swastik Stories",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SWASTO/Web/thumbnail/5f09744f-ffd9-4ae1-8baa-324589fd171c.png",
-        "stream": "https://amg14122-amg14122c1-amgplt0249.playout.now3.amagi.tv/playout/amg14122/amg14122c1/amgplt0249/amgplt0249.m3u8"
-    },
-    {
-        "id": "p_tttflm",
-        "name": "Terribly Tiny Tales",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_TTTFLM/Web/thumbnail/logo_web.png",
-        "stream": "https://tttflm.cdn.runn.tv/runntv/stream/p_ttflm/playlist.m3u8"
-    },
-    {
-        "id": "tv9bha",
-        "name": "TV9 Bharatvarsh",
-        "category": "News",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/TV9BHA/Web/thumbnail/4eaef931-e0a5-449e-90aa-aa4da623b0c0.png",
-        "stream": "https://tv9-bharatvarsh.cdn.runn.tv/amg01106c2/hls.m3u8"
-    },
-    {
-        "id": "tv9mar",
-        "name": "TV9 Marathi",
-        "category": "News",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/TV9MAR/Mobile/thumbnail/ae52c8c0-1da5-4083-998d-64b094f441b2.png",
-        "stream": "https://tv9-marathi.cdn.runn.tv/amg01106c7/hls.m3u8"
-    },
-    {
-        "id": "tv9tel",
-        "name": "TV9 Telugu",
-        "category": "News",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/TV9TEL/Mobile/thumbnail/8266b9a7-0c86-4afd-b655-0740ec7605c2.png",
-        "stream": "https://tv9-telugu.cdn.runn.tv/amg01106c4/hls.m3u8"
-    },
-    {
-        "id": "xtrspo",
-        "name": "XTREM Sports",
-        "category": "Sports",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/XTRSPO/Mobile/thumbnail/c72df825-0310-4388-bdc4-26855d832871.png",
-        "stream": "https://streams2.sofast.tv/ptnr-runntv/title-XTREM-SPORTS-ENG/sofastplayout/dd07c1bf-9b89-4e56-b819-224b2bbcd807_0_HLS/manifest.m3u8"
-    },
-    {
-        "id": "yrfmus",
-        "name": "YRF Music",
-        "category": "Music",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/YRFMUS/Web/thumbnail/c736cc42-ce6c-43ad-a2a1-28e668ba4d49.png",
-        "stream": "https://runntv.kableone.com/hls/live/2111218/YrfMusic/master.m3u8"
     }
 ]
