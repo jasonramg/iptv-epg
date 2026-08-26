@@ -384,10 +384,6 @@
     <display-name>India Today</display-name>
     <icon src="https://akamaividz2.zee5.com/image/upload/resources/0-9-indiatoday/channel_web/indiatoday170cea039b9b9294a20b22d4893e88d194a.png" />
   </channel>
-  <channel id="0-9-9z5910524">
-    <display-name>Great! Romance</display-name>
-    <icon src="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5910524/channel_web/170x1206599894adaa7442dbdeab461c3264311.png" />
-  </channel>
   <channel id="0-9-9z5910523">
     <display-name>Great! Mystery</display-name>
     <icon src="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5910523/channel_web/170x12090824cb3c3244364954c3e23d84d71b7.png" />
@@ -395,6 +391,10 @@
   <channel id="0-9-9z5910243">
     <display-name>Great! Movies</display-name>
     <icon src="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5910243/channel_web/170x120c731eafbde5a4ddeb5551b546a731dbe.png" />
+  </channel>
+  <channel id="0-9-9z5910524">
+    <display-name>Great! Christmas</display-name>
+    <icon src="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5910524/channel_web/170x120d031029d9ac6402f9ebddfc63d479fb8.png" />
   </channel>
   <channel id="0-9-255">
     <display-name>Good News Today</display-name>
@@ -1887,26 +1887,12 @@
     <language>Hindi</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-801470002-20260901230000/list/ZINGUSAFearFiles1053105daa6cd51ec8745719bcba2cfd08431de.jpg" />
   </programme>
-  <programme channel="0-9-zing" start="20260826033000 +0000" stop="20260826043000 +0000">
-    <title lang="en">Fomo Tunes</title>
-    <desc lang="en">Catch all the latest and greatest in TV and entertainment with us! We're here to bring you top-notch shows and programming that keep you entertained and coming back for more.</desc>
+  <programme channel="0-9-zing" start="20260826063000 +0000" stop="20260826073000 +0000">
+    <title lang="en">Pyaar Tune Kya Kiya</title>
+    <desc lang="en">Pyaar Tune Kya Kiya is a TV series depicting Indian youth love stories, exploring challenges, mistakes, complexities, and decisions, while delivering social messages in every episode.</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017300000-20260826090000/list/ZingFomoTunes12949294b50eca525c24323a5de82010885263b.jpg" />
-  </programme>
-  <programme channel="0-9-zing" start="20260826043000 +0000" stop="20260826053000 +0000">
-    <title lang="en">Yolo Hits</title>
-    <desc lang="en">Get ready for a musical throwback! Enjoy a nonstop lineup of timeless classics from legendary artists, all in one amazing hit parade. Perfect for music lovers!</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017300000-20260826100000/list/ZingYoloHits1294931464af65a5f734ae3ad545364ac1f34e5.jpg" />
-  </programme>
-  <programme channel="0-9-zing" start="20260826053000 +0000" stop="20260826073000 +0000">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Shop from home with ease as a wide range of trusted consumer products from popular brands are now available for convenient online purchase and doorstep delivery.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017300000-20260826110000/list/AAJTAKHDTeleshopping930090d02c421d83324c088a9cf3b0df52ce66.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017300000-20260826120000/list/ZingPyaarTuneKyaKiya856238fbd215e78b98476081181d59f0a497de.jpg" />
   </programme>
   <programme channel="0-9-zing" start="20260826073000 +0000" stop="20260826082700 +0000">
     <title lang="en">Pyaar Tune Kya Kiya</title>
@@ -2958,12 +2944,12 @@
     <language>English</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033801200-20260826153000/list/ZeeZestHDSnackinthebox1744472bdc4b19bce4d497dbc380042d946148e.jpg" />
   </programme>
-  <programme channel="0-9-348" start="20260826102100 +0000" stop="20260826104300 +0000">
+  <programme channel="0-9-348" start="20260826102000 +0000" stop="20260826104300 +0000">
     <title lang="en">Ghar Sa Yummy - Swad Family Wala</title>
     <desc lang="en">The chef crafts easy, delicious dishes using simple recipes with basic ingredients, perfect for recreating at home and elevating everyday cooking!</desc>
     <category>Lifestyle</category>
     <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033801200-20260826155100/list/ZeeZestHDGharSaYummySwadFamilyWala17343632ac9664e34c54fd0bc4c94812d0e0f44.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033801200-20260826155000/list/ZeeZestHDGharSaYummySwadFamilyWala1734363086f1111ab914717b63985461abbef28.jpg" />
   </programme>
   <programme channel="0-9-348" start="20260826104300 +0000" stop="20260826110500 +0000">
     <title lang="en">Pickle Nation</title>
@@ -2972,47 +2958,47 @@
     <language>English</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033801200-20260826161300/list/LivingFoodzHDPickleNation5256776eb79ce3581c41a182f7da2195629702.jpg" />
   </programme>
-  <programme channel="0-9-348" start="20260826110500 +0000" stop="20260826112800 +0000">
+  <programme channel="0-9-348" start="20260826110300 +0000" stop="20260826112600 +0000">
     <title lang="en">The Great Indian Rasoi Show S02</title>
     <desc lang="en">Chefs and locals share age-old recipes, unraveling traditions and emotions, as food becomes a bridge connecting hearts across diverse Indian cultures and regions.</desc>
     <category>Lifestyle</category>
     <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033801200-20260826163500/list/ZeeZestHDTheGreatIndianRasoiShowS0219227579906eb8cdb6948109aa0353e3dd17af7.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033801200-20260826163300/list/ZeeZestHDTheGreatIndianRasoiShowS021922757bb16a00a54db47978e1d2cc44b97f184.jpg" />
   </programme>
-  <programme channel="0-9-348" start="20260826112800 +0000" stop="20260826115000 +0000">
+  <programme channel="0-9-348" start="20260826112600 +0000" stop="20260826114900 +0000">
     <title lang="en">Meetha Toh Banta Hai</title>
     <desc lang="en">Host Akanksha Khatri experiments with beloved sweet dishes from across India, transforming them into exceptional treats that celebrate regional flavors and traditional recipes.</desc>
     <category>Lifestyle</category>
     <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033801200-20260826165800/list/ZeeZestHDMeethaTohBantaHai105341198ccde27969a46b7b908085a5df35287.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033801200-20260826165600/list/ZeeZestHDMeethaTohBantaHai1053411d0f7cf6672b74e2d8a6ebb06c4112cfd.jpg" />
   </programme>
-  <programme channel="0-9-348" start="20260826115000 +0000" stop="20260826121500 +0000">
+  <programme channel="0-9-348" start="20260826114900 +0000" stop="20260826121100 +0000">
     <title lang="en">I Love Cooking S02</title>
     <desc lang="en">Talented food lovers battle through exciting culinary challenges, blending taste, technique, and presentation to impress judges in Season 2 of I Love Cooking.</desc>
     <category>Lifestyle</category>
     <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033801200-20260826172000/list/ZeeZestHDILoveCookingS021356149c98ff0b769d6494f906ea33f223460f6.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033801200-20260826171900/list/ZeeZestHDILoveCookingS021356149fc81c8fb256d441f86560973ee918536.jpg" />
   </programme>
-  <programme channel="0-9-348" start="20260826121500 +0000" stop="20260826123800 +0000">
+  <programme channel="0-9-348" start="20260826121100 +0000" stop="20260826123300 +0000">
     <title lang="en">Kitchen Magic</title>
     <desc lang="en">Kitchen Magic is full of cooking fun. Guests share easy recipes and kitchen hacks that make food tastier and cooking simpler for everyone.</desc>
     <category>Lifestyle</category>
     <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033801200-20260826174500/list/LivingFoodzHDKitchenMagic525671a9586a981dee4a8c87cf5795bbc15a5b.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033801200-20260826174100/list/LivingFoodzHDKitchenMagic525671e7d6f3f36943419491160b33ca368f92.jpg" />
   </programme>
-  <programme channel="0-9-348" start="20260826123800 +0000" stop="20260826130000 +0000">
+  <programme channel="0-9-348" start="20260826123300 +0000" stop="20260826125600 +0000">
     <title lang="en">100 Percent Veg S02</title>
     <desc lang="en">Takes viewers on a vibrant vegetarian culinary journey across India. Each episode celebrates fresh, seasonal produce with creative recipes and expert tips.</desc>
     <category>Lifestyle</category>
     <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033801200-20260826180800/list/ZeeZestHD100PercentVegS021356147d2f8bb51b120489aa5b00823b71aca13.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033801200-20260826180300/list/ZeeZestHD100PercentVegS021356147ca6b9fc0ed70407d8bbef0fbf1c75acf.jpg" />
   </programme>
-  <programme channel="0-9-348" start="20260826130000 +0000" stop="20260826133000 +0000">
+  <programme channel="0-9-348" start="20260826125600 +0000" stop="20260826133000 +0000">
     <title lang="en">Indian Food Classics</title>
     <desc lang="en">A seasoned chef showcases classic Indian dishes renowned for their rich flavors and unique ingredients. Experience the essence of Indian cuisine with traditional recipes.</desc>
     <category>Lifestyle</category>
     <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033801200-20260826183000/list/ZeeZestHDIndianFoodClassics1053406b66db63a495d469ab173c2c563b4069c.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033801200-20260826182600/list/ZeeZestHDIndianFoodClassics10534065ad23dc563db49c2bbce2b3ddc9bf90b.jpg" />
   </programme>
   <programme channel="0-9-348" start="20260826133000 +0000" stop="20260826135900 +0000">
     <title lang="en">Taste Ki Gully</title>
@@ -16132,222 +16118,33 @@
     <language>Hindi</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-801470009-20260901233000/list/ZeeTVDETummSeTummTak20909164a3981e6e8044e9080981ff3a5b665f7.jpg" />
   </programme>
-  <programme channel="0-9-zeetvhd" start="20260825185300 +0000" stop="20260825191600 +0000">
+  <programme channel="0-9-zeetvhd" start="20260826081500 +0000" stop="20260826083000 +0000">
     <title lang="en">Ganga Mai Ki Betiyan</title>
     <desc lang="en">Ganga Mai Ki Betiyan</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826002300/list/ZEETVHDGangaMaiKiBetiyan1954485621df294b9d347978d52ba26d064f60f.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826134500/list/ZEETVHDGangaMaiKiBetiyan1954485aff49d4e9845497f84a51e9763af43ec.jpg" />
   </programme>
-  <programme channel="0-9-zeetvhd" start="20260825191600 +0000" stop="20260825195900 +0000">
-    <title lang="en">Vasudha</title>
-    <desc lang="en">Karishma receives a pen drive with evidence that could destroy her and is shocked to learn that her secret ally is from the Chauhan family. Devansh worries as Mayur reveals the pen drive is missing.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826004600/list/ZEETVHDVasudha171503411bf17b45a2d4d5f9819a30b3989a521.jpg" />
-  </programme>
-  <programme channel="0-9-zeetvhd" start="20260825195900 +0000" stop="20260825202200 +0000">
-    <title lang="en">Ganga Mai Ki Betiyan</title>
-    <desc lang="en">Ganga Mai Ki Betiyan</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826012900/list/ZEETVHDGangaMaiKiBetiyan195448582f7c1e4d8954e4eb6d56305e4475dc2.jpg" />
-  </programme>
-  <programme channel="0-9-zeetvhd" start="20260825202200 +0000" stop="20260825204500 +0000">
-    <title lang="en">Vasudha</title>
-    <desc lang="en">Vasudha</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826015200/list/ZEETVHDVasudha17150342ef13727049f4afebee802f35b33013a.jpg" />
-  </programme>
-  <programme channel="0-9-zeetvhd" start="20260825204500 +0000" stop="20260825210800 +0000">
+  <programme channel="0-9-zeetvhd" start="20260826083000 +0000" stop="20260826090000 +0000">
     <title lang="en">Jagadhatri</title>
     <desc lang="en">Jagadhatri</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826021500/list/ZEETVHDJagadhatri1981776f9e18d66d9404ed588bb792bf0636435.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826140000/list/ZEETVHDJagadhatri1981776c117ef07c732470e948dbb4eaaa2c5e1.jpg" />
   </programme>
-  <programme channel="0-9-zeetvhd" start="20260825210800 +0000" stop="20260825213000 +0000">
-    <title lang="en">Tu Hi Re Dil Mein</title>
-    <desc lang="en">Believed to bring luck, Vrinda marries her dream man, Sanjay, who loves Divya. Living as a caretaker, she faces silent sacrifices, unsure if fate will choose her.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826023800/list/ZEETVHDTuHiReDilMain20937668cf7794e37394f16be9ca13ad699f114.jpg" />
-  </programme>
-  <programme channel="0-9-zeetvhd" start="20260825213000 +0000" stop="20260825215300 +0000">
-    <title lang="en">Tumm Se Tumm Tak</title>
-    <desc lang="en">Tumm Se Tumm Tak</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826030000/list/ZEETVHDTumSeTumTak1907329a0d061a2c02e4fb0846e47a4ddedda49.jpg" />
-  </programme>
-  <programme channel="0-9-zeetvhd" start="20260825215300 +0000" stop="20260825221600 +0000">
-    <title lang="en">Humari Radha</title>
-    <desc lang="en">Humari Radha</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826032300/list/ZEETVHDHumariRadha21108903fcae105f7fb4ba39a0ba27be9320f30.jpg" />
-  </programme>
-  <programme channel="0-9-zeetvhd" start="20260825221600 +0000" stop="20260825223900 +0000">
-    <title lang="en">Ganga Mai Ki Betiyan</title>
-    <desc lang="en">Ganga Mai Ki Betiyan</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826034600/list/ZEETVHDGangaMaiKiBetiyan195448584cf6fce41864a27842749a4d83626e9.jpg" />
-  </programme>
-  <programme channel="0-9-zeetvhd" start="20260825223900 +0000" stop="20260825230200 +0000">
+  <programme channel="0-9-zeetvhd" start="20260826090000 +0000" stop="20260826093000 +0000">
     <title lang="en">Vasudha</title>
     <desc lang="en">Vasudha</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826040900/list/ZEETVHDVasudha1715034cace9c6cc6ff45f0ba6b68686fbafc44.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826143000/list/ZEETVHDVasudha1715034c55b816e10b74b50b1849f39bfae4ab3.jpg" />
   </programme>
-  <programme channel="0-9-zeetvhd" start="20260825230200 +0000" stop="20260825233000 +0000">
-    <title lang="en">Jagadhatri</title>
-    <desc lang="en">Jagadhatri</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826043200/list/ZEETVHDJagadhatri1981776e41864d7e83f47b0adaf7434d6d2521c.jpg" />
-  </programme>
-  <programme channel="0-9-zeetvhd" start="20260825233000 +0000" stop="20260826000200 +0000">
-    <title lang="en">Bhakti Suman</title>
-    <desc lang="en">A devotional TV program showcasing hymns, prayers, and spiritual stories, aiming to inspire faith, meditation, and a deeper connection with the divine.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826050000/list/ZEETVHDBhaktiSuman19596080653336ae73044e08f78eddbbf2e1d71.jpg" />
-  </programme>
-  <programme channel="0-9-zeetvhd" start="20260826000200 +0000" stop="20260826003000 +0000">
-    <title lang="en">Vasudha</title>
-    <desc lang="en">Vasudha</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826053200/list/ZEETVHDVasudha1715034b1a964604e9546248089ebd66dcc3824.jpg" />
-  </programme>
-  <programme channel="0-9-zeetvhd" start="20260826003000 +0000" stop="20260826010000 +0000">
-    <title lang="en">Ganga Mai Ki Betiyan</title>
-    <desc lang="en">Ganga Mai Ki Betiyan</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826060000/list/ZEETVHDGangaMaiKiBetiyan19544850f53740aa987443aaf212eff8c7d6987.jpg" />
-  </programme>
-  <programme channel="0-9-zeetvhd" start="20260826010000 +0000" stop="20260826013000 +0000">
-    <title lang="en">Jagadhatri</title>
-    <desc lang="en">Jagadhatri</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826063000/list/ZEETVHDJagadhatri19817765a3951ef893c4d638097439d8aa981e2.jpg" />
-  </programme>
-  <programme channel="0-9-zeetvhd" start="20260826013000 +0000" stop="20260826020000 +0000">
-    <title lang="en">Vasudha</title>
-    <desc lang="en">Vasudha</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826070000/list/ZEETVHDVasudha1715034530f8edb86424c2085ea61807864fd7d.jpg" />
-  </programme>
-  <programme channel="0-9-zeetvhd" start="20260826020000 +0000" stop="20260826023000 +0000">
-    <title lang="en">Tumm Se Tumm Tak</title>
-    <desc lang="en">Tumm Se Tumm Tak</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826073000/list/ZEETVHDTumSeTumTak19073296a6e5d3311ec4d6c87f15645df9971f2.jpg" />
-  </programme>
-  <programme channel="0-9-zeetvhd" start="20260826023000 +0000" stop="20260826030000 +0000">
-    <title lang="en">Tu Hi Re Dil Mein</title>
-    <desc lang="en">Believed to bring luck, Vrinda marries her dream man, Sanjay, who loves Divya. Living as a caretaker, she faces silent sacrifices, unsure if fate will choose her.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826080000/list/ZEETVHDTuHiReDilMain2093766478fa24bc0f940eeaecf41118b76a66f.jpg" />
-  </programme>
-  <programme channel="0-9-zeetvhd" start="20260826030000 +0000" stop="20260826040000 +0000">
-    <title lang="en">Lakshmi Nivas</title>
-    <desc lang="en">Lakshmi Nivas</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826083000/list/ZEETVHDLakshmiNivas2012764f49a8e02f9bf4d65ac9d8177efaf6352.jpg" />
-  </programme>
-  <programme channel="0-9-zeetvhd" start="20260826040000 +0000" stop="20260826043000 +0000">
+  <programme channel="0-9-zeetvhd" start="20260826093000 +0000" stop="20260826100000 +0000">
     <title lang="en">Dilo Ki Ram Leela</title>
     <desc lang="en">Dilo Ki Ram Leela</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826093000/list/ZEETVHDDiloKiRamLeela2128705ac725cb8d0c64edcbe72fa0ae8a379ba.jpg" />
-  </programme>
-  <programme channel="0-9-zeetvhd" start="20260826043000 +0000" stop="20260826050000 +0000">
-    <title lang="en">Tu Hi Re Dil Mein</title>
-    <desc lang="en">Believed to bring luck, Vrinda marries her dream man, Sanjay, who loves Divya. Living as a caretaker, she faces silent sacrifices, unsure if fate will choose her.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826100000/list/ZEETVHDTuHiReDilMain20937669d5282d3860e4e848a422ec8a77d6482.jpg" />
-  </programme>
-  <programme channel="0-9-zeetvhd" start="20260826050000 +0000" stop="20260826053000 +0000">
-    <title lang="en">Ganga Mai Ki Betiyan</title>
-    <desc lang="en">Ganga Mai Ki Betiyan</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826103000/list/ZEETVHDGangaMaiKiBetiyan19544852d79f19241914e28919caea280163552.jpg" />
-  </programme>
-  <programme channel="0-9-zeetvhd" start="20260826053000 +0000" stop="20260826060000 +0000">
-    <title lang="en">Vasudha</title>
-    <desc lang="en">Vasudha</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826110000/list/ZEETVHDVasudha17150345635790473ab4ff68ca6ade73b1872eb.jpg" />
-  </programme>
-  <programme channel="0-9-zeetvhd" start="20260826060000 +0000" stop="20260826063000 +0000">
-    <title lang="en">Dilo Ki Ram Leela</title>
-    <desc lang="en">Dilo Ki Ram Leela</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826113000/list/ZEETVHDDiloKiRamLeela2128705488cf9177d8b40a28d11dc066838eaa7.jpg" />
-  </programme>
-  <programme channel="0-9-zeetvhd" start="20260826063000 +0000" stop="20260826073000 +0000">
-    <title lang="en">Lakshmi Nivas</title>
-    <desc lang="en">Lakshmi Nivas</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826120000/list/ZEETVHDLakshmiNivas2012764831b392328514fb5a452fe114814347f.jpg" />
-  </programme>
-  <programme channel="0-9-zeetvhd" start="20260826073000 +0000" stop="20260826080000 +0000">
-    <title lang="en">Tu Hi Re Dil Mein</title>
-    <desc lang="en">Believed to bring luck, Vrinda marries her dream man, Sanjay, who loves Divya. Living as a caretaker, she faces silent sacrifices, unsure if fate will choose her.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826130000/list/ZEETVHDTuHiReDilMain20937667c6911704b604a3fa4a54f55c6de2b6a.jpg" />
-  </programme>
-  <programme channel="0-9-zeetvhd" start="20260826080000 +0000" stop="20260826082200 +0000">
-    <title lang="en">Tumm Se Tumm Tak</title>
-    <desc lang="en">Tumm Se Tumm Tak</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826133000/list/ZEETVHDTumSeTumTak19073291190aa3f6d954a319ff5f51ef9d71de4.jpg" />
-  </programme>
-  <programme channel="0-9-zeetvhd" start="20260826082200 +0000" stop="20260826084300 +0000">
-    <title lang="en">Ganga Mai Ki Betiyan</title>
-    <desc lang="en">Ganga Mai Ki Betiyan</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826135200/list/ZEETVHDGangaMaiKiBetiyan1954485bbf3aed86b8148569e6625f8e15fe8f1.jpg" />
-  </programme>
-  <programme channel="0-9-zeetvhd" start="20260826084300 +0000" stop="20260826090800 +0000">
-    <title lang="en">Jagadhatri</title>
-    <desc lang="en">Jagadhatri</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826141300/list/ZEETVHDJagadhatri1981776ca5ec170eb7d4d6e8db358ac4ecbc386.jpg" />
-  </programme>
-  <programme channel="0-9-zeetvhd" start="20260826090800 +0000" stop="20260826093200 +0000">
-    <title lang="en">Vasudha</title>
-    <desc lang="en">Vasudha</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826143800/list/ZEETVHDVasudha17150343c667f90d4ab43819bceeadcf2abd7e3.jpg" />
-  </programme>
-  <programme channel="0-9-zeetvhd" start="20260826093200 +0000" stop="20260826100000 +0000">
-    <title lang="en">Dilo Ki Ram Leela</title>
-    <desc lang="en">Dilo Ki Ram Leela</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826150200/list/ZEETVHDDiloKiRamLeela212870526e37aab0bc84277be5110387fff6970.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-007740000-20260826150000/list/ZEETVHDDiloKiRamLeela21287054be3a76dc27646dfa07c806df9cdc503.jpg" />
   </programme>
   <programme channel="0-9-zeetvhd" start="20260826100000 +0000" stop="20260826103000 +0000">
     <title lang="en">Humari Radha</title>
@@ -19870,12 +19667,12 @@
     <language>Hindi</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050066-20260826083000/list/ZEETVLakshmiNivas201275979e38f4718774bf1a2f5e3af4036ef59.jpg" />
   </programme>
-  <programme channel="0-9-zeetv" start="20260826040100 +0000" stop="20260826043000 +0000">
+  <programme channel="0-9-zeetv" start="20260826040000 +0000" stop="20260826043000 +0000">
     <title lang="en">Dilo Ki Ram Leela</title>
     <desc lang="en">Dilo Ki Ram Leela</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050066-20260826093100/list/ZEETVDiloKiRamLeela212869663b90ec493b645f5b07a7442c51a383f.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050066-20260826093000/list/ZEETVDiloKiRamLeela2128696a796d478860e47ae8b61619069f8691c.jpg" />
   </programme>
   <programme channel="0-9-zeetv" start="20260826043000 +0000" stop="20260826050100 +0000">
     <title lang="en">Tu Hi Re Dil Mein</title>
@@ -19884,26 +19681,26 @@
     <language>Hindi</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050066-20260826100000/list/ZEETVTuHiReDilMain2093740967458a850ca4456bc898b8f98da4f35.jpg" />
   </programme>
-  <programme channel="0-9-zeetv" start="20260826050100 +0000" stop="20260826053200 +0000">
+  <programme channel="0-9-zeetv" start="20260826050000 +0000" stop="20260826053000 +0000">
     <title lang="en">Ganga Mai Ki Betiyan</title>
     <desc lang="en">Ganga Mai Ki Betiyan</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050066-20260826103100/list/ZEETVGangaMaiKiBetiyan1954481d24bbd6c321349a497ee17a0261fe3fb.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050066-20260826103000/list/ZEETVGangaMaiKiBetiyan195448174a89561922d463bacb58464a97d3a68.jpg" />
   </programme>
-  <programme channel="0-9-zeetv" start="20260826053200 +0000" stop="20260826060200 +0000">
+  <programme channel="0-9-zeetv" start="20260826053000 +0000" stop="20260826060000 +0000">
     <title lang="en">Vasudha</title>
     <desc lang="en">Vasudha</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050066-20260826110200/list/ZEETVVasudha1715039be5407bc4d0c45088805e96a8a080c03.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050066-20260826110000/list/ZEETVVasudha17150395774d249161646d39ae9ef5e8c2b3fde.jpg" />
   </programme>
-  <programme channel="0-9-zeetv" start="20260826060200 +0000" stop="20260826063000 +0000">
+  <programme channel="0-9-zeetv" start="20260826060000 +0000" stop="20260826063000 +0000">
     <title lang="en">Dilo Ki Ram Leela</title>
     <desc lang="en">Dilo Ki Ram Leela</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050066-20260826113200/list/ZEETVDiloKiRamLeela21286961800ac16f1ba4593bca5fd8131d66555.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050066-20260826113000/list/ZEETVDiloKiRamLeela2128696c88b106881ca4d69af281d4d39db2a0f.jpg" />
   </programme>
   <programme channel="0-9-zeetv" start="20260826063000 +0000" stop="20260826073000 +0000">
     <title lang="en">Lakshmi Nivas</title>
@@ -19919,40 +19716,40 @@
     <language>Hindi</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050066-20260826130000/list/ZEETVTuHiReDilMain2093740901a164a7ac84071b8593bf727909806.jpg" />
   </programme>
-  <programme channel="0-9-zeetv" start="20260826080100 +0000" stop="20260826082300 +0000">
+  <programme channel="0-9-zeetv" start="20260826080000 +0000" stop="20260826081500 +0000">
     <title lang="en">Tumm Se Tumm Tak</title>
     <desc lang="en">Tumm Se Tumm Tak</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050066-20260826133100/list/ZEETVTumSeTumTak1907315d1d51a35ef7f45ad85359626963abcf7.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050066-20260826133000/list/ZEETVTumSeTumTak1907315e2052336a537454b980052f61173c04b.jpg" />
   </programme>
-  <programme channel="0-9-zeetv" start="20260826082300 +0000" stop="20260826084400 +0000">
+  <programme channel="0-9-zeetv" start="20260826081500 +0000" stop="20260826083000 +0000">
     <title lang="en">Ganga Mai Ki Betiyan</title>
     <desc lang="en">Ganga Mai Ki Betiyan</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050066-20260826135300/list/ZEETVGangaMaiKiBetiyan1954481fde0c1c8642848e0ac2ececd949e8105.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050066-20260826134500/list/ZEETVGangaMaiKiBetiyan1954481e668953d91cb43ce842cb2d0cf0bbb04.jpg" />
   </programme>
-  <programme channel="0-9-zeetv" start="20260826084400 +0000" stop="20260826090500 +0000">
+  <programme channel="0-9-zeetv" start="20260826083000 +0000" stop="20260826090000 +0000">
     <title lang="en">Jagadhatri</title>
     <desc lang="en">Jagadhatri</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050066-20260826141400/list/ZEETVJagadhatri1981764ddad054d0df849c4b8d7ec892c1d8e5d.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050066-20260826140000/list/ZEETVJagadhatri1981764bc9ffdfb358446b9bf079579291d4ae8.jpg" />
   </programme>
-  <programme channel="0-9-zeetv" start="20260826090500 +0000" stop="20260826093500 +0000">
+  <programme channel="0-9-zeetv" start="20260826090000 +0000" stop="20260826093000 +0000">
     <title lang="en">Vasudha</title>
     <desc lang="en">Vasudha</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050066-20260826143500/list/ZEETVVasudha17150393a4ab19c16374b449b92b4fd2c3840ce.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050066-20260826143000/list/ZEETVVasudha1715039c1afbac8ea484efaad101cc8e55cc296.jpg" />
   </programme>
-  <programme channel="0-9-zeetv" start="20260826093500 +0000" stop="20260826100000 +0000">
+  <programme channel="0-9-zeetv" start="20260826093000 +0000" stop="20260826100000 +0000">
     <title lang="en">Dilo Ki Ram Leela</title>
     <desc lang="en">Dilo Ki Ram Leela</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050066-20260826150500/list/ZEETVDiloKiRamLeela21286968e0e836f9f1b420bba389c4b78c087e4.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050066-20260826150000/list/ZEETVDiloKiRamLeela21286961d3c6a363409488eadff4843ac8aaea1.jpg" />
   </programme>
   <programme channel="0-9-zeetv" start="20260826100000 +0000" stop="20260826103000 +0000">
     <title lang="en">Humari Radha</title>
@@ -31791,26 +31588,33 @@
     <language>Marathi</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20260826045900/list/ZeeTalkiesPatanjaliYogByYogRishiSwamiRamdev510740a751e87da7754ccfb46233f45a40b204.jpg" />
   </programme>
-  <programme channel="0-9-9z5383489" start="20260826002500 +0000" stop="20260826011100 +0000">
+  <programme channel="0-9-9z5383489" start="20260826002700 +0000" stop="20260826010800 +0000">
     <title lang="en">Sur Niragas Ho</title>
     <desc lang="en">During British Raj Vishrampur, rival singers Bhanu Shankar Shastri and Khansaheb Aftab compete for royal status; intrigue, poison, and betrayal change their lives and destinies.</desc>
     <category>Film</category>
     <language>Marathi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20260826055500/list/ZeeTalkiesSurNiragasHo20194256ae3c05eea5a40159c1fb458b6b9d8ee.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20260826055700/list/ZeeTalkiesSurNiragasHo2019425f9e4777cdbc6428eaa338556927b930e.jpg" />
   </programme>
-  <programme channel="0-9-9z5383489" start="20260826011100 +0000" stop="20260826040200 +0000">
+  <programme channel="0-9-9z5383489" start="20260826010800 +0000" stop="20260826020100 +0000">
+    <title lang="en">Hari Mukhe Mhana</title>
+    <desc lang="en">Hari Mukhe Mhana # 05</desc>
+    <category>Film</category>
+    <language>Marathi</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20260826063800/list/ZeeTalkiesHariMukheMhana1309024b1a5ba47836b493bbe351f6e58c66f67.jpg" />
+  </programme>
+  <programme channel="0-9-9z5383489" start="20260826020100 +0000" stop="20260826040000 +0000">
     <title lang="en">Gajar Kirtanacha Sohala Anandacha</title>
     <desc lang="en">People gather to sing and pray. They offer devotional songs and worship to God. Their kirtans show love and respect for the Almighty.</desc>
     <category>Film</category>
     <language>Marathi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20260826064100/list/ZeeTalkiesGajarKirtanachaSohalaAnandacha4415583bdab52c72a14b3bb8eec265023d043b.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20260826073100/list/ZeeTalkiesGajarKirtanachaSohalaAnandacha441558be4e7bf97c8742c08aa814a0ef641725.jpg" />
   </programme>
-  <programme channel="0-9-9z5383489" start="20260826040200 +0000" stop="20260826050000 +0000">
+  <programme channel="0-9-9z5383489" start="20260826040000 +0000" stop="20260826050000 +0000">
     <title lang="en">Mann Mandira - Season 2</title>
     <desc lang="en">'Gajar Bhakticha' is a Marathi show for Ashadi Ekadashi. Devotees sing and pray to God through keertan. It's a spiritual show during the festive month, offering devotion and worship.</desc>
     <category>Film</category>
     <language>Marathi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20260826093200/list/ZeeTalkiesMannMandiraSeason2939395697f7152330547e8bec545dfd6c9fb90.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20260826093000/list/ZeeTalkiesMannMandiraSeason29393951fc649f1d8e446ce84ab5c81c570c7cd.jpg" />
   </programme>
   <programme channel="0-9-9z5383489" start="20260826050000 +0000" stop="20260826072600 +0000">
     <title lang="en">Zapatlela</title>
@@ -63648,19 +63452,19 @@
     <language>Malayalam</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033800112-20260826100000/list/ZeeKeralamHDKaarupu21297656b121ab70045441488a38f405d12fb08.jpg" />
   </programme>
-  <programme channel="0-9-129" start="20260826072800 +0000" stop="20260826100300 +0000">
+  <programme channel="0-9-129" start="20260826073000 +0000" stop="20260826100000 +0000">
     <title lang="en">Aashakal Ayiram</title>
     <desc lang="en">Aashakal Ayiram</desc>
     <category>Entertainment</category>
     <language>Malayalam</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033800112-20260826125800/list/ZeeKeralamHDAashakalAyiram2129766e39343edcf3b48dd9786a6779eb565a3.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033800112-20260826130000/list/Movies207d71aa150b82c436d96e3c4453a6fd0a0.jpg" />
   </programme>
-  <programme channel="0-9-129" start="20260826100300 +0000" stop="20260826133000 +0000">
+  <programme channel="0-9-129" start="20260826100000 +0000" stop="20260826133000 +0000">
     <title lang="en">Patriot</title>
     <desc lang="en">Undercover agents uncover a vast surveillance conspiracy that grows into a national security crisis. They race to dismantle the network before it can suppress political opposition.</desc>
     <category>Entertainment</category>
     <language>Malayalam</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033800112-20260826153300/list/ZeeKeralamHDPatriot2127325e9d28e2178974dfba22e7281614d5ade.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033800112-20260826153000/list/ZeeKeralamHDPatriot2127325742e9ba773764a17aa82f23def786c65.jpg" />
   </programme>
   <programme channel="0-9-129" start="20260826133000 +0000" stop="20260826140000 +0000">
     <title lang="en">Kudumbasree Sharada</title>
@@ -71110,19 +70914,19 @@
     <language>Telugu</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002341500-20260826090000/list/ZeeCinemaluHDBrotherOfBommali7325111d712f0bb48746a38fa15a78b910c683.jpg" />
   </programme>
-  <programme channel="0-9-zeecinemalu" start="20260826062800 +0000" stop="20260826093200 +0000">
+  <programme channel="0-9-zeecinemalu" start="20260826063000 +0000" stop="20260826093000 +0000">
     <title lang="en">Bhairavam</title>
     <desc lang="en">Three childhood friends face a critical test of loyalty that challenges their unbreakable bond, pushing them through trials that reveal the strength and fragility of their friendship.</desc>
     <category>Film</category>
     <language>Telugu</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002341500-20260826115800/list/ZeeCinemaluHDBhairavam19709058da8fc358e734236aa1aa2f107330d53.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002341500-20260826120000/list/ZeeCinemaluHDBhairavam1970905cd8d20cf05294dd9967c6e0d2ee9c904.jpg" />
   </programme>
-  <programme channel="0-9-zeecinemalu" start="20260826093200 +0000" stop="20260826123000 +0000">
+  <programme channel="0-9-zeecinemalu" start="20260826093000 +0000" stop="20260826123000 +0000">
     <title lang="en">Chandamama</title>
     <desc lang="en">Ranga Rao is well known in the village and fixes his daughter's marriage with an honest man. But his daughter was in love with a city lad.</desc>
     <category>Film</category>
     <language>Telugu</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002341500-20260826150200/list/ZeeCinemaluHDChandamama645781fee4fe5da102483d813ac63679dd42e7.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002341500-20260826150000/list/ZeeCinemaluHDChandamama6457811b40b35722504a388ebca508621fc547.jpg" />
   </programme>
   <programme channel="0-9-zeecinemalu" start="20260826123000 +0000" stop="20260826153000 +0000">
     <title lang="en">Loukyam</title>
@@ -71614,89 +71418,12 @@
     <language>Telugu</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002341500-20260901235000/list/ZeeCinemaluHDFillers1132442457bb3272f9b4af5b14d0c71f8afe92f.jpg" />
   </programme>
-  <programme channel="0-9-9z5383488" start="20260825183000 +0000" stop="20260825204800 +0000">
-    <title lang="en">Srimanthudu</title>
-    <desc lang="en">Harsha, a rich heir, has a life-changing moment when he stumbles upon a remote village. Inspired, he decides to adopt and uplift the community for a better future.</desc>
-    <category>Film</category>
-    <language>Telugu</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-097980020-20260826000000/list/ZeeCinemaluSrimanthudu728424b578195064bd468f9a38f56f4cc5015e.jpg" />
-  </programme>
-  <programme channel="0-9-9z5383488" start="20260825204800 +0000" stop="20260825213000 +0000">
-    <title lang="en">Fillers</title>
-    <desc lang="en">Enjoy a light-hearted segment offering brief, engaging content that bridges program transitions with humor, intriguing snippets, and delightful unexpected moments for a seamless viewing experience.</desc>
-    <category>Film</category>
-    <language>Telugu</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-097980020-20260826021800/list/ZeeCinemaluFillers1132443c759db35f74143ccba95396277375725.jpg" />
-  </programme>
-  <programme channel="0-9-9z5383488" start="20260825213000 +0000" stop="20260825234200 +0000">
-    <title lang="en">Jayam Manadera</title>
-    <desc lang="en">Abhiram and Uma fall in love in Europe but separate when Uma returns to India.</desc>
-    <category>Film</category>
-    <language>Telugu</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-097980020-20260826030000/list/ZeeCinemaluJayamManadera13242259b207b5c05a744568286bf3c4b3c15c6.jpg" />
-  </programme>
-  <programme channel="0-9-9z5383488" start="20260825234200 +0000" stop="20260826003000 +0000">
-    <title lang="en">Fillers</title>
-    <desc lang="en">Enjoy a light-hearted segment offering brief, engaging content that bridges program transitions with humor, intriguing snippets, and delightful unexpected moments for a seamless viewing experience.</desc>
-    <category>Film</category>
-    <language>Telugu</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-097980020-20260826051200/list/ZeeCinemaluFillers11324433133d955e00f4e4fb959573ba784f4de.jpg" />
-  </programme>
-  <programme channel="0-9-9z5383488" start="20260826003000 +0000" stop="20260826005000 +0000">
-    <title lang="en">Just Chill</title>
-    <desc lang="en">Enjoy a collection of beloved, beautiful songs. Talented artists sing and create the music. Listen to one song after another in this pleasing compilation.</desc>
-    <category>Film</category>
-    <language>Telugu</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-097980020-20260826060000/list/ZeeCinemaluJustChill565346767dd43128994c39bc5a2c54bd7c60f9.jpg" />
-  </programme>
-  <programme channel="0-9-9z5383488" start="20260826005000 +0000" stop="20260826010000 +0000">
-    <title lang="en">Fillers</title>
-    <desc lang="en">Enjoy a light-hearted segment offering brief, engaging content that bridges program transitions with humor, intriguing snippets, and delightful unexpected moments for a seamless viewing experience.</desc>
-    <category>Film</category>
-    <language>Telugu</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-097980020-20260826062000/list/ZeeCinemaluFillers1132443de31eaed07bb41dd997d13ce13cad762.jpg" />
-  </programme>
-  <programme channel="0-9-9z5383488" start="20260826010000 +0000" stop="20260826012300 +0000">
-    <title lang="en">Just Chill</title>
-    <desc lang="en">Enjoy a collection of beloved, beautiful songs. Talented artists sing and create the music. Listen to one song after another in this pleasing compilation.</desc>
-    <category>Film</category>
-    <language>Telugu</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-097980020-20260826063000/list/ZeeCinemaluJustChill5653463597b587c1c24e398572039be71853b2.jpg" />
-  </programme>
-  <programme channel="0-9-9z5383488" start="20260826012300 +0000" stop="20260826013000 +0000">
-    <title lang="en">Fillers</title>
-    <desc lang="en">Enjoy a light-hearted segment offering brief, engaging content that bridges program transitions with humor, intriguing snippets, and delightful unexpected moments for a seamless viewing experience.</desc>
-    <category>Film</category>
-    <language>Telugu</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-097980020-20260826065300/list/ZeeCinemaluFillers1132443bc0187f041a04abca1bf51a251d3d829.jpg" />
-  </programme>
-  <programme channel="0-9-9z5383488" start="20260826013000 +0000" stop="20260826033000 +0000">
-    <title lang="en">Shiva Veda</title>
-    <desc lang="en">A once peaceful man, Vedha, goes on a revenge killing spree with his daughter, Kanaka, after she gets released from prison. A daunting inspector Ramaa tries to stop the duo, only to be outrun by them.</desc>
-    <category>Film</category>
-    <language>Telugu</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-097980020-20260826070000/list/ZeeCinemaluShivaVeda1447528d1914282950a4f18bf739a14ef4d1a75.jpg" />
-  </programme>
-  <programme channel="0-9-9z5383488" start="20260826033000 +0000" stop="20260826063000 +0000">
-    <title lang="en">Brother Of Bommali</title>
-    <desc lang="en">Ramu defies family norms, striving to unite his twin with her love, as he pursues his own forbidden romance.</desc>
-    <category>Film</category>
-    <language>Telugu</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-097980020-20260826090000/list/ZeeCinemaluBrotherOfBommali381573587a30fd229c4985b336239aa4b86dd6.jpg" />
-  </programme>
-  <programme channel="0-9-9z5383488" start="20260826063000 +0000" stop="20260826093400 +0000">
-    <title lang="en">Bhairavam</title>
-    <desc lang="en">Three lifelong friends-Seenu, Varada, and Gajapathi-face a rift when a wicked minister schemes to split them to seize funds for the Varahi temple.</desc>
-    <category>Film</category>
-    <language>Telugu</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-097980020-20260826120000/list/ZeeCinemaluBhairavam1970884ae58fa0763374306bab714b57d8c91d8.jpg" />
-  </programme>
-  <programme channel="0-9-9z5383488" start="20260826093400 +0000" stop="20260826123000 +0000">
+  <programme channel="0-9-9z5383488" start="20260826093000 +0000" stop="20260826123000 +0000">
     <title lang="en">Chandamama</title>
     <desc lang="en">Village elder arranges marriage for daughter, unaware she's in love with city boy, sparking a romantic dilemma.</desc>
     <category>Film</category>
     <language>Telugu</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-097980020-20260826150400/list/ZeeCinemaluChandamama38159882bfb9503d5745b7a3fee8cb97489a0f.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-097980020-20260826150000/list/ZeeCinemaluChandamama38159883e675e3c47c493c90de1661ba652845.jpg" />
   </programme>
   <programme channel="0-9-9z5383488" start="20260826123000 +0000" stop="20260826153600 +0000">
     <title lang="en">Loukyam</title>
@@ -85061,33 +84788,33 @@
     <language>Bengali</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002341200-20260826093000/list/ZeeBanglaHDGaanerBhubone2100975a07fd2f8e2f44d03a47bc42e06653d78.jpg" />
   </programme>
-  <programme channel="0-9-zeebangla" start="20260826045900 +0000" stop="20260826055900 +0000">
+  <programme channel="0-9-zeebangla" start="20260826050000 +0000" stop="20260826060000 +0000">
     <title lang="en">Didi No 1 S09</title>
     <desc lang="en">Women compete in a multi-round contest celebrating womanhood. They showcase skills and talents for diverse prizes. The event honors women's strength, creativity, and spirit.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002341200-20260826102900/list/ZeeBanglaHDDidiNo1S09131151869d06cb9fa404a8a9bdbf0d005a145e4.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002341200-20260826103000/list/ZeeBanglaHDDidiNo1S0913115180fb5ddb5e207495c950479bf31de66ef.jpg" />
   </programme>
-  <programme channel="0-9-zeebangla" start="20260826055900 +0000" stop="20260826062900 +0000">
+  <programme channel="0-9-zeebangla" start="20260826060000 +0000" stop="20260826063000 +0000">
     <title lang="en">Dulari</title>
     <desc lang="en">A simple village girl moves to Kolkata, completely unaware of her royal roots. Facing hostile foes, she must overcome conflict and reclaim her true identity.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002341200-20260826112900/list/ZeeBanglaHDDulari2101405005174d480014af5956ed72f0f7dbdca.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002341200-20260826113000/list/ZeeBanglaHDDulari210140519f816bb3f9040f9ad96589d9f219e94.jpg" />
   </programme>
-  <programme channel="0-9-zeebangla" start="20260826062900 +0000" stop="20260826070000 +0000">
+  <programme channel="0-9-zeebangla" start="20260826063000 +0000" stop="20260826064500 +0000">
     <title lang="en">Joyar Bhata</title>
     <desc lang="en">Sisters Uji and Nisha are close yet opposite. Uji is studious, Nisha turns to scams. After their father's death, revenge and Uji's marriage spark rising tensions.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002341200-20260826115900/list/ZeeBanglaHDJoyarBhata1944434ed7e57ce7a6e49fdb8102a1d3fcb3050.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002341200-20260826120000/list/ZeeBanglaHDJoyarBhata19444347ac2b7240a684c41a4954900a95541dd.jpg" />
   </programme>
-  <programme channel="0-9-zeebangla" start="20260826070000 +0000" stop="20260826073000 +0000">
+  <programme channel="0-9-zeebangla" start="20260826064500 +0000" stop="20260826073000 +0000">
     <title lang="en">Tare Dhori Dhori Mone Kori</title>
     <desc lang="en">In ancient Nabadwip, a devout ascetic seeking divinity meets a wealthy young woman longing for love and family, sparking a rare, unforgettable romance that changes lives.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002341200-20260826123000/list/ZeeBanglaHDTareDhoriDhoriMoneKori19983456c5f297bf2db4585b5437065a40294e8.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002341200-20260826121500/list/ZeeBanglaHDTareDhoriDhoriMoneKori19983451210686aee6442d981adb4f6e2d8878e.jpg" />
   </programme>
   <programme channel="0-9-zeebangla" start="20260826073000 +0000" stop="20260826075900 +0000">
     <title lang="en">Baghini</title>
@@ -139689,321 +139416,6 @@
     <language>English</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050001-20260901233000/list/IndiaTodayInDaClub406106bdb0f989cb6c4edc90e1715a90c583e7.jpg" />
   </programme>
-  <programme channel="0-9-9z5910524" start="20260825183000 +0000" stop="20260825200500 +0000">
-    <title lang="en">Love by Chance</title>
-    <desc lang="en">Claire, a pastry chef, is busy running her new restaurant, but her meddling mother is preoccupied with her lack of love life. Without her knowledge, Claire's mother finds her the perfect man. 2016</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826000000/list/GreatromanceLovebyChance2087495f6ed28def0d346079239f56f8da2a257.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260825200500 +0000" stop="20260825214000 +0000">
-    <title lang="en">A Lifelong Love</title>
-    <desc lang="en">Lyrical love story starring Andrea Brooks and Patch May. When poet Annika tries to reunite her grandfather with his first love, will teaming up with an old flame rekindle another romance?</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826013500/list/GreatromanceALifelongLove2056794ac0eec6d58a4470fa40584bbc07c8941.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260825214000 +0000" stop="20260825232000 +0000">
-    <title lang="en">Love at The Ranch</title>
-    <desc lang="en">Journalist Allison Sawyer visits the remote Clybourne Ranch, the setting of her favourite author's books. Starring Laura Mitchell 2021</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826031000/list/GreatromanceLoveatTheRanch20642676bd8d0751a894baf94889b14fd054606.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260825232000 +0000" stop="20260826005200 +0000">
-    <title lang="en">A Country Romance</title>
-    <desc lang="en">A woman falls for a handsome local when she returns home to help on her family vineyard. Starring Alix Angelis 2021</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826045000/list/GreatromanceACountryRomance20642777c9c8ada246f45e8950feb582da47be3.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260826005200 +0000" stop="20260826022800 +0000">
-    <title lang="en">Holly Star</title>
-    <desc lang="en">Quirky festive fun with Katlyn Carlson. Could a near-death experience and a vision of buried treasure fix a cash-strapped puppeteer's problems? Anything's possible at Christmas...</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826062200/list/GreatromanceHollyStar2102313b4edccfcde884941b636134a75d6b33b.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260826022800 +0000" stop="20260826040900 +0000">
-    <title lang="en">The Movie Star and the Cowboy</title>
-    <desc lang="en">2022 Romance starring MacKenzie Porter and Toby Levins. Actress Isabella is desperate to land her dream role as a rancher - but will learning the ropes in Montana also land her a leading man?</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826075800/list/GreatromanceTheMovieStarandtheCowboy2064296db95b7cb393b4570bba8b63fe2560e4e.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260826040900 +0000" stop="20260826054300 +0000">
-    <title lang="en">When Love Springs</title>
-    <desc lang="en">Lakeside romcom starring Rhiannon Fish and James O'Halloran. After running into an ex at her parents' vow renewal, Rory enlists a pretend plus one. But will faking it lead to real love?</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826093900/list/GreatromanceWhenLoveSprings21023164be9f80a61cc4698950b903b249d9a16.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260826054300 +0000" stop="20260826072200 +0000">
-    <title lang="en">Love At The Lodge</title>
-    <desc lang="en">Romance with Megan Elizabeth Barker. Lawyer Emma is promised a promotion if she can persuade Liam to sell his family's country lodge. But is she about to have a conflict of interest?</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826111300/list/GreatromanceLoveAtTheLodge2056823de01713e2a474edfbdbccc3525d2639c.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260826072200 +0000" stop="20260826085600 +0000">
-    <title lang="en">The Baker's Son</title>
-    <desc lang="en">The locals of Windwards Island always knows when talented baker Matt has fallen in love, his loaves taste delicious. So, when his bread stops tasting bland, is it due to the newcomer or friend Annie?</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826125200/list/GreatromanceTheBakersSon21156142f1daad40bec48308381df731ba0b459.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260826085600 +0000" stop="20260826103800 +0000">
-    <title lang="en">The Royal Bake Off</title>
-    <desc lang="en">2023 Showstopper romance with Ansley Gordon and Christian Howard. There's no room for soggy bottoms as two rivals compete to bake a cake fit for a King. But who will be crowned royal star baker?</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826142600/list/GreatromanceTheRoyalBakeOff20875206255b299b5a1424cbfdeaeb0dd077dcc.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260826103800 +0000" stop="20260826122000 +0000">
-    <title lang="en">A Royal Recipe for Love</title>
-    <desc lang="en">2023 Flavourful romance starring Laura Miyata and David Lafontaine. An NYC baker would love to land a cookbook deal. Will a dash of royalty and a spoonful of romance help fulfil her dream?</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826160800/list/GreatromanceARoyalRecipeforLove2064279f3ede755db92410da41e3e1227c3a04f.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260826122000 +0000" stop="20260826135400 +0000">
-    <title lang="en">Wedding Cake Dreams</title>
-    <desc lang="en">Carrie is convinced that the best man at her sister's wedding is her partner, as he resembles the man that appeared in her dream. Starring Donna Benedicto 2021</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826175000/list/GreatromanceWeddingCakeDreams20642835940aa21162b437f98099d6c2266fe3a.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260826135400 +0000" stop="20260826153300 +0000">
-    <title lang="en">The Way To The Heart</title>
-    <desc lang="en">2022 Romance with Meghan Heffern. When a big-city chef loses her spark, her boss insists she takes a break to find herself again. Will a visit to her hometown help her rediscover her passions?</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826192400/list/GreatromanceTheWayToTheHeart2115615d151ce93d60f4073b9ed4db5e94d324e.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260826153300 +0000" stop="20260826171500 +0000">
-    <title lang="en">Baking up Love</title>
-    <desc lang="en">A confectionery store owner Lynn is convinced by the people of her town to enter the Great Pumpkin Bake Off. With the arrival of her unruly niece Julie, has she beaten of more than she can chew? 2021</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826210300/list/GreatromanceBakingupLove20642800fdd38d6d8b84fe1bfbad526d2718363.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260826171500 +0000" stop="20260826184700 +0000">
-    <title lang="en">The Secret Ingredient</title>
-    <desc lang="en">The Secret Ingredient</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826224500/list/GreatromanceTheSecretIngredient20875191034057a5fdd4310ad7141bee33895e9.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260826184700 +0000" stop="20260826202400 +0000">
-    <title lang="en">Baked With A Kiss</title>
-    <desc lang="en">Culinary romance starring Jonathan Stoddard and Ansley Gordon. Renowned for her magical True Love pie, a baker accidentally serves one to a rude customer, who ends up falling in love with her.</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827001700/list/GreatromanceBakedWithAKiss2102312149913315305486db1d7f66a6377bd0d.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260826202400 +0000" stop="20260826215800 +0000">
-    <title lang="en">The Baker's Son</title>
-    <desc lang="en">The locals of Windwards Island always knows when talented baker Matt has fallen in love, his loaves taste delicious. So, when his bread stops tasting bland, is it due to the newcomer or friend Annie?</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827015400/list/GreatromanceTheBakersSon21156141c0cde2a5b194a5cb764c27534377477.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260826215800 +0000" stop="20260826234000 +0000">
-    <title lang="en">The Royal Bake Off</title>
-    <desc lang="en">2023 Showstopper romance with Ansley Gordon and Christian Howard. There's no room for soggy bottoms as two rivals compete to bake a cake fit for a King. But who will be crowned royal star baker?</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827032800/list/GreatromanceTheRoyalBakeOff2087520697aa25afe1e4cf3aab974b741140a32.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260826234000 +0000" stop="20260827012200 +0000">
-    <title lang="en">A Royal Recipe for Love</title>
-    <desc lang="en">2023 Flavourful romance starring Laura Miyata and David Lafontaine. An NYC baker would love to land a cookbook deal. Will a dash of royalty and a spoonful of romance help fulfil her dream?</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827051000/list/GreatromanceARoyalRecipeforLove2064279340fe6f294eb4d37ba80f74ab6fba237.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260827012200 +0000" stop="20260827025600 +0000">
-    <title lang="en">Wedding Cake Dreams</title>
-    <desc lang="en">Carrie is convinced that the best man at her sister's wedding is her partner, as he resembles the man that appeared in her dream. Starring Donna Benedicto 2021</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827065200/list/GreatromanceWeddingCakeDreams20642838fc3b849bd884b55b692819e1859fd1a.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260827025600 +0000" stop="20260827043400 +0000">
-    <title lang="en">The Way To The Heart</title>
-    <desc lang="en">2022 Romance with Meghan Heffern. When a big-city chef loses her spark, her boss insists she takes a break to find herself again. Will a visit to her hometown help her rediscover her passions?</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827082600/list/GreatromanceTheWayToTheHeart21156150fe66ee6f47942cb880d1173ce4cdfa7.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260827043400 +0000" stop="20260827061600 +0000">
-    <title lang="en">Baking up Love</title>
-    <desc lang="en">A confectionery store owner Lynn is convinced by the people of her town to enter the Great Pumpkin Bake Off. With the arrival of her unruly niece Julie, has she beaten of more than she can chew? 2021</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827100400/list/GreatromanceBakingupLove2064280c3dfd07e2e65481fba9a8eeae2981a85.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260827061600 +0000" stop="20260827074900 +0000">
-    <title lang="en">The Secret Ingredient</title>
-    <desc lang="en">The Secret Ingredient</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827114600/list/GreatromanceTheSecretIngredient2087519fe4d6f0dab0d45c8b0880570b60bd940.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260827074900 +0000" stop="20260827092900 +0000">
-    <title lang="en">Love at Lookout Lake</title>
-    <desc lang="en">2025 Romcom with Cait Moira and Jonathan Stoddard. Gossip columnist Sierra is on the trail of a mysterious writer rumoured to be living in her hometown. But will an old flame deliver a plot twist?</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827131900/list/GreatromanceLoveatLookoutLake206696348ce712c85db4a09ac9d01f1e2169b5a.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260827092900 +0000" stop="20260827111000 +0000">
-    <title lang="en">The Happiness Playbook</title>
-    <desc lang="en">Romcom with Kabby Borders and Tyler Harlow. A journalist goes undercover to expose the truth about a mysterious retreat. But when sparks fly with its owner, will love be the front-page story?</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827145900/list/GreatromanceTheHappinessPlaybook205683169f9bb369d1945229ac63636e8a4d5e1.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260827111000 +0000" stop="20260827124700 +0000">
-    <title lang="en">Inspiring Love</title>
-    <desc lang="en">After a misunderstanding shy artist Isla and confident salesman Mark team up to create a sculpture for Mark's his boss. As Isla spends more time with Mark, will his confidence rub off?</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827164000/list/GreatromanceInspiringLove2056826a89d8696fd634881831768ab3116123b.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260827124700 +0000" stop="20260827142000 +0000">
-    <title lang="en">Secrets of Bella Vista</title>
-    <desc lang="en">2022 Uplifting drama starring Rachelle Lefevre. Antiques dealer Tess inherits half of a struggling orchard, discovering a half-sister and family secrets that change her understanding of herself.</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827181700/list/GreatromanceSecretsofBellaVista211175216975609b51f46a48fbec59b4d321526.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260827142000 +0000" stop="20260827155700 +0000">
-    <title lang="en">The Love Subscription</title>
-    <desc lang="en">Lillian comes up with an investment idea to wow her boss but first she must convince her client, Grant her proposal is one he can't refuse. 2022</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827195000/list/GreatromanceTheLoveSubscription2064291d154ab8cd75d411eb4fecdbfd1540aba.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260827155700 +0000" stop="20260827173800 +0000">
-    <title lang="en">The Boyfriend Trap</title>
-    <desc lang="en">2022 Life-swapping romcom starring Ansley Gordon. Identical twins Alice and Lacey are not two peas in a pod, but when they switch places on a retreat, will their new perspectives lead to love?</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827212700/list/GreatromanceTheBoyfriendTrap206428946b59a86e09741ed8ccdd28ca529d308.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260827173800 +0000" stop="20260827192000 +0000">
-    <title lang="en">Finding Mr. Right</title>
-    <desc lang="en">When popular love and relationship podcaster and future author, Nikki Parsons is dumped by her boyfriend the day before she meets her new publisher, she has to think fast.</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827230800/list/GreatromanceFindingMrRight2056779b919695894d94e8fa3e6db66126de5a1.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260827192000 +0000" stop="20260827204600 +0000">
-    <title lang="en">Tell Me I Love You</title>
-    <desc lang="en">Desperate for money, three best friends devise an outrageous plan to get married and inherit money from a trust fund. Starring Kaniehtiio Horn 2019</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828005000/list/GreatromanceTellMeILoveYou21156133c4ee347a9da4e3a9a931050b48e0725.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260827204600 +0000" stop="20260827222400 +0000">
-    <title lang="en">Love Hacks</title>
-    <desc lang="en">Opinionated strait-laced Sam is starting a new podcast on relationships. Talented easy going producer Josh has been asked to help her. Can they set their differences aside to make romance blossom?</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828021600/list/GreatromanceLoveHacks2056820bae2bdca1b644843ad65f1ce7c92e7e3.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260827222400 +0000" stop="20260828004000 +0000">
-    <title lang="en">Love at Lookout Lake</title>
-    <desc lang="en">2025 Romcom with Cait Moira and Jonathan Stoddard. Gossip columnist Sierra is on the trail of a mysterious writer rumoured to be living in her hometown. But will an old flame deliver a plot twist?</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828035400/list/GreatromanceLoveatLookoutLake2066963197b523dd68549af9c08583d0b7cb3fb.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260828004000 +0000" stop="20260828021500 +0000">
-    <title lang="en">Diagnosis Delicious</title>
-    <desc lang="en">Romance with Maya Stojan. A fallen chef and a talented cardiologist who hates cooking cross paths in a cooking class-serving up a lesson in love neither saw coming.</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828061000/list/GreatromanceDiagnosisDelicious20567850472e66d71484c75b7b06a66132e9893.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260828021500 +0000" stop="20260828035000 +0000">
-    <title lang="en">Brimming With Love</title>
-    <desc lang="en">Stuck in a newspaper sales department, Allie Kelsey Asbille is thrilled when her boss, Mr. Rickford George Newbern gives her a chance at writing her own summer series of articles.</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828074500/list/GreatromanceBrimmingWithLove2056780ff50a50a3bfa46a180dd89ae4b75781c.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260828035000 +0000" stop="20260828052800 +0000">
-    <title lang="en">Love, Romance and Chocolate</title>
-    <desc lang="en">Emma and chocolatier Luc compete for Belgium's Royal Chocolatier. The beauty and romance of Bruges inspire unique chocolate combinations, but will their entry win without them losing their hearts?</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828092000/list/GreatromanceLoveRomanceandChocolate2102314ce7c0471aec04d3e9bcb70b5dd22a024.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260828052800 +0000" stop="20260828070200 +0000">
-    <title lang="en">Baking All The Way</title>
-    <desc lang="en">A pastry chef arrives in Wisconsin to convince a baker to give her his gingerbread recipe for her new cookbook. Starring Cory Lee</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828105800/list/GreatromanceBakingAllTheWay21023110bd0b19d01974d23af852ad2d54ceeae.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260828070200 +0000" stop="20260828084200 +0000">
-    <title lang="en">With Love, Your Sweetly Salted</title>
-    <desc lang="en">Anonymous food critic Alison goes undercover as a prep cook to make amends with the chef she accidentally trashed online, but things soon begin to heat up in the kitchen.</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828123200/list/GreatromanceWithLoveYourSweetlySalted2056853669cf6161fd14ac09ebb909b4d2ae0b9.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260828084200 +0000" stop="20260828101500 +0000">
-    <title lang="en">The Blessing Bracelet</title>
-    <desc lang="en">2023 Uplifting drama starring Amanda Schull and Carlo Marks. When a struggling single mother rediscovers a bracelet she made as a teenager, will she find that a little belief goes a long way?</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828141200/list/GreatromanceTheBlessingBracelet20875228ca21cd9dacf406da246b8b6d52899d1.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260828101500 +0000" stop="20260828115400 +0000">
-    <title lang="en">Fishing for Love</title>
-    <desc lang="en">2021 Romance starring Andrea Brooks and Spencer Lord. When restaurant designer Kendall returns home to Mystic Bay and runs into an alluring new arrival, will he prove to be the perfect catch?</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828154500/list/GreatromanceFishingforLove208750074e2b8503fd14590b8c36bbea0426301.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260828115400 +0000" stop="20260828133400 +0000">
-    <title lang="en">A Town Called Love</title>
-    <desc lang="en">Romance starring Emma Johnson and Marshall Williams. A famous travel writer sends Emma on a mission to debunk small-town myths. But as she scouts out one town, will she find love - in Love?</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828172400/list/GreatromanceATownCalledLove20567921f5abfc0946c49e7842fcc76d65303ed.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260828133400 +0000" stop="20260828150700 +0000">
-    <title lang="en">Sweet Home Carolina</title>
-    <desc lang="en">2017 Romantic comedy starring Heather McComb. A stressed-out single mum moves to South Carolina to claim an inherited house, where unexpected love and Southern charm await.</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828190400/list/GreatromanceSweetHomeCarolina20642907b98e3589ba548ffb4e5364aae8e9bd4.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260828150700 +0000" stop="20260828164000 +0000">
-    <title lang="en">The Wish Swap</title>
-    <desc lang="en">Charming romcom with Emily Tennant and Jake Foy. When two strangers get each other's birthday wishes, can they team up to make both their dreams come true?</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828203700/list/GreatromanceTheWishSwap2091721c1caf6c58cbf4c74b006fec605b64544.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260828164000 +0000" stop="20260828181400 +0000">
-    <title lang="en">Stepping Into Love</title>
-    <desc lang="en">Claire has the difficult task to help a maverick artist exhibit a success. In the short time she spends with Devan, the developer their feelings grow but will their story lead to a happy ending?</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828221000/list/GreatromanceSteppingIntoLove2056843fb1c723579be4d519453c22b57583dda.jpg" />
-  </programme>
-  <programme channel="0-9-9z5910524" start="20260828181400 +0000" stop="20260828203000 +0000">
-    <title lang="en">Blue Moon Ball</title>
-    <desc lang="en">Romance with Ashley Newbrough and Eric Lutz. While back in her hometown to finish her book, a novelist helps her ex save the town's historic ballroom - but can she write her own happy ending?</desc>
-    <category>Entertainment</category>
-    <language>English</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828234400/list/GreatromanceBlueMoonBall20567831c23b997ce5741f48e0b23c247c212e1.jpg" />
-  </programme>
   <programme channel="0-9-9z5910523" start="20260825183700 +0000" stop="20260825201300 +0000">
     <title lang="en">Garage Sale Mysteries: The Novel Murders</title>
     <desc lang="en">2017 Murder mystery with Lori Loughlin. Antiques expert and sleuth Jennifer begins to suspect that a crime scene is a re-enactment of a murder straight out of the pages of a book.</desc>
@@ -141879,6 +141291,321 @@
     <category>Film</category>
     <language>English</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800011-20260901224700/list/GreatMoviesPrettyLittleStalker20874599791b7b241494e5faadc0f567a05d784.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260825183000 +0000" stop="20260825200500 +0000">
+    <title lang="en">Love by Chance</title>
+    <desc lang="en">Claire, a pastry chef, is busy running her new restaurant, but her meddling mother is preoccupied with her lack of love life. Without her knowledge, Claire's mother finds her the perfect man. 2016</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826000000/list/GreatromanceLovebyChance2087495f6ed28def0d346079239f56f8da2a257.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260825200500 +0000" stop="20260825214000 +0000">
+    <title lang="en">A Lifelong Love</title>
+    <desc lang="en">Lyrical love story starring Andrea Brooks and Patch May. When poet Annika tries to reunite her grandfather with his first love, will teaming up with an old flame rekindle another romance?</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826013500/list/GreatromanceALifelongLove2056794ac0eec6d58a4470fa40584bbc07c8941.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260825214000 +0000" stop="20260825232000 +0000">
+    <title lang="en">Love at The Ranch</title>
+    <desc lang="en">Journalist Allison Sawyer visits the remote Clybourne Ranch, the setting of her favourite author's books. Starring Laura Mitchell 2021</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826031000/list/GreatromanceLoveatTheRanch20642676bd8d0751a894baf94889b14fd054606.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260825232000 +0000" stop="20260826005200 +0000">
+    <title lang="en">A Country Romance</title>
+    <desc lang="en">A woman falls for a handsome local when she returns home to help on her family vineyard. Starring Alix Angelis 2021</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826045000/list/GreatromanceACountryRomance20642777c9c8ada246f45e8950feb582da47be3.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260826005200 +0000" stop="20260826022800 +0000">
+    <title lang="en">Holly Star</title>
+    <desc lang="en">Quirky festive fun with Katlyn Carlson. Could a near-death experience and a vision of buried treasure fix a cash-strapped puppeteer's problems? Anything's possible at Christmas...</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826062200/list/GreatromanceHollyStar2102313b4edccfcde884941b636134a75d6b33b.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260826022800 +0000" stop="20260826040900 +0000">
+    <title lang="en">The Movie Star and the Cowboy</title>
+    <desc lang="en">2022 Romance starring MacKenzie Porter and Toby Levins. Actress Isabella is desperate to land her dream role as a rancher - but will learning the ropes in Montana also land her a leading man?</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826075800/list/GreatromanceTheMovieStarandtheCowboy2064296db95b7cb393b4570bba8b63fe2560e4e.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260826040900 +0000" stop="20260826054300 +0000">
+    <title lang="en">When Love Springs</title>
+    <desc lang="en">Lakeside romcom starring Rhiannon Fish and James O'Halloran. After running into an ex at her parents' vow renewal, Rory enlists a pretend plus one. But will faking it lead to real love?</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826093900/list/GreatromanceWhenLoveSprings21023164be9f80a61cc4698950b903b249d9a16.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260826054300 +0000" stop="20260826072200 +0000">
+    <title lang="en">Love At The Lodge</title>
+    <desc lang="en">Romance with Megan Elizabeth Barker. Lawyer Emma is promised a promotion if she can persuade Liam to sell his family's country lodge. But is she about to have a conflict of interest?</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826111300/list/GreatromanceLoveAtTheLodge2056823de01713e2a474edfbdbccc3525d2639c.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260826072200 +0000" stop="20260826085600 +0000">
+    <title lang="en">The Baker's Son</title>
+    <desc lang="en">The locals of Windwards Island always knows when talented baker Matt has fallen in love, his loaves taste delicious. So, when his bread stops tasting bland, is it due to the newcomer or friend Annie?</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826125200/list/GreatromanceTheBakersSon21156142f1daad40bec48308381df731ba0b459.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260826085600 +0000" stop="20260826103800 +0000">
+    <title lang="en">The Royal Bake Off</title>
+    <desc lang="en">2023 Showstopper romance with Ansley Gordon and Christian Howard. There's no room for soggy bottoms as two rivals compete to bake a cake fit for a King. But who will be crowned royal star baker?</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826142600/list/GreatromanceTheRoyalBakeOff20875206255b299b5a1424cbfdeaeb0dd077dcc.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260826103800 +0000" stop="20260826122000 +0000">
+    <title lang="en">A Royal Recipe for Love</title>
+    <desc lang="en">2023 Flavourful romance starring Laura Miyata and David Lafontaine. An NYC baker would love to land a cookbook deal. Will a dash of royalty and a spoonful of romance help fulfil her dream?</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826160800/list/GreatromanceARoyalRecipeforLove2064279f3ede755db92410da41e3e1227c3a04f.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260826122000 +0000" stop="20260826135400 +0000">
+    <title lang="en">Wedding Cake Dreams</title>
+    <desc lang="en">Carrie is convinced that the best man at her sister's wedding is her partner, as he resembles the man that appeared in her dream. Starring Donna Benedicto 2021</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826175000/list/GreatromanceWeddingCakeDreams20642835940aa21162b437f98099d6c2266fe3a.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260826135400 +0000" stop="20260826153300 +0000">
+    <title lang="en">The Way To The Heart</title>
+    <desc lang="en">2022 Romance with Meghan Heffern. When a big-city chef loses her spark, her boss insists she takes a break to find herself again. Will a visit to her hometown help her rediscover her passions?</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826192400/list/GreatromanceTheWayToTheHeart2115615d151ce93d60f4073b9ed4db5e94d324e.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260826153300 +0000" stop="20260826171500 +0000">
+    <title lang="en">Baking up Love</title>
+    <desc lang="en">A confectionery store owner Lynn is convinced by the people of her town to enter the Great Pumpkin Bake Off. With the arrival of her unruly niece Julie, has she beaten of more than she can chew? 2021</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826210300/list/GreatromanceBakingupLove20642800fdd38d6d8b84fe1bfbad526d2718363.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260826171500 +0000" stop="20260826184700 +0000">
+    <title lang="en">The Secret Ingredient</title>
+    <desc lang="en">The Secret Ingredient</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260826224500/list/GreatromanceTheSecretIngredient20875191034057a5fdd4310ad7141bee33895e9.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260826184700 +0000" stop="20260826202400 +0000">
+    <title lang="en">Baked With A Kiss</title>
+    <desc lang="en">Culinary romance starring Jonathan Stoddard and Ansley Gordon. Renowned for her magical True Love pie, a baker accidentally serves one to a rude customer, who ends up falling in love with her.</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827001700/list/GreatromanceBakedWithAKiss2102312149913315305486db1d7f66a6377bd0d.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260826202400 +0000" stop="20260826215800 +0000">
+    <title lang="en">The Baker's Son</title>
+    <desc lang="en">The locals of Windwards Island always knows when talented baker Matt has fallen in love, his loaves taste delicious. So, when his bread stops tasting bland, is it due to the newcomer or friend Annie?</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827015400/list/GreatromanceTheBakersSon21156141c0cde2a5b194a5cb764c27534377477.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260826215800 +0000" stop="20260826234000 +0000">
+    <title lang="en">The Royal Bake Off</title>
+    <desc lang="en">2023 Showstopper romance with Ansley Gordon and Christian Howard. There's no room for soggy bottoms as two rivals compete to bake a cake fit for a King. But who will be crowned royal star baker?</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827032800/list/GreatromanceTheRoyalBakeOff2087520697aa25afe1e4cf3aab974b741140a32.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260826234000 +0000" stop="20260827012200 +0000">
+    <title lang="en">A Royal Recipe for Love</title>
+    <desc lang="en">2023 Flavourful romance starring Laura Miyata and David Lafontaine. An NYC baker would love to land a cookbook deal. Will a dash of royalty and a spoonful of romance help fulfil her dream?</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827051000/list/GreatromanceARoyalRecipeforLove2064279340fe6f294eb4d37ba80f74ab6fba237.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260827012200 +0000" stop="20260827025600 +0000">
+    <title lang="en">Wedding Cake Dreams</title>
+    <desc lang="en">Carrie is convinced that the best man at her sister's wedding is her partner, as he resembles the man that appeared in her dream. Starring Donna Benedicto 2021</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827065200/list/GreatromanceWeddingCakeDreams20642838fc3b849bd884b55b692819e1859fd1a.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260827025600 +0000" stop="20260827043400 +0000">
+    <title lang="en">The Way To The Heart</title>
+    <desc lang="en">2022 Romance with Meghan Heffern. When a big-city chef loses her spark, her boss insists she takes a break to find herself again. Will a visit to her hometown help her rediscover her passions?</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827082600/list/GreatromanceTheWayToTheHeart21156150fe66ee6f47942cb880d1173ce4cdfa7.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260827043400 +0000" stop="20260827061600 +0000">
+    <title lang="en">Baking up Love</title>
+    <desc lang="en">A confectionery store owner Lynn is convinced by the people of her town to enter the Great Pumpkin Bake Off. With the arrival of her unruly niece Julie, has she beaten of more than she can chew? 2021</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827100400/list/GreatromanceBakingupLove2064280c3dfd07e2e65481fba9a8eeae2981a85.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260827061600 +0000" stop="20260827074900 +0000">
+    <title lang="en">The Secret Ingredient</title>
+    <desc lang="en">The Secret Ingredient</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827114600/list/GreatromanceTheSecretIngredient2087519fe4d6f0dab0d45c8b0880570b60bd940.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260827074900 +0000" stop="20260827092900 +0000">
+    <title lang="en">Love at Lookout Lake</title>
+    <desc lang="en">2025 Romcom with Cait Moira and Jonathan Stoddard. Gossip columnist Sierra is on the trail of a mysterious writer rumoured to be living in her hometown. But will an old flame deliver a plot twist?</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827131900/list/GreatromanceLoveatLookoutLake206696348ce712c85db4a09ac9d01f1e2169b5a.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260827092900 +0000" stop="20260827111000 +0000">
+    <title lang="en">The Happiness Playbook</title>
+    <desc lang="en">Romcom with Kabby Borders and Tyler Harlow. A journalist goes undercover to expose the truth about a mysterious retreat. But when sparks fly with its owner, will love be the front-page story?</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827145900/list/GreatromanceTheHappinessPlaybook205683169f9bb369d1945229ac63636e8a4d5e1.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260827111000 +0000" stop="20260827124700 +0000">
+    <title lang="en">Inspiring Love</title>
+    <desc lang="en">After a misunderstanding shy artist Isla and confident salesman Mark team up to create a sculpture for Mark's his boss. As Isla spends more time with Mark, will his confidence rub off?</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827164000/list/GreatromanceInspiringLove2056826a89d8696fd634881831768ab3116123b.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260827124700 +0000" stop="20260827142000 +0000">
+    <title lang="en">Secrets of Bella Vista</title>
+    <desc lang="en">2022 Uplifting drama starring Rachelle Lefevre. Antiques dealer Tess inherits half of a struggling orchard, discovering a half-sister and family secrets that change her understanding of herself.</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827181700/list/GreatromanceSecretsofBellaVista211175216975609b51f46a48fbec59b4d321526.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260827142000 +0000" stop="20260827155700 +0000">
+    <title lang="en">The Love Subscription</title>
+    <desc lang="en">Lillian comes up with an investment idea to wow her boss but first she must convince her client, Grant her proposal is one he can't refuse. 2022</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827195000/list/GreatromanceTheLoveSubscription2064291d154ab8cd75d411eb4fecdbfd1540aba.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260827155700 +0000" stop="20260827173800 +0000">
+    <title lang="en">The Boyfriend Trap</title>
+    <desc lang="en">2022 Life-swapping romcom starring Ansley Gordon. Identical twins Alice and Lacey are not two peas in a pod, but when they switch places on a retreat, will their new perspectives lead to love?</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827212700/list/GreatromanceTheBoyfriendTrap206428946b59a86e09741ed8ccdd28ca529d308.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260827173800 +0000" stop="20260827192000 +0000">
+    <title lang="en">Finding Mr. Right</title>
+    <desc lang="en">When popular love and relationship podcaster and future author, Nikki Parsons is dumped by her boyfriend the day before she meets her new publisher, she has to think fast.</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260827230800/list/GreatromanceFindingMrRight2056779b919695894d94e8fa3e6db66126de5a1.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260827192000 +0000" stop="20260827204600 +0000">
+    <title lang="en">Tell Me I Love You</title>
+    <desc lang="en">Desperate for money, three best friends devise an outrageous plan to get married and inherit money from a trust fund. Starring Kaniehtiio Horn 2019</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828005000/list/GreatromanceTellMeILoveYou21156133c4ee347a9da4e3a9a931050b48e0725.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260827204600 +0000" stop="20260827222400 +0000">
+    <title lang="en">Love Hacks</title>
+    <desc lang="en">Opinionated strait-laced Sam is starting a new podcast on relationships. Talented easy going producer Josh has been asked to help her. Can they set their differences aside to make romance blossom?</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828021600/list/GreatromanceLoveHacks2056820bae2bdca1b644843ad65f1ce7c92e7e3.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260827222400 +0000" stop="20260828004000 +0000">
+    <title lang="en">Love at Lookout Lake</title>
+    <desc lang="en">2025 Romcom with Cait Moira and Jonathan Stoddard. Gossip columnist Sierra is on the trail of a mysterious writer rumoured to be living in her hometown. But will an old flame deliver a plot twist?</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828035400/list/GreatromanceLoveatLookoutLake2066963197b523dd68549af9c08583d0b7cb3fb.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260828004000 +0000" stop="20260828021500 +0000">
+    <title lang="en">Diagnosis Delicious</title>
+    <desc lang="en">Romance with Maya Stojan. A fallen chef and a talented cardiologist who hates cooking cross paths in a cooking class-serving up a lesson in love neither saw coming.</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828061000/list/GreatromanceDiagnosisDelicious20567850472e66d71484c75b7b06a66132e9893.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260828021500 +0000" stop="20260828035000 +0000">
+    <title lang="en">Brimming With Love</title>
+    <desc lang="en">Stuck in a newspaper sales department, Allie Kelsey Asbille is thrilled when her boss, Mr. Rickford George Newbern gives her a chance at writing her own summer series of articles.</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828074500/list/GreatromanceBrimmingWithLove2056780ff50a50a3bfa46a180dd89ae4b75781c.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260828035000 +0000" stop="20260828052800 +0000">
+    <title lang="en">Love, Romance and Chocolate</title>
+    <desc lang="en">Emma and chocolatier Luc compete for Belgium's Royal Chocolatier. The beauty and romance of Bruges inspire unique chocolate combinations, but will their entry win without them losing their hearts?</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828092000/list/GreatromanceLoveRomanceandChocolate2102314ce7c0471aec04d3e9bcb70b5dd22a024.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260828052800 +0000" stop="20260828070200 +0000">
+    <title lang="en">Baking All The Way</title>
+    <desc lang="en">A pastry chef arrives in Wisconsin to convince a baker to give her his gingerbread recipe for her new cookbook. Starring Cory Lee</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828105800/list/GreatromanceBakingAllTheWay21023110bd0b19d01974d23af852ad2d54ceeae.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260828070200 +0000" stop="20260828084200 +0000">
+    <title lang="en">With Love, Your Sweetly Salted</title>
+    <desc lang="en">Anonymous food critic Alison goes undercover as a prep cook to make amends with the chef she accidentally trashed online, but things soon begin to heat up in the kitchen.</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828123200/list/GreatromanceWithLoveYourSweetlySalted2056853669cf6161fd14ac09ebb909b4d2ae0b9.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260828084200 +0000" stop="20260828101500 +0000">
+    <title lang="en">The Blessing Bracelet</title>
+    <desc lang="en">2023 Uplifting drama starring Amanda Schull and Carlo Marks. When a struggling single mother rediscovers a bracelet she made as a teenager, will she find that a little belief goes a long way?</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828141200/list/GreatromanceTheBlessingBracelet20875228ca21cd9dacf406da246b8b6d52899d1.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260828101500 +0000" stop="20260828115400 +0000">
+    <title lang="en">Fishing for Love</title>
+    <desc lang="en">2021 Romance starring Andrea Brooks and Spencer Lord. When restaurant designer Kendall returns home to Mystic Bay and runs into an alluring new arrival, will he prove to be the perfect catch?</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828154500/list/GreatromanceFishingforLove208750074e2b8503fd14590b8c36bbea0426301.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260828115400 +0000" stop="20260828133400 +0000">
+    <title lang="en">A Town Called Love</title>
+    <desc lang="en">Romance starring Emma Johnson and Marshall Williams. A famous travel writer sends Emma on a mission to debunk small-town myths. But as she scouts out one town, will she find love - in Love?</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828172400/list/GreatromanceATownCalledLove20567921f5abfc0946c49e7842fcc76d65303ed.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260828133400 +0000" stop="20260828150700 +0000">
+    <title lang="en">Sweet Home Carolina</title>
+    <desc lang="en">2017 Romantic comedy starring Heather McComb. A stressed-out single mum moves to South Carolina to claim an inherited house, where unexpected love and Southern charm await.</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828190400/list/GreatromanceSweetHomeCarolina20642907b98e3589ba548ffb4e5364aae8e9bd4.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260828150700 +0000" stop="20260828164000 +0000">
+    <title lang="en">The Wish Swap</title>
+    <desc lang="en">Charming romcom with Emily Tennant and Jake Foy. When two strangers get each other's birthday wishes, can they team up to make both their dreams come true?</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828203700/list/GreatromanceTheWishSwap2091721c1caf6c58cbf4c74b006fec605b64544.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260828164000 +0000" stop="20260828181400 +0000">
+    <title lang="en">Stepping Into Love</title>
+    <desc lang="en">Claire has the difficult task to help a maverick artist exhibit a success. In the short time she spends with Devan, the developer their feelings grow but will their story lead to a happy ending?</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828221000/list/GreatromanceSteppingIntoLove2056843fb1c723579be4d519453c22b57583dda.jpg" />
+  </programme>
+  <programme channel="0-9-9z5910524" start="20260828181400 +0000" stop="20260828203000 +0000">
+    <title lang="en">Blue Moon Ball</title>
+    <desc lang="en">Romance with Ashley Newbrough and Eric Lutz. While back in her hometown to finish her book, a novelist helps her ex save the town's historic ballroom - but can she write her own happy ending?</desc>
+    <category>Entertainment</category>
+    <language>English</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-802800006-20260828234400/list/GreatromanceBlueMoonBall20567831c23b997ce5741f48e0b23c247c212e1.jpg" />
   </programme>
   <programme channel="0-9-255" start="20260825183000 +0000" stop="20260825193000 +0000">
     <title lang="en">GNT Special</title>
@@ -143966,47 +143693,68 @@
     <language>Hindi</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050002-20260901230000/list/GNTGoodLuckToday118479619ea71a8f8334095a1c770ede74fb81a.jpg" />
   </programme>
-  <programme channel="0-9-bigmagic_1786965389" start="20260826003000 +0000" stop="20260826021800 +0000">
-    <title lang="en">Movie</title>
+  <programme channel="0-9-bigmagic_1786965389" start="20260825191600 +0000" stop="20260825210800 +0000">
+    <title lang="en">Mitron</title>
+    <desc lang="en">Jai, an easy-going man, worries his father who wants him to marry and grow responsible. Everything shifts when he meets Avni, an ambitious MBA graduate who transforms his outlook.</desc>
+    <category>Entertainment</category>
+    <language>Hindi</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20260826004600/list/BigMagicMitron2053530e368860d2c3e4f70a2ffdb4d0f4b45a3.jpg" />
+  </programme>
+  <programme channel="0-9-bigmagic_1786965389" start="20260825210800 +0000" stop="20260825230200 +0000">
+    <title lang="en">Qarib Qarib Singlle</title>
+    <desc lang="en">Yogi and Jaya embark on an unexpected road trip, confronting past heartbreaks and discovering love, healing and companionship in surprising ways.</desc>
+    <category>Entertainment</category>
+    <language>Hindi</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20260826023800/list/BigMagicQaribQaribSinglle205295780171248d25f45ce99db78ee5625121a.jpg" />
+  </programme>
+  <programme channel="0-9-bigmagic_1786965389" start="20260825230200 +0000" stop="20260826003600 +0000">
+    <title lang="en">U Turn</title>
+    <desc lang="en">A suspenseful drama revolving around mysterious events and unexpected twists, where choices lead to consequences, keeping viewers engaged with intrigue and emotional depth.</desc>
+    <category>Entertainment</category>
+    <language>Hindi</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20260826043200/list/BigMagicUTurn2064874646e87ab3bd4409199046776ec0b9334.jpg" />
+  </programme>
+  <programme channel="0-9-bigmagic_1786965389" start="20260826003600 +0000" stop="20260826023800 +0000">
+    <title lang="en">Murder 2</title>
+    <desc lang="en">A troubled man becomes entangled in a dark world of obsession and crime, where passion, betrayal and secrets spiral into a gripping and dangerous mystery.</desc>
+    <category>Entertainment</category>
+    <language>Hindi</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20260826060600/list/BigMagicMurder2204812867b919d138c24d62b073dbb181b50b5a.jpg" />
+  </programme>
+  <programme channel="0-9-bigmagic_1786965389" start="20260826023800 +0000" stop="20260826043700 +0000">
+    <title lang="en">Shiv Sati Vivah</title>
+    <desc lang="en">Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.</desc>
+    <category>Entertainment</category>
+    <language>Hindi</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20260826080800/list/BigMagicShivSatiVivah2079170f15b18b3f7394356832e3f273885c51b.jpg" />
+  </programme>
+  <programme channel="0-9-bigmagic_1786965389" start="20260826043700 +0000" stop="20260826065300 +0000">
+    <title lang="en">Suraj Pe Mangal Bhari</title>
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20260826060000/list/BigMagicMovie3908568ffc42b5aaf4c7ea3ebd6212b6f07a2.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20260826100700/list/BigMagicSurajPeMangalBhari2083118f6e354ea0bdc49c59c600174013dab76.jpg" />
   </programme>
-  <programme channel="0-9-bigmagic_1786965389" start="20260826021800 +0000" stop="20260826033800 +0000">
-    <title lang="en">Movie</title>
+  <programme channel="0-9-bigmagic_1786965389" start="20260826065300 +0000" stop="20260826090100 +0000">
+    <title lang="en">Mr. &amp; Mrs. Mahi</title>
+    <desc lang="en">Mahendra, a failed cricketer, and Mahima, a doctor, wed happily. They share nickname Mahi, discover cricket love, and he mentors her toward becoming a cricketer.</desc>
+    <category>Entertainment</category>
+    <language>Hindi</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20260826122300/list/BigMagicMrMrsMahi2051645a7b2babad1ff46c0a46a73b9da344bea.jpg" />
+  </programme>
+  <programme channel="0-9-bigmagic_1786965389" start="20260826090100 +0000" stop="20260826105900 +0000">
+    <title lang="en">Tholi Prema</title>
     <desc lang="en">The movie name is yet to be announced by the channel.</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20260826074800/list/BigMagicMovie39085715bd981d7b340809a9fbe74a0af43b8.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20260826143100/list/BigMagicTholiPrema2083530cebcce5e32ea4e82a1301f9d03d3b3b3.jpg" />
   </programme>
-  <programme channel="0-9-bigmagic_1786965389" start="20260826033800 +0000" stop="20260826060400 +0000">
-    <title lang="en">Ladaai</title>
-    <desc lang="en">Wrongfully imprisoned for eighteen years, an exonerated man confronts the judge who convicted him, demanding she reopen the cold case, uncover the truth, and bring the real culprits to justice.</desc>
+  <programme channel="0-9-bigmagic_1786965389" start="20260826105900 +0000" stop="20260826132800 +0000">
+    <title lang="en">Manmarziyaan</title>
+    <desc lang="en">A spirited girl struggles with a messy love triangle while facing heavy social expectations and family pressure, learning about herself and choosing what truly matters most.</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20260826090800/list/BigMagicLadaai208176232a7e071c74e46bc9d8916966269d4d4.jpg" />
-  </programme>
-  <programme channel="0-9-bigmagic_1786965389" start="20260826060400 +0000" stop="20260826082400 +0000">
-    <title lang="en">Movie</title>
-    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20260826113400/list/BigMagicMovie390857791efb854ef44ce81dd69e68bf1c699.jpg" />
-  </programme>
-  <programme channel="0-9-bigmagic_1786965389" start="20260826082400 +0000" stop="20260826104600 +0000">
-    <title lang="en">Movie</title>
-    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20260826135400/list/BigMagicMovie39085473c45e9586245b7a3353bfc3f17d8ef.jpg" />
-  </programme>
-  <programme channel="0-9-bigmagic_1786965389" start="20260826104600 +0000" stop="20260826132900 +0000">
-    <title lang="en">Movie</title>
-    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20260826161600/list/BigMagicMovie390854b4bbc51de654230b4ec6d7bb62dbd63.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20260826162900/list/BigMagicManmarziyaan2049572eaac42d228454451a388fcbb77c80afb.jpg" />
   </programme>
   <programme channel="0-9-bigmagic_1786965389" start="20260826132800 +0000" stop="20260826153000 +0000">
     <title lang="en">Commando 2 - The Black Money Trail</title>
@@ -145541,12 +145289,12 @@
     <language>Hindi</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-031500000-20260826100000/list/ZeeAnmolJodhaAkbar255657b12a0506fc7b49ca8f8174b2abf055ed.jpg" />
   </programme>
-  <programme channel="0-9-zeeanmol" start="20260826050200 +0000" stop="20260826053000 +0000">
+  <programme channel="0-9-zeeanmol" start="20260826050000 +0000" stop="20260826053000 +0000">
     <title lang="en">Kundali Bhagya</title>
     <desc lang="en">Pragya Arora's sisters, Preeta and Srishti, find their own paths. They face both troubles and joys together. Their lives are full of surprises and challenges as they navigate their destinies.</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-031500000-20260826103200/list/ZeeAnmolKundaliBhagya715614f89325c651df478cb230cce0fb4151a3.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-031500000-20260826103000/list/ZeeAnmolKundaliBhagya71561494ae50ef78764d628cf7595e2a6dbc3e.jpg" />
   </programme>
   <programme channel="0-9-zeeanmol" start="20260826053000 +0000" stop="20260826060000 +0000">
     <title lang="en">Kundali Bhagya</title>
@@ -145562,33 +145310,33 @@
     <language>Hindi</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-031500000-20260826113000/list/ZeeAnmolKundaliBhagya715614ab6b65339d4a4587a553d65c90d2eae2.jpg" />
   </programme>
-  <programme channel="0-9-zeeanmol" start="20260826063200 +0000" stop="20260826073200 +0000">
+  <programme channel="0-9-zeeanmol" start="20260826063000 +0000" stop="20260826073000 +0000">
     <title lang="en">Vasudha</title>
     <desc lang="en">Vasudha, a Mumbai fashion writer and photographer, learns her husband's affair; urged to explore freedom, she befriends Nihar, daughter's artist friend, reshaping life and love.</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-031500000-20260826120200/list/AnmolTVVasudha20202488cea7a8208cb4a2fbf919d24e4ee2395.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-031500000-20260826120000/list/AnmolTVVasudha2020248b52ce906d30341b7aafc6501555bf431.jpg" />
   </programme>
-  <programme channel="0-9-zeeanmol" start="20260826073200 +0000" stop="20260826080300 +0000">
+  <programme channel="0-9-zeeanmol" start="20260826073000 +0000" stop="20260826080000 +0000">
     <title lang="en">Saru</title>
     <desc lang="en">Saru, a determined village girl, fights social barriers and family struggles while chasing education, dignity and a brighter future for herself and loved ones.</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-031500000-20260826130200/list/AnmolTVSaru2077099a335a9a30c0a4f49870321951af2e969.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-031500000-20260826130000/list/AnmolTVSaru2077099919fc5aa39bb42fa8f3ea3b8ee1f82fa.jpg" />
   </programme>
-  <programme channel="0-9-zeeanmol" start="20260826080300 +0000" stop="20260826083400 +0000">
+  <programme channel="0-9-zeeanmol" start="20260826080000 +0000" stop="20260826083000 +0000">
     <title lang="en">Humari Radha</title>
     <desc lang="en">Humari Radha is a devotional drama that portrays the divine love, devotion and spiritual journey of Radha, highlighting faith, emotions and the eternal bond with Lord Krishna.</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-031500000-20260826133300/list/AnmolTVHumariRadha2107334c5b008de586144ba9a3679306d54cce2.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-031500000-20260826133000/list/AnmolTVHumariRadha210733426988491ac1641b7b7aa29ca08752fbd.jpg" />
   </programme>
-  <programme channel="0-9-zeeanmol" start="20260826083400 +0000" stop="20260826090000 +0000">
+  <programme channel="0-9-zeeanmol" start="20260826083000 +0000" stop="20260826090000 +0000">
     <title lang="en">Bhagya Laxmi</title>
     <desc lang="en">Rishi blames Lakshmi for an accident, and she leaves with their daughter. Years later, their children meet, bringing Rishi and Lakshmi back into each other's lives.</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-031500000-20260826140400/list/ZeeAnmolBhagyaLaxmi18458734fde7b6ff85d4e5bbb0fe925a6971188.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-031500000-20260826140000/list/ZeeAnmolBhagyaLaxmi184587360121af79aaf477a98a7b7c50f4e66c1.jpg" />
   </programme>
   <programme channel="0-9-zeeanmol" start="20260826090000 +0000" stop="20260826093000 +0000">
     <title lang="en">Bhagya Laxmi</title>
@@ -153297,159 +153045,12 @@
     <language>Hindi</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-801460000-20260831233000/list/TVHDUSAParamavtarShreeKrishna18922094a861a6aabf6443d8f282d34849af08b.jpg" />
   </programme>
-  <programme channel="0-9-tvhd_0" start="20260826003000 +0000" stop="20260826010000 +0000">
-    <title lang="en">Bhabi Ji Ghar Par Hai!</title>
-    <desc lang="en">Manmohan is a businessman with a traditional wife. Narayan is jobless with a modern wife. Both try impressing each other's spouses, creating hilarious chaos, lies, and comic situations.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050072-20260826060000/list/TVHDBhabiJiGharParHai260008ad2ffb411b57467c9f9910f3046c81e8.jpg" />
-  </programme>
-  <programme channel="0-9-tvhd_0" start="20260826010000 +0000" stop="20260826014700 +0000">
-    <title lang="en">Bhabi Ji Ghar Par Hai!</title>
-    <desc lang="en">Manmohan is a businessman with a traditional wife. Narayan is jobless with a modern wife. Both try impressing each other's spouses, creating hilarious chaos, lies, and comic situations.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050072-20260826063000/list/TVHDBhabiJiGharParHai260008f71057dcf9344a0e99c717b8891c6a20.jpg" />
-  </programme>
-  <programme channel="0-9-tvhd_0" start="20260826014700 +0000" stop="20260826023400 +0000">
-    <title lang="en">Comedy Circus Ke Mahabali</title>
-    <desc lang="en">A comedy reality show where top comedians perform with their teams, judged by Archana Puran Singh and Arbaaz Khan, featuring competitive, hilarious situational acts.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050072-20260826071700/list/TVHDComedyCircusKeMahabali18902236759225a91c54a0fad6259b567527095.jpg" />
-  </programme>
-  <programme channel="0-9-tvhd_0" start="20260826023400 +0000" stop="20260826025900 +0000">
-    <title lang="en">Happu Ki Ultan Paltan</title>
-    <desc lang="en">Happu Singh is a lovable policeman juggling a chaotic home life and quirky colleagues. Misunderstandings, silly antics, and laughter follow him everywhere-at work, at home, and beyond.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050072-20260826080400/list/TVHDHappuKiUltanPaltan7411443dbe54cf9bdd494ba731a5e522d79279.jpg" />
-  </programme>
-  <programme channel="0-9-tvhd_0" start="20260826025900 +0000" stop="20260826033000 +0000">
-    <title lang="en">Bhabi Ji Ghar Par Hai!</title>
-    <desc lang="en">Manmohan is a businessman with a traditional wife. Narayan is jobless with a modern wife. Both try impressing each other's spouses, creating hilarious chaos, lies, and comic situations.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050072-20260826082900/list/TVHDBhabiJiGharParHai260008a0c72385ffa348a39518d9e97fde749a.jpg" />
-  </programme>
-  <programme channel="0-9-tvhd_0" start="20260826033000 +0000" stop="20260826040000 +0000">
-    <title lang="en">Bhabi Ji Ghar Par Hai!</title>
-    <desc lang="en">Manmohan is a businessman with a traditional wife. Narayan is jobless with a modern wife. Both try impressing each other's spouses, creating hilarious chaos, lies, and comic situations.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050072-20260826090000/list/TVHDBhabiJiGharParHai2600082d499c5196c24331b9f6936dc640936b.jpg" />
-  </programme>
-  <programme channel="0-9-tvhd_0" start="20260826040000 +0000" stop="20260826043000 +0000">
-    <title lang="en">Bhabi Ji Ghar Par Hai!</title>
-    <desc lang="en">Manmohan is a businessman with a traditional wife. Narayan is jobless with a modern wife. Both try impressing each other's spouses, creating hilarious chaos, lies, and comic situations.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050072-20260826093000/list/TVHDBhabiJiGharParHai26000802861ca9e983454ab7dd36faa905ea9d.jpg" />
-  </programme>
-  <programme channel="0-9-tvhd_0" start="20260826043000 +0000" stop="20260826050000 +0000">
-    <title lang="en">Bhabi Ji Ghar Par Hai!</title>
-    <desc lang="en">Manmohan is a businessman with a traditional wife. Narayan is jobless with a modern wife. Both try impressing each other's spouses, creating hilarious chaos, lies, and comic situations.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050072-20260826100000/list/TVHDBhabiJiGharParHai260008c2f1304e737a4f61bfcda2f2092d90da.jpg" />
-  </programme>
-  <programme channel="0-9-tvhd_0" start="20260826050000 +0000" stop="20260826053000 +0000">
-    <title lang="en">Bhabi Ji Ghar Par Hai!</title>
-    <desc lang="en">Manmohan is a businessman with a traditional wife. Narayan is jobless with a modern wife. Both try impressing each other's spouses, creating hilarious chaos, lies, and comic situations.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050072-20260826103000/list/TVHDBhabiJiGharParHai26000805e3b7ab1abe4a2c9db84ff0b16cfac4.jpg" />
-  </programme>
-  <programme channel="0-9-tvhd_0" start="20260826053000 +0000" stop="20260826060000 +0000">
-    <title lang="en">Bhabi Ji Ghar Par Hai!</title>
-    <desc lang="en">Manmohan is a businessman with a traditional wife. Narayan is jobless with a modern wife. Both try impressing each other's spouses, creating hilarious chaos, lies, and comic situations.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050072-20260826110000/list/TVHDBhabiJiGharParHai260008aadf276885bd46459fe3e04d152d1deb.jpg" />
-  </programme>
-  <programme channel="0-9-tvhd_0" start="20260826060000 +0000" stop="20260826063000 +0000">
-    <title lang="en">Bhabi Ji Ghar Par Hai!</title>
-    <desc lang="en">Manmohan is a businessman with a traditional wife. Narayan is jobless with a modern wife. Both try impressing each other's spouses, creating hilarious chaos, lies, and comic situations.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050072-20260826113000/list/TVHDBhabiJiGharParHai260008a6c5122024d64a8687bf9fe499859bec.jpg" />
-  </programme>
-  <programme channel="0-9-tvhd_0" start="20260826063000 +0000" stop="20260826070000 +0000">
-    <title lang="en">Bhabi Ji Ghar Par Hai!</title>
-    <desc lang="en">Manmohan is a businessman with a traditional wife. Narayan is jobless with a modern wife. Both try impressing each other's spouses, creating hilarious chaos, lies, and comic situations.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050072-20260826120000/list/TVHDBhabiJiGharParHai260008224142a37a0c4b27b0503443b6820d6a.jpg" />
-  </programme>
-  <programme channel="0-9-tvhd_0" start="20260826070000 +0000" stop="20260826071500 +0000">
-    <title lang="en">Bhabi Ji Ghar Par Hai!</title>
-    <desc lang="en">Manmohan is a businessman with a traditional wife. Narayan is jobless with a modern wife. Both try impressing each other's spouses, creating hilarious chaos, lies, and comic situations.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050072-20260826123000/list/TVHDBhabiJiGharParHai260008626346048cf848bdbf9ac48347954621.jpg" />
-  </programme>
-  <programme channel="0-9-tvhd_0" start="20260826071500 +0000" stop="20260826073000 +0000">
-    <title lang="en">Bhabi Ji Ghar Par Hai!</title>
-    <desc lang="en">Manmohan is a businessman with a traditional wife. Narayan is jobless with a modern wife. Both try impressing each other's spouses, creating hilarious chaos, lies, and comic situations.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050072-20260826124500/list/TVHDBhabiJiGharParHai26000890da22d9b7ca42848685a6430cd7dfd7.jpg" />
-  </programme>
-  <programme channel="0-9-tvhd_0" start="20260826073000 +0000" stop="20260826074500 +0000">
-    <title lang="en">Bhabi Ji Ghar Par Hai!</title>
-    <desc lang="en">Manmohan is a businessman with a traditional wife. Narayan is jobless with a modern wife. Both try impressing each other's spouses, creating hilarious chaos, lies, and comic situations.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050072-20260826130000/list/TVHDBhabiJiGharParHai260008f0e20268ba9449e2b6f79e65e48c3576.jpg" />
-  </programme>
-  <programme channel="0-9-tvhd_0" start="20260826074500 +0000" stop="20260826080000 +0000">
-    <title lang="en">Bhabi Ji Ghar Par Hai!</title>
-    <desc lang="en">Manmohan is a businessman with a traditional wife. Narayan is jobless with a modern wife. Both try impressing each other's spouses, creating hilarious chaos, lies, and comic situations.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050072-20260826131500/list/TVHDBhabiJiGharParHai260008838d50939fe74c32b5d2e8ee02e8a175.jpg" />
-  </programme>
-  <programme channel="0-9-tvhd_0" start="20260826080000 +0000" stop="20260826083000 +0000">
-    <title lang="en">Bhabi Ji Ghar Par Hai!</title>
-    <desc lang="en">Manmohan is a businessman with a traditional wife. Narayan is jobless with a modern wife. Both try impressing each other's spouses, creating hilarious chaos, lies, and comic situations.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050072-20260826133000/list/TVHDBhabiJiGharParHai26000870802dbee7c543e7be5e81286b35f7a6.jpg" />
-  </programme>
-  <programme channel="0-9-tvhd_0" start="20260826083000 +0000" stop="20260826090000 +0000">
-    <title lang="en">Bhabi Ji Ghar Par Hai!</title>
-    <desc lang="en">Manmohan is a businessman with a traditional wife. Narayan is jobless with a modern wife. Both try impressing each other's spouses, creating hilarious chaos, lies, and comic situations.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050072-20260826140000/list/TVHDBhabiJiGharParHai260008b34e0787e57c4f2284cc7dee596471e1.jpg" />
-  </programme>
-  <programme channel="0-9-tvhd_0" start="20260826090000 +0000" stop="20260826093000 +0000">
-    <title lang="en">Bhabi Ji Ghar Par Hai!</title>
-    <desc lang="en">Manmohan is a businessman with a traditional wife. Narayan is jobless with a modern wife. Both try impressing each other's spouses, creating hilarious chaos, lies, and comic situations.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050072-20260826143000/list/TVHDBhabiJiGharParHai2600081190c295d1454c0a8054e39b688cc772.jpg" />
-  </programme>
-  <programme channel="0-9-tvhd_0" start="20260826093000 +0000" stop="20260826100000 +0000">
-    <title lang="en">Bhabi Ji Ghar Par Hai!</title>
-    <desc lang="en">Manmohan is a businessman with a traditional wife. Narayan is jobless with a modern wife. Both try impressing each other's spouses, creating hilarious chaos, lies, and comic situations.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050072-20260826150000/list/TVHDBhabiJiGharParHai2600085fbe2fb536d4423688394b98f0fbbbfe.jpg" />
-  </programme>
-  <programme channel="0-9-tvhd_0" start="20260826100000 +0000" stop="20260826110100 +0000">
-    <title lang="en">Bhabi Ji Ghar Par Hai!</title>
-    <desc lang="en">Manmohan is a businessman with a traditional wife. Narayan is jobless with a modern wife. Both try impressing each other's spouses, creating hilarious chaos, lies, and comic situations.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050072-20260826153000/list/TVHDBhabiJiGharParHai260008aa7d6c3b724a44ce8cbe7a84d48e2c41.jpg" />
-  </programme>
-  <programme channel="0-9-tvhd_0" start="20260826110100 +0000" stop="20260826113000 +0000">
+  <programme channel="0-9-tvhd_0" start="20260826103000 +0000" stop="20260826113000 +0000">
     <title lang="en">Laal Ishq</title>
     <desc lang="en">Baali serves a life sentence for murder and reforms. But the victim's vengeful family won't let go, threatening his peace and challenging his resolve to live honestly again.</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050072-20260826163100/list/TVHDLaalIshq62114452c83ba840af4732a840aff16eab37fe.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050072-20260826160000/list/TVHDLaalIshq6211443f163411fd1f42cb98ff179a540d1ae9.jpg" />
   </programme>
   <programme channel="0-9-tvhd_0" start="20260826113000 +0000" stop="20260826123200 +0000">
     <title lang="en">Laal Ishq (2015)</title>
@@ -153458,12 +153059,12 @@
     <language>Hindi</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050072-20260826170000/list/TVHDLaalIshq201512946875c8967e597f14edcbc785ca0f7d760d8.jpg" />
   </programme>
-  <programme channel="0-9-tvhd_0" start="20260826123200 +0000" stop="20260826140000 +0000">
+  <programme channel="0-9-tvhd_0" start="20260826123000 +0000" stop="20260826140000 +0000">
     <title lang="en">Paramavatar Shri Krishna</title>
     <desc lang="en">Witness the divine saga of Lord Krishna, from a playful child to a heroic warrior, as he embarks on epic adventures to vanquish demonic forces, restore cosmic dharma, and champion justice.</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050072-20260826180200/list/TVHDParamavatarShriKrishna480785ca1ea63e41cb402db8da1291171cd5e3.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050072-20260826180000/list/TVHDParamavatarShriKrishna480785caea1554fa4d47a784d83c1334006feb.jpg" />
   </programme>
   <programme channel="0-9-tvhd_0" start="20260826140000 +0000" stop="20260826145900 +0000">
     <title lang="en">Vighnaharta Ganesh</title>
