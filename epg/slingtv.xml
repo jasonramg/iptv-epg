@@ -24,17 +24,108 @@
         <display-name lang="en">YRF Music</display-name>
         <icon src="http://p-img.movetv.com/1280x720/196a15781456a01e024336fc52320df8.png" />
     </channel>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826060000 +0000" stop="20260826062500 +0000">
-        <title lang="en">Punyashlok Ahilya Bai</title>
-        <desc lang="en">A period drama set in the 18th century, based on the life of Ahilyabai Holkar, who, alongside her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.</desc>
-        <date>2026</date>
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827080000 +0000" stop="20260827080800 +0000">
+        <title lang="en">Sony KAL • Click here to browse all available programs</title>
+    </programme>
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827080800 +0000" stop="20260827083400 +0000">
+        <title lang="en">Suryaputra Karn</title>
+        <desc lang="en">A great archer is born with supernatural powers to fight against any evil.</desc>
+        <category lang="en">Drama</category>
+        <category lang="en">Fantasy</category>
+        <category lang="en">Science Fiction</category>
+        <category lang="en">Action</category>
+        <date>2015</date>
         <rating>
-            <value>Not Rated</value>
+            <value>TV-G</value>
         </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/cc122269e5b042b75b04d9befc82eb25.jpeg" />
+        <credits>
+            <actor>Gautam Rode</actor>
+            <actor>Saurabh Pandey</actor>
+            <actor>Farnaz Shetty</actor>
+            <actor>Mouli Ganguly</actor>
+            <actor>Richa Mukherjee</actor>
+            <actor>Ayush Shrivastava</actor>
+            <actor>Akbar Ali</actor>
+            <actor>Vashu Chauhan</actor>
+            <actor>Anand Suryavanshi</actor>
+            <actor>Aayush Shah</actor>
+            <actor>Kaushik Chakravorty</actor>
+            <actor>Vikram Soni</actor>
+            <actor>Alice Kaushik</actor>
+            <actor>Zohaib Siddiqui</actor>
+            <actor>Malhar Pandya</actor>
+            <actor>Ashwin Patil</actor>
+            <actor>Karan Sharma</actor>
+            <actor>Anish Surana</actor>
+            <actor>Hasnain Hyderabadwala</actor>
+            <actor>Gautam Nagrath</actor>
+            <actor>Kamal Monga</actor>
+            <actor>Nitin Gupta</actor>
+            <actor>Tinnu Verma</actor>
+            <actor>Deepak Garg</actor>
+            <actor>Amol Soorvey</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/cms/images/6a64a983a2c3b9442bb521b3456d7eb7e22832ea.JPEG" />
         <live />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826062500 +0000" stop="20260826064800 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827083400 +0000" stop="20260827093000 +0000">
+        <title lang="en">Crime Patrol Dial 100</title>
+        <desc lang="en">A re-enactment of real-life heinous crimes inflicted upon innocent individuals, including murder, kidnapping, theft and forgery.</desc>
+        <category lang="en">Crime</category>
+        <category lang="en">Documentary</category>
+        <rating>
+            <value>TV-G</value>
+        </rating>
+        <credits>
+            <actor>Satyajeet Rajput</actor>
+            <actor>Sameer Deshpande</actor>
+            <actor>Rose Laskar</actor>
+            <actor>Manav Soneji</actor>
+            <actor>Saheem Khan</actor>
+            <actor>Anup Soni</actor>
+            <actor>Satish Shukla</actor>
+            <actor>Shailendra Tomar</actor>
+            <actor>Kevin Couto</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/1920x1080/9eb2cde352104fa7bdcf3a61da7d4bb4.jpeg" />
+    </programme>
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827093000 +0000" stop="20260827100000 +0000">
+        <title lang="en">Baal Veer</title>
+        <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
+        <category lang="en">Fantasy</category>
+        <rating>
+            <value>TV-G</value>
+        </rating>
+        <credits>
+            <actor>Dev Joshi</actor>
+            <actor>Anushka Sen</actor>
+            <actor>Rudra Soni</actor>
+            <actor>Kaivalya Chheda</actor>
+            <actor>Gaurav Walia</actor>
+            <actor>Purvesh Pimple</actor>
+            <actor>Karishma Tanna</actor>
+            <actor>Shweta Katra</actor>
+            <actor>Aditi Sajwan</actor>
+            <actor>Shama Sikander</actor>
+            <actor>Sanjay Satvase</actor>
+            <actor>Kushal Awasthi</actor>
+            <actor>Ambare Sachin</actor>
+            <actor>Amarpreet Chhabra</actor>
+            <actor>Vijay Saini</actor>
+            <actor>Nilesh Ambekar</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
+    </programme>
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827100000 +0000" stop="20260827103000 +0000">
+        <title lang="en">Punyashlok Ahilya Bai</title>
+        <desc lang="en">A period drama set in the 18th century, based on the life of Ahilyabai Holkar, who, alongside her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.</desc>
+        <date>2026</date>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/cc122269e5b042b75b04d9befc82eb25.jpeg" />
+    </programme>
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827103000 +0000" stop="20260827105600 +0000">
         <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
         <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
         <category lang="en">Comedy</category>
@@ -81,7 +172,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/84244aba604e7d2b3983e476ea2ba5da2adc7216.JPEG" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826064800 +0000" stop="20260826071300 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827105600 +0000" stop="20260827112200 +0000">
         <title lang="en">Aladdin naam toh suna hoga</title>
         <desc lang="en">Aladdin, a poor thief, stumbles upon a mysterious magical lamp which contains a Genie; however, he realizes that an evil sorcerer, Jafar, also covets the lamp in order to rule over Baghdad.</desc>
         <category lang="en">Fantasy</category>
@@ -112,7 +203,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/1920x1080/b531715be11198777b722b87c2a84332.jpeg" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826071300 +0000" stop="20260826073900 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827112200 +0000" stop="20260827114600 +0000">
         <title lang="en">Baal Veer</title>
         <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
         <category lang="en">Fantasy</category>
@@ -139,7 +230,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826073900 +0000" stop="20260826080500 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827114600 +0000" stop="20260827121100 +0000">
         <title lang="en">Baal Veer</title>
         <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
         <category lang="en">Fantasy</category>
@@ -166,7 +257,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826080500 +0000" stop="20260826083200 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827121100 +0000" stop="20260827123900 +0000">
         <title lang="en">Suryaputra Karn</title>
         <desc lang="en">A great archer is born with supernatural powers to fight against any evil.</desc>
         <category lang="en">Drama</category>
@@ -206,7 +297,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/6a64a983a2c3b9442bb521b3456d7eb7e22832ea.JPEG" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826083200 +0000" stop="20260826093000 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827123900 +0000" stop="20260827133000 +0000">
         <title lang="en">Crime Patrol Dial 100</title>
         <desc lang="en">A re-enactment of real-life heinous crimes inflicted upon innocent individuals, including murder, kidnapping, theft and forgery.</desc>
         <category lang="en">Crime</category>
@@ -227,7 +318,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/1920x1080/9eb2cde352104fa7bdcf3a61da7d4bb4.jpeg" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826093000 +0000" stop="20260826100000 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827133000 +0000" stop="20260827140000 +0000">
         <title lang="en">Baal Veer</title>
         <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
         <category lang="en">Fantasy</category>
@@ -254,7 +345,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826100000 +0000" stop="20260826102900 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827140000 +0000" stop="20260827142500 +0000">
         <title lang="en">Punyashlok Ahilya Bai</title>
         <desc lang="en">A period drama set in the 18th century, based on the life of Ahilyabai Holkar, who, alongside her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.</desc>
         <date>2026</date>
@@ -263,7 +354,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/cc122269e5b042b75b04d9befc82eb25.jpeg" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826102900 +0000" stop="20260826105400 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827142500 +0000" stop="20260827144900 +0000">
         <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
         <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
         <category lang="en">Comedy</category>
@@ -310,7 +401,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/84244aba604e7d2b3983e476ea2ba5da2adc7216.JPEG" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826105400 +0000" stop="20260826112100 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827144900 +0000" stop="20260827151400 +0000">
         <title lang="en">Aladdin naam toh suna hoga</title>
         <desc lang="en">Aladdin, a poor thief, stumbles upon a mysterious magical lamp which contains a Genie; however, he realizes that an evil sorcerer, Jafar, also covets the lamp in order to rule over Baghdad.</desc>
         <category lang="en">Fantasy</category>
@@ -341,7 +432,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/1920x1080/b531715be11198777b722b87c2a84332.jpeg" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826112100 +0000" stop="20260826114400 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827151400 +0000" stop="20260827153800 +0000">
         <title lang="en">Baal Veer</title>
         <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
         <category lang="en">Fantasy</category>
@@ -368,7 +459,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826114400 +0000" stop="20260826120900 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827153800 +0000" stop="20260827160100 +0000">
         <title lang="en">Baal Veer</title>
         <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
         <category lang="en">Fantasy</category>
@@ -395,7 +486,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826120900 +0000" stop="20260826123800 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827160100 +0000" stop="20260827163000 +0000">
         <title lang="en">Suryaputra Karn</title>
         <desc lang="en">A great archer is born with supernatural powers to fight against any evil.</desc>
         <category lang="en">Drama</category>
@@ -435,7 +526,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/6a64a983a2c3b9442bb521b3456d7eb7e22832ea.JPEG" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826123800 +0000" stop="20260826133000 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827163000 +0000" stop="20260827173000 +0000">
         <title lang="en">Crime Patrol Dial 100</title>
         <desc lang="en">A re-enactment of real-life heinous crimes inflicted upon innocent individuals, including murder, kidnapping, theft and forgery.</desc>
         <category lang="en">Crime</category>
@@ -456,7 +547,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/1920x1080/9eb2cde352104fa7bdcf3a61da7d4bb4.jpeg" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826133000 +0000" stop="20260826140000 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827173000 +0000" stop="20260827180000 +0000">
         <title lang="en">Baal Veer</title>
         <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
         <category lang="en">Fantasy</category>
@@ -483,7 +574,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826140000 +0000" stop="20260826142500 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827180000 +0000" stop="20260827182500 +0000">
         <title lang="en">Punyashlok Ahilya Bai</title>
         <desc lang="en">A period drama set in the 18th century, based on the life of Ahilyabai Holkar, who, alongside her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.</desc>
         <date>2026</date>
@@ -492,7 +583,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/cc122269e5b042b75b04d9befc82eb25.jpeg" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826142500 +0000" stop="20260826145000 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827182500 +0000" stop="20260827184900 +0000">
         <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
         <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
         <category lang="en">Comedy</category>
@@ -539,7 +630,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/84244aba604e7d2b3983e476ea2ba5da2adc7216.JPEG" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826145000 +0000" stop="20260826151600 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827184900 +0000" stop="20260827191400 +0000">
         <title lang="en">Aladdin naam toh suna hoga</title>
         <desc lang="en">Aladdin, a poor thief, stumbles upon a mysterious magical lamp which contains a Genie; however, he realizes that an evil sorcerer, Jafar, also covets the lamp in order to rule over Baghdad.</desc>
         <category lang="en">Fantasy</category>
@@ -570,7 +661,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/1920x1080/b531715be11198777b722b87c2a84332.jpeg" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826151600 +0000" stop="20260826154000 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827191400 +0000" stop="20260827194000 +0000">
         <title lang="en">Baal Veer</title>
         <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
         <category lang="en">Fantasy</category>
@@ -597,7 +688,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826154000 +0000" stop="20260826160200 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827194000 +0000" stop="20260827200600 +0000">
         <title lang="en">Baal Veer</title>
         <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
         <category lang="en">Fantasy</category>
@@ -624,7 +715,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826160200 +0000" stop="20260826163000 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827200600 +0000" stop="20260827203000 +0000">
         <title lang="en">Suryaputra Karn</title>
         <desc lang="en">A great archer is born with supernatural powers to fight against any evil.</desc>
         <category lang="en">Drama</category>
@@ -664,7 +755,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/6a64a983a2c3b9442bb521b3456d7eb7e22832ea.JPEG" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826163000 +0000" stop="20260826173000 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827203000 +0000" stop="20260827213000 +0000">
         <title lang="en">Crime Patrol Dial 100</title>
         <desc lang="en">A re-enactment of real-life heinous crimes inflicted upon innocent individuals, including murder, kidnapping, theft and forgery.</desc>
         <category lang="en">Crime</category>
@@ -685,7 +776,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/1920x1080/9eb2cde352104fa7bdcf3a61da7d4bb4.jpeg" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826173000 +0000" stop="20260826180000 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827213000 +0000" stop="20260827220000 +0000">
         <title lang="en">Baal Veer</title>
         <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
         <category lang="en">Fantasy</category>
@@ -712,7 +803,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826180000 +0000" stop="20260826182500 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827220000 +0000" stop="20260827222500 +0000">
         <title lang="en">Punyashlok Ahilya Bai</title>
         <desc lang="en">A period drama set in the 18th century, based on the life of Ahilyabai Holkar, who, alongside her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.</desc>
         <date>2026</date>
@@ -721,7 +812,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/cc122269e5b042b75b04d9befc82eb25.jpeg" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826182500 +0000" stop="20260826185000 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827222500 +0000" stop="20260827224900 +0000">
         <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
         <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
         <category lang="en">Comedy</category>
@@ -768,7 +859,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/84244aba604e7d2b3983e476ea2ba5da2adc7216.JPEG" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826185000 +0000" stop="20260826191600 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827224900 +0000" stop="20260827231400 +0000">
         <title lang="en">Aladdin naam toh suna hoga</title>
         <desc lang="en">Aladdin, a poor thief, stumbles upon a mysterious magical lamp which contains a Genie; however, he realizes that an evil sorcerer, Jafar, also covets the lamp in order to rule over Baghdad.</desc>
         <category lang="en">Fantasy</category>
@@ -799,7 +890,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/1920x1080/b531715be11198777b722b87c2a84332.jpeg" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826191600 +0000" stop="20260826194300 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827231400 +0000" stop="20260827234000 +0000">
         <title lang="en">Baal Veer</title>
         <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
         <category lang="en">Fantasy</category>
@@ -826,7 +917,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826194300 +0000" stop="20260826200700 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827234000 +0000" stop="20260828000600 +0000">
         <title lang="en">Baal Veer</title>
         <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
         <category lang="en">Fantasy</category>
@@ -853,7 +944,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826200700 +0000" stop="20260826203000 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260828000600 +0000" stop="20260828003300 +0000">
         <title lang="en">Suryaputra Karn</title>
         <desc lang="en">A great archer is born with supernatural powers to fight against any evil.</desc>
         <category lang="en">Drama</category>
@@ -893,7 +984,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/6a64a983a2c3b9442bb521b3456d7eb7e22832ea.JPEG" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826203000 +0000" stop="20260826213000 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260828003300 +0000" stop="20260828013000 +0000">
         <title lang="en">Crime Patrol Dial 100</title>
         <desc lang="en">A re-enactment of real-life heinous crimes inflicted upon innocent individuals, including murder, kidnapping, theft and forgery.</desc>
         <category lang="en">Crime</category>
@@ -914,7 +1005,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/1920x1080/9eb2cde352104fa7bdcf3a61da7d4bb4.jpeg" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826213000 +0000" stop="20260826220000 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260828013000 +0000" stop="20260828020000 +0000">
         <title lang="en">Baal Veer</title>
         <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
         <category lang="en">Fantasy</category>
@@ -941,7 +1032,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826220000 +0000" stop="20260826222500 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260828020000 +0000" stop="20260828022500 +0000">
         <title lang="en">Punyashlok Ahilya Bai</title>
         <desc lang="en">A period drama set in the 18th century, based on the life of Ahilyabai Holkar, who, alongside her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.</desc>
         <date>2026</date>
@@ -950,7 +1041,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/cc122269e5b042b75b04d9befc82eb25.jpeg" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826222500 +0000" stop="20260826225000 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260828022500 +0000" stop="20260828024900 +0000">
         <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
         <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
         <category lang="en">Comedy</category>
@@ -997,7 +1088,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/84244aba604e7d2b3983e476ea2ba5da2adc7216.JPEG" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826225000 +0000" stop="20260826231600 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260828024900 +0000" stop="20260828031400 +0000">
         <title lang="en">Aladdin naam toh suna hoga</title>
         <desc lang="en">Aladdin, a poor thief, stumbles upon a mysterious magical lamp which contains a Genie; however, he realizes that an evil sorcerer, Jafar, also covets the lamp in order to rule over Baghdad.</desc>
         <category lang="en">Fantasy</category>
@@ -1028,7 +1119,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/1920x1080/b531715be11198777b722b87c2a84332.jpeg" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826231600 +0000" stop="20260826234300 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260828031400 +0000" stop="20260828034000 +0000">
         <title lang="en">Baal Veer</title>
         <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
         <category lang="en">Fantasy</category>
@@ -1055,7 +1146,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260826234300 +0000" stop="20260827000700 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260828034000 +0000" stop="20260828040600 +0000">
         <title lang="en">Baal Veer</title>
         <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
         <category lang="en">Fantasy</category>
@@ -1082,7 +1173,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827000700 +0000" stop="20260827003400 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260828040600 +0000" stop="20260828043300 +0000">
         <title lang="en">Suryaputra Karn</title>
         <desc lang="en">A great archer is born with supernatural powers to fight against any evil.</desc>
         <category lang="en">Drama</category>
@@ -1122,7 +1213,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/6a64a983a2c3b9442bb521b3456d7eb7e22832ea.JPEG" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827003400 +0000" stop="20260827013000 +0000">
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260828043300 +0000" stop="20260828053000 +0000">
         <title lang="en">Crime Patrol Dial 100</title>
         <desc lang="en">A re-enactment of real-life heinous crimes inflicted upon innocent individuals, including murder, kidnapping, theft and forgery.</desc>
         <category lang="en">Crime</category>
@@ -1143,132 +1234,72 @@
         </credits>
         <icon src="http://p-img.movetv.com/1920x1080/9eb2cde352104fa7bdcf3a61da7d4bb4.jpeg" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827013000 +0000" stop="20260827020000 +0000">
-        <title lang="en">Baal Veer</title>
-        <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
-        <category lang="en">Fantasy</category>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260827073000 +0000" stop="20260827095000 +0000">
+        <title lang="en">Top End T20 Series: New Zealand vs Bangladesh, Match 21</title>
+        <desc lang="en">A preview of a cricket match.</desc>
+        <category lang="en">Cricket</category>
         <rating>
             <value>TV-G</value>
         </rating>
-        <credits>
-            <actor>Dev Joshi</actor>
-            <actor>Anushka Sen</actor>
-            <actor>Rudra Soni</actor>
-            <actor>Kaivalya Chheda</actor>
-            <actor>Gaurav Walia</actor>
-            <actor>Purvesh Pimple</actor>
-            <actor>Karishma Tanna</actor>
-            <actor>Shweta Katra</actor>
-            <actor>Aditi Sajwan</actor>
-            <actor>Shama Sikander</actor>
-            <actor>Sanjay Satvase</actor>
-            <actor>Kushal Awasthi</actor>
-            <actor>Ambare Sachin</actor>
-            <actor>Amarpreet Chhabra</actor>
-            <actor>Vijay Saini</actor>
-            <actor>Nilesh Ambekar</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
+        <icon src="http://p-img.movetv.com/1920x1080/6265a98616f122789f1908bae5c5546f.jpeg" />
+        <live />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827020000 +0000" stop="20260827022500 +0000">
-        <title lang="en">Punyashlok Ahilya Bai</title>
-        <desc lang="en">A period drama set in the 18th century, based on the life of Ahilyabai Holkar, who, alongside her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.</desc>
-        <date>2026</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/cc122269e5b042b75b04d9befc82eb25.jpeg" />
-    </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827022500 +0000" stop="20260827025000 +0000">
-        <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-        <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
-        <category lang="en">Comedy</category>
-        <date>2011</date>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260827095000 +0000" stop="20260827100000 +0000">
+        <title lang="en">England vs Pakistan: 2nd Test, Day 1</title>
+        <desc lang="en">A preview of a cricket match.</desc>
+        <category lang="en">Cricket</category>
         <rating>
             <value>TV-G</value>
         </rating>
-        <credits>
-            <actor>Dilip Joshi</actor>
-            <actor>Nitish Bhaluni</actor>
-            <actor>Amit Bhatt</actor>
-            <actor>Sachin Shroff</actor>
-            <actor>Sunayana Fozdar</actor>
-            <actor>Tanuj Mahashabde</actor>
-            <actor>Munmun Dutta</actor>
-            <actor>Mandar Chandwadkar</actor>
-            <actor>Sonalika Joshi</actor>
-            <actor>Palak Sindhwani</actor>
-            <actor>Nirmal Soni</actor>
-            <actor>Ambika Ranjankar</actor>
-            <actor>Kush Shah</actor>
-            <actor>Balwinder Suri</actor>
-            <actor>Monaz Mevawalla</actor>
-            <actor>Samay Shah</actor>
-            <actor>Azhar Shaikh</actor>
-            <actor>Shyam Pathak</actor>
-            <actor>Navina Wadekar</actor>
-            <actor>Sharad Sankla</actor>
-            <actor>Tanmay Vekaria</actor>
-            <actor>Daya Shankar Pandey</actor>
-            <actor>Jennifer Bansiwal</actor>
-            <actor>Ghanshyam Nayak</actor>
-            <actor>Kavi Azad</actor>
-            <actor>Nidhi Bhanushali</actor>
-            <actor>Jheel Mehta</actor>
-            <actor>Bhavya Gandhi</actor>
-            <actor>Monika Bhadoriya</actor>
-            <actor>Gurcharan Singh</actor>
-            <actor>Disha Vakani</actor>
-            <actor>Shailesh Lodha</actor>
-            <actor>Neha Mehta</actor>
-            <actor>Dharmesh Mehta</actor>
-            <actor>Harshad Joshi</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/cms/images/84244aba604e7d2b3983e476ea2ba5da2adc7216.JPEG" />
+        <icon src="http://p-img.movetv.com/1920x1080/6265a98616f122789f1908bae5c5546f.jpeg" />
     </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20260827025000 +0000" stop="20260827031600 +0000">
-        <title lang="en">Aladdin naam toh suna hoga</title>
-        <desc lang="en">Aladdin, a poor thief, stumbles upon a mysterious magical lamp which contains a Genie; however, he realizes that an evil sorcerer, Jafar, also covets the lamp in order to rule over Baghdad.</desc>
-        <category lang="en">Fantasy</category>
-        <category lang="en">Drama</category>
-        <date>2018</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <credits>
-            <actor>Siddharth Nigam</actor>
-            <actor>Aamir Dalvi</actor>
-            <actor>Smita Bansal</actor>
-            <actor>Avneet Kaur</actor>
-            <actor>Prakhar Saxena</actor>
-            <actor>Raashul Tandon</actor>
-            <actor>Praneet Bhat</actor>
-            <actor>Gireesh Sahdev</actor>
-            <actor>Divyangana Jain</actor>
-            <actor>Sonal Kaushal</actor>
-            <actor>Vikas Grover</actor>
-            <actor>Amit Raghuvanshi</actor>
-            <actor>Kushal Jhavri</actor>
-            <actor>Maan Singh</actor>
-            <actor>Amandeep Singh</actor>
-            <actor>Kushal Awasthi</actor>
-            <actor>Vighnesh Kamble</actor>
-            <actor>Pooja Hingorani</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/1920x1080/b531715be11198777b722b87c2a84332.jpeg" />
-    </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260826050000 +0000" stop="20260826081000 +0000">
-        <title lang="en">Top End Series: Hobart Hurricanes vs Adelaide Strikers Academy</title>
-        <desc lang="en">17th match.</desc>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260827100000 +0000" stop="20260827120000 +0000">
+        <title lang="en">England vs. Pakistan</title>
+        <desc lang="en">From Headingley Cricket Ground.</desc>
         <category lang="en">Cricket</category>
         <rating>
             <value>Not Rated</value>
         </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/a64d5ebcbfad13d3d73d9e4de390eee0.jpeg" />
-        <live />
+        <icon src="http://p-img.movetv.com/1920x1080/91b8e952cbd4550fdfd92a68b8684018.jpeg" />
     </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260826081000 +0000" stop="20260826084000 +0000">
-        <title lang="en">Top End T20 Series: Hurricanes vs Strikers, Match 17</title>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260827120000 +0000" stop="20260827124000 +0000">
+        <title lang="en">England vs. Pakistan</title>
+        <desc lang="en">From Headingley Cricket Ground.</desc>
+        <category lang="en">Cricket</category>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/91b8e952cbd4550fdfd92a68b8684018.jpeg" />
+    </programme>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260827124000 +0000" stop="20260827144000 +0000">
+        <title lang="en">England vs. Pakistan</title>
+        <desc lang="en">From Headingley Cricket Ground.</desc>
+        <category lang="en">Cricket</category>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/91b8e952cbd4550fdfd92a68b8684018.jpeg" />
+    </programme>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260827144000 +0000" stop="20260827150000 +0000">
+        <title lang="en">England vs. Pakistan</title>
+        <desc lang="en">From Headingley Cricket Ground.</desc>
+        <category lang="en">Cricket</category>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/91b8e952cbd4550fdfd92a68b8684018.jpeg" />
+    </programme>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260827150000 +0000" stop="20260827170000 +0000">
+        <title lang="en">England vs. Pakistan</title>
+        <desc lang="en">From Headingley Cricket Ground.</desc>
+        <category lang="en">Cricket</category>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/91b8e952cbd4550fdfd92a68b8684018.jpeg" />
+    </programme>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260827170000 +0000" stop="20260827173000 +0000">
+        <title lang="en">England vs Pakistan: 2nd Test, Day 1</title>
         <desc lang="en">Action from cricket matches around the world.</desc>
         <category lang="en">Cricket</category>
         <rating>
@@ -1276,18 +1307,8 @@
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/8440f12bdae14ea6596bd3d90d6f95e3.jpeg" />
     </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260826084000 +0000" stop="20260826085000 +0000">
-        <title lang="en">Cricket Filler</title>
-        <desc lang="en">Filler cricket programming.</desc>
-        <category lang="en">Cricket</category>
-        <date>2011</date>
-        <rating>
-            <value>TV-G</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/cms/images/9c5cbcc65f018e6c130e7dc8974d99d76b566142.jpg" />
-    </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260826085000 +0000" stop="20260826092000 +0000">
-        <title lang="en">T20 Blast Women 2026: Hampshire vs Durham - Semi Final 2</title>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260827173000 +0000" stop="20260827180000 +0000">
+        <title lang="en">West Indies vs Pakistan: 2nd Test, Day 5</title>
         <desc lang="en">Highlights of all the action from international cricket tournaments, where teams compete to win the title.</desc>
         <category lang="en">Cricket</category>
         <rating>
@@ -1295,61 +1316,16 @@
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/c565f7ebcaa2f25da24492852fafe58e.jpeg" />
     </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260826092000 +0000" stop="20260826093000 +0000">
-        <title lang="en">Top End T20 Series: Nepal vs ACT Comets, Match 18</title>
-        <desc lang="en">A preview of a cricket match.</desc>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260827180000 +0000" stop="20260827190000 +0000">
+        <title lang="en">West Indies vs New Zealand - 5th ODI</title>
+        <desc lang="en">Highlights of all the action from international cricket tournaments, where teams compete to win the title.</desc>
         <category lang="en">Cricket</category>
         <rating>
             <value>TV-G</value>
         </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/6265a98616f122789f1908bae5c5546f.jpeg" />
+        <icon src="http://p-img.movetv.com/1920x1080/c565f7ebcaa2f25da24492852fafe58e.jpeg" />
     </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260826093000 +0000" stop="20260826124000 +0000">
-        <title lang="en">Top End Series: Nepal vs ACT Comets</title>
-        <desc lang="en">18th match.</desc>
-        <category lang="en">Cricket</category>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/a64d5ebcbfad13d3d73d9e4de390eee0.jpeg" />
-    </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260826124000 +0000" stop="20260826131000 +0000">
-        <title lang="en">Top End T20 Series: Nepal vs ACT Comets, Match 18</title>
-        <desc lang="en">Action from cricket matches around the world.</desc>
-        <category lang="en">Cricket</category>
-        <rating>
-            <value>TV-G</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/8440f12bdae14ea6596bd3d90d6f95e3.jpeg" />
-    </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260826131000 +0000" stop="20260826132000 +0000">
-        <title lang="en">European T20 PL 2026: Dockers vs Flames, 1st Match</title>
-        <desc lang="en">A preview of a cricket match.</desc>
-        <category lang="en">Cricket</category>
-        <rating>
-            <value>TV-G</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/6265a98616f122789f1908bae5c5546f.jpeg" />
-    </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260826132000 +0000" stop="20260826163000 +0000">
-        <title lang="en">Rotterdam Dockers vs. Amsterdam Flames</title>
-        <desc lang="en">Coverage of cricket action from the professional twenty20 league in Europe.</desc>
-        <category lang="en">Cricket</category>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/46b2076483ddc0d1fc082734a8539e94.jpg" />
-    </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260826163000 +0000" stop="20260826170000 +0000">
-        <title lang="en">European T20 PL 2026: Dockers vs Flames, Match 1</title>
-        <desc lang="en">Action from cricket matches around the world.</desc>
-        <category lang="en">Cricket</category>
-        <rating>
-            <value>TV-G</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/8440f12bdae14ea6596bd3d90d6f95e3.jpeg" />
-    </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260826170000 +0000" stop="20260826180000 +0000">
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260827190000 +0000" stop="20260827200000 +0000">
         <title lang="en">MLC 2026: Unicorns vs Freedom - Challenger</title>
         <desc lang="en">Highlights of all the action from international cricket tournaments, where teams compete to win the title.</desc>
         <category lang="en">Cricket</category>
@@ -1358,8 +1334,8 @@
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/c565f7ebcaa2f25da24492852fafe58e.jpeg" />
     </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260826180000 +0000" stop="20260826190000 +0000">
-        <title lang="en">India vs Afghanistan: 2nd ODI</title>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260827200000 +0000" stop="20260827210000 +0000">
+        <title lang="en">The Hundred 2026: Rockets vs Phoenix - 22nd Match</title>
         <desc lang="en">Highlights of all the action from international cricket tournaments, where teams compete to win the title.</desc>
         <category lang="en">Cricket</category>
         <rating>
@@ -1367,34 +1343,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/c565f7ebcaa2f25da24492852fafe58e.jpeg" />
     </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260826190000 +0000" stop="20260826200000 +0000">
-        <title lang="en">ICC Women's T20 WC 2026: England vs South Africa - 2nd Semi Final</title>
-        <desc lang="en">Highlights of all the action from international cricket tournaments, where teams compete to win the title.</desc>
-        <category lang="en">Cricket</category>
-        <rating>
-            <value>TV-G</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/c565f7ebcaa2f25da24492852fafe58e.jpeg" />
-    </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260826200000 +0000" stop="20260826210000 +0000">
-        <title lang="en">The Hundred 2026: Super Giants vs Fire - 21st Match</title>
-        <desc lang="en">Highlights of all the action from international cricket tournaments, where teams compete to win the title.</desc>
-        <category lang="en">Cricket</category>
-        <rating>
-            <value>TV-G</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/c565f7ebcaa2f25da24492852fafe58e.jpeg" />
-    </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260826210000 +0000" stop="20260826220000 +0000">
-        <title lang="en">England vs New Zealand: 2nd Test, Day 5</title>
-        <desc lang="en">Highlights of all the action from international cricket tournaments, where teams compete to win the title.</desc>
-        <category lang="en">Cricket</category>
-        <rating>
-            <value>TV-G</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/c565f7ebcaa2f25da24492852fafe58e.jpeg" />
-    </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260826220000 +0000" stop="20260826230000 +0000">
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260827210000 +0000" stop="20260827220000 +0000">
         <title lang="en">Game On with Grace Hayden</title>
         <category lang="en">Cricket</category>
         <category lang="en">Sports</category>
@@ -1403,8 +1352,8 @@
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/a0f06bad043d69577c1053e36764bbbf.jpeg" />
     </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260826230000 +0000" stop="20260827000000 +0000">
-        <title lang="en">CPL 2026: Kingsmen vs Tridents - 4th Match</title>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260827220000 +0000" stop="20260827230000 +0000">
+        <title lang="en">England vs Pakistan: 2nd Test, Day 1</title>
         <desc lang="en">Highlights of all the action from international cricket tournaments, where teams compete to win the title.</desc>
         <category lang="en">Cricket</category>
         <rating>
@@ -1412,7 +1361,16 @@
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/c565f7ebcaa2f25da24492852fafe58e.jpeg" />
     </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260827000000 +0000" stop="20260827002000 +0000">
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260827230000 +0000" stop="20260828000000 +0000">
+        <title lang="en">CPL 2026: Kings vs Nevis Patriots - 5th Match</title>
+        <desc lang="en">Highlights of all the action from international cricket tournaments, where teams compete to win the title.</desc>
+        <category lang="en">Cricket</category>
+        <rating>
+            <value>TV-G</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/c565f7ebcaa2f25da24492852fafe58e.jpeg" />
+    </programme>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260828000000 +0000" stop="20260828002000 +0000">
         <title lang="en">Cricket Filler</title>
         <desc lang="en">Filler cricket programming.</desc>
         <category lang="en">Cricket</category>
@@ -1422,8 +1380,8 @@
         </rating>
         <icon src="http://p-img.movetv.com/cms/images/9c5cbcc65f018e6c130e7dc8974d99d76b566142.jpg" />
     </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260827002000 +0000" stop="20260827003000 +0000">
-        <title lang="en">Top End T20 Series: NT Strike vs Victoria, Match 19</title>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260828002000 +0000" stop="20260828003000 +0000">
+        <title lang="en">Top End T20 Series: Hurricanes vs ACT Comets, Match 22</title>
         <desc lang="en">A preview of a cricket match.</desc>
         <category lang="en">Cricket</category>
         <rating>
@@ -1431,192 +1389,119 @@
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/6265a98616f122789f1908bae5c5546f.jpeg" />
     </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260827003000 +0000" stop="20260827034000 +0000">
-        <title lang="en">Top End Series: NT Strike vs Victoria</title>
-        <desc lang="en">19th match.</desc>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260828003000 +0000" stop="20260828034000 +0000">
+        <title lang="en">Top End Series: Hobart Hurricanes vs ACT Comets</title>
+        <desc lang="en">22nd match.</desc>
         <category lang="en">Cricket</category>
         <rating>
             <value>Not Rated</value>
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/a64d5ebcbfad13d3d73d9e4de390eee0.jpeg" />
     </programme>
-    <programme channel="9089345df1fa4a1680b64fd695297e25" start="20260826024000 +0000" stop="20260826061000 +0000">
-        <title lang="en">Maine Dil Tujhko Diya</title>
-        <desc lang="en">A jealous tycoon schemes to shatter the romance between his business partner's daughter (Sameera Reddy) and the leader (Sohail Khan) of a campus security group.</desc>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20260828034000 +0000" stop="20260828064000 +0000">
+        <title lang="en">Top End Series: HH Kingsmen vs Adelaide Strikers Academy</title>
+        <desc lang="en">23rd match.</desc>
+        <category lang="en">Cricket</category>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/a64d5ebcbfad13d3d73d9e4de390eee0.jpeg" />
+    </programme>
+    <programme channel="9089345df1fa4a1680b64fd695297e25" start="20260827032500 +0000" stop="20260827090000 +0000">
+        <title lang="en">Tridev</title>
+        <desc lang="en">A framed police inspector (Sunny Deol) joins forces with other victims to liquidate a Hong Kong gangster.</desc>
         <category lang="en">Action</category>
-        <category lang="en">Comedy</category>
+        <date>1989</date>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <credits>
+            <actor>Jackie Shroff</actor>
+            <actor>Madhuri Dixit</actor>
+            <actor>Sunny Deol</actor>
+            <actor>Amrish Puri</actor>
+            <actor>Naseeruddin Shah</actor>
+            <actor>Sangeeta Bijlani</actor>
+            <actor>Anupam Kher</actor>
+            <actor>Sonam</actor>
+            <actor>Rajiv Rai</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/cms/images/661294d5f8be2da651e10a94e03a4866b3cde235.JPEG" />
+        <live />
+    </programme>
+    <programme channel="9089345df1fa4a1680b64fd695297e25" start="20260827090000 +0000" stop="20260827124200 +0000">
+        <title lang="en">Souten</title>
+        <desc lang="en">A woman (Tina Munim) becomes extremely jealous after the daughter (Padmini Kolhapure) of her husband's (Rajesh Khanna) accountant shows affection for him.</desc>
         <category lang="en">Romance</category>
-        <category lang="en">Thriller</category>
+        <category lang="en">Drama</category>
+        <date>1983</date>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <credits>
+            <actor>Rajesh Khanna</actor>
+            <actor>Tina Munim</actor>
+            <actor>Padmini Kolhapure</actor>
+            <actor>Prem Chopra</actor>
+            <actor>Shashikala</actor>
+            <actor>Pran</actor>
+            <actor>Shreeram Lagoo</actor>
+            <actor>Sawan Kumar</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/1280x720/0548b84827a34431acb0ce3a6ce51db0.jpeg" />
+    </programme>
+    <programme channel="9089345df1fa4a1680b64fd695297e25" start="20260827124200 +0000" stop="20260827160600 +0000">
+        <title lang="en">Mujhse Shaadi Karogi</title>
+        <desc lang="en">A temperamental man infuriates the woman he loves by hitting her father.</desc>
+        <category lang="en">Romance-Comedy</category>
+        <category lang="en">Drama</category>
+        <date>2004</date>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <credits>
+            <actor>Salman Khan</actor>
+            <actor>Akshay Kumar</actor>
+            <actor>Priyanka Chopra</actor>
+            <actor>Amrish Puri</actor>
+            <actor>Satish Shah</actor>
+            <actor>Rajpal Yadav</actor>
+            <actor>Amrita Arora</actor>
+            <actor>David Dhawan</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/cms/images/cb50d4ace31b825ba5646da0ea363f64771a7637.JPEG" />
+    </programme>
+    <programme channel="9089345df1fa4a1680b64fd695297e25" start="20260827160600 +0000" stop="20260827192800 +0000">
+        <title lang="en">The Legend of Bhagat Singh</title>
+        <desc lang="en">Jailed for a bombing, the freedom fighter (Ajay Devgan) organizes protests and a hunger strike before British officials hang him at age 23.</desc>
+        <category lang="en">Drama</category>
         <date>2002</date>
         <rating>
             <value>Not Rated</value>
         </rating>
         <credits>
-            <actor>Sohail Khan</actor>
-            <actor>Sameera Reddy</actor>
-            <actor>Sanjay Dutt</actor>
-            <actor>Kabir Bedi</actor>
-            <actor>Dilip Tahil</actor>
-            <actor>Rajpal Yadav</actor>
-            <actor>Amrita Prakash</actor>
-            <actor>Sarfaraz Khan</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/1920x1080/76617824648c978b4a048bd78b7ba09f.jpeg" />
-        <live />
-    </programme>
-    <programme channel="9089345df1fa4a1680b64fd695297e25" start="20260826061000 +0000" stop="20260826090000 +0000">
-        <title lang="en">Thodi Thodi Si Manmaaniyan</title>
-        <desc lang="en">An aspiring rock star enters a contest that changes his life completely.</desc>
-        <category lang="en">Drama</category>
-        <category lang="en">Romance</category>
-        <date>2017</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <credits>
-            <actor>Mukesh Tiwari</actor>
-            <actor>Shrenu Parikh</actor>
-            <actor>Shilpa Tulaskar</actor>
-            <actor>Abhinav Parashar</actor>
-            <actor>Karim Hajee</actor>
-            <actor>Kuldeep Sareen</actor>
-            <actor>Rajeev Sharma</actor>
-            <actor>Arsh Sehrawat</actor>
-            <actor>Aditya Sarpotdar</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/1280x720/d1c3180fd96ba87387bbee967ee92b5c.jpeg" />
-    </programme>
-    <programme channel="9089345df1fa4a1680b64fd695297e25" start="20260826090000 +0000" stop="20260826113600 +0000">
-        <title lang="en">Benaam</title>
-        <desc lang="en">A man (Amitabh Bachchan) endangers the welfare of his family when he helps the victim of a stabbing.</desc>
-        <category lang="en">Thriller</category>
-        <category lang="en">Drama</category>
-        <date>1974</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <credits>
-            <actor>Amitabh Bachchan</actor>
-            <actor>Moushumi Chatterjee</actor>
-            <actor>Madan Puri</actor>
-            <actor>Dhumal</actor>
-            <actor>Prem Chopra</actor>
-            <actor>Narendra Bedi</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/1920x1080/ed62b14c841a3bee6eff845d808bb58a.jpeg" />
-    </programme>
-    <programme channel="9089345df1fa4a1680b64fd695297e25" start="20260826113600 +0000" stop="20260826143000 +0000">
-        <title lang="en">Golmaal Returns</title>
-        <desc lang="en">A man has all kinds of problems after rescuing a woman.</desc>
-        <category lang="en">Family</category>
-        <category lang="en">Comedy</category>
-        <date>2008</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <credits>
-            <actor>Kareena Kapoor</actor>
             <actor>Ajay Devgan</actor>
-            <actor>Celina Jaitley</actor>
-            <actor>Amrita Arora</actor>
-            <actor>Arshad Warsi</actor>
-            <actor>Tusshar Kapoor</actor>
-            <actor>Shreyas Talpade</actor>
-            <actor>Anjana Sukhani</actor>
-            <actor>Vrajesh Hirjee</actor>
+            <actor>Sushant Singh</actor>
+            <actor> Santosh</actor>
+            <actor>null Santosh</actor>
+            <actor>Farida Jalal</actor>
+            <actor>Amrita Rao</actor>
+            <actor>Akhilendra Mishra</actor>
+            <actor>Raj Babbar</actor>
             <actor>Mukesh Tiwari</actor>
-            <actor>Murali Sharma</actor>
-            <actor>Ashwini Kalsekar</actor>
-            <actor>Sanjay Mishra</actor>
-            <actor>Sharat Saxena</actor>
-            <actor>Rakhee Tandon</actor>
-            <actor>Rohit Shetty</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/cms/images/a7383d3b167176403b9cf60fe12bc139ee2390e9.JPEG" />
-    </programme>
-    <programme channel="9089345df1fa4a1680b64fd695297e25" start="20260826143000 +0000" stop="20260826174100 +0000">
-        <title lang="en">Ajab Prem Ki Ghazab Kahani</title>
-        <desc lang="en">Prem falls in love with Jenny, a woman who is already in love with a man named Rahul. Despite this, he agrees to help her marry him and even gets into several comical situations as a result.</desc>
-        <category lang="en">Romance-Comedy</category>
-        <category lang="en">Action</category>
-        <date>2009</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <credits>
-            <actor>Ranbir Kapoor</actor>
-            <actor>Katrina Kaif</actor>
-            <actor>Pradeep Kharab</actor>
-            <actor>Zakir Hussain</actor>
-            <actor>Upen Patel</actor>
-            <actor>Darshan Jariwala</actor>
-            <actor>Mithilesh Chaturvedi</actor>
-            <actor>Navneet Nishan</actor>
-            <actor>Smita Jaykar</actor>
+            <actor>Jonathan Ryan</actor>
+            <actor>Gil Alon</actor>
             <actor>Rajkumar Santoshi</actor>
         </credits>
-        <icon src="http://p-img.movetv.com/cms/images/2254dfc6086ed89db59e6ca04db706a46a2b4149.JPEG" />
+        <icon src="http://p-img.movetv.com/cms/images/82c46c3a74738bdb0707f14b42322dd55e16a195.JPEG" />
     </programme>
-    <programme channel="9089345df1fa4a1680b64fd695297e25" start="20260826174100 +0000" stop="20260826204600 +0000">
-        <title lang="en">Naqab</title>
-        <desc lang="en">Imran, a freelance photographer, begins to question his sanity when he repeatedly sees a mysterious singing woman whom no one else can see.</desc>
+    <programme channel="9089345df1fa4a1680b64fd695297e25" start="20260827192800 +0000" stop="20260827223800 +0000">
+        <title lang="en">Joshila</title>
+        <desc lang="en">Jailor Manmohan Krishan is responsible for looking after convicts serving sentences of rigorous imprisonment.</desc>
+        <category lang="en">Adventure</category>
         <category lang="en">Drama</category>
-        <category lang="en">Mystery</category>
-        <date>1988</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <credits>
-            <actor>Rishi Kapoor</actor>
-            <actor>Farha Naaz</actor>
-            <actor>Mohan Choti</actor>
-            <actor>Gautami</actor>
-            <actor>Vijayendra Ghatge</actor>
-            <actor>Amjad Khan</actor>
-            <actor>Rakesh Bedi</actor>
-            <actor>Rita Bhaduri</actor>
-            <actor>Raj Khosla</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/cms/images/ff40926d009e02cf96ba7af0905dd3e287327c28.JPEG" />
-    </programme>
-    <programme channel="9089345df1fa4a1680b64fd695297e25" start="20260826204600 +0000" stop="20260826230000 +0000">
-        <title lang="en">Ugly Aur Pagli</title>
-        <desc lang="en">A straight-laced man falls for a wild woman.</desc>
-        <category lang="en">Comedy</category>
-        <category lang="en">Drama</category>
-        <date>2008</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <credits>
-            <actor>Ranvir Shorey</actor>
-            <actor>Mallika Sherawat</actor>
-            <actor>Vishal Malhotra</actor>
-            <actor>Tinu Anand</actor>
-            <actor>VJ Manish</actor>
-            <actor>Sushmita Mukherjee</actor>
-            <actor>Gaurav Kapur</actor>
-            <actor>Bharti Achrekar</actor>
-            <actor>Sachin Khot</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/1280x720/9c6063ccb8aaf2d9816a94524df3e3fe.jpeg" />
-    </programme>
-    <programme channel="9089345df1fa4a1680b64fd695297e25" start="20260826230000 +0000" stop="20260826233100 +0000">
-        <title lang="en">Desi Tadka</title>
-        <category lang="en">Documentary</category>
-        <category lang="en">Entertainment</category>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/a01d287d8267c200f1870f752dfbfe33.jpeg" />
-    </programme>
-    <programme channel="9089345df1fa4a1680b64fd695297e25" start="20260826233100 +0000" stop="20260827032500 +0000">
-        <title lang="en">Johny Mera Naam</title>
-        <desc lang="en">Separated by fate, brothers Mohan and Sohan take different paths. One seeks revenge, the other becomes a cop, uncovering life-changing secrets.</desc>
-        <category lang="en">Music</category>
-        <category lang="en">Action</category>
-        <category lang="en">Drama</category>
-        <date>1970</date>
+        <category lang="en">Thriller</category>
+        <date>1973</date>
         <rating>
             <value>Not Rated</value>
         </rating>
@@ -1624,36 +1509,91 @@
             <actor>Dev Anand</actor>
             <actor>Hema Malini</actor>
             <actor>Pran</actor>
-            <actor>Jeevan</actor>
-            <actor>Premnath</actor>
+            <actor>Pran Sikand</actor>
+            <actor>Rakhee</actor>
+            <actor>Bindu Desai</actor>
+            <actor>Bindu</actor>
+            <actor>Madan Puri</actor>
+            <actor>Manmohan Krishna</actor>
+            <actor>Mahendra Sandhu</actor>
+            <actor>Padma Khanna</actor>
             <actor>I.S. Johar</actor>
-            <actor>Vijay Anand</actor>
+            <actor>Yash Chopra</actor>
         </credits>
-        <icon src="http://p-img.movetv.com/cms/images/bd2ce97272c26e2c0fc90519890bd32bbd3ea8a8.JPEG" />
+        <icon src="http://p-img.movetv.com/cms/images/cc8b7a2492f4bebddc2e4adf1f92cf713530f4eb.JPEG" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260826060000 +0000" stop="20260826070000 +0000">
-        <title lang="en">Bajao</title>
-        <desc lang="en">The hottest Hindi chartbusters of the season are played uninterrupted.</desc>
-        <category lang="en">Music</category>
-        <date>2005</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/cms/images/a6ca520ba746f17e967631b558a5e496fae5a8e6.jpg" />
-        <live />
-    </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260826070000 +0000" stop="20260826073000 +0000">
-        <title lang="en">Sooper Hits</title>
-        <desc lang="en">Enjoy the hottest chart busters of the season in Sooper Hits, your one-stop shop for all the hits.</desc>
-        <category lang="en">Music</category>
+    <programme channel="9089345df1fa4a1680b64fd695297e25" start="20260827223800 +0000" stop="20260828005200 +0000">
+        <title lang="en">Chameli</title>
+        <desc lang="en">Aman Kapoor, an investment banker, and Chameli, a prostitute, form a bond while finding shelter during the monsoon. He decides to free her from her pimp as his outlook to life changes after he meets her.</desc>
         <category lang="en">Drama</category>
-        <date>2010</date>
+        <date>2004</date>
         <rating>
             <value>Not Rated</value>
         </rating>
-        <icon src="http://p-img.movetv.com/cms/images/3c6470bca8583439e22ed067c861b8b4f460545a.JPEG" />
+        <credits>
+            <actor>Kareena Kapoor</actor>
+            <actor>Rahul Bose</actor>
+            <actor>Rinke Khanna</actor>
+            <actor>Kabir Sadanand</actor>
+            <actor>Yashpal Sharma</actor>
+            <actor>Satyajit Sharma</actor>
+            <actor>Makrand Deshpande</actor>
+            <actor>Pankaj Jha</actor>
+            <actor>Sudhir Mishra</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/1920x1080/af1068816f26977d45e447a31e56d132.jpeg" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260826073000 +0000" stop="20260826083000 +0000">
+    <programme channel="9089345df1fa4a1680b64fd695297e25" start="20260828005200 +0000" stop="20260828033600 +0000">
+        <title lang="en">Auzaar</title>
+        <desc lang="en">Suraj, who is a police officer, discovers that Yash, his friend's father, runs an illegal business. He must now convince Yash to mend his ways or face criticism from his superiors for not confronting him.</desc>
+        <category lang="en">Action</category>
+        <category lang="en">Thriller</category>
+        <date>1997</date>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <credits>
+            <actor>Sanjay Kapoor</actor>
+            <actor>Salman Khan</actor>
+            <actor>Nirmal Pandey</actor>
+            <actor>Shilpa Shetty</actor>
+            <actor>Johnny Lever</actor>
+            <actor>Kiran Kumar</actor>
+            <actor>Aashif Sheikh</actor>
+            <actor>Sohail Khan</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/cms/images/fe46c5289b36c0c1b83e9d9c685e81f2f45d4585.JPEG" />
+    </programme>
+    <programme channel="9089345df1fa4a1680b64fd695297e25" start="20260828033600 +0000" stop="20260828090000 +0000">
+        <title lang="en">Rishtey</title>
+        <desc lang="en">A one-time boxer (Anil Kapoor) battles for custody of the 7-year-old son he kidnapped from in-laws.</desc>
+        <category lang="en">Drama</category>
+        <category lang="en">Action</category>
+        <category lang="en">Romance</category>
+        <date>2002</date>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <credits>
+            <actor>Anil Kapoor</actor>
+            <actor>Karisma Kapoor</actor>
+            <actor>Shilpa Shetty</actor>
+            <actor>Jibraan Khan</actor>
+            <actor>Amrish Puri</actor>
+            <actor>Jagdeep</actor>
+            <actor>Sadashiv Amrapurkar</actor>
+            <actor>Alok Nath</actor>
+            <actor>Anjan Srivasatv</actor>
+            <actor>Arjun</actor>
+            <actor>Achyut Potdar</actor>
+            <actor>Sharat Saxena</actor>
+            <actor>Adi Irani</actor>
+            <actor>Deepshikha</actor>
+            <actor>Indra Kumar</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/cms/images/0ba68aa00a8f95b3dcaccfea9f8aa11bf45b2582.JPEG" />
+    </programme>
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260827073000 +0000" stop="20260827083000 +0000">
         <title lang="en">Aawaaz De Kahan Hai</title>
         <desc lang="en">Compilation of classic hit Hindi film songs.</desc>
         <category lang="en">Music</category>
@@ -1663,8 +1603,9 @@
             <value>Not Rated</value>
         </rating>
         <icon src="http://p-img.movetv.com/cms/images/6666e639da0b0cdf5d9b6dd33a7677828c02a137.JPEG" />
+        <live />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260826083000 +0000" stop="20260826090000 +0000">
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260827083000 +0000" stop="20260827090000 +0000">
         <title lang="en">SOLID HITS</title>
         <desc lang="en">Non-stop hits.</desc>
         <category lang="en">Music</category>
@@ -1674,7 +1615,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/cms/images/d6fc01cdc26065bbed519db6be5f75c2820aa65c.jpg" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260826090000 +0000" stop="20260826093000 +0000">
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260827090000 +0000" stop="20260827093000 +0000">
         <title lang="en">Bollywood Bang Bang</title>
         <desc lang="en">Biggest hits of Bollywood stars.</desc>
         <category lang="en">Music</category>
@@ -1685,7 +1626,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/cms/images/ada21bbad7e5bc7bf02b36f1ebf49551c9678c91.JPEG" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260826093000 +0000" stop="20260826100000 +0000">
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260827093000 +0000" stop="20260827100000 +0000">
         <title lang="en">SOLID HITS</title>
         <desc lang="en">Non-stop hits.</desc>
         <category lang="en">Music</category>
@@ -1695,7 +1636,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/cms/images/d6fc01cdc26065bbed519db6be5f75c2820aa65c.jpg" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260826100000 +0000" stop="20260826110000 +0000">
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260827100000 +0000" stop="20260827110000 +0000">
         <title lang="en">Boom Box</title>
         <desc lang="en">Boom Box is all about the foot-tapping, dance tracks, playing the very best of the club hits to be released out of Bollywood.</desc>
         <category lang="en">Music</category>
@@ -1705,7 +1646,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/6124723f44f1d754f70e2932d6f2d0c7.jpeg" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260826110000 +0000" stop="20260826123000 +0000">
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260827110000 +0000" stop="20260827123000 +0000">
         <title lang="en">Morning Masala</title>
         <desc lang="en">Wake up to the best of the contemporary Bollywood tracks.</desc>
         <category lang="en">Music</category>
@@ -1715,7 +1656,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/cms/images/7320805e90ce31ad4834e74834e86509e1f3a5d7.JPEG" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260826123000 +0000" stop="20260826130000 +0000">
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260827123000 +0000" stop="20260827130000 +0000">
         <title lang="en">Morning Masala</title>
         <desc lang="en">Wake up to the best of the contemporary Bollywood tracks.</desc>
         <category lang="en">Music</category>
@@ -1725,7 +1666,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/cms/images/7320805e90ce31ad4834e74834e86509e1f3a5d7.JPEG" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260826130000 +0000" stop="20260826140000 +0000">
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260827130000 +0000" stop="20260827140000 +0000">
         <title lang="en">Aawaaz De Kahan Hai</title>
         <desc lang="en">Compilation of classic hit Hindi film songs.</desc>
         <category lang="en">Music</category>
@@ -1736,7 +1677,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/cms/images/6666e639da0b0cdf5d9b6dd33a7677828c02a137.JPEG" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260826140000 +0000" stop="20260826160000 +0000">
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260827140000 +0000" stop="20260827160000 +0000">
         <title lang="en">Beat Box</title>
         <category lang="en">Music</category>
         <rating>
@@ -1744,7 +1685,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/c1c82c62cbd21d0eec0cec0b5042c50e.jpg" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260826160000 +0000" stop="20260826163000 +0000">
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260827160000 +0000" stop="20260827163000 +0000">
         <title lang="en">Sooper Hits</title>
         <desc lang="en">Enjoy the hottest chart busters of the season in Sooper Hits, your one-stop shop for all the hits.</desc>
         <category lang="en">Music</category>
@@ -1755,7 +1696,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/cms/images/3c6470bca8583439e22ed067c861b8b4f460545a.JPEG" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260826163000 +0000" stop="20260826170000 +0000">
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260827163000 +0000" stop="20260827170000 +0000">
         <title lang="en">First Cut</title>
         <desc lang="en">Upcoming movies.</desc>
         <category lang="en">Entertainment</category>
@@ -1765,7 +1706,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/ef6ccdd27f2453c6f1456772ee01dd4f.jpg" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260826170000 +0000" stop="20260826173000 +0000">
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260827170000 +0000" stop="20260827173000 +0000">
         <title lang="en">Boom Box</title>
         <desc lang="en">Boom Box is all about the foot-tapping, dance tracks, playing the very best of the club hits to be released out of Bollywood.</desc>
         <category lang="en">Music</category>
@@ -1775,7 +1716,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/6124723f44f1d754f70e2932d6f2d0c7.jpeg" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260826173000 +0000" stop="20260826180000 +0000">
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260827173000 +0000" stop="20260827180000 +0000">
         <title lang="en">Boom Box</title>
         <desc lang="en">Boom Box is all about the foot-tapping, dance tracks, playing the very best of the club hits to be released out of Bollywood.</desc>
         <category lang="en">Music</category>
@@ -1785,7 +1726,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/6124723f44f1d754f70e2932d6f2d0c7.jpeg" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260826180000 +0000" stop="20260826190000 +0000">
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260827180000 +0000" stop="20260827190000 +0000">
         <title lang="en">Bajao</title>
         <desc lang="en">The hottest Hindi chartbusters of the season are played uninterrupted.</desc>
         <category lang="en">Music</category>
@@ -1795,7 +1736,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/cms/images/a6ca520ba746f17e967631b558a5e496fae5a8e6.jpg" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260826190000 +0000" stop="20260826193000 +0000">
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260827190000 +0000" stop="20260827193000 +0000">
         <title lang="en">Hitz</title>
         <desc lang="en">Exclusive hit tunes.</desc>
         <category lang="en">Comedy</category>
@@ -1814,7 +1755,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/3ecd70f9339e6aafaccd96ae3ab4e47621983447.jpg" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260826193000 +0000" stop="20260826203000 +0000">
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260827193000 +0000" stop="20260827203000 +0000">
         <title lang="en">Aawaaz De Kahan Hai</title>
         <desc lang="en">Compilation of classic hit Hindi film songs.</desc>
         <category lang="en">Music</category>
@@ -1825,7 +1766,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/cms/images/6666e639da0b0cdf5d9b6dd33a7677828c02a137.JPEG" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260826203000 +0000" stop="20260826210000 +0000">
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260827203000 +0000" stop="20260827210000 +0000">
         <title lang="en">Kadak</title>
         <desc lang="en">Nonstop back to back hits.</desc>
         <category lang="en">Music</category>
@@ -1835,7 +1776,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/cms/images/4242318c5c92bd2214422945bbe6964d8d8ac3aa.jpg" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260826210000 +0000" stop="20260826213000 +0000">
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260827210000 +0000" stop="20260827213000 +0000">
         <title lang="en">Kadak</title>
         <desc lang="en">Nonstop back to back hits.</desc>
         <category lang="en">Music</category>
@@ -1845,7 +1786,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/cms/images/4242318c5c92bd2214422945bbe6964d8d8ac3aa.jpg" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260826213000 +0000" stop="20260826220000 +0000">
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260827213000 +0000" stop="20260827220000 +0000">
         <title lang="en">Nonstop Hits</title>
         <desc lang="en">A mix of contemporary Bollywood music.</desc>
         <category lang="en">Music</category>
@@ -1855,7 +1796,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/cms/images/d38c9dd69d7d7419bfecae4ecb6ecede6394eb1b.jpg" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260826220000 +0000" stop="20260826223000 +0000">
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260827220000 +0000" stop="20260827223000 +0000">
         <title lang="en">Full Volume</title>
         <desc lang="en">Nonstop hits.</desc>
         <category lang="en">Music</category>
@@ -1866,7 +1807,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/cms/images/532cfc4e63bfcfb345f8d6b01c3ed3b7426a70a6.jpg" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260826223000 +0000" stop="20260826230000 +0000">
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260827223000 +0000" stop="20260827230000 +0000">
         <title lang="en">Pinkvilla</title>
         <desc lang="en">Bollywood and TV stars lifestyle, gossip and fashion.</desc>
         <category lang="en">Public Affairs</category>
@@ -1877,7 +1818,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/cms/images/a67260a5c6dc8e6001bc2b3cff950ac6d1200df4.jpg" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260826230000 +0000" stop="20260826233000 +0000">
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260827230000 +0000" stop="20260827233000 +0000">
         <title lang="en">First Cut</title>
         <desc lang="en">Upcoming movies.</desc>
         <category lang="en">Entertainment</category>
@@ -1887,7 +1828,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/ef6ccdd27f2453c6f1456772ee01dd4f.jpg" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260826233000 +0000" stop="20260827000000 +0000">
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260827233000 +0000" stop="20260828000000 +0000">
         <title lang="en">Sooper Hits</title>
         <desc lang="en">Enjoy the hottest chart busters of the season in Sooper Hits, your one-stop shop for all the hits.</desc>
         <category lang="en">Music</category>
@@ -1898,7 +1839,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/cms/images/3c6470bca8583439e22ed067c861b8b4f460545a.JPEG" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260827000000 +0000" stop="20260827010000 +0000">
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260828000000 +0000" stop="20260828010000 +0000">
         <title lang="en">Boom Box</title>
         <desc lang="en">Boom Box is all about the foot-tapping, dance tracks, playing the very best of the club hits to be released out of Bollywood.</desc>
         <category lang="en">Music</category>
@@ -1908,7 +1849,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/6124723f44f1d754f70e2932d6f2d0c7.jpeg" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260827010000 +0000" stop="20260827020000 +0000">
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260828010000 +0000" stop="20260828020000 +0000">
         <title lang="en">Hitz</title>
         <desc lang="en">Exclusive hit tunes.</desc>
         <category lang="en">Comedy</category>
@@ -1927,7 +1868,7 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/3ecd70f9339e6aafaccd96ae3ab4e47621983447.jpg" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260827020000 +0000" stop="20260827023000 +0000">
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260828020000 +0000" stop="20260828023000 +0000">
         <title lang="en">Bollywood Bang Bang</title>
         <desc lang="en">Biggest hits of Bollywood stars.</desc>
         <category lang="en">Music</category>
@@ -1938,7 +1879,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/cms/images/ada21bbad7e5bc7bf02b36f1ebf49551c9678c91.JPEG" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260827023000 +0000" stop="20260827033000 +0000">
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260828023000 +0000" stop="20260828033000 +0000">
         <title lang="en">Bajao</title>
         <desc lang="en">The hottest Hindi chartbusters of the season are played uninterrupted.</desc>
         <category lang="en">Music</category>
@@ -1948,89 +1889,27 @@
         </rating>
         <icon src="http://p-img.movetv.com/cms/images/a6ca520ba746f17e967631b558a5e496fae5a8e6.jpg" />
     </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260826053000 +0000" stop="20260826063000 +0000">
-        <title lang="en">Viral Chartbusters</title>
-        <desc lang="en">A comprehensive compilation of trending chart-topping songs by renowned artists is played back-to-back to enthral the audience.</desc>
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260828033000 +0000" stop="20260828040000 +0000">
+        <title lang="en">SOLID HITS</title>
+        <desc lang="en">Non-stop hits.</desc>
         <category lang="en">Music</category>
+        <date>2009</date>
         <rating>
             <value>Not Rated</value>
         </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/f43e1f2a2a5e0ea78a9fe20e45d2df2b.jpeg" />
-        <live />
+        <icon src="http://p-img.movetv.com/cms/images/d6fc01cdc26065bbed519db6be5f75c2820aa65c.jpg" />
     </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260826063000 +0000" stop="20260826073000 +0000">
-        <title lang="en">Retro Melodies</title>
-        <desc lang="en">A comprehensive compilation of some of the greatest retro hits sung by renowned singers is played to entertain the audience.</desc>
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20260828040000 +0000" stop="20260828050000 +0000">
+        <title lang="en">Boom Box</title>
+        <desc lang="en">Boom Box is all about the foot-tapping, dance tracks, playing the very best of the club hits to be released out of Bollywood.</desc>
         <category lang="en">Music</category>
+        <date>2014</date>
         <rating>
             <value>Not Rated</value>
         </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/c8597f66eed4be2d9a1a8b7227885aaf.jpeg" />
+        <icon src="http://p-img.movetv.com/1920x1080/6124723f44f1d754f70e2932d6f2d0c7.jpeg" />
     </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260826073000 +0000" stop="20260826083000 +0000">
-        <title lang="en">Break Up Beats</title>
-        <desc lang="en">A curated compilation of some of the most popular break-up songs performed by famous music artists is played back-to-back.</desc>
-        <category lang="en">Music</category>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/e089103f4091e5da8c7551fd734d5778.jpeg" />
-    </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260826083000 +0000" stop="20260826093000 +0000">
-        <title lang="en">All-time hits of Arijit Singh</title>
-        <desc lang="en">A comprehensive compilation of some of the most popular songs sung by Arijit Singh is played back-to-back for music lovers.</desc>
-        <category lang="en">Music</category>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/eba06f655c3ee75b6361127d095ffc30.jpeg" />
-    </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260826093000 +0000" stop="20260826103000 +0000">
-        <title lang="en">Chai &amp; Baarish</title>
-        <desc lang="en">A comprehensive compilation of renowned love songs composed by popular artists is played.</desc>
-        <category lang="en">Music</category>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/56337e1f03ebcc76ba26af61984f3be2.jpeg" />
-    </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260826103000 +0000" stop="20260826110000 +0000">
-        <title lang="en">Dazzling Deepika Padukone</title>
-        <desc lang="en">A curated compilation of some of the most popular and chart-topping songs featuring Deepika Padukone is played back-to-back.</desc>
-        <category lang="en">Music</category>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/b9ccfc6b87ebf81bd3dd6a5802520705.jpeg" />
-    </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260826110000 +0000" stop="20260826113000 +0000">
-        <title lang="en">Hot Hits: Vaani Kapoor</title>
-        <desc lang="en">A comprehensive compilation of the greatest and most popular hit songs of Vaani Kapoor produced and composed by various artists.</desc>
-        <category lang="en">Music</category>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/ec3b1a89be6e3705cfeac06f9c7ee31e.jpeg" />
-    </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260826113000 +0000" stop="20260826133000 +0000">
-        <title lang="en">Road Trippin'</title>
-        <desc lang="en">A comprehensive compilation of popular and energetic songs composed and performed by talented artists is played back-to-back.</desc>
-        <category lang="en">Music</category>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/e21a728247a2cfcf4b76559123a05c3a.jpeg" />
-    </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260826133000 +0000" stop="20260826143000 +0000">
-        <title lang="en">Nachle Ve</title>
-        <desc lang="en">A comprehensive compilation of some of the most popular dance songs composed and performed by renowned musicians is played back to back.</desc>
-        <category lang="en">Music</category>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/289b784898abf8c6a878d5bf6cadf3ce.jpeg" />
-    </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260826143000 +0000" stop="20260826153000 +0000">
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260827073000 +0000" stop="20260827083000 +0000">
         <title lang="en">Monsoon Mood</title>
         <desc lang="en">A comprehensive compilation of popular songs composed by various famous musicians to put the audience in the mood for the monsoon season.</desc>
         <category lang="en">Music</category>
@@ -2038,71 +1917,9 @@
             <value>Not Rated</value>
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/f2d5d8d19e905b7fcd3b73af6068ebe4.jpeg" />
+        <live />
     </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260826153000 +0000" stop="20260826163000 +0000">
-        <title lang="en">Love, Ishq, Mohabbat</title>
-        <desc lang="en">A curated compilation of some of the most popular romantic songs performed by famous music artists is played back-to-back.</desc>
-        <category lang="en">Music</category>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/f25c24175bb80ab1babbf31277ed585c.jpeg" />
-    </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260826163000 +0000" stop="20260826173000 +0000">
-        <title lang="en">Melody Hour With Pritam</title>
-        <desc lang="en">A comprehensive compilation of some of the most popular songs of Pritam Chakraborty is played back to back to entertain the viewers.</desc>
-        <category lang="en">Music</category>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/4c834b096bc912d88b29ecb232ab8e66.jpeg" />
-    </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260826173000 +0000" stop="20260826183000 +0000">
-        <title lang="en">Desi Beats</title>
-        <desc lang="en">A comprehensive compilation of acclaimed chart-topping Indian songs, composed by diverse artists, is played in succession.</desc>
-        <category lang="en">Music</category>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/7919fee01e351aacde1cdd8fec96e6f7.jpeg" />
-    </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260826183000 +0000" stop="20260826193000 +0000">
-        <title lang="en">2000s Nostalgia</title>
-        <desc lang="en">A comprehensive compilation of some of the popular songs from the 2000s by various artists played back-to-back to entertain the audience.</desc>
-        <category lang="en">Music</category>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/be4b48cf4037bf3bc9367ffda87f9314.jpeg" />
-    </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260826193000 +0000" stop="20260826203000 +0000">
-        <title lang="en">Soulful Hits of Shreya Ghoshal</title>
-        <desc lang="en">A comprehensive compilation of some of the most popular songs produced and composed by famous artist Shreya Ghoshal is played back-to-back.</desc>
-        <category lang="en">Music</category>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/65acc09c29e688578c7cbc667811ac51.jpeg" />
-    </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260826203000 +0000" stop="20260826213000 +0000">
-        <title lang="en">Hit List</title>
-        <desc lang="en">A comprehensive collection of chart-topping Bollywood hit songs by various artists, offering a glimpse into the vibrant landscape of contemporary popular music, is played.</desc>
-        <category lang="en">Music</category>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/b43744dc93b5ef68b7c491995eee3dbf.jpeg" />
-    </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260826213000 +0000" stop="20260826223000 +0000">
-        <title lang="en">Legendary Lata Mangeshkar</title>
-        <desc lang="en">A compilation of some of the most popular songs sung by the legendary playback singer Lata Mangeshkar is played to entertain the viewers.</desc>
-        <category lang="en">Music</category>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/f321027a5953b00137aa1d1527a5cb0b.jpeg" />
-    </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260826223000 +0000" stop="20260827003000 +0000">
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260827083000 +0000" stop="20260827103000 +0000">
         <title lang="en">Desi Vibes</title>
         <desc lang="en">A comprehensive compilation of popular and energetic songs composed and performed by talented musical artists is played back-to-back.</desc>
         <category lang="en">Music</category>
@@ -2111,25 +1928,43 @@
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/ada4514fe11e9418c7f4186cbca29da0.jpeg" />
     </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260827003000 +0000" stop="20260827013000 +0000">
-        <title lang="en">Feel Good Music</title>
-        <desc lang="en">A curated compilation of some of the most popular feelgood songs performed by famous music artists is played back-to-back.</desc>
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260827103000 +0000" stop="20260827113000 +0000">
+        <title lang="en">Best of Sonu Nigam</title>
+        <desc lang="en">A comprehensive compilation of some of the most popular songs sung by Sonu Nigam, a celebrated Indian playback singer, is played back-to-back.</desc>
         <category lang="en">Music</category>
         <rating>
             <value>Not Rated</value>
         </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/b17876ecb6049253d91c40293fb24999.jpeg" />
+        <icon src="http://p-img.movetv.com/1920x1080/aba6a1a32e8be014117712765ba67f49.jpeg" />
     </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260827013000 +0000" stop="20260827023000 +0000">
-        <title lang="en">Punjabi Beats</title>
-        <desc lang="en">A compilation of electrifying Punjabi songs composed and sung by various singers is played back to back enthrall the audience.</desc>
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260827113000 +0000" stop="20260827123000 +0000">
+        <title lang="en">Soulful Hits of Shreya Ghoshal</title>
+        <desc lang="en">A comprehensive compilation of some of the most popular songs produced and composed by famous artist Shreya Ghoshal is played back-to-back.</desc>
         <category lang="en">Music</category>
         <rating>
             <value>Not Rated</value>
         </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/0e66ab301d9b4f29081aace244f4f3f9.jpeg" />
+        <icon src="http://p-img.movetv.com/1920x1080/65acc09c29e688578c7cbc667811ac51.jpeg" />
     </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260827023000 +0000" stop="20260827033000 +0000">
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260827123000 +0000" stop="20260827133000 +0000">
+        <title lang="en">Chai &amp; Baarish</title>
+        <desc lang="en">A comprehensive compilation of renowned love songs composed by popular artists is played.</desc>
+        <category lang="en">Music</category>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/56337e1f03ebcc76ba26af61984f3be2.jpeg" />
+    </programme>
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260827133000 +0000" stop="20260827143000 +0000">
+        <title lang="en">Gym Shim Kar Le</title>
+        <desc lang="en">Several high-energy tracks are curated for all workout needs, acting as a companion to your routine and boosting energy.</desc>
+        <category lang="en">Music</category>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/ebea45cc80703a1e158fe2446384fe5b.jpeg" />
+    </programme>
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260827143000 +0000" stop="20260827153000 +0000">
         <title lang="en">Drive-Time Jams</title>
         <desc lang="en">A comprehensive compilation of some of the best songs composed by various renowned artists is played back to back to entertain the audience.</desc>
         <category lang="en">Music</category>
@@ -2138,180 +1973,262 @@
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/00b7b02b00337648fe7fb5731d860aed.jpeg" />
     </programme>
-    <programme channel="d8262178bab6464da998ab5577a616ae" start="20260826040000 +0000" stop="20260826063000 +0000">
-        <title lang="en">Chako Mako</title>
-        <desc lang="en">Chhako &amp; Mako are the wisest men of the village. They are always the butt of villagers' jokes. They decide to move out of the village.</desc>
-        <category lang="en">Comedy</category>
-        <date>1983</date>
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260827153000 +0000" stop="20260827163000 +0000">
+        <title lang="en">Jordaar Hits of Ranveer Singh</title>
+        <desc lang="en">A comprehensive compilation of some of Ranveer Singh's greatest hits is played back to back in order to entertain the audience.</desc>
+        <category lang="en">Music</category>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/3c49014ece3ee9f18ccb3f380b797662.jpeg" />
+    </programme>
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260827163000 +0000" stop="20260827173000 +0000">
+        <title lang="en">Ladies Beats</title>
+        <desc lang="en">A compilation of some of the most popular songs composed and performed by renowned female artists is played back-to-back to entertain the audience.</desc>
+        <category lang="en">Music</category>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/80f3e96875e7f3f522f9609f30c60d93.jpeg" />
+    </programme>
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260827173000 +0000" stop="20260827183000 +0000">
+        <title lang="en">Hit List</title>
+        <desc lang="en">A comprehensive collection of chart-topping Bollywood hit songs by various artists, offering a glimpse into the vibrant landscape of contemporary popular music, is played.</desc>
+        <category lang="en">Music</category>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/b43744dc93b5ef68b7c491995eee3dbf.jpeg" />
+    </programme>
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260827183000 +0000" stop="20260827193000 +0000">
+        <title lang="en">Tears in love</title>
+        <desc lang="en">A curated compilation of some of the most popular break-up songs performed by famous music artists is played back-to-back.</desc>
+        <category lang="en">Music</category>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/f25c24175bb80ab1babbf31277ed585c.jpeg" />
+    </programme>
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260827193000 +0000" stop="20260827213000 +0000">
+        <title lang="en">Flashback Music</title>
+        <desc lang="en">A compilation of some of the most popular songs of yesteryears, performed and composed by various artists is played back to back.</desc>
+        <category lang="en">Music</category>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/79cfa01709bebfa0eda4032a93b78191.jpeg" />
+    </programme>
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260827213000 +0000" stop="20260827223000 +0000">
+        <title lang="en">Jordaar Hits</title>
+        <desc lang="en">Composed and performed by various artists, a compilation of some of the most upbeat and catchy songs is played back to back.</desc>
+        <category lang="en">Music</category>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/a9303dc062524e42de8546bbb70c441c.jpeg" />
+    </programme>
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260827223000 +0000" stop="20260827233000 +0000">
+        <title lang="en">Trending Tunes</title>
+        <desc lang="en">A comprehensive compilation of trending songs and beats by renowned artists is played back to back, captivating the audience.</desc>
+        <category lang="en">Music</category>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/db025c864526712c65858ced9038f214.jpeg" />
+    </programme>
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260827233000 +0000" stop="20260828003000 +0000">
+        <title lang="en">G.O.A.T Songs</title>
+        <desc lang="en">A curated compilation of some of the most popular timeless songs performed by famous music artists is played back-to-back.</desc>
+        <category lang="en">Music</category>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/0cada5354a322b05ff7ee052194b1b84.jpeg" />
+    </programme>
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260828003000 +0000" stop="20260828013000 +0000">
+        <title lang="en">Gems of Yash Chopra</title>
+        <desc lang="en">A curated compilation of some of the most popular and chart-topping songs involving the renowned producer Yash Chopra is played back-to-back.</desc>
+        <category lang="en">Music</category>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/068d28ae35eea3a9d05250c08cb01bc7.jpeg" />
+    </programme>
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260828013000 +0000" stop="20260828023000 +0000">
+        <title lang="en">Nach Baliye</title>
+        <desc lang="en">A comprehensive compilation of some of the most popular songs composed and performed by renowned musicians is played back to back.</desc>
+        <category lang="en">Music</category>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/319381edb41ba63405c211dbee83cac1.jpeg" />
+    </programme>
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260828023000 +0000" stop="20260828033000 +0000">
+        <title lang="en">Roadtrip Mix</title>
+        <desc lang="en">A compilation of some of the most popular and energetic beats that are perfect for road trips is played to entertain the viewers.</desc>
+        <category lang="en">Music</category>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/d3acbcdbe3a5fb01f24f0d7ddd4b0210.jpeg" />
+    </programme>
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20260828033000 +0000" stop="20260828053000 +0000">
+        <title lang="en">Flashback Music</title>
+        <desc lang="en">A compilation of some of the most popular songs of yesteryears, performed and composed by various artists is played back to back.</desc>
+        <category lang="en">Music</category>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/79cfa01709bebfa0eda4032a93b78191.jpeg" />
+    </programme>
+    <programme channel="d8262178bab6464da998ab5577a616ae" start="20260827063000 +0000" stop="20260827100000 +0000">
+        <title lang="en">Gori Lahee Jahu Tane Hu Aaj Kalma</title>
+        <desc lang="en">Gori is a Gujarati movie starring Anandi Tripathi, Sunil Dosani in prominent roles. It is a romantic movie directed by Pravin Anada.</desc>
+        <category lang="en">Romance</category>
+        <date>2011</date>
         <rating>
             <value>Not Rated</value>
         </rating>
         <credits>
-            <actor>Bhargav Joshi</actor>
-            <actor>Jignesh Dixit</actor>
-            <actor>Bimal Thakur</actor>
-            <actor>Ketan Chaudhri</actor>
-            <actor>Bhoumik Shastri</actor>
+            <actor>Anandi Tripathi</actor>
+            <actor>Sunil Doshani</actor>
+            <actor>Nishant Pandya</actor>
         </credits>
-        <icon src="http://p-img.movetv.com/1920x1080/82f471ee7f1a3947dd2b0252795d1ea2.jpeg" />
+        <icon src="http://p-img.movetv.com/1920x1080/39008b5a92d6194dbc3454eb444c440d.jpeg" />
         <live />
     </programme>
-    <programme channel="d8262178bab6464da998ab5577a616ae" start="20260826063000 +0000" stop="20260826100000 +0000">
-        <title lang="en">Hutututu Avi Ramat Ni Rutu</title>
-        <desc lang="en">Siblings Yashwardhan and Aditya Choksi are kingpins of the commodity market. One day, over a game of chess, they end up having an argument and bet whether circumstances can completely change anyone's behavior and etiquette.</desc>
-        <category lang="en">Comedy</category>
-        <date>2016</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <credits>
-            <actor>Sheetal Shah</actor>
-            <actor>Shital Shah</actor>
-            <actor>Parth Oza</actor>
-            <actor>Shaina Shah</actor>
-            <actor>Raunaq Kamdar</actor>
-            <actor>Abhay Chandarana</actor>
-            <actor>Ankit Joshipura</actor>
-            <actor>Bhakti Kubavat</actor>
-            <actor>Aseem Parikh</actor>
-            <actor>Others</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/1920x1080/60085467e78787341860951e07b5ef58.jpeg" />
-    </programme>
-    <programme channel="d8262178bab6464da998ab5577a616ae" start="20260826100000 +0000" stop="20260826130000 +0000">
-        <title lang="en">Nakkama</title>
-        <category lang="en">Comedy</category>
+    <programme channel="d8262178bab6464da998ab5577a616ae" start="20260827100000 +0000" stop="20260827130000 +0000">
+        <title lang="en">Mister Kalaakar</title>
+        <desc lang="en">Jigar Majmudar desires to become an actor but his interests clash with the wishes of his father, who is a lawyer. The dedicated Jigar must tackle various obstacles and face incidents which put him in a tough spot.</desc>
+        <category lang="en">Drama</category>
         <date>2019</date>
         <rating>
             <value>Not Rated</value>
         </rating>
         <credits>
-            <actor>Prapti Ajwalia</actor>
-            <actor>Swati Dave</actor>
-            <actor>Tushar Dave</actor>
-            <actor>Akhil Kotak</actor>
-            <actor>Rohan Sinha</actor>
-            <actor>Ramakanth Ingale</actor>
-            <actor>Bhavik Jagad</actor>
-            <actor>Pushpraj Gunjan</actor>
-            <actor>Avinash Gaurav</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/1920x1080/289e2e23ce85962460295617d3515009.jpeg" />
-    </programme>
-    <programme channel="d8262178bab6464da998ab5577a616ae" start="20260826130000 +0000" stop="20260826163000 +0000">
-        <title lang="en">Hutututu Avi Ramat Ni Rutu</title>
-        <desc lang="en">Siblings Yashwardhan and Aditya Choksi are kingpins of the commodity market. One day, over a game of chess, they end up having an argument and bet whether circumstances can completely change anyone's behavior and etiquette.</desc>
-        <category lang="en">Comedy</category>
-        <date>2016</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <credits>
-            <actor>Sheetal Shah</actor>
-            <actor>Shital Shah</actor>
-            <actor>Parth Oza</actor>
-            <actor>Shaina Shah</actor>
-            <actor>Raunaq Kamdar</actor>
-            <actor>Abhay Chandarana</actor>
-            <actor>Ankit Joshipura</actor>
-            <actor>Bhakti Kubavat</actor>
-            <actor>Aseem Parikh</actor>
-            <actor>Others</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/1920x1080/60085467e78787341860951e07b5ef58.jpeg" />
-    </programme>
-    <programme channel="d8262178bab6464da998ab5577a616ae" start="20260826163000 +0000" stop="20260826193000 +0000">
-        <title lang="en">Nakkama</title>
-        <category lang="en">Comedy</category>
-        <date>2019</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <credits>
-            <actor>Prapti Ajwalia</actor>
-            <actor>Swati Dave</actor>
-            <actor>Tushar Dave</actor>
-            <actor>Akhil Kotak</actor>
-            <actor>Rohan Sinha</actor>
-            <actor>Ramakanth Ingale</actor>
-            <actor>Bhavik Jagad</actor>
-            <actor>Pushpraj Gunjan</actor>
-            <actor>Avinash Gaurav</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/1920x1080/289e2e23ce85962460295617d3515009.jpeg" />
-    </programme>
-    <programme channel="d8262178bab6464da998ab5577a616ae" start="20260826193000 +0000" stop="20260826220000 +0000">
-        <title lang="en">Dhan Dhatudi Patudi</title>
-        <category lang="en">Comedy</category>
-        <date>2021</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <credits>
-            <actor>Sanjaysinh Chauhan</actor>
-            <actor>Jahnvi Chauhan</actor>
-            <actor>Jitendra Thakkar</actor>
-            <actor>Chetan Daiya</actor>
-            <actor>Hemang Dave</actor>
-            <actor>Jitu Pandya</actor>
-            <actor>Aakash Zala</actor>
-            <actor>Amit Galani</actor>
-            <actor>Ridham Bhatt</actor>
-            <actor>Sunny Kumar</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/1920x1080/ba4079f49efbdfca23e14fe55a09cd65.jpeg" />
-    </programme>
-    <programme channel="d8262178bab6464da998ab5577a616ae" start="20260826220000 +0000" stop="20260826223000 +0000">
-        <title lang="en">Kem Cho Kitchen</title>
-        <desc lang="en">The host invites influencer chefs and interacts with them to learn about the richness of Gujarati cuisine; the chefs demonstrate the cooking of some of the recipes.</desc>
-        <category lang="en">Cooking</category>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/93f6368d5f9f9b972af0663208695f92.jpeg" />
-    </programme>
-    <programme channel="d8262178bab6464da998ab5577a616ae" start="20260826223000 +0000" stop="20260827020000 +0000">
-        <title lang="en">Teacher Of The Year</title>
-        <category lang="en">Comedy</category>
-        <date>2019</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <credits>
-            <actor>Shounak Vyas</actor>
-            <actor>Alisha Prajapati</actor>
-            <actor>Mehul Buch</actor>
+            <actor>Akshat Irani</actor>
+            <actor>Pooja Jhaveri</actor>
+            <actor>Manoj Joshi</actor>
+            <actor>Adi Irani</actor>
             <actor>Ragi Jani</actor>
-            <actor>Nisarg Trivedi</actor>
-            <actor>Archan Trivedi</actor>
-            <actor>Chaitanyakrishna Raval</actor>
-            <actor>Parmeshwar Sirsikar</actor>
-            <actor>Jiya Bhatt</actor>
-            <actor>Jeetendra Thakkar</actor>
-            <actor>Ankit Gajera</actor>
-            <actor>Parth Raval</actor>
-            <actor>Antraa Thakkar</actor>
-            <actor>Premal Yagnik</actor>
-            <actor>Vikram Panchal</actor>
+            <actor>Jignesh Modi</actor>
+            <actor>Bhavini Jani</actor>
+            <actor>Firoz Irani</actor>
+            <actor>Jay Bhatt</actor>
         </credits>
-        <icon src="http://p-img.movetv.com/1920x1080/a862ba941e5688c17141af3a5ae1e142.jpeg" />
+        <icon src="http://p-img.movetv.com/1920x1080/41a76eea63fcd3588d306da6b99ef5cc.jpeg" />
     </programme>
-    <programme channel="d8262178bab6464da998ab5577a616ae" start="20260827020000 +0000" stop="20260827040000 +0000">
-        <title lang="en">Man Gamtu Model</title>
-        <desc lang="en">Raj is a very talented painter. He is about to marry a beautiful girl, Swati. His close friend Mehul is trying to woo Rosie. To impress Rosie, Mehul introduces himself as famous painter, Raj. This impersonation leads to many humorous twists.</desc>
-        <category lang="en">Comedy</category>
-        <date>2007</date>
+    <programme channel="d8262178bab6464da998ab5577a616ae" start="20260827130000 +0000" stop="20260827163000 +0000">
+        <title lang="en">Gori Lahee Jahu Tane Hu Aaj Kalma</title>
+        <desc lang="en">Gori is a Gujarati movie starring Anandi Tripathi, Sunil Dosani in prominent roles. It is a romantic movie directed by Pravin Anada.</desc>
+        <category lang="en">Romance</category>
+        <date>2011</date>
         <rating>
             <value>Not Rated</value>
         </rating>
         <credits>
-            <actor>Jayshree Mehta</actor>
-            <actor>Kosha Munshi</actor>
-            <actor>Manisha Mehta</actor>
-            <actor>Santu Rajda</actor>
-            <actor>Krime Shah</actor>
-            <actor>Arvind Vekaria</actor>
+            <actor>Anandi Tripathi</actor>
+            <actor>Sunil Doshani</actor>
+            <actor>Nishant Pandya</actor>
         </credits>
-        <icon src="http://p-img.movetv.com/1920x1080/12e9f867e0d331579f48954acafa31aa.jpeg" />
+        <icon src="http://p-img.movetv.com/1920x1080/39008b5a92d6194dbc3454eb444c440d.jpeg" />
+    </programme>
+    <programme channel="d8262178bab6464da998ab5577a616ae" start="20260827163000 +0000" stop="20260827193000 +0000">
+        <title lang="en">Gujjubhai the Great</title>
+        <desc lang="en">A man's stress-free life is interrupted when his daughter brings a boyfriend home.</desc>
+        <category lang="en">Comedy</category>
+        <date>2015</date>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <credits>
+            <actor>Siddharth Randeria</actor>
+            <actor>Swati Shah</actor>
+            <actor>Jimit Trivedi</actor>
+            <actor>Dipna Patel</actor>
+            <actor>Alekh Sangal</actor>
+            <actor>Sunil Vishrani</actor>
+            <actor>Ishaan Randeria</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/1920x1080/5c2e5a79b9886913e4fa4c6bca2a247e.jpeg" />
+    </programme>
+    <programme channel="d8262178bab6464da998ab5577a616ae" start="20260827193000 +0000" stop="20260827223000 +0000">
+        <title lang="en">Mister Kalaakar</title>
+        <desc lang="en">Jigar Majmudar desires to become an actor but his interests clash with the wishes of his father, who is a lawyer. The dedicated Jigar must tackle various obstacles and face incidents which put him in a tough spot.</desc>
+        <category lang="en">Drama</category>
+        <date>2019</date>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <credits>
+            <actor>Akshat Irani</actor>
+            <actor>Pooja Jhaveri</actor>
+            <actor>Manoj Joshi</actor>
+            <actor>Adi Irani</actor>
+            <actor>Ragi Jani</actor>
+            <actor>Jignesh Modi</actor>
+            <actor>Bhavini Jani</actor>
+            <actor>Firoz Irani</actor>
+            <actor>Jay Bhatt</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/1920x1080/41a76eea63fcd3588d306da6b99ef5cc.jpeg" />
+    </programme>
+    <programme channel="d8262178bab6464da998ab5577a616ae" start="20260827223000 +0000" stop="20260828020000 +0000">
+        <title lang="en">Kallje Korani Mari Sajna</title>
+        <category lang="en">Drama</category>
+        <date>2018</date>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <credits>
+            <actor>Rakesh Barot</actor>
+            <actor>Urvashi Raval</actor>
+            <actor>Jayendra Mehta</actor>
+            <actor>Mahesh Rabari</actor>
+            <actor>Zibreel Parmar</actor>
+            <actor>Rohit Maheta</actor>
+            <actor>Paresh Vyas</actor>
+            <actor>Krishna Zala</actor>
+            <actor>Vijay Balwadi</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/1920x1080/7306f782281e8a9350930deed9a31819.jpeg" />
+    </programme>
+    <programme channel="d8262178bab6464da998ab5577a616ae" start="20260828020000 +0000" stop="20260828040000 +0000">
+        <title lang="en">Bakudi Ni Bolbala</title>
+        <desc lang="en">Two lovebirds are separated by a greedy mother, as she wants her son to marry a rich girl. Will love conquer the greed?</desc>
+        <category lang="en">Comedy</category>
+        <category lang="en">Romance</category>
+        <category lang="en">Romance-Comedy</category>
+        <date>2017</date>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <credits>
+            <actor>Pratima T.</actor>
+            <actor>Jitu Kotak</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/1920x1080/c9ce7dd85661c94587cda2e74948546a.jpeg" />
+    </programme>
+    <programme channel="d8262178bab6464da998ab5577a616ae" start="20260828040000 +0000" stop="20260828063000 +0000">
+        <title lang="en">Family Bamily Bum Bum</title>
+        <desc lang="en">Jamnadas Raghuvanshi owns a group of companies which is managed by his wife. He has 2 sons and both have different approaches towards their life which gives tension to Jamnadas and his wife Nirmala. See this dramatic comedy combination in this play.</desc>
+        <category lang="en">Comedy</category>
+        <date>2018</date>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <credits>
+            <actor>Kalyani Thakar</actor>
+            <actor>Samir Khakkar</actor>
+            <actor>Dimple Shah</actor>
+            <actor>Yogesh Upadhyay</actor>
+            <actor>Dilip Somaiya</actor>
+            <actor>Vallabh Gada</actor>
+            <actor>Prarthi</actor>
+            <actor>Vinod Kale</actor>
+            <actor>Hitakshi Vasa</actor>
+            <actor>Manoj Shah</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/1920x1080/5929de687dff727153ae11fcc25f49eb.jpeg" />
     </programme>
 </tv>
