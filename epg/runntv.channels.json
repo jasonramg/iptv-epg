@@ -7,6 +7,13 @@
         "stream": "https://eros-blywdcnm.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8"
     },
     {
+        "id": "shemaroo-bollywood",
+        "name": "Shemaroo Bollywood",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRBOL/Web/thumbnail/logo_web.png",
+        "stream": "https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8"
+    },
+    {
         "id": "kuting",
         "name": "Kutingg",
         "category": "Entertainment",
@@ -28,13 +35,6 @@
         "stream": "https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8"
     },
     {
-        "id": "blyflx",
-        "name": "NH BollyFlix",
-        "category": "Movies",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYFLX/Web/thumbnail/a3b425cc-d6bd-4618-b78f-27c875df5da5.png",
-        "stream": "https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8"
-    },
-    {
         "id": "ersent",
         "name": "Eros Universe Entertainment",
         "category": "Movies",
@@ -42,18 +42,18 @@
         "stream": "https://eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8"
     },
     {
-        "id": "shemaroo-bollywood",
-        "name": "Shemaroo Bollywood",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRBOL/Web/thumbnail/logo_web.png",
-        "stream": "https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8"
-    },
-    {
         "id": "mrbean",
         "name": "Mr Bean",
         "category": "Entertainment",
         "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MRBEAN/Web/thumbnail/1dcd90af-d67d-4b69-966b-fac3c70d350f.png",
         "stream": "https://mrbeanus.cdn.runn.tv/master.m3u8"
+    },
+    {
+        "id": "blyflx",
+        "name": "NH BollyFlix",
+        "category": "Movies",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYFLX/Web/thumbnail/a3b425cc-d6bd-4618-b78f-27c875df5da5.png",
+        "stream": "https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8"
     },
     {
         "id": "run9xm",
