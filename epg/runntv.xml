@@ -7418,15 +7418,6 @@
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/coverart/38b65b92-897d-4bd3-910d-1977d415ca34.png"/>
   </programme>
-  <programme channel="abpmaj" start="20260826075000 +0000" stop="20260826081500 +0000">
-    <title lang="en">Majha Doctor</title>
-    <desc lang="en">Majha Doctor</desc>
-    <language>Marathi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/coverart/47322414-8baa-42df-aaa7-4fe2326cbd47.png"/>
-  </programme>
   <programme channel="abpmaj" start="20260826081500 +0000" stop="20260826082800 +0000">
     <title lang="en">Duparchya Batmya</title>
     <desc lang="en">An afternoon special segment delivers the latest and most significant happenings of the day.</desc>
@@ -14221,15 +14212,6 @@
       <value>UA-7+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/penmusic/platform/channels/ALTMOV/Web/coverart/bf13fe8e-e8fd-4e04-baf0-093e57568aec.png"/>
-  </programme>
-  <programme channel="amuspo" start="20260826074837 +0000" stop="20260826081536 +0000">
-    <title lang="en">Isha L &amp; Mayur P Vs Andie D Lucas P</title>
-    <desc lang="en">Isha L &amp; Mayur P VS Dani T &amp; George W</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/amuzisports/partners/AMZSPRTS/poster/web/cover/f2cd18a2-4c30-4ec8-a178-958a74426f47.png"/>
   </programme>
   <programme channel="amuspo" start="20260826081537 +0000" stop="20260826084744 +0000">
     <title lang="en">Isha L &amp; Mayur P Vs Dani T &amp; George W</title>
@@ -23348,6 +23330,15 @@
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CARCAR/Mobile/coverart/a92bf450-139e-4354-a60d-410daec156ee.png"/>
   </programme>
+  <programme channel="carcar" start="20260829081412 +0000" stop="20260829083310 +0000">
+    <title lang="en">Dive Olly Dive</title>
+    <desc lang="en">Dive Olly Dive sigue as aventuras de Olly, um sumarino en formação, y Beth, a sua melhor amiga. Vivem na estação especial de submarinos, baixo os ordems do buzo Doug, os jovems submarinos exploram o espectacular mundo submarino.</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CARCAR/Mobile/coverart/a92bf450-139e-4354-a60d-410daec156ee.png"/>
+  </programme>
   <programme channel="carcar" start="20260829083310 +0000" stop="20260829090504 +0000">
     <title lang="en">Dive Olly Dive</title>
     <desc lang="en">Dive Olly Dive sigue as aventuras de Olly, um sumarino en formação, y Beth, a sua melhor amiga. Vivem na estação especial de submarinos, baixo os ordems do buzo Doug, os jovems submarinos exploram o espectacular mundo submarino.</desc>
@@ -26587,15 +26578,6 @@
       <value>UA-13+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CRIUSA/Mobile/coverart/939b3e85-9047-4661-a863-65f0cab070b2.png"/>
-  </programme>
-  <programme channel="dicmed" start="20260826080254 +0000" stop="20260826081950 +0000">
-    <title lang="en">Parishram (the Effort)</title>
-    <desc lang="en">The reality check hits hard when the OSC results are announced and Ravi fails his first attempt. He faces taunts from his family and the crushing weight of societal judgment. Encouraged by Jyoti, who provides both emotional support and a strategic plan, Ravi moves from being a "casual" student to a "hardcore" aspirant. This episode highlights the physical and mental "grind" involved in the preparation.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/pocketaces/platform/channels/DICMED/Web/coverart/7a64bd23-cd03-4eb3-843b-edd16ebb0936.png"/>
   </programme>
   <programme channel="dicmed" start="20260826081951 +0000" stop="20260826084007 +0000">
     <title lang="en">Avroh (the Descent)</title>
@@ -33841,15 +33823,6 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DRIDRI/Mobile/coverart/426d2383-ebc1-4bd5-9cd0-713c269e0a61.png"/>
   </programme>
-  <programme channel="ersent" start="20260826051543 +0000" stop="20260826081747 +0000">
-    <title lang="en">Omkara</title>
-    <desc lang="en">In Shakespeare's masterpiece 'Othello' set in modern India, watch how a politically-minded enforcer's misguided trust in his lieutenant leads him to suspect his wife of infidelity.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/eros/partners/ERSENTMT/poster/web/cover/e78aa175-df3a-47f7-8857-7547d0185517.png"/>
-  </programme>
   <programme channel="ersent" start="20260826081748 +0000" stop="20260826105432 +0000">
     <title lang="en">Sunday</title>
     <desc lang="en">Sehar can’t recall a missing Sunday and becomes a murder suspect. ACP Rajveer investigates, uncovering clues linking her to the crime scene. What really happened that day?</desc>
@@ -34858,6 +34831,15 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/FIGFIG/Mobile/coverart/8f32cf25-c5f5-4ed2-b620-ad97e6920730.png"/>
   </programme>
+  <programme channel="figfig" start="20260829081654 +0000" stop="20260829092756 +0000">
+    <title lang="en">Tna Impact Wrestling</title>
+    <desc lang="en">Experience the TNA IMPACT WRESTLING 2012 &amp; 2013 World Tour featuring the best wrestlers</desc>
+    <language>English</language>
+    <rating>
+      <value>PG</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/FIGFIG/Mobile/coverart/8f32cf25-c5f5-4ed2-b620-ad97e6920730.png"/>
+  </programme>
   <programme channel="figfig" start="20260829092756 +0000" stop="20260829102833 +0000">
     <title lang="en">Queensbury Boxing League</title>
     <desc lang="en">The Queensbury Boxing League is one of the UK’s most exciting boxing competitions.</desc>
@@ -35281,7 +35263,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/FIGFIG/Mobile/coverart/8f32cf25-c5f5-4ed2-b620-ad97e6920730.png"/>
   </programme>
-  <programme channel="figfig" start="20260901074143 +0000" stop="20260901075022 +0000">
+  <programme channel="figfig" start="20260901074143 +0000" stop="20260901081323 +0000">
     <title lang="en">Tna Impact Wrestling</title>
     <desc lang="en">Experience the TNA IMPACT WRESTLING 2012 &amp; 2013 World Tour featuring the best wrestlers</desc>
     <language>English</language>
@@ -35289,24 +35271,6 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
       <value>PG</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/FIGFIG/Mobile/coverart/8f32cf25-c5f5-4ed2-b620-ad97e6920730.png"/>
-  </programme>
-  <programme channel="filcop" start="20260826080919 +0000" stop="20260826081506 +0000">
-    <title lang="en">Every Introvert Ever</title>
-    <desc lang="en">This video comically depicts the relatable struggles and unique behaviors of introverts. It showcases situations like avoiding social gatherings, pretending to be busy to escape conversations, and finding joy in solitude, all while highlighting the inner world of an introvert</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/pocketaces/platform/channels/FLTRCOPY/Web/coverart/f9d498c1-46fd-4452-89e5-5ebe1ac6e912.png"/>
-  </programme>
-  <programme channel="filcop" start="20260826081507 +0000" stop="20260826082121 +0000">
-    <title lang="en">Things We Did In College</title>
-    <desc lang="en">The free-spirited college days: late-night chats, spontaneous plans, weird life lectures from friends, figure-out-your-future stress, tons of memories that become “remember when” moments later.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/pocketaces/platform/channels/FLTRCOPY/Web/coverart/f9d498c1-46fd-4452-89e5-5ebe1ac6e912.png"/>
   </programme>
   <programme channel="filcop" start="20260826082121 +0000" stop="20260826082752 +0000">
     <title lang="en">When Your Sibling Knows Your Secret</title>
@@ -59401,53 +59365,6 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDTVY/Web/coverart/af25d10b-a3db-471a-a64c-df4ecba29af1.png"/>
   </programme>
-  <programme channel="jagran" start="20260826074937 +0000" stop="20260826081424 +0000">
-    <title lang="en">Unveiling the Struggles of the Transgender Community | In Conversation with Harish Iyer EP 03</title>
-    <desc lang="en">In this enlightening episode, we sit down with Harish Iyer, a renowned LGBTQ+ activist and speaker, to delve deep into the challenges faced by the transgender community. Harish shares personal stories, insights, and the harsh realities that transgender individuals encounter daily. From social stigma to legal battles, we uncover the multifaceted struggles and the resilience of this vibrant community.
-
-Whether you're an ally, a member of the LGBTQ+ community, or simply looking to educate yourself, this conversation offers valuable perspectives and encourages empathy and understanding.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-16+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/JAGRANTV/poster/mobile/cover/JAGRANHE_SF_00017.jpg"/>
-  </programme>
-  <programme channel="jagran" start="20260826081220 +0000" stop="20260826081816 +0000">
-    <title lang="en">Ayurveda with Dimple Jangda Ep 07 - Ayurvedic remedies for improving immunity</title>
-    <desc lang="en">join us as we explore how Ayurveda can help boost your immunity. Hosted by Dimple Jangda, a renowned expert in Ayurveda, we delve into the ancient wisdom of Ayurvedic practices and their powerful impact on enhancing your immune system.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/JAGRANTV/poster/mobile/cover/418ba48b-de6e-401b-93c7-9db990f005a2.jpg"/>
-  </programme>
-  <programme channel="jagran" start="20260826081425 +0000" stop="20260826082041 +0000">
-    <title lang="en">Learn About Shilpa Shetty and Priyanka Chopra's Botox Treatment | Dr. Prabha Singh</title>
-    <desc lang="en">Learn About Shilpa Shetty and Priyanka Chopra's Botox Treatment | Dr. Prabha Singh</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/JAGRAN/Mobile/coverart/72ef6684-90ae-401f-b391-22d96864cd6a.png"/>
-  </programme>
-  <programme channel="jagran" start="20260826081816 +0000" stop="20260826082042 +0000">
-    <title lang="en">Celebrity Fitness Secrets-Vicky Kaushal</title>
-    <desc lang="en">In this video, we unveil the secrets behind Bollywood heartthrob Vicky Kaushal's impressive physique. We delve into his regimented strength training routines that sculpt his lean muscle and toned core. You'll also discover his go-to cardio exercises for building endurance and a healthy heart. But it's not just exercise! We explore Vicky's clean eating plan packed with whole foods and essential nutrients, plus his tips for portion control to fuel his workouts and keep him in peak condition. Get ready to be inspired and take the first step towards achieving your own fitness goals!</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/JAGRANTV/poster/mobile/cover/JAGRANHE_SF_00008.jpg"/>
-  </programme>
-  <programme channel="jagran" start="20260826082041 +0000" stop="20260826082350 +0000">
-    <title lang="en">Celebrity Fitness Secrets-Shraddha Kapoor</title>
-    <desc lang="en">Discover the secrets behind Shraddha Kapoor's fit and fabulous body! In this video, we dive deep into Shraddha's disciplined diet and workout routine that keeps her in top shape. From her balanced diet plan to her favorite workout routines like yoga and strength training, find out how this Bollywood star maintains her glowing health and stunning physique. Whether you're looking for fitness inspiration or tips to enhance your wellness journey, Shraddha's regime offers something for everyone. Watch now to unlock the secrets to staying fit like Shraddha Kapoor!</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/JAGRANTV/poster/mobile/cover/44e80b77-0037-4552-a7f4-39969d693928.jpg"/>
-  </programme>
   <programme channel="jagran" start="20260826082043 +0000" stop="20260826082644 +0000">
     <title lang="en">Ayurveda with Dimple Jangda Ep 08 - Ayurveda Tips and Superfood for Good Health</title>
     <desc lang="en">In this video, we dive into the world of Ayurveda to bring you essential tips and powerful superfoods that can enhance your overall well-being. Ayurveda, the ancient Indian system of medicine, offers a holistic approach to health by focusing on balancing the body, mind, and spirit.
@@ -67762,24 +67679,6 @@ Our coach, Vidhi Chawla shares essential foods to include in your diet to balanc
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/JAGRAN/Web/coverart/c9f52f5d-d9b2-4875-aeaa-f9d3b449deb8.png"/>
   </programme>
-  <programme channel="jagran" start="20260829080527 +0000" stop="20260829081408 +0000">
-    <title lang="en">Wellness Vardaan By Vidhi Chawla | EP 16 - What to eat to help reduce stress and anxiety</title>
-    <desc lang="en">Struggling with stress and anxiety? In this episode of Wellness Vardaan, Vidhi Chawla shares practical tips on what to eat to help reduce stress and anxiety. Discover the best foods and nutrients that can calm your mind and improve your overall well-being. Whether you're dealing with daily stress or more serious anxiety, this video offers simple dietary changes that can make a big difference. Don't miss out on these easy and effective ways to support your mental health naturally.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/JAGRAN/Web/coverart/c9f52f5d-d9b2-4875-aeaa-f9d3b449deb8.png"/>
-  </programme>
-  <programme channel="jagran" start="20260829081409 +0000" stop="20260829082035 +0000">
-    <title lang="en">What are Duck Lips and Banana Roll? Know From Dr. Prabha Singh</title>
-    <desc lang="en">In this video know from Dr. Prabha Singh what are Duck Lips and Banana Roll. Why are these beauty and body trends in the news, and what could be their advantages or disadvantages? If you also want to know about these trends, then this video is for you!</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/JAGRANTV/poster/mobile/cover/dbabc7a0-d7ec-45ce-8572-567abd1145c7.jpg"/>
-  </programme>
   <programme channel="jagran" start="20260829081409 +0000" stop="20260829082035 +0000">
     <title lang="en">What are Duck Lips and Banana Roll? Know From Dr. Prabha Singh</title>
     <desc lang="en">In this video know from Dr. Prabha Singh what are Duck Lips and Banana Roll. Why are these beauty and body trends in the news, and what could be their advantages or disadvantages? If you also want to know about these trends, then this video is for you!</desc>
@@ -72077,6 +71976,15 @@ Impact on Immune System: Learn about the gut's crucial role in maintaining a str
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/JUSGAG/Mobile/coverart/6428bc9e-1d69-41b3-bbd2-4839cd60e6c2.png"/>
   </programme>
+  <programme channel="jusgag" start="20260829081942 +0000" stop="20260829084709 +0000">
+    <title lang="en">Just For Laughs Presents: Funny As Hell</title>
+    <desc lang="en">A stand-up series from Just For Laughs only cooler and hosted by Jon Dore.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/JUSGAG/Mobile/coverart/6428bc9e-1d69-41b3-bbd2-4839cd60e6c2.png"/>
+  </programme>
   <programme channel="jusgag" start="20260829084709 +0000" stop="20260829091755 +0000">
     <title lang="en">Just For Laughs Gags</title>
     <desc lang="en">Featuring pranks involving a remote-controlled turkey, Aladdin's lamp, and many more.</desc>
@@ -72787,15 +72695,6 @@ Impact on Immune System: Learn about the gut's crucial role in maintaining a str
       <value>A - 18+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/JUSGAG/Mobile/coverart/6428bc9e-1d69-41b3-bbd2-4839cd60e6c2.png"/>
-  </programme>
-  <programme channel="kuting" start="20260826074727 +0000" stop="20260826081457 +0000">
-    <title lang="en">Dil Hi To Hai Season 1 Ep07</title>
-    <desc lang="en">Dil_Hi_To_Hai_Season_1_ep07</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-16+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/KUTING/Web/coverart/2c2f1a94-c072-471c-b21d-aeabde1629e9.png"/>
   </programme>
   <programme channel="kuting" start="20260826081457 +0000" stop="20260826084147 +0000">
     <title lang="en">Dil Hi To Hai Season 1 Ep08</title>
@@ -74184,6 +74083,15 @@ Impact on Immune System: Learn about the gut's crucial role in maintaining a str
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/KUTING/Web/coverart/2c2f1a94-c072-471c-b21d-aeabde1629e9.png"/>
   </programme>
   <programme channel="kuting" start="20260829080347 +0000" stop="20260829083117 +0000">
+    <title lang="en">Dil Hi To Hai Season 1 Ep07</title>
+    <desc lang="en">Dil_Hi_To_Hai_Season_1_ep07</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/KUTING/Web/coverart/2c2f1a94-c072-471c-b21d-aeabde1629e9.png"/>
+  </programme>
+  <programme channel="kuting" start="20260829081547 +0000" stop="20260829083117 +0000">
     <title lang="en">Dil Hi To Hai Season 1 Ep07</title>
     <desc lang="en">Dil_Hi_To_Hai_Season_1_ep07</desc>
     <language>Hindi</language>
@@ -79323,13 +79231,7 @@ Impact on Immune System: Learn about the gut's crucial role in maintaining a str
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MANGOT/Mobile/coverart/95405c98-2d8c-4565-9737-ac5a845ef7ca.png"/>
   </programme>
   <programme channel="mangot" start="20260830183040 +0000" stop="20260830203953 +0000">
-    <title lang="en">Kakattiyudu</title>
-    <desc lang="en">A romantic action movie</desc>
-    <language>Telugu</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MANGOT/Mobile/coverart/95405c98-2d8c-4565-9737-ac5a845ef7ca.png"/>
+    <title lang="en">KAKATTIYUDU</title>
   </programme>
   <programme channel="mangot" start="20260830203953 +0000" stop="20260830210809 +0000">
     <title lang="en">Music Box Songs Episode 10</title>
@@ -79350,31 +79252,13 @@ Impact on Immune System: Learn about the gut's crucial role in maintaining a str
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MANGOT/Mobile/coverart/95405c98-2d8c-4565-9737-ac5a845ef7ca.png"/>
   </programme>
   <programme channel="mangot" start="20260830213620 +0000" stop="20260830215752 +0000">
-    <title lang="en">Music Box Old Song Ep08</title>
-    <desc lang="en">Mango Mobile Tv - Where Entertainment Never Ends!</desc>
-    <language>Telugu</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MANGOT/Mobile/coverart/95405c98-2d8c-4565-9737-ac5a845ef7ca.png"/>
+    <title lang="en">MUSICBOXOLDSONGEP08</title>
   </programme>
   <programme channel="mangot" start="20260830215752 +0000" stop="20260831003723 +0000">
-    <title lang="en">Sagara Kanya</title>
-    <desc lang="en">A romantic drama</desc>
-    <language>Telugu</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MANGOT/Mobile/coverart/95405c98-2d8c-4565-9737-ac5a845ef7ca.png"/>
+    <title lang="en">SAGARAKANYA</title>
   </programme>
   <programme channel="mangot" start="20260831003723 +0000" stop="20260831010628 +0000">
-    <title lang="en">Devotinal Lord Shiva</title>
-    <desc lang="en">Mango Mobile Tv - Where Entertainment Never Ends!</desc>
-    <language>Telugu</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MANGOT/Mobile/coverart/95405c98-2d8c-4565-9737-ac5a845ef7ca.png"/>
+    <title lang="en">DEVOTINALLORDSHIVA</title>
   </programme>
   <programme channel="mangot" start="20260831010628 +0000" stop="20260831011020 +0000">
     <title lang="en">Bhakthi Song 33</title>
@@ -79404,94 +79288,34 @@ Impact on Immune System: Learn about the gut's crucial role in maintaining a str
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MANGOT/Mobile/coverart/95405c98-2d8c-4565-9737-ac5a845ef7ca.png"/>
   </programme>
   <programme channel="mangot" start="20260831011959 +0000" stop="20260831012355 +0000">
-    <title lang="en">Bhakthi Song 31</title>
-    <desc lang="en">Mango Mobile Tv - Where Entertainment Never Ends!</desc>
-    <language>Telugu</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MANGOT/Mobile/coverart/95405c98-2d8c-4565-9737-ac5a845ef7ca.png"/>
+    <title lang="en">BhakthiSong31</title>
   </programme>
   <programme channel="mangot" start="20260831012355 +0000" stop="20260831012656 +0000">
-    <title lang="en">Bhakthi Song 29</title>
-    <desc lang="en">Mango Mobile Tv - Where Entertainment Never Ends!</desc>
-    <language>Telugu</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MANGOT/Mobile/coverart/95405c98-2d8c-4565-9737-ac5a845ef7ca.png"/>
+    <title lang="en">BhakthiSong29</title>
   </programme>
   <programme channel="mangot" start="20260831012656 +0000" stop="20260831012952 +0000">
-    <title lang="en">Bhakthi Song 22</title>
-    <desc lang="en">Mango Mobile Tv - Where Entertainment Never Ends!</desc>
-    <language>Telugu</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MANGOT/Mobile/coverart/95405c98-2d8c-4565-9737-ac5a845ef7ca.png"/>
+    <title lang="en">BhakthiSong22</title>
   </programme>
   <programme channel="mangot" start="20260831012952 +0000" stop="20260831042947 +0000">
-    <title lang="en">Appu Chesi Pappu Koodu</title>
-    <desc lang="en">Comedy Drama</desc>
-    <language>Telugu</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MANGOT/Mobile/coverart/95405c98-2d8c-4565-9737-ac5a845ef7ca.png"/>
+    <title lang="en">APPUCHESIPAPPUKOODU</title>
   </programme>
   <programme channel="mangot" start="20260831042947 +0000" stop="20260831072321 +0000">
-    <title lang="en">Kiccha</title>
-    <desc lang="en">Drama/Romance</desc>
-    <language>Telugu</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MANGOT/Mobile/coverart/95405c98-2d8c-4565-9737-ac5a845ef7ca.png"/>
+    <title lang="en">KICCHA</title>
   </programme>
   <programme channel="mangot" start="20260831072321 +0000" stop="20260831100850 +0000">
-    <title lang="en">Kapatadhaari</title>
-    <desc lang="en">A neo-noir thriller film</desc>
-    <language>Telugu</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MANGOT/Mobile/coverart/95405c98-2d8c-4565-9737-ac5a845ef7ca.png"/>
+    <title lang="en">KAPATADHAARI</title>
   </programme>
   <programme channel="mangot" start="20260831100850 +0000" stop="20260831122948 +0000">
-    <title lang="en">Howrah Bridge</title>
-    <desc lang="en">A Romance Drama Movie</desc>
-    <language>Telugu</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MANGOT/Mobile/coverart/95405c98-2d8c-4565-9737-ac5a845ef7ca.png"/>
+    <title lang="en">HOWRAHBRIDGE</title>
   </programme>
   <programme channel="mangot" start="20260831122948 +0000" stop="20260831125949 +0000">
-    <title lang="en">Music Box Old Song Ep09</title>
-    <desc lang="en">Mango Mobile Tv - Where Entertainment Never Ends!</desc>
-    <language>Telugu</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MANGOT/Mobile/coverart/95405c98-2d8c-4565-9737-ac5a845ef7ca.png"/>
+    <title lang="en">MUSICBOXOLDSONGEP09</title>
   </programme>
   <programme channel="mangot" start="20260831125949 +0000" stop="20260831133026 +0000">
-    <title lang="en">Prime Promotion 7</title>
-    <desc lang="en">Mango Mobile Tv - Where Entertainment Never Ends!</desc>
-    <language>Telugu</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MANGOT/Mobile/coverart/95405c98-2d8c-4565-9737-ac5a845ef7ca.png"/>
+    <title lang="en">PrimePromotion7</title>
   </programme>
   <programme channel="mangot" start="20260831133026 +0000" stop="20260831161642 +0000">
-    <title lang="en">Victory</title>
-    <desc lang="en">An Action Drama</desc>
-    <language>Telugu</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MANGOT/Mobile/coverart/95405c98-2d8c-4565-9737-ac5a845ef7ca.png"/>
+    <title lang="en">VICTORY</title>
   </programme>
   <programme channel="mangot" start="20260831161642 +0000" stop="20260831162228 +0000">
     <title lang="en">Filler Jebudonga</title>
@@ -79503,22 +79327,10 @@ Impact on Immune System: Learn about the gut's crucial role in maintaining a str
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MANGOT/Mobile/coverart/95405c98-2d8c-4565-9737-ac5a845ef7ca.png"/>
   </programme>
   <programme channel="mangot" start="20260831162228 +0000" stop="20260831182529 +0000">
-    <title lang="en">Thungabhadra</title>
-    <desc lang="en">A romantic comedy action film</desc>
-    <language>Telugu</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MANGOT/Mobile/coverart/95405c98-2d8c-4565-9737-ac5a845ef7ca.png"/>
+    <title lang="en">THUNGABHADRA</title>
   </programme>
   <programme channel="mangot" start="20260831182529 +0000" stop="20260831183005 +0000">
-    <title lang="en">Filler Falaknumadas</title>
-    <desc lang="en">Mango Mobile Tv - Where Entertainment Never Ends!</desc>
-    <language>Telugu</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MANGOT/Mobile/coverart/95405c98-2d8c-4565-9737-ac5a845ef7ca.png"/>
+    <title lang="en">FILLERFalaknumadas</title>
   </programme>
   <programme channel="mangot" start="20260831183005 +0000" stop="20260831204830 +0000">
     <title lang="en">Runanubandham</title>
@@ -122917,15 +122729,6 @@ nature snaps back.</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00009.png"/>
   </programme>
-  <programme channel="p_nunutv" start="20260826080358 +0000" stop="20260826082400 +0000">
-    <title lang="en">Yes Yes Vegetable &amp; Eating Habit</title>
-    <desc lang="en">The very best nursery rhymes and kids songs for you to sing dance and learn too!</desc>
-    <language>English</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode4.png"/>
-  </programme>
   <programme channel="p_nunutv" start="20260826082400 +0000" stop="20260826084125 +0000">
     <title lang="en">New Nursery Rhymes</title>
     <desc lang="en">Sing and play along with new nursery rhyme &amp; songs compilation while playing with little toys.</desc>
@@ -125708,15 +125511,6 @@ nature snaps back.</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode1.jpg"/>
   </programme>
   <programme channel="p_nunutv" start="20260829075748 +0000" stop="20260829081226 +0000">
-    <title lang="en">Spaceship &amp; Traffic Vehicles</title>
-    <desc lang="en">We're Going On A Rocket Ship &amp; other famous Kids Songs &amp; Nursery Rhymes</desc>
-    <language>English</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode5.jpg"/>
-  </programme>
-  <programme channel="p_nunutv" start="20260829075826 +0000" stop="20260829081304 +0000">
     <title lang="en">Spaceship &amp; Traffic Vehicles</title>
     <desc lang="en">We're Going On A Rocket Ship &amp; other famous Kids Songs &amp; Nursery Rhymes</desc>
     <language>English</language>
@@ -136670,15 +136464,6 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/a25e3014-78a7-4f2d-af97-e775d738fbd5.png"/>
   </programme>
-  <programme channel="p_runact" start="20260829055018 +0000" stop="20260829082143 +0000">
-    <title lang="en">The Hurt Locker</title>
-    <desc lang="en">THE HURT LOCKER is an intense portrayal of elite soldiers who have one of the most dangerous jobs in the world: disarming bombs during the Iraq War.</desc>
-    <language>English</language>
-    <rating>
-      <value>UA-16+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/a25e3014-78a7-4f2d-af97-e775d738fbd5.png"/>
-  </programme>
   <programme channel="p_runact" start="20260829082144 +0000" stop="20260829101544 +0000">
     <title lang="en">Ted Bundy: American Boogeyman</title>
     <desc lang="en">This is the true story behind the manhunt that brought America’s most fearsome boogeyman to justice. His name is Ted Bundy. A specter roams the highways of the gritty 1970s America hunting for his next prey. Tracking him are intrepid FBI female agent Kathleen &amp; Robert Ressler organizers of the largest manhunt in history to apprehend America’s most Notorious infamous serial killer.</desc>
@@ -136688,7 +136473,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/79b4e46d-25f3-45a7-bdbe-84765b58243b.png"/>
   </programme>
-  <programme channel="p_runact" start="20260829082144 +0000" stop="20260829101544 +0000">
+  <programme channel="p_runact" start="20260829082223 +0000" stop="20260829101623 +0000">
     <title lang="en">Ted Bundy: American Boogeyman</title>
     <desc lang="en">This is the true story behind the manhunt that brought America’s most fearsome boogeyman to justice. His name is Ted Bundy. A specter roams the highways of the gritty 1970s America hunting for his next prey. Tracking him are intrepid FBI female agent Kathleen &amp; Robert Ressler organizers of the largest manhunt in history to apprehend America’s most Notorious infamous serial killer.</desc>
     <language>English</language>
@@ -136706,7 +136491,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/74a8f81d-9186-4149-846c-12c8061d0980.png"/>
   </programme>
-  <programme channel="p_runact" start="20260829101544 +0000" stop="20260829120626 +0000">
+  <programme channel="p_runact" start="20260829101623 +0000" stop="20260829120705 +0000">
     <title lang="en">Redline</title>
     <desc lang="en">Redline is an auto/action thriller that features an extensive exotic car collection Phantom Rolls Royce, Lamborghini Murcielago, Enzo Ferrari, Ferrari F430, Ferrari Scaglietti and two Mercedes SLR McLaren AMGs. The film follows a gorgeous young automobile fanaticize driver who becomes part of illegal drag racing competitions organized by exotic car fanatics.</desc>
     <language>English</language>
@@ -136724,7 +136509,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/56d6795a-a6e3-4c03-8c59-6bfc339e7ca5.png"/>
   </programme>
-  <programme channel="p_runact" start="20260829120626 +0000" stop="20260829140828 +0000">
+  <programme channel="p_runact" start="20260829120705 +0000" stop="20260829140907 +0000">
     <title lang="en">Jeepers Creepers 2</title>
     <desc lang="en">Every 23rd spring for 23days, it gets to eat…Stranded on a lonely road, a school bus full of high school players must defend themselves from the Creeper, the winged, flesh-eating terror - ancient beast that resurfaces on the earth every 23 years to feed.</desc>
     <language>English</language>
@@ -136742,7 +136527,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/f2810c23-ea08-4641-9565-841b69b7434b.png"/>
   </programme>
-  <programme channel="p_runact" start="20260829140828 +0000" stop="20260829160319 +0000">
+  <programme channel="p_runact" start="20260829140907 +0000" stop="20260829160358 +0000">
     <title lang="en">Universal Soldier: Regeneration</title>
     <desc lang="en">Terrorists kidnap the Russian Prime Minister's two kids, take Chernobyl Nuclear Power Plant and threaten to blow up a reactor. Four Universal Soldiers go in but are no match to a Next Generation UniSol. The world's only hope is to reactivate decommissioned Universal Soldier Luc Deveraux.</desc>
     <language>English</language>
@@ -136760,7 +136545,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/7fd11459-fff4-443e-99f3-fcbf969c2914.png"/>
   </programme>
-  <programme channel="p_runact" start="20260829160320 +0000" stop="20260829180856 +0000">
+  <programme channel="p_runact" start="20260829160359 +0000" stop="20260829180935 +0000">
     <title lang="en">Universal Soldier: Day Of Reckoning</title>
     <desc lang="en">John awakens from a coma to discover his wife and daughter were murdered in a brutal home invasion. Haunted by images of the attack, he vows to kill the man responsible: The fight pits John against Andrew Scott and an army of genetically enhanced warriors; meanwhile, he must contend with a Uni Sol in relentless pursuit.</desc>
     <language>English</language>
@@ -136778,7 +136563,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/d0ac0eb0-a33e-4d48-a510-6e10042cd270.png"/>
   </programme>
-  <programme channel="p_runact" start="20260829180856 +0000" stop="20260829194400 +0000">
+  <programme channel="p_runact" start="20260829180935 +0000" stop="20260829194439 +0000">
     <title lang="en">Poseidon Rex</title>
     <desc lang="en">While searching for lost treasure, deep sea divers unleash a monster that causes havoc and destruction not only in sea but also on land.</desc>
     <language>English</language>
@@ -136796,7 +136581,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/99fb0969-3843-4f08-9f5a-ef5c96e71beb.png"/>
   </programme>
-  <programme channel="p_runact" start="20260829194401 +0000" stop="20260829213525 +0000">
+  <programme channel="p_runact" start="20260829194440 +0000" stop="20260829213604 +0000">
     <title lang="en">Spytime</title>
     <desc lang="en">Anacleto, a former secret agent, is forced to come out of retirement and protect his son, Adolfo, when his arch-enemy, Vazquez, breaks out of prison and targets him</desc>
     <language>English</language>
@@ -136814,7 +136599,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/7fd11459-fff4-443e-99f3-fcbf969c2914.png"/>
   </programme>
-  <programme channel="p_runact" start="20260829213526 +0000" stop="20260829234102 +0000">
+  <programme channel="p_runact" start="20260829213605 +0000" stop="20260829234141 +0000">
     <title lang="en">Universal Soldier: Day Of Reckoning</title>
     <desc lang="en">John awakens from a coma to discover his wife and daughter were murdered in a brutal home invasion. Haunted by images of the attack, he vows to kill the man responsible: The fight pits John against Andrew Scott and an army of genetically enhanced warriors; meanwhile, he must contend with a Uni Sol in relentless pursuit.</desc>
     <language>English</language>
@@ -136832,7 +136617,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/ed3950ef-a7f4-4751-9f62-7569e9896c99.png"/>
   </programme>
-  <programme channel="p_runact" start="20260829234102 +0000" stop="20260830015408 +0000">
+  <programme channel="p_runact" start="20260829234141 +0000" stop="20260830015447 +0000">
     <title lang="en">Lawless</title>
     <desc lang="en">We control the fear, you understand? Without the fear, we are all good as dead.’ The notorious gangster Al Capone observed that “Prohibition has made nothing but trouble,” and “I am like any other man. All I do is supply a demand.” Acclaimed director delivers a thrillingly vivid slice of American outlaw history in his epic gangster tale, LAWLESS. LAWLESS is the true story of the infamous Bondurant Brothers: three bootlegging siblings who made a run for the American Dream in Prohibition-era Virginia. The film gathers an ensemble of gifted, dynamic new-generation stars – Tom Hardy, Shia LaBeouf, Jessica Chastain, Jason Clarke, Mia Wasikowska, Dane DeHaan – alongside two of the finest actors of their generations, Guy Pearce and Gary Oldman. A riveting, intense story of Crime and Corruption, Loyalty and Love, Brutality and Tenderness, LAWLESS is a rich addition to the American Gangster Canon.</desc>
     <language>English</language>
@@ -136850,7 +136635,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/71b40db1-05a6-44b6-b16d-badcd8b520a8.png"/>
   </programme>
-  <programme channel="p_runact" start="20260830015408 +0000" stop="20260830034112 +0000">
+  <programme channel="p_runact" start="20260830015447 +0000" stop="20260830034151 +0000">
     <title lang="en">Haywire</title>
     <desc lang="en">From Academy Award-winning director Steven Soderbergh of Ocean’s 11, 12 &amp; 13 comes HAYWIRE. A Female Assassin covert operative is hired to various global missions to perform jobs which governments can't authorize. When the operation goes awry, she needs to use all of her skills &amp; tricks to escape an international manhunt and eliminate the last remaining link of the conspiracy against her.</desc>
     <language>English</language>
@@ -136868,7 +136653,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/f33972fa-12d2-42c6-8520-80c9d0adceff.png"/>
   </programme>
-  <programme channel="p_runact" start="20260830034112 +0000" stop="20260830053103 +0000">
+  <programme channel="p_runact" start="20260830034151 +0000" stop="20260830053142 +0000">
     <title lang="en">Out Of Death</title>
     <desc lang="en">From the producers of The Irishman &amp; Lone Survivor comes this thrilling story of Jack Harris (Bruce Willis) who must tap into his killer instincts to survive the wilderness and the human predators as he tries to help a woman who witnesses a crime and finds herself running from a rural mountain town's corrupt police department after she took a video of police killing a drug dealer.</desc>
     <language>English</language>
@@ -136886,7 +136671,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/d0ac0eb0-a33e-4d48-a510-6e10042cd270.png"/>
   </programme>
-  <programme channel="p_runact" start="20260830053103 +0000" stop="20260830070607 +0000">
+  <programme channel="p_runact" start="20260830053142 +0000" stop="20260830070646 +0000">
     <title lang="en">Poseidon Rex</title>
     <desc lang="en">While searching for lost treasure, deep sea divers unleash a monster that causes havoc and destruction not only in sea but also on land.</desc>
     <language>English</language>
@@ -136904,7 +136689,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/59d82503-2a70-4727-a89d-e7219417d68f.png"/>
   </programme>
-  <programme channel="p_runact" start="20260830070608 +0000" stop="20260830091816 +0000">
+  <programme channel="p_runact" start="20260830070647 +0000" stop="20260830091855 +0000">
     <title lang="en">Bad Samaritan</title>
     <desc lang="en">Bad Samaritan is a terrifying thriller of two young car valets who use their business as a front to burglarize houses of customers while they eat. Their lives are turned upside down when they rob the home of a demented serial killer after making a shocking discovery of a woman being held captive. They must choose to run and hide, or face the killer whose dark secrets they have just exposed.</desc>
     <language>English</language>
@@ -136922,7 +136707,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/f2810c23-ea08-4641-9565-841b69b7434b.png"/>
   </programme>
-  <programme channel="p_runact" start="20260830091817 +0000" stop="20260830111308 +0000">
+  <programme channel="p_runact" start="20260830091855 +0000" stop="20260830111346 +0000">
     <title lang="en">Universal Soldier: Regeneration</title>
     <desc lang="en">Terrorists kidnap the Russian Prime Minister's two kids, take Chernobyl Nuclear Power Plant and threaten to blow up a reactor. Four Universal Soldiers go in but are no match to a Next Generation UniSol. The world's only hope is to reactivate decommissioned Universal Soldier Luc Deveraux.</desc>
     <language>English</language>
@@ -136940,7 +136725,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/ed3950ef-a7f4-4751-9f62-7569e9896c99.png"/>
   </programme>
-  <programme channel="p_runact" start="20260830111308 +0000" stop="20260830132614 +0000">
+  <programme channel="p_runact" start="20260830111347 +0000" stop="20260830132653 +0000">
     <title lang="en">Lawless</title>
     <desc lang="en">We control the fear, you understand? Without the fear, we are all good as dead.’ The notorious gangster Al Capone observed that “Prohibition has made nothing but trouble,” and “I am like any other man. All I do is supply a demand.” Acclaimed director delivers a thrillingly vivid slice of American outlaw history in his epic gangster tale, LAWLESS. LAWLESS is the true story of the infamous Bondurant Brothers: three bootlegging siblings who made a run for the American Dream in Prohibition-era Virginia. The film gathers an ensemble of gifted, dynamic new-generation stars – Tom Hardy, Shia LaBeouf, Jessica Chastain, Jason Clarke, Mia Wasikowska, Dane DeHaan – alongside two of the finest actors of their generations, Guy Pearce and Gary Oldman. A riveting, intense story of Crime and Corruption, Loyalty and Love, Brutality and Tenderness, LAWLESS is a rich addition to the American Gangster Canon.</desc>
     <language>English</language>
@@ -136958,7 +136743,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/99fb0969-3843-4f08-9f5a-ef5c96e71beb.png"/>
   </programme>
-  <programme channel="p_runact" start="20260830132614 +0000" stop="20260830151738 +0000">
+  <programme channel="p_runact" start="20260830132653 +0000" stop="20260830151817 +0000">
     <title lang="en">Spytime</title>
     <desc lang="en">Anacleto, a former secret agent, is forced to come out of retirement and protect his son, Adolfo, when his arch-enemy, Vazquez, breaks out of prison and targets him</desc>
     <language>English</language>
@@ -136976,7 +136761,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/74a8f81d-9186-4149-846c-12c8061d0980.png"/>
   </programme>
-  <programme channel="p_runact" start="20260830151739 +0000" stop="20260830170821 +0000">
+  <programme channel="p_runact" start="20260830151818 +0000" stop="20260830170900 +0000">
     <title lang="en">Redline</title>
     <desc lang="en">Redline is an auto/action thriller that features an extensive exotic car collection Phantom Rolls Royce, Lamborghini Murcielago, Enzo Ferrari, Ferrari F430, Ferrari Scaglietti and two Mercedes SLR McLaren AMGs. The film follows a gorgeous young automobile fanaticize driver who becomes part of illegal drag racing competitions organized by exotic car fanatics.</desc>
     <language>English</language>
@@ -136994,7 +136779,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/a55fa06e-e293-4525-b10a-699db65fb87d.png"/>
   </programme>
-  <programme channel="p_runact" start="20260830170821 +0000" stop="20260830183600 +0000">
+  <programme channel="p_runact" start="20260830170900 +0000" stop="20260830183639 +0000">
     <title lang="en">Wrecker</title>
     <desc lang="en">Two beautiful young women taking a trip through the countryside, are terrorized by an unknown driver trying to run them down in a heavy duty tow truck.</desc>
     <language>English</language>
@@ -137012,7 +136797,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/71b40db1-05a6-44b6-b16d-badcd8b520a8.png"/>
   </programme>
-  <programme channel="p_runact" start="20260830183600 +0000" stop="20260830202304 +0000">
+  <programme channel="p_runact" start="20260830183639 +0000" stop="20260830202343 +0000">
     <title lang="en">Haywire</title>
     <desc lang="en">From Academy Award-winning director Steven Soderbergh of Ocean’s 11, 12 &amp; 13 comes HAYWIRE. A Female Assassin covert operative is hired to various global missions to perform jobs which governments can't authorize. When the operation goes awry, she needs to use all of her skills &amp; tricks to escape an international manhunt and eliminate the last remaining link of the conspiracy against her.</desc>
     <language>English</language>
@@ -137030,7 +136815,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/7fd11459-fff4-443e-99f3-fcbf969c2914.png"/>
   </programme>
-  <programme channel="p_runact" start="20260830202304 +0000" stop="20260830222840 +0000">
+  <programme channel="p_runact" start="20260830202343 +0000" stop="20260830222919 +0000">
     <title lang="en">Universal Soldier: Day Of Reckoning</title>
     <desc lang="en">John awakens from a coma to discover his wife and daughter were murdered in a brutal home invasion. Haunted by images of the attack, he vows to kill the man responsible: The fight pits John against Andrew Scott and an army of genetically enhanced warriors; meanwhile, he must contend with a Uni Sol in relentless pursuit.</desc>
     <language>English</language>
@@ -137048,7 +136833,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/d0ac0eb0-a33e-4d48-a510-6e10042cd270.png"/>
   </programme>
-  <programme channel="p_runact" start="20260830222841 +0000" stop="20260831000345 +0000">
+  <programme channel="p_runact" start="20260830222919 +0000" stop="20260831000423 +0000">
     <title lang="en">Poseidon Rex</title>
     <desc lang="en">While searching for lost treasure, deep sea divers unleash a monster that causes havoc and destruction not only in sea but also on land.</desc>
     <language>English</language>
@@ -137066,7 +136851,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/2fb9aa34-eb97-4ad1-be07-f544c5429c16.png"/>
   </programme>
-  <programme channel="p_runact" start="20260831000345 +0000" stop="20260831015031 +0000">
+  <programme channel="p_runact" start="20260831000424 +0000" stop="20260831015110 +0000">
     <title lang="en">Tekken: Kazuya's Revenge</title>
     <desc lang="en">Suffering from amnesia, a young man trying to discover his true identity is kidnapped by an underground crime organization and turned into a ruthless assassin</desc>
     <language>English</language>
@@ -137084,7 +136869,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/466873ad-6349-44fd-b8e0-e46d31477836.png"/>
   </programme>
-  <programme channel="p_runact" start="20260831015032 +0000" stop="20260831034256 +0000">
+  <programme channel="p_runact" start="20260831015111 +0000" stop="20260831034335 +0000">
     <title lang="en">The Catcher Was A Spy</title>
     <desc lang="en">With an ensemble cast, this gripping, espionage thriller brings to life the true story of Moe Berg a World War II spy. His mission: go behind enemy lines in Europe to assassinate the Nazi's chief nuclear scientist before the Germans develop an atomic bomb. Berg must rely on his steel-trap intellect in a high-stakes game of cat and mouse - with the fate of the world hanging in the balance.</desc>
     <language>English</language>
@@ -137102,7 +136887,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/f33972fa-12d2-42c6-8520-80c9d0adceff.png"/>
   </programme>
-  <programme channel="p_runact" start="20260831034257 +0000" stop="20260831053248 +0000">
+  <programme channel="p_runact" start="20260831034336 +0000" stop="20260831053327 +0000">
     <title lang="en">Out Of Death</title>
     <desc lang="en">From the producers of The Irishman &amp; Lone Survivor comes this thrilling story of Jack Harris (Bruce Willis) who must tap into his killer instincts to survive the wilderness and the human predators as he tries to help a woman who witnesses a crime and finds herself running from a rural mountain town's corrupt police department after she took a video of police killing a drug dealer.</desc>
     <language>English</language>
@@ -137120,7 +136905,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/74a8f81d-9186-4149-846c-12c8061d0980.png"/>
   </programme>
-  <programme channel="p_runact" start="20260831053248 +0000" stop="20260831072330 +0000">
+  <programme channel="p_runact" start="20260831053327 +0000" stop="20260831072409 +0000">
     <title lang="en">Redline</title>
     <desc lang="en">Redline is an auto/action thriller that features an extensive exotic car collection Phantom Rolls Royce, Lamborghini Murcielago, Enzo Ferrari, Ferrari F430, Ferrari Scaglietti and two Mercedes SLR McLaren AMGs. The film follows a gorgeous young automobile fanaticize driver who becomes part of illegal drag racing competitions organized by exotic car fanatics.</desc>
     <language>English</language>
@@ -137138,7 +136923,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/7fd11459-fff4-443e-99f3-fcbf969c2914.png"/>
   </programme>
-  <programme channel="p_runact" start="20260831072330 +0000" stop="20260831092906 +0000">
+  <programme channel="p_runact" start="20260831072409 +0000" stop="20260831092945 +0000">
     <title lang="en">Universal Soldier: Day Of Reckoning</title>
     <desc lang="en">John awakens from a coma to discover his wife and daughter were murdered in a brutal home invasion. Haunted by images of the attack, he vows to kill the man responsible: The fight pits John against Andrew Scott and an army of genetically enhanced warriors; meanwhile, he must contend with a Uni Sol in relentless pursuit.</desc>
     <language>English</language>
@@ -137156,7 +136941,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/71b40db1-05a6-44b6-b16d-badcd8b520a8.png"/>
   </programme>
-  <programme channel="p_runact" start="20260831092906 +0000" stop="20260831111610 +0000">
+  <programme channel="p_runact" start="20260831092945 +0000" stop="20260831111649 +0000">
     <title lang="en">Haywire</title>
     <desc lang="en">From Academy Award-winning director Steven Soderbergh of Ocean’s 11, 12 &amp; 13 comes HAYWIRE. A Female Assassin covert operative is hired to various global missions to perform jobs which governments can't authorize. When the operation goes awry, she needs to use all of her skills &amp; tricks to escape an international manhunt and eliminate the last remaining link of the conspiracy against her.</desc>
     <language>English</language>
@@ -137174,7 +136959,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/99fb0969-3843-4f08-9f5a-ef5c96e71beb.png"/>
   </programme>
-  <programme channel="p_runact" start="20260831111611 +0000" stop="20260831130735 +0000">
+  <programme channel="p_runact" start="20260831111649 +0000" stop="20260831130813 +0000">
     <title lang="en">Spytime</title>
     <desc lang="en">Anacleto, a former secret agent, is forced to come out of retirement and protect his son, Adolfo, when his arch-enemy, Vazquez, breaks out of prison and targets him</desc>
     <language>English</language>
@@ -137192,7 +136977,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/ed3950ef-a7f4-4751-9f62-7569e9896c99.png"/>
   </programme>
-  <programme channel="p_runact" start="20260831130735 +0000" stop="20260831152041 +0000">
+  <programme channel="p_runact" start="20260831130814 +0000" stop="20260831152120 +0000">
     <title lang="en">Lawless</title>
     <desc lang="en">We control the fear, you understand? Without the fear, we are all good as dead.’ The notorious gangster Al Capone observed that “Prohibition has made nothing but trouble,” and “I am like any other man. All I do is supply a demand.” Acclaimed director delivers a thrillingly vivid slice of American outlaw history in his epic gangster tale, LAWLESS. LAWLESS is the true story of the infamous Bondurant Brothers: three bootlegging siblings who made a run for the American Dream in Prohibition-era Virginia. The film gathers an ensemble of gifted, dynamic new-generation stars – Tom Hardy, Shia LaBeouf, Jessica Chastain, Jason Clarke, Mia Wasikowska, Dane DeHaan – alongside two of the finest actors of their generations, Guy Pearce and Gary Oldman. A riveting, intense story of Crime and Corruption, Loyalty and Love, Brutality and Tenderness, LAWLESS is a rich addition to the American Gangster Canon.</desc>
     <language>English</language>
@@ -137210,7 +136995,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/a55fa06e-e293-4525-b10a-699db65fb87d.png"/>
   </programme>
-  <programme channel="p_runact" start="20260831152041 +0000" stop="20260831164820 +0000">
+  <programme channel="p_runact" start="20260831152120 +0000" stop="20260831164859 +0000">
     <title lang="en">Wrecker</title>
     <desc lang="en">Two beautiful young women taking a trip through the countryside, are terrorized by an unknown driver trying to run them down in a heavy duty tow truck.</desc>
     <language>English</language>
@@ -137228,7 +137013,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/f33972fa-12d2-42c6-8520-80c9d0adceff.png"/>
   </programme>
-  <programme channel="p_runact" start="20260831164820 +0000" stop="20260831183811 +0000">
+  <programme channel="p_runact" start="20260831164859 +0000" stop="20260831183850 +0000">
     <title lang="en">Out Of Death</title>
     <desc lang="en">From the producers of The Irishman &amp; Lone Survivor comes this thrilling story of Jack Harris (Bruce Willis) who must tap into his killer instincts to survive the wilderness and the human predators as he tries to help a woman who witnesses a crime and finds herself running from a rural mountain town's corrupt police department after she took a video of police killing a drug dealer.</desc>
     <language>English</language>
@@ -137246,7 +137031,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/f2810c23-ea08-4641-9565-841b69b7434b.png"/>
   </programme>
-  <programme channel="p_runact" start="20260831183812 +0000" stop="20260831203303 +0000">
+  <programme channel="p_runact" start="20260831183850 +0000" stop="20260831203341 +0000">
     <title lang="en">Universal Soldier: Regeneration</title>
     <desc lang="en">Terrorists kidnap the Russian Prime Minister's two kids, take Chernobyl Nuclear Power Plant and threaten to blow up a reactor. Four Universal Soldiers go in but are no match to a Next Generation UniSol. The world's only hope is to reactivate decommissioned Universal Soldier Luc Deveraux.</desc>
     <language>English</language>
@@ -137264,7 +137049,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/2fb9aa34-eb97-4ad1-be07-f544c5429c16.png"/>
   </programme>
-  <programme channel="p_runact" start="20260831203303 +0000" stop="20260831221949 +0000">
+  <programme channel="p_runact" start="20260831203342 +0000" stop="20260831222028 +0000">
     <title lang="en">Tekken: Kazuya's Revenge</title>
     <desc lang="en">Suffering from amnesia, a young man trying to discover his true identity is kidnapped by an underground crime organization and turned into a ruthless assassin</desc>
     <language>English</language>
@@ -137282,7 +137067,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/d0ac0eb0-a33e-4d48-a510-6e10042cd270.png"/>
   </programme>
-  <programme channel="p_runact" start="20260831221950 +0000" stop="20260831235454 +0000">
+  <programme channel="p_runact" start="20260831222029 +0000" stop="20260831235533 +0000">
     <title lang="en">Poseidon Rex</title>
     <desc lang="en">While searching for lost treasure, deep sea divers unleash a monster that causes havoc and destruction not only in sea but also on land.</desc>
     <language>English</language>
@@ -137300,7 +137085,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/466873ad-6349-44fd-b8e0-e46d31477836.png"/>
   </programme>
-  <programme channel="p_runact" start="20260831235455 +0000" stop="20260901014719 +0000">
+  <programme channel="p_runact" start="20260831235534 +0000" stop="20260901014758 +0000">
     <title lang="en">The Catcher Was A Spy</title>
     <desc lang="en">With an ensemble cast, this gripping, espionage thriller brings to life the true story of Moe Berg a World War II spy. His mission: go behind enemy lines in Europe to assassinate the Nazi's chief nuclear scientist before the Germans develop an atomic bomb. Berg must rely on his steel-trap intellect in a high-stakes game of cat and mouse - with the fate of the world hanging in the balance.</desc>
     <language>English</language>
@@ -137318,7 +137103,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/ed3950ef-a7f4-4751-9f62-7569e9896c99.png"/>
   </programme>
-  <programme channel="p_runact" start="20260901014720 +0000" stop="20260901040026 +0000">
+  <programme channel="p_runact" start="20260901014759 +0000" stop="20260901040105 +0000">
     <title lang="en">Lawless</title>
     <desc lang="en">We control the fear, you understand? Without the fear, we are all good as dead.’ The notorious gangster Al Capone observed that “Prohibition has made nothing but trouble,” and “I am like any other man. All I do is supply a demand.” Acclaimed director delivers a thrillingly vivid slice of American outlaw history in his epic gangster tale, LAWLESS. LAWLESS is the true story of the infamous Bondurant Brothers: three bootlegging siblings who made a run for the American Dream in Prohibition-era Virginia. The film gathers an ensemble of gifted, dynamic new-generation stars – Tom Hardy, Shia LaBeouf, Jessica Chastain, Jason Clarke, Mia Wasikowska, Dane DeHaan – alongside two of the finest actors of their generations, Guy Pearce and Gary Oldman. A riveting, intense story of Crime and Corruption, Loyalty and Love, Brutality and Tenderness, LAWLESS is a rich addition to the American Gangster Canon.</desc>
     <language>English</language>
@@ -137336,7 +137121,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/a55fa06e-e293-4525-b10a-699db65fb87d.png"/>
   </programme>
-  <programme channel="p_runact" start="20260901040026 +0000" stop="20260901052805 +0000">
+  <programme channel="p_runact" start="20260901040105 +0000" stop="20260901052844 +0000">
     <title lang="en">Wrecker</title>
     <desc lang="en">Two beautiful young women taking a trip through the countryside, are terrorized by an unknown driver trying to run them down in a heavy duty tow truck.</desc>
     <language>English</language>
@@ -137354,7 +137139,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/74a8f81d-9186-4149-846c-12c8061d0980.png"/>
   </programme>
-  <programme channel="p_runact" start="20260901052805 +0000" stop="20260901071847 +0000">
+  <programme channel="p_runact" start="20260901052844 +0000" stop="20260901071926 +0000">
     <title lang="en">Redline</title>
     <desc lang="en">Redline is an auto/action thriller that features an extensive exotic car collection Phantom Rolls Royce, Lamborghini Murcielago, Enzo Ferrari, Ferrari F430, Ferrari Scaglietti and two Mercedes SLR McLaren AMGs. The film follows a gorgeous young automobile fanaticize driver who becomes part of illegal drag racing competitions organized by exotic car fanatics.</desc>
     <language>English</language>
@@ -137372,7 +137157,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/f2810c23-ea08-4641-9565-841b69b7434b.png"/>
   </programme>
-  <programme channel="p_runact" start="20260901071847 +0000" stop="20260901091338 +0000">
+  <programme channel="p_runact" start="20260901071926 +0000" stop="20260901091417 +0000">
     <title lang="en">Universal Soldier: Regeneration</title>
     <desc lang="en">Terrorists kidnap the Russian Prime Minister's two kids, take Chernobyl Nuclear Power Plant and threaten to blow up a reactor. Four Universal Soldiers go in but are no match to a Next Generation UniSol. The world's only hope is to reactivate decommissioned Universal Soldier Luc Deveraux.</desc>
     <language>English</language>
@@ -137390,7 +137175,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/71b40db1-05a6-44b6-b16d-badcd8b520a8.png"/>
   </programme>
-  <programme channel="p_runact" start="20260901091339 +0000" stop="20260901110043 +0000">
+  <programme channel="p_runact" start="20260901091418 +0000" stop="20260901110122 +0000">
     <title lang="en">Haywire</title>
     <desc lang="en">From Academy Award-winning director Steven Soderbergh of Ocean’s 11, 12 &amp; 13 comes HAYWIRE. A Female Assassin covert operative is hired to various global missions to perform jobs which governments can't authorize. When the operation goes awry, she needs to use all of her skills &amp; tricks to escape an international manhunt and eliminate the last remaining link of the conspiracy against her.</desc>
     <language>English</language>
@@ -137408,7 +137193,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/d0ac0eb0-a33e-4d48-a510-6e10042cd270.png"/>
   </programme>
-  <programme channel="p_runact" start="20260901110043 +0000" stop="20260901123547 +0000">
+  <programme channel="p_runact" start="20260901110122 +0000" stop="20260901123626 +0000">
     <title lang="en">Poseidon Rex</title>
     <desc lang="en">While searching for lost treasure, deep sea divers unleash a monster that causes havoc and destruction not only in sea but also on land.</desc>
     <language>English</language>
@@ -137426,7 +137211,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/99fb0969-3843-4f08-9f5a-ef5c96e71beb.png"/>
   </programme>
-  <programme channel="p_runact" start="20260901123548 +0000" stop="20260901142712 +0000">
+  <programme channel="p_runact" start="20260901123627 +0000" stop="20260901142751 +0000">
     <title lang="en">Spytime</title>
     <desc lang="en">Anacleto, a former secret agent, is forced to come out of retirement and protect his son, Adolfo, when his arch-enemy, Vazquez, breaks out of prison and targets him</desc>
     <language>English</language>
@@ -137444,7 +137229,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/2fb9aa34-eb97-4ad1-be07-f544c5429c16.png"/>
   </programme>
-  <programme channel="p_runact" start="20260901142712 +0000" stop="20260901161358 +0000">
+  <programme channel="p_runact" start="20260901142751 +0000" stop="20260901161437 +0000">
     <title lang="en">Tekken: Kazuya's Revenge</title>
     <desc lang="en">Suffering from amnesia, a young man trying to discover his true identity is kidnapped by an underground crime organization and turned into a ruthless assassin</desc>
     <language>English</language>
@@ -137462,7 +137247,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/f33972fa-12d2-42c6-8520-80c9d0adceff.png"/>
   </programme>
-  <programme channel="p_runact" start="20260901161359 +0000" stop="20260901180350 +0000">
+  <programme channel="p_runact" start="20260901161438 +0000" stop="20260901180429 +0000">
     <title lang="en">Out Of Death</title>
     <desc lang="en">From the producers of The Irishman &amp; Lone Survivor comes this thrilling story of Jack Harris (Bruce Willis) who must tap into his killer instincts to survive the wilderness and the human predators as he tries to help a woman who witnesses a crime and finds herself running from a rural mountain town's corrupt police department after she took a video of police killing a drug dealer.</desc>
     <language>English</language>
@@ -137480,7 +137265,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/7fd11459-fff4-443e-99f3-fcbf969c2914.png"/>
   </programme>
-  <programme channel="p_runact" start="20260901180350 +0000" stop="20260901200926 +0000">
+  <programme channel="p_runact" start="20260901180429 +0000" stop="20260901201005 +0000">
     <title lang="en">Universal Soldier: Day Of Reckoning</title>
     <desc lang="en">John awakens from a coma to discover his wife and daughter were murdered in a brutal home invasion. Haunted by images of the attack, he vows to kill the man responsible: The fight pits John against Andrew Scott and an army of genetically enhanced warriors; meanwhile, he must contend with a Uni Sol in relentless pursuit.</desc>
     <language>English</language>
@@ -137498,7 +137283,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/466873ad-6349-44fd-b8e0-e46d31477836.png"/>
   </programme>
-  <programme channel="p_runact" start="20260901200926 +0000" stop="20260901220150 +0000">
+  <programme channel="p_runact" start="20260901201005 +0000" stop="20260901220229 +0000">
     <title lang="en">The Catcher Was A Spy</title>
     <desc lang="en">With an ensemble cast, this gripping, espionage thriller brings to life the true story of Moe Berg a World War II spy. His mission: go behind enemy lines in Europe to assassinate the Nazi's chief nuclear scientist before the Germans develop an atomic bomb. Berg must rely on his steel-trap intellect in a high-stakes game of cat and mouse - with the fate of the world hanging in the balance.</desc>
     <language>English</language>
@@ -137516,7 +137301,7 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/71b40db1-05a6-44b6-b16d-badcd8b520a8.png"/>
   </programme>
-  <programme channel="p_runact" start="20260901220151 +0000" stop="20260901234855 +0000">
+  <programme channel="p_runact" start="20260901220230 +0000" stop="20260901234934 +0000">
     <title lang="en">Haywire</title>
     <desc lang="en">From Academy Award-winning director Steven Soderbergh of Ocean’s 11, 12 &amp; 13 comes HAYWIRE. A Female Assassin covert operative is hired to various global missions to perform jobs which governments can't authorize. When the operation goes awry, she needs to use all of her skills &amp; tricks to escape an international manhunt and eliminate the last remaining link of the conspiracy against her.</desc>
     <language>English</language>
@@ -140134,15 +139919,6 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
       <value>UA-16+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00028.png"/>
-  </programme>
-  <programme channel="p_runshf" start="20260829080109 +0000" stop="20260829081427 +0000">
-    <title lang="en">Ved And Arya</title>
-    <desc lang="en">Arya turns up unannounced at Ved’s home on a Friday night. Ved knows it's not just a regular surprise and that Arya has something else on her mind. Will all go down exactly as planned?</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/TTTFLM/poster/web/cover/TTTFLM_SHF_00021.png"/>
   </programme>
   <programme channel="p_runshf" start="20260829080109 +0000" stop="20260829081427 +0000">
     <title lang="en">Ved And Arya</title>
@@ -152381,15 +152157,6 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
   <programme channel="p_supjio" start="20260901215319 +0000" stop="20260901232825 +0000">
     <title lang="en">SUPFLM_MOV_00007h</title>
   </programme>
-  <programme channel="p_tttflm" start="20260826080449 +0000" stop="20260826081916 +0000">
-    <title lang="en">Kashmir</title>
-    <desc lang="en">A bereaved son grapples with his loss and in turn understands his relationship with himself. Kashmir is an introspective dialogue between a person and a distant place you call home.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/TTTFLM/poster/web/cover/TTTFLM_SHF_00005.png"/>
-  </programme>
   <programme channel="p_tttflm" start="20260826081916 +0000" stop="20260826082456 +0000">
     <title lang="en">The Last Day</title>
     <desc lang="en">Two roommates, on the night one of them is moving out after 8 years of staying together. What do they really want to say to each other in the final few minutes? Can they say it all?</desc>
@@ -156629,15 +156396,6 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/TTTFLM/poster/web/cover/TTTFLM_SHF_00011.png"/>
-  </programme>
-  <programme channel="p_tttflm" start="20260829080910 +0000" stop="20260829081440 +0000">
-    <title lang="en">The Day After</title>
-    <desc lang="en">A loved one goes missing and panic strikes. 'The Day After' takes you on a journey that's bigger than you can imagine.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/TTTFLM/poster/web/cover/TTTFLM_SHF_00028.png"/>
   </programme>
   <programme channel="p_tttflm" start="20260829080910 +0000" stop="20260829081440 +0000">
     <title lang="en">The Day After</title>
@@ -165231,15 +164989,6 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
       <value>UA-13+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRBOL/Web/coverart/dfddecd9-4561-4d52-baf9-f369fafc1fb5.png"/>
-  </programme>
-  <programme channel="shemaroo-filmigaane" start="20260826081329 +0000" stop="20260826081904 +0000">
-    <title lang="en">Kahan Chal Diye Idhar To Aao Mere Dil Ko Na Thukra</title>
-    <desc lang="en">Kahan Chal Diye Idhar To Aao Mere Dil Ko Na Thukra</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Web/coverart/e7d304aa-4f09-435b-ae53-308f968bf19f.png"/>
   </programme>
   <programme channel="shemaroo-filmigaane" start="20260826081904 +0000" stop="20260826082523 +0000">
     <title lang="en">Ek Tha Gul Aur Ek Thi Bulbul</title>
@@ -178550,15 +178299,6 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/92f19a59-3cf9-4832-bbd0-6a6cf85d7a11.png"/>
   </programme>
-  <programme channel="suptel" start="20260826064739 +0000" stop="20260826082245 +0000">
-    <title lang="en">The Free Fall</title>
-    <desc lang="en">The Free Fall is a deeply personal horror thriller, a mind bending pressure cooker that constantly challenges us, hurling us towards one of the most shocking cinematic reveals imaginable. After attempting to take her own life, a young woman must wrestle with an overbearing husband and the only way out of this hell, is to fall into it.</desc>
-    <language>English</language>
-    <rating>
-      <value>A - 18+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/22d72b19-0abb-4205-833c-627d5949f9a8.png"/>
-  </programme>
   <programme channel="suptel" start="20260826082245 +0000" stop="20260826101937 +0000">
     <title lang="en">Universal Soldier: Regeneration</title>
     <desc lang="en">Terrorists kidnap the Russian Prime Minister's two kids, take Chernobyl Nuclear Power Plant and threaten to blow up a reactor. Four Universal Soldiers go in but are no match to a Next Generation UniSol. The world's only hope is to reactivate decommissioned Universal Soldier Luc Deveraux.</desc>
@@ -191119,15 +190859,6 @@ and Dd Seg ( Hearing Impaired )</desc>
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/TV9TEL/Mobile/coverart/b40446db-6c7c-4c66-91f6-ca3d77ee30cd.png"/>
-  </programme>
-  <programme channel="xtrspo" start="20260826074512 +0000" stop="20260826081708 +0000">
-    <title lang="en">Tomorrow Will Be Better</title>
-    <desc lang="en">Czech freestyle motocross star Libor Podmol is proof that the wildest dreams come true. In January, 2010 he flies to the US, buys a Suzuki 250 two-stroke, becomes 6 times world champ and signs a sponsorship deal with Rockstar Energy.</desc>
-    <language>English</language>
-    <rating>
-      <value>A - 18+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/XTRSPO/Mobile/coverart/ad0d3ed0-873c-4f07-ad21-71619ce22768.png"/>
   </programme>
   <programme channel="xtrspo" start="20260826081708 +0000" stop="20260826091441 +0000">
     <title lang="en">California Republic</title>
