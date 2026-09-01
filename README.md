@@ -40,24 +40,6 @@ Free XMLTV EPGs for supported IPTV providers.
 
 ---
 
-## 🚀 Quick Start
-
-Use the appropriate guide URL in your IPTV player.
-
-| Provider     | XML                                                                                              | XML.GZ                                                                                                 |
-| :----------- | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------- |
-| Airtel       | [airtel.xml](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/airtel.xml)           | [airtel.xml.gz](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/airtel.xml.gz)           |
-| Dish TV      | [dishtv.xml](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/dishtv.xml)           | [dishtv.xml.gz](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/dishtv.xml.gz)           |
-| JioTV        | [jiotv.xml](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/jiotv.xml)             | [jiotv.xml.gz](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/jiotv.xml.gz)             |
-| RunNTV       | [runntv.xml](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/runntv.xml)           | [runntv.xml.gz](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/runntv.xml.gz)           |
-| Sling TV     | [slingtv.xml](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/slingtv.xml)         | [slingtv.xml.gz](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/slingtv.xml.gz)         |
-| SunDirect GO | [sundirectgo.xml](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/sundirectgo.xml) | [sundirectgo.xml.gz](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/sundirectgo.xml.gz) |
-| Tata Play    | [tataplay.xml](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/tataplay.xml)       | [tataplay.xml.gz](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/tataplay.xml.gz)       |
-| YuppTV       | [yupptv.xml](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/yupptv.xml)           | [yupptv.xml.gz](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/yupptv.xml.gz)           |
-| ZEE5         | [zee5.xml](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/zee5.xml)               | [zee5.xml.gz](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/zee5.xml.gz)               |
-
----
-
 ## ✨ Features
 
 * 📺 XMLTV compliant
