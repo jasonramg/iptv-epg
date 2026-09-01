@@ -6410,15 +6410,6 @@
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/coverart/47322414-8baa-42df-aaa7-4fe2326cbd47.png"/>
   </programme>
-  <programme channel="alrght" start="20260829012757 +0000" stop="20260829014637 +0000">
-    <title lang="en">Modern Parivar Ep 07</title>
-    <desc lang="en">A family drama exploring the struggles and triumphs of a modern Indian family.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-16+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/ruskmedia/partners/RUSKMDIA/poster/web/cover/e2ac9936-f8b3-4c82-a083-2a3e214ae4bf.png"/>
-  </programme>
   <programme channel="alrght" start="20260829014638 +0000" stop="20260829015908 +0000">
     <title lang="en">Modern Parivar Ep 08</title>
     <desc lang="en">A family drama exploring the struggles and triumphs of a modern Indian family.</desc>
@@ -11557,24 +11548,6 @@
       <value>UA-7+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/penmusic/platform/channels/ALTMOV/Web/coverart/bf13fe8e-e8fd-4e04-baf0-093e57568aec.png"/>
-  </programme>
-  <programme channel="amuspo" start="20260829012705 +0000" stop="20260829013810 +0000">
-    <title lang="en">Boxing HR Vs HR</title>
-    <desc lang="en">Boxing HR vs HR at Khelo India Youth Games 2023 features a thrilling all-Haryana showdown between promising young athletes. Catch the action live from JNPESU as skill and determination take center stage in this intense youth Boxing bout.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/amuzisports/partners/AMZSPRTS/poster/web/cover/06c471a8-6b68-4519-b74f-a347de512537.png"/>
-  </programme>
-  <programme channel="amuspo" start="20260829013811 +0000" stop="20260829014916 +0000">
-    <title lang="en">Boxing HR Vs HR</title>
-    <desc lang="en">Boxing HR vs HR at Khelo India Youth Games 2023 features a thrilling all-Haryana showdown between promising young athletes. Catch the action live from JNPESU as skill and determination take center stage in this intense youth Boxing bout.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/amuzisports/partners/AMZSPRTS/poster/web/cover/06c471a8-6b68-4519-b74f-a347de512537.png"/>
   </programme>
   <programme channel="amuspo" start="20260829014917 +0000" stop="20260829020022 +0000">
     <title lang="en">Boxing HR Vs HR</title>
@@ -23671,7 +23644,7 @@ the journey to catch the culprits and prove his innocence. Will he succeed in hi
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CRIUSA/Mobile/coverart/939b3e85-9047-4661-a863-65f0cab070b2.png"/>
   </programme>
-  <programme channel="criusa" start="20260902032729 +0000" stop="20260902042728 +0000">
+  <programme channel="criusa" start="20260902032729 +0000" stop="20260902042729 +0000">
     <title lang="en">1999/00 World Series Cup  Match 12  Australia V Pakistan</title>
     <desc lang="en">1999/00 World Series Cup - Match 12 - Australia v Pakistan</desc>
     <language>English</language>
@@ -23707,6 +23680,15 @@ the journey to catch the culprits and prove his innocence. Will he succeed in hi
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CRIUSA/Mobile/coverart/939b3e85-9047-4661-a863-65f0cab070b2.png"/>
   </programme>
+  <programme channel="criusa" start="20260902042729 +0000" stop="20260902052731 +0000">
+    <title lang="en">1999/00 World Series Cup  Match 13  Australia V Pakistan</title>
+    <desc lang="en">1999/00 World Series Cup - Match 13 - Australia v Pakistan</desc>
+    <language>English</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CRIUSA/Mobile/coverart/939b3e85-9047-4661-a863-65f0cab070b2.png"/>
+  </programme>
   <programme channel="criusa" start="20260902052726 +0000" stop="20260902072725 +0000">
     <title lang="en">1999/00 World Series Cup  Match 14  Australia V Pakistan</title>
     <desc lang="en">1999/00 World Series Cup - Match 14 - Australia v Pakistan</desc>
@@ -23734,6 +23716,15 @@ the journey to catch the culprits and prove his innocence. Will he succeed in hi
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CRIUSA/Mobile/coverart/939b3e85-9047-4661-a863-65f0cab070b2.png"/>
   </programme>
+  <programme channel="criusa" start="20260902052731 +0000" stop="20260902072730 +0000">
+    <title lang="en">1999/00 World Series Cup  Match 14  Australia V Pakistan</title>
+    <desc lang="en">1999/00 World Series Cup - Match 14 - Australia v Pakistan</desc>
+    <language>English</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CRIUSA/Mobile/coverart/939b3e85-9047-4661-a863-65f0cab070b2.png"/>
+  </programme>
   <programme channel="criusa" start="20260902072725 +0000" stop="20260902112615 +0000">
     <title lang="en">2002/03 Odi Tri-Series  Match 6  Australia V Sri Lanka</title>
     <desc lang="en">2002/03 ODI Tri-Series - Match 6 - Australia v Sri Lanka</desc>
@@ -23752,7 +23743,7 @@ the journey to catch the culprits and prove his innocence. Will he succeed in hi
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CRIUSA/Mobile/coverart/939b3e85-9047-4661-a863-65f0cab070b2.png"/>
   </programme>
-  <programme channel="criusa" start="20260902072730 +0000" stop="20260902112619 +0000">
+  <programme channel="criusa" start="20260902072730 +0000" stop="20260902112620 +0000">
     <title lang="en">2002/03 Odi Tri-Series  Match 6  Australia V Sri Lanka</title>
     <desc lang="en">2002/03 ODI Tri-Series - Match 6 - Australia v Sri Lanka</desc>
     <language>English</language>
@@ -23788,6 +23779,15 @@ the journey to catch the culprits and prove his innocence. Will he succeed in hi
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CRIUSA/Mobile/coverart/939b3e85-9047-4661-a863-65f0cab070b2.png"/>
   </programme>
+  <programme channel="criusa" start="20260902112620 +0000" stop="20260902132620 +0000">
+    <title lang="en">Australia V India  4th Test  2007/08 Border-Gavaskar Trophy</title>
+    <desc lang="en">Australia v India - 4th Test - 2007/08 Border-Gavaskar Trophy</desc>
+    <language>English</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CRIUSA/Mobile/coverart/939b3e85-9047-4661-a863-65f0cab070b2.png"/>
+  </programme>
   <programme channel="criusa" start="20260902132615 +0000" stop="20260902132855 +0000">
     <title lang="en">Two Minute Classics: Craig Simmons 112 V Strikers  Bbl|03</title>
     <desc lang="en">Two Minute Classics: Craig Simmons 112 v Strikers - BBL|03</desc>
@@ -23807,6 +23807,15 @@ the journey to catch the culprits and prove his innocence. Will he succeed in hi
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CRIUSA/Mobile/coverart/939b3e85-9047-4661-a863-65f0cab070b2.png"/>
   </programme>
   <programme channel="criusa" start="20260902132619 +0000" stop="20260902132900 +0000">
+    <title lang="en">Two Minute Classics: Craig Simmons 112 V Strikers  Bbl|03</title>
+    <desc lang="en">Two Minute Classics: Craig Simmons 112 v Strikers - BBL|03</desc>
+    <language>English</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CRIUSA/Mobile/coverart/939b3e85-9047-4661-a863-65f0cab070b2.png"/>
+  </programme>
+  <programme channel="criusa" start="20260902132620 +0000" stop="20260902132900 +0000">
     <title lang="en">Two Minute Classics: Craig Simmons 112 V Strikers  Bbl|03</title>
     <desc lang="en">Two Minute Classics: Craig Simmons 112 v Strikers - BBL|03</desc>
     <language>English</language>
@@ -23860,7 +23869,7 @@ the journey to catch the culprits and prove his innocence. Will he succeed in hi
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CRIUSA/Mobile/coverart/939b3e85-9047-4661-a863-65f0cab070b2.png"/>
   </programme>
-  <programme channel="criusa" start="20260902153100 +0000" stop="20260902162859 +0000">
+  <programme channel="criusa" start="20260902153100 +0000" stop="20260902162900 +0000">
     <title lang="en">Australia V India  Match 1  2003/04 Odi Tri-Series</title>
     <desc lang="en">Australia v India - Match 1 - 2003/04 ODI Tri-Series</desc>
     <language>English</language>
@@ -23896,6 +23905,15 @@ the journey to catch the culprits and prove his innocence. Will he succeed in hi
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CRIUSA/Mobile/coverart/939b3e85-9047-4661-a863-65f0cab070b2.png"/>
   </programme>
+  <programme channel="criusa" start="20260902162900 +0000" stop="20260902172900 +0000">
+    <title lang="en">2003/04 Odi Tri-Series  Match 02  Australia V Zimbabwe</title>
+    <desc lang="en">2003/04 ODI Tri-Series - Match 02 - Australia v Zimbabwe</desc>
+    <language>English</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CRIUSA/Mobile/coverart/939b3e85-9047-4661-a863-65f0cab070b2.png"/>
+  </programme>
   <programme channel="criusa" start="20260902172855 +0000" stop="20260902192550 +0000">
     <title lang="en">1997/98 Trans-Tasman Trophy  1st Test  Australia V New Zealand</title>
     <desc lang="en">1997/98 Trans-Tasman Trophy - 1st Test - Australia v New Zealand</desc>
@@ -23923,6 +23941,15 @@ the journey to catch the culprits and prove his innocence. Will he succeed in hi
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CRIUSA/Mobile/coverart/939b3e85-9047-4661-a863-65f0cab070b2.png"/>
   </programme>
+  <programme channel="criusa" start="20260902172900 +0000" stop="20260902192555 +0000">
+    <title lang="en">1997/98 Trans-Tasman Trophy  1st Test  Australia V New Zealand</title>
+    <desc lang="en">1997/98 Trans-Tasman Trophy - 1st Test - Australia v New Zealand</desc>
+    <language>English</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CRIUSA/Mobile/coverart/939b3e85-9047-4661-a863-65f0cab070b2.png"/>
+  </programme>
   <programme channel="criusa" start="20260902192550 +0000" stop="20260902192752 +0000">
     <title lang="en">Two Minute Classics: Dwayne Bravo V Hurricanes  Bbl|07</title>
     <desc lang="en">Two Minute Classics: Dwayne Bravo v Hurricanes - BBL|07</desc>
@@ -23941,7 +23968,7 @@ the journey to catch the culprits and prove his innocence. Will he succeed in hi
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CRIUSA/Mobile/coverart/939b3e85-9047-4661-a863-65f0cab070b2.png"/>
   </programme>
-  <programme channel="criusa" start="20260902192555 +0000" stop="20260902192756 +0000">
+  <programme channel="criusa" start="20260902192555 +0000" stop="20260902192757 +0000">
     <title lang="en">Two Minute Classics: Dwayne Bravo V Hurricanes  Bbl|07</title>
     <desc lang="en">Two Minute Classics: Dwayne Bravo v Hurricanes - BBL|07</desc>
     <language>English</language>
@@ -23969,6 +23996,15 @@ the journey to catch the culprits and prove his innocence. Will he succeed in hi
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CRIUSA/Mobile/coverart/939b3e85-9047-4661-a863-65f0cab070b2.png"/>
   </programme>
   <programme channel="criusa" start="20260902192756 +0000" stop="20260902232646 +0000">
+    <title lang="en">2002/03 Odi Tri-Series  Match 6  Australia V Sri Lanka</title>
+    <desc lang="en">2002/03 ODI Tri-Series - Match 6 - Australia v Sri Lanka</desc>
+    <language>English</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CRIUSA/Mobile/coverart/939b3e85-9047-4661-a863-65f0cab070b2.png"/>
+  </programme>
+  <programme channel="criusa" start="20260902192757 +0000" stop="20260902232646 +0000">
     <title lang="en">2002/03 Odi Tri-Series  Match 6  Australia V Sri Lanka</title>
     <desc lang="en">2002/03 ODI Tri-Series - Match 6 - Australia v Sri Lanka</desc>
     <language>English</language>
@@ -24165,15 +24201,6 @@ the journey to catch the culprits and prove his innocence. Will he succeed in hi
       <value>UA-13+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CRIUSA/Mobile/coverart/939b3e85-9047-4661-a863-65f0cab070b2.png"/>
-  </programme>
-  <programme channel="dicmed" start="20260829005717 +0000" stop="20260829014418 +0000">
-    <title lang="en">Donning</title>
-    <desc lang="en">A month into their studies, the trio struggles to balance an overwhelming syllabus, challenging practicals, and the desire to enjoy college life. An unexpected revelation about Nishant changes the group's dynamics.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/pocketaces/platform/channels/DICMED/Web/coverart/7a64bd23-cd03-4eb3-843b-edd16ebb0936.png"/>
   </programme>
   <programme channel="dicmed" start="20260829014419 +0000" stop="20260829022631 +0000">
     <title lang="en">Patient Zero</title>
@@ -26787,6 +26814,24 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   <programme channel="dicmed" start="20260904004521 +0000" stop="20260904012243 +0000">
     <title lang="en">Out Of Office</title>
     <desc lang="en">The title "Out Of Office" is a play on their professional status, but it more accurately reflects their mental state. They’ve been "out of office" from their Mumbai lives for long enough to gain a new perspective. The episode focuses on the inevitable departure and the emotional weight of saying goodbye—this time with the maturity of adults who know exactly what they are going back to.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/pocketaces/platform/channels/DICMED/Web/coverart/7a64bd23-cd03-4eb3-843b-edd16ebb0936.png"/>
+  </programme>
+  <programme channel="dicmed" start="20260904012244 +0000" stop="20260904014157 +0000">
+    <title lang="en">Nero The Hero</title>
+    <desc lang="en">The episode opens with a camera crew following Neerav Kapoor (Nero) as he prepares for his day. Within the first five minutes, it becomes clear that Nero doesn't just want to be an actor; he believes he is already a legendary craftsman who simply hasn't been "discovered" yet.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/pocketaces/platform/channels/DICMED/Web/coverart/7a64bd23-cd03-4eb3-843b-edd16ebb0936.png"/>
+  </programme>
+  <programme channel="dicmed" start="20260904014157 +0000" stop="20260904020359 +0000">
+    <title lang="en">The Tables Turn</title>
+    <desc lang="en">The episode explores the concept of "Networking." Nero believes that his talent is so undeniable that if he can just get in front of the right person, the "tables will turn," and he will go from a nobody to a superstar. This leads him to infiltrate a high-profile industry event where he is, unsurprisingly, not fit.</desc>
     <language>Hindi</language>
     <rating>
       <value>U - All Ages</value>
@@ -30609,6 +30654,15 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DRIDRI/Mobile/coverart/426d2383-ebc1-4bd5-9cd0-713c269e0a61.png"/>
   </programme>
+  <programme channel="dridri" start="20260901013438 +0000" stop="20260901015253 +0000">
+    <title lang="en">Autospeed</title>
+    <desc lang="en">A weekly international motoring and motorsports magazine show, AutoSpeed is all action, all style and all the news.</desc>
+    <language>English</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DRIDRI/Mobile/coverart/426d2383-ebc1-4bd5-9cd0-713c269e0a61.png"/>
+  </programme>
   <programme channel="dridri" start="20260901015253 +0000" stop="20260901022322 +0000">
     <title lang="en">Gp Racing</title>
     <desc lang="en">All the news, drama and glamour from the high-paced world of Formula 1, all in a dynamic 30 minute magazine format.</desc>
@@ -32436,6 +32490,15 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/FIGFIG/Mobile/coverart/8f32cf25-c5f5-4ed2-b620-ad97e6920730.png"/>
   </programme>
+  <programme channel="figfig" start="20260901013112 +0000" stop="20260901040908 +0000">
+    <title lang="en">Tna Impact Wrestling</title>
+    <desc lang="en">Experience the TNA IMPACT WRESTLING 2012 &amp; 2013 World Tour featuring the best wrestlers</desc>
+    <language>English</language>
+    <rating>
+      <value>PG</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/FIGFIG/Mobile/coverart/8f32cf25-c5f5-4ed2-b620-ad97e6920730.png"/>
+  </programme>
   <programme channel="figfig" start="20260901040908 +0000" stop="20260901074143 +0000">
     <title lang="en">Tna Impact Wrestling</title>
     <desc lang="en">Experience the TNA IMPACT WRESTLING 2012 &amp; 2013 World Tour featuring the best wrestlers</desc>
@@ -32859,7 +32922,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/FIGFIG/Mobile/coverart/8f32cf25-c5f5-4ed2-b620-ad97e6920730.png"/>
   </programme>
-  <programme channel="figfig" start="20260904005050 +0000" stop="20260904011236 +0000">
+  <programme channel="figfig" start="20260904005050 +0000" stop="20260904013948 +0000">
     <title lang="en">Tna Impact Wrestling</title>
     <desc lang="en">Experience the TNA IMPACT WRESTLING 2012 &amp; 2013 World Tour featuring the best wrestlers</desc>
     <language>English</language>
@@ -32867,24 +32930,6 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
       <value>PG</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/FIGFIG/Mobile/coverart/8f32cf25-c5f5-4ed2-b620-ad97e6920730.png"/>
-  </programme>
-  <programme channel="filcop" start="20260829013146 +0000" stop="20260829013731 +0000">
-    <title lang="en">What Moms Want Vs What They Get</title>
-    <desc lang="en">A mom dreams of rest, praise, time with her kids — but she gets missed calls, last-minute pick-ups and zero sleep. The video uses humour and heart to contrast her wish-list versus real-life.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/pocketaces/platform/channels/FLTRCOPY/Web/coverart/f9d498c1-46fd-4452-89e5-5ebe1ac6e912.png"/>
-  </programme>
-  <programme channel="filcop" start="20260829013732 +0000" stop="20260829014613 +0000">
-    <title lang="en">Reality Of A Topper</title>
-    <desc lang="en">Being a topper may seem like the ultimate dream—achieving the highest grades, getting all the accolades, and being the ""golden child."" But what’s the reality behind the perfect grades? The pressure, the expectations, and yes, the constant battle to stay at the top. In this hilarious sketch, we take a closer look at the life of a topper and what it's really like behind the shining medals.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/pocketaces/platform/channels/FLTRCOPY/Web/coverart/f9d498c1-46fd-4452-89e5-5ebe1ac6e912.png"/>
   </programme>
   <programme channel="filcop" start="20260829014613 +0000" stop="20260829015249 +0000">
     <title lang="en">If Ekta Kapoor Directed Your Life</title>
@@ -43546,6 +43591,15 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/pocketaces/platform/channels/FLTRCOPY/Web/coverart/f9d498c1-46fd-4452-89e5-5ebe1ac6e912.png"/>
   </programme>
+  <programme channel="filcop" start="20260903194450 +0000" stop="20260903195050 +0000">
+    <title lang="en">When Your Bff Gets Dumped</title>
+    <desc lang="en">A relatable take on post-breakup friendship — from emotional support and venting sessions to plotting revenge and ice cream-fueled pep talks.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/pocketaces/platform/channels/FLTRCOPY/Web/coverart/f9d498c1-46fd-4452-89e5-5ebe1ac6e912.png"/>
+  </programme>
   <programme channel="filcop" start="20260903195051 +0000" stop="20260903195700 +0000">
     <title lang="en">Things Fathers Do (father's Day Special)</title>
     <desc lang="en">A heartfelt yet funny look at the quirks, silent sacrifices and the unspoken ways fathers show up — from fixing things to just being there. The video celebrates dads in their unique, often unnoticed style.</desc>
@@ -43792,6 +43846,42 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   <programme channel="filcop" start="20260903225732 +0000" stop="20260903230429 +0000">
     <title lang="en">Friendship: Then Vs Now</title>
     <desc lang="en">The video compares friendships in school/college days with how they are now. It highlights the nostalgia, changes, and the bond that still remains strong.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/pocketaces/platform/channels/FLTRCOPY/Web/coverart/f9d498c1-46fd-4452-89e5-5ebe1ac6e912.png"/>
+  </programme>
+  <programme channel="filcop" start="20260903230430 +0000" stop="20260903231036 +0000">
+    <title lang="en">When Your Bff Has Another Bff</title>
+    <desc lang="en">The shift when your best friend starts spending more time with someone else; the strange mix of feeling replaced, missing your old dynamic, trying not to be jealous while still wanting to hang out with them.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/pocketaces/platform/channels/FLTRCOPY/Web/coverart/f9d498c1-46fd-4452-89e5-5ebe1ac6e912.png"/>
+  </programme>
+  <programme channel="filcop" start="20260903231036 +0000" stop="20260903231912 +0000">
+    <title lang="en">Certificate Of Nationalism</title>
+    <desc lang="en">A satirical take on the idea that love for the country now comes with a “certificate” you must constantly prove.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/pocketaces/platform/channels/FLTRCOPY/Web/coverart/f9d498c1-46fd-4452-89e5-5ebe1ac6e912.png"/>
+  </programme>
+  <programme channel="filcop" start="20260903231913 +0000" stop="20260903232559 +0000">
+    <title lang="en">When Your Partner Loves You But Can't Express It</title>
+    <desc lang="en">The video portrays relationships where one partner struggles to express love. It highlights the sweet, awkward, and heartfelt moments of unspoken affection.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/pocketaces/platform/channels/FLTRCOPY/Web/coverart/f9d498c1-46fd-4452-89e5-5ebe1ac6e912.png"/>
+  </programme>
+  <programme channel="filcop" start="20260903232559 +0000" stop="20260903233327 +0000">
+    <title lang="en">When You Realise Your Younger Sibling Has Grown Up</title>
+    <desc lang="en">That surreal shift when your once-tiny sibling starts adulting—and you’re hit by nostalgia and pride.</desc>
     <language>Hindi</language>
     <rating>
       <value>U - All Ages</value>
@@ -45096,7 +45186,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="goagoa" start="20260901013000 +0000" stop="20260901020000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -45150,7 +45240,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="goagoa" start="20260901043000 +0000" stop="20260901050000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -45285,7 +45375,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="goagoa" start="20260901120000 +0000" stop="20260901123000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -45384,7 +45474,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="goagoa" start="20260901173000 +0000" stop="20260901180000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -45447,7 +45537,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="goagoa" start="20260901210000 +0000" stop="20260901213000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -45555,7 +45645,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="goagoa" start="20260902030000 +0000" stop="20260902033000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -45654,7 +45744,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="goagoa" start="20260902083000 +0000" stop="20260902090000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -45726,7 +45816,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="goagoa" start="20260902123000 +0000" stop="20260902130000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -45780,7 +45870,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="goagoa" start="20260902153000 +0000" stop="20260902160000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -45861,7 +45951,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="goagoa" start="20260902200000 +0000" stop="20260902203000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -45978,7 +46068,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="goagoa" start="20260903023000 +0000" stop="20260903030000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -46050,7 +46140,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="goagoa" start="20260903063000 +0000" stop="20260903070000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -46104,7 +46194,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="goagoa" start="20260903093000 +0000" stop="20260903100000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -46185,7 +46275,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="goagoa" start="20260903140000 +0000" stop="20260903143000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -46257,7 +46347,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="goagoa" start="20260903180000 +0000" stop="20260903183000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -46311,7 +46401,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="goagoa" start="20260903210000 +0000" stop="20260903213000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -46375,6 +46465,15 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   <programme channel="goagoa" start="20260904003000 +0000" stop="20260904010000 +0000">
     <title lang="en">Get The Score</title>
     <desc lang="en">Need to know the score? Look no further than ""Get the Score,"" your go-to destination for real-time updates on all the basketball action.</desc>
+    <language>English</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/GOAGOA/Mobile/coverart/c8904a2b-e2f6-41bc-bc5c-11e74e2ffac0.png"/>
+  </programme>
+  <programme channel="goagoa" start="20260904010000 +0000" stop="20260904013000 +0000">
+    <title lang="en">Ace Net News</title>
+    <desc lang="en">Immerse yourself in the world of football with this program, where news unfolds through dynamic videos, providing an engaging and immersive perspective on the latest events.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -53403,7 +53502,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260901013000 +0000" stop="20260901020000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -53412,7 +53511,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260901020000 +0000" stop="20260901023000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -53547,7 +53646,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260901093000 +0000" stop="20260901100000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -53556,7 +53655,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260901100000 +0000" stop="20260901103000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -53601,7 +53700,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260901123000 +0000" stop="20260901130000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -53610,7 +53709,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260901130000 +0000" stop="20260901133000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -53727,7 +53826,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260901193000 +0000" stop="20260901200000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -53736,7 +53835,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260901200000 +0000" stop="20260901203000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -53889,7 +53988,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260902043000 +0000" stop="20260902050000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -53898,7 +53997,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260902050000 +0000" stop="20260902053000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -53925,7 +54024,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260902063000 +0000" stop="20260902070000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -53934,7 +54033,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260902070000 +0000" stop="20260902073000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -54015,7 +54114,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260902113000 +0000" stop="20260902120000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -54024,7 +54123,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260902120000 +0000" stop="20260902123000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -54087,7 +54186,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260902153000 +0000" stop="20260902160000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -54096,7 +54195,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260902160000 +0000" stop="20260902163000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -54177,7 +54276,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260902203000 +0000" stop="20260902210000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -54186,7 +54285,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260902210000 +0000" stop="20260902213000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -54231,7 +54330,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260902233000 +0000" stop="20260903000000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -54240,7 +54339,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260903000000 +0000" stop="20260903003000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -54393,7 +54492,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260903083000 +0000" stop="20260903090000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -54402,7 +54501,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260903090000 +0000" stop="20260903093000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -54411,7 +54510,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260903093000 +0000" stop="20260903100000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -54483,7 +54582,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260903133000 +0000" stop="20260903140000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -54492,7 +54591,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260903140000 +0000" stop="20260903143000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -54555,7 +54654,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260903173000 +0000" stop="20260903180000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -54564,7 +54663,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260903180000 +0000" stop="20260903183000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -54645,7 +54744,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260903223000 +0000" stop="20260903230000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -54654,7 +54753,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260903230000 +0000" stop="20260903233000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -54681,7 +54780,16 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
   </programme>
   <programme channel="hoohoo" start="20260904003000 +0000" stop="20260904010000 +0000">
     <title lang="en">Interview</title>
-    <desc lang="en">The dynamic world of soccer through exclusive interviews with key figures in the game. Uncover the untold stories behind the goals, strategies, and triumphs that shape the beautiful game.</desc>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
+    <language>English</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/HOOHOO/Mobile/coverart/cf55ca33-ce82-44a7-a99e-9ce32bc031fd.png"/>
+  </programme>
+  <programme channel="hoohoo" start="20260904010000 +0000" stop="20260904013000 +0000">
+    <title lang="en">Interview</title>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
     <rating>
       <value>UA-13+</value>
@@ -58859,53 +58967,6 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDTVY/Web/coverart/af25d10b-a3db-471a-a64c-df4ecba29af1.png"/>
   </programme>
-  <programme channel="jagran" start="20260829011358 +0000" stop="20260829013845 +0000">
-    <title lang="en">Unveiling the Struggles of the Transgender Community | In Conversation with Harish Iyer EP 03</title>
-    <desc lang="en">In this enlightening episode, we sit down with Harish Iyer, a renowned LGBTQ+ activist and speaker, to delve deep into the challenges faced by the transgender community. Harish shares personal stories, insights, and the harsh realities that transgender individuals encounter daily. From social stigma to legal battles, we uncover the multifaceted struggles and the resilience of this vibrant community.
-
-Whether you're an ally, a member of the LGBTQ+ community, or simply looking to educate yourself, this conversation offers valuable perspectives and encourages empathy and understanding.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-16+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/JAGRANTV/poster/mobile/cover/JAGRANHE_SF_00017.jpg"/>
-  </programme>
-  <programme channel="jagran" start="20260829013312 +0000" stop="20260829013621 +0000">
-    <title lang="en">Celebrity Fitness Secrets-Shraddha Kapoor</title>
-    <desc lang="en">Discover the secrets behind Shraddha Kapoor's fit and fabulous body! In this video, we dive deep into Shraddha's disciplined diet and workout routine that keeps her in top shape. From her balanced diet plan to her favorite workout routines like yoga and strength training, find out how this Bollywood star maintains her glowing health and stunning physique. Whether you're looking for fitness inspiration or tips to enhance your wellness journey, Shraddha's regime offers something for everyone. Watch now to unlock the secrets to staying fit like Shraddha Kapoor!</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/JAGRANTV/poster/mobile/cover/44e80b77-0037-4552-a7f4-39969d693928.jpg"/>
-  </programme>
-  <programme channel="jagran" start="20260829013621 +0000" stop="20260829014217 +0000">
-    <title lang="en">Ayurveda with Dimple Jangda Ep 07 - Ayurvedic remedies for improving immunity</title>
-    <desc lang="en">join us as we explore how Ayurveda can help boost your immunity. Hosted by Dimple Jangda, a renowned expert in Ayurveda, we delve into the ancient wisdom of Ayurvedic practices and their powerful impact on enhancing your immune system.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/JAGRANTV/poster/mobile/cover/418ba48b-de6e-401b-93c7-9db990f005a2.jpg"/>
-  </programme>
-  <programme channel="jagran" start="20260829013846 +0000" stop="20260829014502 +0000">
-    <title lang="en">Learn About Shilpa Shetty and Priyanka Chopra's Botox Treatment | Dr. Prabha Singh</title>
-    <desc lang="en">Learn About Shilpa Shetty and Priyanka Chopra's Botox Treatment | Dr. Prabha Singh</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/JAGRAN/Mobile/coverart/72ef6684-90ae-401f-b391-22d96864cd6a.png"/>
-  </programme>
-  <programme channel="jagran" start="20260829014217 +0000" stop="20260829014443 +0000">
-    <title lang="en">Celebrity Fitness Secrets-Vicky Kaushal</title>
-    <desc lang="en">In this video, we unveil the secrets behind Bollywood heartthrob Vicky Kaushal's impressive physique. We delve into his regimented strength training routines that sculpt his lean muscle and toned core. You'll also discover his go-to cardio exercises for building endurance and a healthy heart. But it's not just exercise! We explore Vicky's clean eating plan packed with whole foods and essential nutrients, plus his tips for portion control to fuel his workouts and keep him in peak condition. Get ready to be inspired and take the first step towards achieving your own fitness goals!</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/JAGRANTV/poster/mobile/cover/JAGRANHE_SF_00008.jpg"/>
-  </programme>
   <programme channel="jagran" start="20260829014444 +0000" stop="20260829015045 +0000">
     <title lang="en">Ayurveda with Dimple Jangda Ep 08 - Ayurveda Tips and Superfood for Good Health</title>
     <desc lang="en">In this video, we dive into the world of Ayurveda to bring you essential tips and powerful superfoods that can enhance your overall well-being. Ayurveda, the ancient Indian system of medicine, offers a holistic approach to health by focusing on balancing the body, mind, and spirit.
@@ -58916,15 +58977,6 @@ Discover simple yet effective Ayurvedic practices that you can incorporate into 
       <value>UA-13+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/JAGRANTV/poster/mobile/cover/1cc56597-6a67-4f84-84b9-6b4d753615c5.jpg"/>
-  </programme>
-  <programme channel="jagran" start="20260829014502 +0000" stop="20260829014811 +0000">
-    <title lang="en">Celebrity Fitness Secrets-Shraddha Kapoor</title>
-    <desc lang="en">Discover the secrets behind Shraddha Kapoor's fit and fabulous body! In this video, we dive deep into Shraddha's disciplined diet and workout routine that keeps her in top shape. From her balanced diet plan to her favorite workout routines like yoga and strength training, find out how this Bollywood star maintains her glowing health and stunning physique. Whether you're looking for fitness inspiration or tips to enhance your wellness journey, Shraddha's regime offers something for everyone. Watch now to unlock the secrets to staying fit like Shraddha Kapoor!</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/JAGRANTV/poster/mobile/cover/44e80b77-0037-4552-a7f4-39969d693928.jpg"/>
   </programme>
   <programme channel="jagran" start="20260829014811 +0000" stop="20260829015407 +0000">
     <title lang="en">Ayurveda with Dimple Jangda Ep 07 - Ayurvedic remedies for improving immunity</title>
@@ -65159,24 +65211,6 @@ Our coach, Vidhi Chawla shares essential foods to include in your diet to balanc
       <value>UA-13+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/JAGRAN/Web/coverart/c9f52f5d-d9b2-4875-aeaa-f9d3b449deb8.png"/>
-  </programme>
-  <programme channel="jagran" start="20260901012944 +0000" stop="20260901013825 +0000">
-    <title lang="en">Wellness Vardaan By Vidhi Chawla | EP 16 - What to eat to help reduce stress and anxiety</title>
-    <desc lang="en">Struggling with stress and anxiety? In this episode of Wellness Vardaan, Vidhi Chawla shares practical tips on what to eat to help reduce stress and anxiety. Discover the best foods and nutrients that can calm your mind and improve your overall well-being. Whether you're dealing with daily stress or more serious anxiety, this video offers simple dietary changes that can make a big difference. Don't miss out on these easy and effective ways to support your mental health naturally.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/JAGRAN/Web/coverart/c9f52f5d-d9b2-4875-aeaa-f9d3b449deb8.png"/>
-  </programme>
-  <programme channel="jagran" start="20260901013826 +0000" stop="20260901014452 +0000">
-    <title lang="en">What are Duck Lips and Banana Roll? Know From Dr. Prabha Singh</title>
-    <desc lang="en">In this video know from Dr. Prabha Singh what are Duck Lips and Banana Roll. Why are these beauty and body trends in the news, and what could be their advantages or disadvantages? If you also want to know about these trends, then this video is for you!</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/JAGRANTV/poster/mobile/cover/dbabc7a0-d7ec-45ce-8572-567abd1145c7.jpg"/>
   </programme>
   <programme channel="jagran" start="20260901013826 +0000" stop="20260901014452 +0000">
     <title lang="en">What are Duck Lips and Banana Roll? Know From Dr. Prabha Singh</title>
@@ -78060,15 +78094,6 @@ Impact on Immune System: Learn about the gut's crucial role in maintaining a str
       <value>A - 18+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MMAATV/Mobile/coverart/02425ca9-6706-4cdb-a268-d9ff36638017.png"/>
-  </programme>
-  <programme channel="mrbean" start="20260829010933 +0000" stop="20260829013707 +0000">
-    <title lang="en">Mr Bean Animated Season 02</title>
-    <desc lang="en">Mr Bean is in a trance – barks like a dog and starts to dance.</desc>
-    <language>English</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MRBEAN/Web/coverart/0542ecf4-1bdd-45af-9d72-cba0595f5177.png"/>
   </programme>
   <programme channel="mrbean" start="20260829013707 +0000" stop="20260829020244 +0000">
     <title lang="en">Mr Bean Animated Season 04</title>
@@ -118697,24 +118722,6 @@ price- tag to match.</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/OUTCHA/Web/coverart/8b01ac4f-898e-4c82-aea2-b37e3bf63fe5.png"/>
   </programme>
-  <programme channel="p_cinshf" start="20260829012135 +0000" stop="20260829014446 +0000">
-    <title lang="en">Eelu Rani Bhag Gaye</title>
-    <desc lang="en">Two teenagers running away from their home comes across a police officer who persuades them not to go, however Eelu &amp; Rani have something else on their mind.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-16+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00007.png"/>
-  </programme>
-  <programme channel="p_cinshf" start="20260829012542 +0000" stop="20260829014750 +0000">
-    <title lang="en">Panic</title>
-    <desc lang="en">A riveting psychological thriller that propels an aspiring actor's life into chaos when a toothache triggers an unfounded belief in oral cancer, setting off a catastrophic chain of events.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-16+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00028.png"/>
-  </programme>
   <programme channel="p_cinshf" start="20260829014446 +0000" stop="20260829021403 +0000">
     <title lang="en">On The Way of Love</title>
     <desc lang="en">A simple story of how a husband &amp; wife realizes about the presence &amp; support for each other during the pandemic.</desc>
@@ -121766,15 +121773,6 @@ price- tag to match.</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00013.png"/>
   </programme>
-  <programme channel="p_cinshf" start="20260901012139 +0000" stop="20260901014133 +0000">
-    <title lang="en">Do Cutting</title>
-    <desc lang="en">An unforgettable love story about how a couple due to societal pressures on inter religion marriages hold up their lives.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-16+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00013.png"/>
-  </programme>
   <programme channel="p_cinshf" start="20260901014133 +0000" stop="20260901015123 +0000">
     <title lang="en">Curd</title>
     <desc lang="en">CURD is the story of Hira, who is visiting her son in the US. Unable to spend time with him because of his busy schedule, Hira feels trapped in her house and struggles with the alien culture and loneliness.</desc>
@@ -126004,24 +126002,6 @@ price- tag to match.</desc>
       <value>A - 18+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00009.png"/>
-  </programme>
-  <programme channel="p_nunutv" start="20260829013011 +0000" stop="20260829014736 +0000">
-    <title lang="en">New Nursery Rhymes</title>
-    <desc lang="en">Sing and play along with new nursery rhyme &amp; songs compilation while playing with little toys.</desc>
-    <language>English</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode6.png"/>
-  </programme>
-  <programme channel="p_nunutv" start="20260829013049 +0000" stop="20260829014814 +0000">
-    <title lang="en">New Nursery Rhymes</title>
-    <desc lang="en">Sing and play along with new nursery rhyme &amp; songs compilation while playing with little toys.</desc>
-    <language>English</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode6.png"/>
   </programme>
   <programme channel="p_nunutv" start="20260829014736 +0000" stop="20260829020849 +0000">
     <title lang="en">Wheels On The Bus</title>
@@ -129694,15 +129674,6 @@ price- tag to match.</desc>
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode5.jpg"/>
-  </programme>
-  <programme channel="p_nunutv" start="20260901011916 +0000" stop="20260901013918 +0000">
-    <title lang="en">Yes Yes Vegetable &amp; Eating Habit</title>
-    <desc lang="en">The very best nursery rhymes and kids songs for you to sing dance and learn too!</desc>
-    <language>English</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode4.png"/>
   </programme>
   <programme channel="p_nunutv" start="20260901011916 +0000" stop="20260901013918 +0000">
     <title lang="en">Yes Yes Vegetable &amp; Eating Habit</title>
@@ -134096,6 +134067,15 @@ price- tag to match.</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode1.jpg"/>
   </programme>
+  <programme channel="p_nunutv" start="20260904005746 +0000" stop="20260904011306 +0000">
+    <title lang="en">Baby Shark Dance</title>
+    <desc lang="en">Baby shark doo doo doo doo! In this educational nursery rhyme compilation, you will find some of the most popular NuNu Tv songs, such as ‘Finger Family’, 'Color song’, ‘Being a Good Friend’ and lots more!</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode1.jpg"/>
+  </programme>
   <programme channel="p_nunutv" start="20260904011306 +0000" stop="20260904012744 +0000">
     <title lang="en">Spaceship &amp; Traffic Vehicles</title>
     <desc lang="en">We're Going On A Rocket Ship &amp; other famous Kids Songs &amp; Nursery Rhymes</desc>
@@ -134104,6 +134084,24 @@ price- tag to match.</desc>
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode5.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20260904011306 +0000" stop="20260904012744 +0000">
+    <title lang="en">Spaceship &amp; Traffic Vehicles</title>
+    <desc lang="en">We're Going On A Rocket Ship &amp; other famous Kids Songs &amp; Nursery Rhymes</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode5.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20260904012744 +0000" stop="20260904014746 +0000">
+    <title lang="en">Yes Yes Vegetable &amp; Eating Habit</title>
+    <desc lang="en">The very best nursery rhymes and kids songs for you to sing dance and learn too!</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode4.png"/>
   </programme>
   <programme channel="p_nunutv" start="20260904012744 +0000" stop="20260904014746 +0000">
     <title lang="en">Yes Yes Vegetable &amp; Eating Habit</title>
@@ -134123,6 +134121,24 @@ price- tag to match.</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode6.png"/>
   </programme>
+  <programme channel="p_nunutv" start="20260904014747 +0000" stop="20260904020512 +0000">
+    <title lang="en">New Nursery Rhymes</title>
+    <desc lang="en">Sing and play along with new nursery rhyme &amp; songs compilation while playing with little toys.</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode6.png"/>
+  </programme>
+  <programme channel="p_nunutv" start="20260904020512 +0000" stop="20260904022625 +0000">
+    <title lang="en">Wheels On The Bus</title>
+    <desc lang="en">Sing and enjoy your favorite nursery rhymes &amp; kids songs such as 'Wheels on The Bus', 'Three Little Pigs', 'Rain Rain Go Away' and many more with NuNu and his friends.</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode3.jpg"/>
+  </programme>
   <programme channel="p_nunutv" start="20260904020512 +0000" stop="20260904022625 +0000">
     <title lang="en">Wheels On The Bus</title>
     <desc lang="en">Sing and enjoy your favorite nursery rhymes &amp; kids songs such as 'Wheels on The Bus', 'Three Little Pigs', 'Rain Rain Go Away' and many more with NuNu and his friends.</desc>
@@ -134141,14 +134157,14 @@ price- tag to match.</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode2.jpg"/>
   </programme>
-  <programme channel="p_pktflm" start="20260829011411 +0000" stop="20260829014503 +0000">
-    <title lang="en">Harshit</title>
-    <desc lang="en">This film is inspired by Shakespeare's Hamlet, written by Dhruva Harsh. It contains all the Shakespearean elements like, betrayal, love, hatred, revenge, sexual jealousy, poetic justice and dilemma of existence. Harshit is a protagonist synonymous to Hamlet, a Hindu boy living in a Muslim dominated area in Mumbai, India, loves Rahila, his neighbour. Later on fate plays a game in which two innocents, Harshit n Rahila are trapped.</desc>
-    <language>Hindi</language>
+  <programme channel="p_nunutv" start="20260904022625 +0000" stop="20260904024319 +0000">
+    <title lang="en">Yummy! Hot Cross Buns</title>
+    <desc lang="en">From making yummy hot cross buns for their parents, Learn and enjoy other famous Nursery Rhymes and Songs</desc>
+    <language>English</language>
     <rating>
-      <value>A - 18+</value>
+      <value>U - All Ages</value>
     </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00135.png"/>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode2.jpg"/>
   </programme>
   <programme channel="p_pktflm" start="20260829013027 +0000" stop="20260829020119 +0000">
     <title lang="en">Harshit</title>
@@ -140098,24 +140114,6 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/f2810c23-ea08-4641-9565-841b69b7434b.png"/>
   </programme>
-  <programme channel="p_runshf" start="20260829011721 +0000" stop="20260829013721 +0000">
-    <title lang="en">Barat</title>
-    <desc lang="en">A Typical miser starts picking up a mysterious trail of money only to find out something unearthly lurking around!</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-16+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00080.png"/>
-  </programme>
-  <programme channel="p_runshf" start="20260829013721 +0000" stop="20260829014245 +0000">
-    <title lang="en">El'ayichi</title>
-    <desc lang="en">What happens when you have a dead but clingy husband, an irritated wife, and a fossilized dodo in the same house? Experience love, way past its 'expiry' date.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/TTTFLM/poster/web/cover/TTTFLM_SHF_00006.png"/>
-  </programme>
   <programme channel="p_runshf" start="20260829014246 +0000" stop="20260829015417 +0000">
     <title lang="en">Haba Goba</title>
     <desc lang="en">Getting intimate takes a lot of planning in "these times". Nandini and Kush have done all that and more for their "special" date. But will things go as smoothly as planned? Or will there be bumps along the way?</desc>
@@ -145115,15 +145113,6 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00010.png"/>
   </programme>
-  <programme channel="p_runshf" start="20260901012338 +0000" stop="20260901013634 +0000">
-    <title lang="en">Bhagwaan - The Faith</title>
-    <desc lang="en">A final chance meeting with a mysterious old homeless man changes everything they’ve experienced that day. The story delves into how deep their faith truly is and how people worship gods. Some use faith and god as a means of solace while others as a crutch for a troubling life.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00010.png"/>
-  </programme>
   <programme channel="p_runshf" start="20260901012433 +0000" stop="20260901013729 +0000">
     <title lang="en">Bhagwaan - The Faith</title>
     <desc lang="en">A final chance meeting with a mysterious old homeless man changes everything they’ve experienced that day. The story delves into how deep their faith truly is and how people worship gods. Some use faith and god as a means of solace while others as a crutch for a troubling life.</desc>
@@ -145132,15 +145121,6 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00010.png"/>
-  </programme>
-  <programme channel="p_runshf" start="20260901013634 +0000" stop="20260901014158 +0000">
-    <title lang="en">El'ayichi</title>
-    <desc lang="en">What happens when you have a dead but clingy husband, an irritated wife, and a fossilized dodo in the same house? Experience love, way past its 'expiry' date.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/TTTFLM/poster/web/cover/TTTFLM_SHF_00006.png"/>
   </programme>
   <programme channel="p_runshf" start="20260901013634 +0000" stop="20260901014158 +0000">
     <title lang="en">El'ayichi</title>
@@ -155085,15 +155065,6 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
       <value>A - 18+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SUPJIO/Web/coverart/883d9fb7-ad21-4528-ba92-8663c07c759a.png"/>
-  </programme>
-  <programme channel="p_tttflm" start="20260829013130 +0000" stop="20260829014448 +0000">
-    <title lang="en">Not Out</title>
-    <desc lang="en">Abhay &amp; Sid have been playing cricket almost every Saturday for the last 20 years. But today, Abhay has some news that may change this ritual — and their friendship — forever.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-7+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/TTTFLM/poster/web/cover/TTTFLM_SHF_00045.png"/>
   </programme>
   <programme channel="p_tttflm" start="20260829014449 +0000" stop="20260829015625 +0000">
     <title lang="en">Wingmama</title>
@@ -167480,23 +167451,6 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
       <value>UA-13+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRBOL/Web/coverart/dfddecd9-4561-4d52-baf9-f369fafc1fb5.png"/>
-  </programme>
-  <programme channel="shemaroo-filmigaane" start="20260829013206 +0000" stop="20260829013751 +0000">
-    <title lang="en">Meri Jaan Chali Dushman Ke Ghar Rabb Khair Kare</title>
-    <desc lang="en">Meri Jaan Chali Dushman Ke Ghar Rabb Khair Kare</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Web/coverart/e7d304aa-4f09-435b-ae53-308f968bf19f.png"/>
-  </programme>
-  <programme channel="shemaroo-filmigaane" start="20260829013751 +0000" stop="20260829014321 +0000">
-    <title lang="en">Jhoola Bahon Ka Aaj Bhi Do Na Mujhe[part 1]</title>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Web/coverart/e7d304aa-4f09-435b-ae53-308f968bf19f.png"/>
   </programme>
   <programme channel="shemaroo-filmigaane" start="20260829014321 +0000" stop="20260829015137 +0000">
     <title lang="en">Doli Uthegi Aaj Teri Behna Chhalkenge [part 1 &amp; 2]</title>
@@ -188944,6 +188898,15 @@ and Dd Seg ( Hearing Impaired )</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/XTRSPO/Mobile/coverart/ad0d3ed0-873c-4f07-ad21-71619ce22768.png"/>
   </programme>
   <programme channel="xtrspo" start="20260901012341 +0000" stop="20260901021842 +0000">
+    <title lang="en">Silent Revolution</title>
+    <desc lang="en">A documentary series exploring the European BMX scene, following riders across competitions, training, and daily life to reveal the dedication, culture, and challenges behind professional BMX.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/XTRSPO/Mobile/coverart/ad0d3ed0-873c-4f07-ad21-71619ce22768.png"/>
+  </programme>
+  <programme channel="xtrspo" start="20260901013556 +0000" stop="20260901021842 +0000">
     <title lang="en">Silent Revolution</title>
     <desc lang="en">A documentary series exploring the European BMX scene, following riders across competitions, training, and daily life to reveal the dedication, culture, and challenges behind professional BMX.</desc>
     <language>English</language>
