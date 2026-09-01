@@ -17,6 +17,21 @@ Free XMLTV EPGs for supported IPTV providers.
 
 ---
 
+## 📊 EPG Status
+
+<!-- EPG_STATUS_START -->
+
+Status table will be generated automatically.
+
+<!-- EPG_STATUS_END -->
+
+**Status Legend**
+
+* 🟢 Updated within the last 24 hours
+* 🔴 Older than 24 hours
+
+---
+
 ## 🚀 Quick Start
 
 Use the appropriate guide URL in your IPTV player.
@@ -38,7 +53,7 @@ Use the appropriate guide URL in your IPTV player.
 ## ✨ Features
 
 * 📺 XMLTV compliant
-* 🔄 Regularly updated
+* 🔄 Updated automatically via GitHub Actions
 * 📦 Available in `.xml` and `.xml.gz`
 * ⚡ Lightweight and ready to use
 * 📱 Compatible with most IPTV players
@@ -62,26 +77,19 @@ Use the appropriate guide URL in your IPTV player.
 
 ## 📁 Repository Structure
 
+All EPG files are stored in the `epg/` directory and are available in both `.xml` and `.xml.gz` formats.
+
+Example:
+
 ```text
 epg/
 ├── airtel.xml
 ├── airtel.xml.gz
-├── dishtv.xml
-├── dishtv.xml.gz
 ├── jiotv.xml
 ├── jiotv.xml.gz
-├── runntv.xml
-├── runntv.xml.gz
-├── slingtv.xml
-├── slingtv.xml.gz
-├── sundirectgo.xml
-├── sundirectgo.xml.gz
 ├── tataplay.xml
 ├── tataplay.xml.gz
-├── yupptv.xml
-├── yupptv.xml.gz
-├── zee5.xml
-└── zee5.xml.gz
+└── ...
 ```
 
 ---
@@ -115,13 +123,13 @@ Both files contain the same guide data.
 
 ### Does this repository include IPTV playlists or streams?
 
-No. This repository provides **EPG metadata only**.
+No. This repository provides EPG metadata only.
 
 ---
 
 ## ⚠️ Disclaimer
 
-This repository distributes **Electronic Program Guide (EPG) metadata only** and does **not** host IPTV playlists, live streams, DRM keys, or any video/audio content.
+This repository distributes Electronic Program Guide (EPG) metadata only and does not host IPTV playlists, live streams, DRM keys, or any video/audio content.
 
 ---
 
@@ -133,7 +141,7 @@ Issues, suggestions, and pull requests are welcome.
 
 ## 📜 License
 
-Licensed under the **MIT License**.
+Licensed under the MIT License.
 
 ---
 
