@@ -216,9 +216,9 @@
     <display-name>Sun Gemini Music HD</display-name>
     <icon src="https://metaimg.sundirectgo.in/epgChannels/141045_0465731e-d4b1-496c-b168-3ef245e11994.png" />
   </channel>
-  <channel id="141135">
-    <display-name>ETV Music</display-name>
-    <icon src="https://sun-direct-max.s3.ap-south-1.amazonaws.com/Logo/ETV Music-173.png" />
+  <channel id="141134">
+    <display-name>ETV Andhra Pradesh</display-name>
+    <icon src="https://metaimg.sundirectgo.in/epgChannels/141134_3229fb03-d38e-4c34-87c1-b2c8f6ddc33a.png" />
   </channel>
   <channel id="141129">
     <display-name>ETV Telangana</display-name>
@@ -272,9 +272,9 @@
     <display-name>Prime9 Plus</display-name>
     <icon src="https://sun-direct-max.s3.ap-south-1.amazonaws.com/Logo/Prime9 Plus.png" />
   </channel>
-  <channel id="141134">
-    <display-name>ETV Andhra Pradesh</display-name>
-    <icon src="https://metaimg.sundirectgo.in/epgChannels/141134_3229fb03-d38e-4c34-87c1-b2c8f6ddc33a.png" />
+  <channel id="141135">
+    <display-name>ETV Music</display-name>
+    <icon src="https://sun-direct-max.s3.ap-south-1.amazonaws.com/Logo/ETV Music-173.png" />
   </channel>
   <channel id="1719944">
     <display-name>Mahaa Max</display-name>
@@ -16487,174 +16487,444 @@
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141135" start="20260902010000 +0530" stop="20260902020000 +0530">
-    <title>Hits Hungama</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/6cdc4558-4a6f-44fe-9bf6-ae3e9f860a32_ETVAbhiruchi_HitsHungama_2130524.jpg" />
-    <desc>Hits Hungama</desc>
+  <programme channel="141134" start="20260902000000 +0530" stop="20260902003000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/6589c18c-e2cd-4bbc-ac10-bdcb32df31d6_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141135" start="20260902020000 +0530" stop="20260902030000 +0530">
-    <title>Saragalu</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/e277ae8b-30a2-4fb1-9ee1-4f5215318da7_ETVAbhiruchi_Saragalu_2130531.jpg" />
-    <desc>Saragalu</desc>
+  <programme channel="141134" start="20260902003000 +0530" stop="20260902010000 +0530">
+    <title>Neralu Ghoralu</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/e26849b8-ab2a-4349-b1ea-d6bada1a2b16_ETVAP_NeraluGhoralu_1946752.jpg" />
+    <desc>A crime-based show hosted by Nutan Prasad, where suspense, investigation, and justice unfold through gripping stories that keep viewers hooked.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141135" start="20260902030000 +0530" stop="20260902050000 +0530">
-    <title>Aamani..Padave..Hayiga</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/a2290934-3ba1-4bdf-bb85-09ec57c68b24_ETVAbhiruchi_AamaniPadaveHayiga_2130522.jpg" />
-    <desc>Aamani..Padave..Hayiga</desc>
+  <programme channel="141134" start="20260902010000 +0530" stop="20260902013000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/4da06cc1-f42f-4086-b0f4-20344ba25fe0_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141135" start="20260902050000 +0530" stop="20260902060000 +0530">
-    <title>Neerajanam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/432a75e2-560d-4d6d-b86d-db3a778b3fa9_ETVMusic_Neerajanam_2130528.jpg" />
-    <desc>Neerajanam</desc>
+  <programme channel="141134" start="20260902013000 +0530" stop="20260902020000 +0530">
+    <title>Ground Report</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/7d6ac56f-ea63-491c-a073-14601315bd5f_ETVAP_GroundReport_2077285.jpg" />
+    <desc>An informative news presentation delivering detailed field coverage, public perspectives and factual reporting on important social, political and regional developments affecting communities.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141135" start="20260902060000 +0530" stop="20260902070000 +0530">
-    <title>Saragalu</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/554231c4-1520-4293-86cf-0ea119d47987_ETVAbhiruchi_Saragalu_2130531.jpg" />
-    <desc>Saragalu</desc>
+  <programme channel="141134" start="20260902020000 +0530" stop="20260902023000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/e5d1165b-ded2-454c-a78c-9f8dc984a598_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141135" start="20260902070000 +0530" stop="20260902090000 +0530">
-    <title>Meeku Prematho</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/2863c9d8-d639-45c6-a120-527043bf4e5a_ETVMusic_MeekuPrematho_2130526.jpg" />
-    <desc>Meeku Prematho</desc>
+  <programme channel="141134" start="20260902023000 +0530" stop="20260902030000 +0530">
+    <title>Sukhibhava</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/2a8a99af-cdf3-4b94-b584-82cb23d2e0cd_ETVAP_Sukhibhava_1482.jpg" />
+    <desc>This show focuses on raising health and hygiene awareness among people and informing them of the best of medicinal uses.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141135" start="20260902090000 +0530" stop="20260902100000 +0530">
-    <title>Hits Hungama</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/3096a543-ff9c-4fd6-b0b8-9c55c75b94a9_ETVAbhiruchi_HitsHungama_2130524.jpg" />
-    <desc>Hits Hungama</desc>
+  <programme channel="141134" start="20260902030000 +0530" stop="20260902033000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/5f8e44c7-d9e0-447d-9523-72dbb09d6b4e_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141135" start="20260902100000 +0530" stop="20260902120000 +0530">
-    <title>Viraamam Ledhu Guru</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/c39bc259-357a-4480-b85a-df591af87aa1_ETVAbhiruchi_ViraamamLedhuGuru_2130533.jpg" />
-    <desc>Viraamam Ledhu Guru</desc>
+  <programme channel="141134" start="20260902033000 +0530" stop="20260902040000 +0530">
+    <title>Yuva</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/90b3fecc-e959-4c4a-87db-43cc4648487c_ETVAP_Yuva_95660.jpg" />
+    <desc>Youth are offered a platform for a healthy exchange of views and opinions on the latest development and policies for them.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141135" start="20260902120000 +0530" stop="20260902130000 +0530">
-    <title>Dilse</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/2ad8fd27-7e67-4dce-8ebc-34cfe554a58a_ETVAbhiruchi_Dilse_2130523.jpg" />
-    <desc>Dilse</desc>
+  <programme channel="141134" start="20260902040000 +0530" stop="20260902043000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/bf870338-8f90-4428-9bea-7e7c47c1470c_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141135" start="20260902130000 +0530" stop="20260902140000 +0530">
-    <title>Padutha Teeyaga</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/5c867f00-ad14-4192-8178-de8d80407ef6_ETVAbhiruchi_PaduthaTeeyaga_2130529.jpg" />
-    <desc>Padutha Teeyaga</desc>
+  <programme channel="141134" start="20260902043000 +0530" stop="20260902050000 +0530">
+    <title>Idisangathi</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/6dd7002f-0b0e-4d0d-8b42-32f3835fe9ff_ETVAP_Idisangathi_4610.jpg" />
+    <desc>A magazine programme that takes up a set of contemporary issues in each episode and reports them in a comprehensive manner.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141135" start="20260902140000 +0530" stop="20260902143000 +0530">
-    <title>Ragam Thanam Pallavi</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/e5556b2d-fa0d-4a1a-93ab-c0a2730fb731_ETVAbhiruchi_RagamThanamPallavi_2130530.jpg" />
-    <desc>Ragam Thanam Pallavi</desc>
+  <programme channel="141134" start="20260902050000 +0530" stop="20260902053000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/74c99352-08a6-4d2f-bb16-d6e60ca6bbdf_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141135" start="20260902143000 +0530" stop="20260902163000 +0530">
-    <title>Aamani..Padave..Hayiga</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/31bb12f5-fc0f-4538-9a5c-ebad0f987125_ETVAbhiruchi_AamaniPadaveHayiga_2130522.jpg" />
-    <desc>Aamani..Padave..Hayiga</desc>
+  <programme channel="141134" start="20260902053000 +0530" stop="20260902060000 +0530">
+    <title>Sukhibhava</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/6549646b-c189-4aff-a8d5-c97fdee0b047_ETVAP_Sukhibhava_1482.jpg" />
+    <desc>This show focuses on raising health and hygiene awareness among people and informing them of the best of medicinal uses.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141135" start="20260902163000 +0530" stop="20260902173000 +0530">
-    <title>Hits Hungama</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/1b84b12d-f18c-4068-880d-7088b1af5c8c_ETVAbhiruchi_HitsHungama_2130524.jpg" />
-    <desc>Hits Hungama</desc>
+  <programme channel="141134" start="20260902060000 +0530" stop="20260902063000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/f24e2d8c-b4e5-4162-8899-0d908270712a_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141135" start="20260902173000 +0530" stop="20260902183000 +0530">
-    <title>Music Magic</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/2fd228b3-7b78-4b7c-aa63-36ce69579188_ETVAbhiruchi_MusicMagic_2130527.jpg" />
-    <desc>Music Magic</desc>
+  <programme channel="141134" start="20260902063000 +0530" stop="20260902070000 +0530">
+    <title>Prarthana Samayam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/2f1da8cb-77af-457a-b088-4f3742cf1f96_ETVAP_PrarthanaSamayam_1479.jpg" />
+    <desc>This is a sponsored programme which features religious sermons. It includes the testimonies about the miracles of Jesus.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141135" start="20260902183000 +0530" stop="20260902193000 +0530">
-    <title>Dilse</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/1d640a2b-81dd-4313-9617-23ffccd83f27_ETVAbhiruchi_Dilse_2130523.jpg" />
-    <desc>Dilse</desc>
+  <programme channel="141134" start="20260902070000 +0530" stop="20260902073000 +0530">
+    <title>Idisangathi</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/f3b977cb-47d4-4e69-bb9a-48922780b6e2_ETVAP_Idisangathi_4610.jpg" />
+    <desc>A magazine programme that takes up a set of contemporary issues in each episode and reports them in a comprehensive manner.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141135" start="20260902193000 +0530" stop="20260902213000 +0530">
-    <title>Swarabhishekam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/2dd410a4-9bd3-4905-b27b-7d51dc4f1280_ETVAbhiruchi_Swarabhishekam_2130532.jpg" />
-    <desc>Swarabhishekam</desc>
+  <programme channel="141134" start="20260902073000 +0530" stop="20260902080000 +0530">
+    <title>ETV 360</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/957aeb35-5b96-41df-a66d-8722cbff4276_ETVAP_ETV360_4609.jpg" />
+    <desc>The program offers a comprehensive view of news and events from various domains.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141135" start="20260902213000 +0530" stop="20260902220000 +0530">
-    <title>Ragam Thanam Pallavi</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/cde30c6b-1a17-477f-8fd6-022bdc96cbea_ETVAbhiruchi_RagamThanamPallavi_2130530.jpg" />
-    <desc>Ragam Thanam Pallavi</desc>
+  <programme channel="141134" start="20260902080000 +0530" stop="20260902083000 +0530">
+    <title>ETV 360</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/8801f6e4-7389-47cf-a85a-c6715766fd67_ETVAP_ETV360_4609.jpg" />
+    <desc>The program offers a comprehensive view of news and events from various domains.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141135" start="20260902220000 +0530" stop="20260902230000 +0530">
-    <title>Saragalu</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/b401db24-72eb-420c-b6c7-eee761ed65e3_ETVAbhiruchi_Saragalu_2130531.jpg" />
-    <desc>Saragalu</desc>
+  <programme channel="141134" start="20260902083000 +0530" stop="20260902090000 +0530">
+    <title>Neralu Ghoralu</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/40de30a9-e326-4e22-8c43-3ec12de1c40a_ETVAP_NeraluGhoralu_1946752.jpg" />
+    <desc>A crime-based show hosted by Nutan Prasad, where suspense, investigation, and justice unfold through gripping stories that keep viewers hooked.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141135" start="20260902230000 +0530" stop="20260903010000 +0530">
-    <title>Viraamam Ledhu Guru</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/863be869-1c0a-4202-b63b-e7a8a5259a8e_ETVAbhiruchi_ViraamamLedhuGuru_2130533.jpg" />
-    <desc>Viraamam Ledhu Guru</desc>
+  <programme channel="141134" start="20260902090000 +0530" stop="20260902093000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/5ea2f819-a597-4e88-b947-4415669c31e6_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902093000 +0530" stop="20260902100000 +0530">
+    <title>Sukhibhava</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/e23a4134-56fe-41c1-ae47-157204170773_ETVAP_Sukhibhava_1482.jpg" />
+    <desc>This show focuses on raising health and hygiene awareness among people and informing them of the best of medicinal uses.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902100000 +0530" stop="20260902103000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/821c4e08-67d1-481f-9cfd-513a433844f1_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902103000 +0530" stop="20260902110000 +0530">
+    <title>Yuva</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/340e6d47-668c-474d-b45d-8c664c7b9700_ETVAP_Yuva_95660.jpg" />
+    <desc>Youth are offered a platform for a healthy exchange of views and opinions on the latest development and policies for them.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902110000 +0530" stop="20260902113000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/84a9d760-2228-442a-aa1f-17c5c3e9846f_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902113000 +0530" stop="20260902120000 +0530">
+    <title>Idisangathi</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/b2fa0eae-94da-4918-a047-ef47545787a9_ETVAP_Idisangathi_4610.jpg" />
+    <desc>A magazine programme that takes up a set of contemporary issues in each episode and reports them in a comprehensive manner.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902120000 +0530" stop="20260902123000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/a932741a-ac5f-459b-abb9-b7953344f2ff_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902123000 +0530" stop="20260902130000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/603f741f-3e88-4c6b-86e5-dbab73f70808_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902130000 +0530" stop="20260902133000 +0530">
+    <title>ETV 360</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/8f7d7187-70df-4159-a2d2-f2a18e351509_ETVAP_ETV360_4609.jpg" />
+    <desc>The program offers a comprehensive view of news and events from various domains.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902133000 +0530" stop="20260902140000 +0530">
+    <title>ETV 360</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/1a0f2d5c-d061-41a6-b853-f9e96398f0e5_ETVAP_ETV360_4609.jpg" />
+    <desc>The program offers a comprehensive view of news and events from various domains.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902140000 +0530" stop="20260902143000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/77e626e2-6460-4f3b-9496-05ec29988043_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902143000 +0530" stop="20260902150000 +0530">
+    <title>Yuva</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/81cbac56-8aec-405e-93a7-808ad96f119e_ETVAP_Yuva_95660.jpg" />
+    <desc>Youth are offered a platform for a healthy exchange of views and opinions on the latest development and policies for them.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902150000 +0530" stop="20260902153000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/9cf46f99-4223-4940-a964-3f5f254c3124_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902153000 +0530" stop="20260902160000 +0530">
+    <title>Sukhibhava</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/42cef0cd-ce23-46cb-bb29-db5d0d3244b9_ETVAP_Sukhibhava_1482.jpg" />
+    <desc>This show focuses on raising health and hygiene awareness among people and informing them of the best of medicinal uses.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902160000 +0530" stop="20260902163000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/df6f4046-28ba-430d-b3a2-3cee9d102dce_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902163000 +0530" stop="20260902170000 +0530">
+    <title>Idisangathi</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/66688378-0198-4deb-85f7-d73eee1805da_ETVAP_Idisangathi_4610.jpg" />
+    <desc>A magazine programme that takes up a set of contemporary issues in each episode and reports them in a comprehensive manner.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902170000 +0530" stop="20260902173000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/6f499bf6-a60a-460d-ad05-a1c1185e60a1_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902173000 +0530" stop="20260902180000 +0530">
+    <title>Ground Report</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/5f80ab99-803d-4340-b16e-5f4ed0de7b18_ETVAP_GroundReport_2077285.jpg" />
+    <desc>An informative news presentation delivering detailed field coverage, public perspectives and factual reporting on important social, political and regional developments affecting communities.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902180000 +0530" stop="20260902183000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/3e60e7f6-d739-47e8-a4c7-0b2779bdf744_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902183000 +0530" stop="20260902190000 +0530">
+    <title>Annadatha</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/5524f2dd-9620-4cfb-a79d-c9fb057ed969_ETVAP_Annadatha_1156136.jpg" />
+    <desc>This show delivers easy Telugu recipes for a variety of dishes, guiding beginners with clear tips and helping viewers cook tasty, authentic meals at home today.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902190000 +0530" stop="20260902193000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/f4b60bc8-5cf0-4ae3-abee-9c361edf04ec_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902193000 +0530" stop="20260902200000 +0530">
+    <title>Prathidwani</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/7cb6752f-e047-4a76-9f58-63b264b767e0_ETVAP_Prathidwani_1030797.jpg" />
+    <desc>Pratidhwani follows two brothers, one robber and one police inspector, seeking their family's killer, where love and reunion drive a plan ending in justice.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902200000 +0530" stop="20260902203000 +0530">
+    <title>ETV 360</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/6bfa3bc8-05e2-4dc9-8908-504f1191a79a_ETVAP_ETV360_4609.jpg" />
+    <desc>The program offers a comprehensive view of news and events from various domains.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902203000 +0530" stop="20260902210000 +0530">
+    <title>ETV 360</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/c19ee136-c8cb-4761-8886-71eb470bc76c_ETVAP_ETV360_4609.jpg" />
+    <desc>The program offers a comprehensive view of news and events from various domains.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902210000 +0530" stop="20260902213000 +0530">
+    <title>Yuva</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/be123bd7-bcf8-438b-b3b8-b663e921558b_ETVAP_Yuva_95660.jpg" />
+    <desc>Youth are offered a platform for a healthy exchange of views and opinions on the latest development and policies for them.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902213000 +0530" stop="20260902220000 +0530">
+    <title>Idisangathi</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/65f416ea-dc50-4c68-b56c-cf0254a63f4d_ETVAP_Idisangathi_4610.jpg" />
+    <desc>A magazine programme that takes up a set of contemporary issues in each episode and reports them in a comprehensive manner.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902220000 +0530" stop="20260902223000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/5f90faeb-56c8-4245-82ac-704a3da2e5a1_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902223000 +0530" stop="20260902230000 +0530">
+    <title>Neralu Ghoralu</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/26c3400a-6d71-43e0-96f8-80b0710a0245_ETVAP_NeraluGhoralu_1946752.jpg" />
+    <desc>A crime-based show hosted by Nutan Prasad, where suspense, investigation, and justice unfold through gripping stories that keep viewers hooked.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902230000 +0530" stop="20260902232000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/adb2e3ba-29d5-437f-9f0c-7c06cbabb0d8_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902232000 +0530" stop="20260902233000 +0530">
+    <title>Hearing Impaired News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/9ddaf80b-5d19-4f82-b86d-0976aa73e294_ETVAP_HearingImpairedNews_985959.jpg" />
+    <desc>The host presents the latest political and socio-economic news and updates from India and around the world in sign language.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260902</date>
+  </programme>
+  <programme channel="141134" start="20260902233000 +0530" stop="20260903000000 +0530">
+    <title>Idisangathi</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/2053d836-1120-4052-8015-abe5d0495217_ETVAP_Idisangathi_4610.jpg" />
+    <desc>A magazine programme that takes up a set of contemporary issues in each episode and reports them in a comprehensive manner.</desc>
+    <language>Telugu</language>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
@@ -21656,444 +21926,174 @@
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141134" start="20260902000000 +0530" stop="20260902003000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/8a3bbfce-aa64-482a-a25d-3d7a9a50d051_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+  <programme channel="141135" start="20260902010000 +0530" stop="20260902020000 +0530">
+    <title>Hits Hungama</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/9e977942-7bb9-4cd8-ad6e-8bddf5b0fc99_ETVAbhiruchi_HitsHungama_2130524.jpg" />
+    <desc>Hits Hungama</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141134" start="20260902003000 +0530" stop="20260902010000 +0530">
-    <title>Neralu Ghoralu</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/f6da38b9-cbf1-4ef1-a443-9fb6d525c37b_ETVAP_NeraluGhoralu_1946752.jpg" />
-    <desc>A crime-based show hosted by Nutan Prasad, where suspense, investigation, and justice unfold through gripping stories that keep viewers hooked.</desc>
+  <programme channel="141135" start="20260902020000 +0530" stop="20260902030000 +0530">
+    <title>Saragalu</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/400e268f-7b9b-4262-8e4a-f61be0663a00_ETVAbhiruchi_Saragalu_2130531.jpg" />
+    <desc>Saragalu</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141134" start="20260902010000 +0530" stop="20260902013000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/ae0d332b-3b27-485a-b285-3bc410d43096_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+  <programme channel="141135" start="20260902030000 +0530" stop="20260902050000 +0530">
+    <title>Aamani..Padave..Hayiga</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/e0e29223-b3b1-4fec-9220-36f8f8739299_ETVAbhiruchi_AamaniPadaveHayiga_2130522.jpg" />
+    <desc>Aamani..Padave..Hayiga</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141134" start="20260902013000 +0530" stop="20260902020000 +0530">
-    <title>Ground Report</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/56471e29-267b-4156-9f37-501a60ba928d_ETVAP_GroundReport_2077285.jpg" />
-    <desc>An informative news presentation delivering detailed field coverage, public perspectives and factual reporting on important social, political and regional developments affecting communities.</desc>
+  <programme channel="141135" start="20260902050000 +0530" stop="20260902060000 +0530">
+    <title>Neerajanam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/c5b87e32-45d9-43a3-8dbb-f73ca6c89edc_ETVMusic_Neerajanam_2130528.jpg" />
+    <desc>Neerajanam</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141134" start="20260902020000 +0530" stop="20260902023000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/2214663b-8f2a-415b-88fb-b8608414e8fe_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+  <programme channel="141135" start="20260902060000 +0530" stop="20260902070000 +0530">
+    <title>Saragalu</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/f18d053c-f440-40ae-9f67-72da919d2aef_ETVAbhiruchi_Saragalu_2130531.jpg" />
+    <desc>Saragalu</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141134" start="20260902023000 +0530" stop="20260902030000 +0530">
-    <title>Sukhibhava</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/edc8fb44-e954-48c1-bdb2-46e54970bb69_ETVAP_Sukhibhava_1482.jpg" />
-    <desc>This show focuses on raising health and hygiene awareness among people and informing them of the best of medicinal uses.</desc>
+  <programme channel="141135" start="20260902070000 +0530" stop="20260902090000 +0530">
+    <title>Meeku Prematho</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/90f12b1b-e797-4cf7-977b-6c824275e601_ETVMusic_MeekuPrematho_2130526.jpg" />
+    <desc>Meeku Prematho</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141134" start="20260902030000 +0530" stop="20260902033000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/89b2d2a5-0d6e-4a55-a411-7c07e1392faa_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+  <programme channel="141135" start="20260902090000 +0530" stop="20260902100000 +0530">
+    <title>Hits Hungama</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/b8b9e40c-17eb-4261-af19-83abdd7f100d_ETVAbhiruchi_HitsHungama_2130524.jpg" />
+    <desc>Hits Hungama</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141134" start="20260902033000 +0530" stop="20260902040000 +0530">
-    <title>Yuva</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/30b27241-01d4-4ab5-a866-73576d6518e6_ETVAP_Yuva_95660.jpg" />
-    <desc>Youth are offered a platform for a healthy exchange of views and opinions on the latest development and policies for them.</desc>
+  <programme channel="141135" start="20260902100000 +0530" stop="20260902120000 +0530">
+    <title>Viraamam Ledhu Guru</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/ea2433f6-be5c-45c7-a4c2-1fdd76cd2498_ETVAbhiruchi_ViraamamLedhuGuru_2130533.jpg" />
+    <desc>Viraamam Ledhu Guru</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141134" start="20260902040000 +0530" stop="20260902043000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/0e0fc605-b576-4ed8-8157-4696a98008b0_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+  <programme channel="141135" start="20260902120000 +0530" stop="20260902130000 +0530">
+    <title>Dilse</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/7b0efe60-5fab-40d5-9e65-4ce6ae250443_ETVAbhiruchi_Dilse_2130523.jpg" />
+    <desc>Dilse</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141134" start="20260902043000 +0530" stop="20260902050000 +0530">
-    <title>Idisangathi</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/6076bf37-3070-4c3e-9191-1f663c976d9a_ETVAP_Idisangathi_4610.jpg" />
-    <desc>A magazine programme that takes up a set of contemporary issues in each episode and reports them in a comprehensive manner.</desc>
+  <programme channel="141135" start="20260902130000 +0530" stop="20260902140000 +0530">
+    <title>Padutha Teeyaga</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/c8f98d9f-7900-43d5-a7cf-621db4f14439_ETVAbhiruchi_PaduthaTeeyaga_2130529.jpg" />
+    <desc>Padutha Teeyaga</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141134" start="20260902050000 +0530" stop="20260902053000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/6d29a00e-0c36-470a-9ba3-74bd854f7278_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+  <programme channel="141135" start="20260902140000 +0530" stop="20260902143000 +0530">
+    <title>Ragam Thanam Pallavi</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/d3148ffc-6f20-42bb-b2ea-c5bd47c8f9fb_ETVAbhiruchi_RagamThanamPallavi_2130530.jpg" />
+    <desc>Ragam Thanam Pallavi</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141134" start="20260902053000 +0530" stop="20260902060000 +0530">
-    <title>Sukhibhava</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/4870e30d-898e-48dd-a330-7383a21f11c9_ETVAP_Sukhibhava_1482.jpg" />
-    <desc>This show focuses on raising health and hygiene awareness among people and informing them of the best of medicinal uses.</desc>
+  <programme channel="141135" start="20260902143000 +0530" stop="20260902163000 +0530">
+    <title>Aamani..Padave..Hayiga</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/9dc75ad3-ebaf-4d5a-998c-7d6be1b29b9e_ETVAbhiruchi_AamaniPadaveHayiga_2130522.jpg" />
+    <desc>Aamani..Padave..Hayiga</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141134" start="20260902060000 +0530" stop="20260902063000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/28ee096f-8629-4a94-b2e1-6dfffdd20bec_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+  <programme channel="141135" start="20260902163000 +0530" stop="20260902173000 +0530">
+    <title>Hits Hungama</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/ea3c37a9-6cfb-4d96-b5e7-1d0e0ab63d3a_ETVAbhiruchi_HitsHungama_2130524.jpg" />
+    <desc>Hits Hungama</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141134" start="20260902063000 +0530" stop="20260902070000 +0530">
-    <title>Prarthana Samayam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/80918859-c902-46e9-953f-c494cf560a3f_ETVAP_PrarthanaSamayam_1479.jpg" />
-    <desc>This is a sponsored programme which features religious sermons. It includes the testimonies about the miracles of Jesus.</desc>
+  <programme channel="141135" start="20260902173000 +0530" stop="20260902183000 +0530">
+    <title>Music Magic</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/e55113d0-72c8-44f4-8a26-5ba238a56ead_ETVAbhiruchi_MusicMagic_2130527.jpg" />
+    <desc>Music Magic</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141134" start="20260902070000 +0530" stop="20260902073000 +0530">
-    <title>Idisangathi</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/9c8cc493-81d3-48d9-a430-53dddd1acbda_ETVAP_Idisangathi_4610.jpg" />
-    <desc>A magazine programme that takes up a set of contemporary issues in each episode and reports them in a comprehensive manner.</desc>
+  <programme channel="141135" start="20260902183000 +0530" stop="20260902193000 +0530">
+    <title>Dilse</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/2f79969e-714b-4694-ab45-2bcb28d1de9e_ETVAbhiruchi_Dilse_2130523.jpg" />
+    <desc>Dilse</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141134" start="20260902073000 +0530" stop="20260902080000 +0530">
-    <title>ETV 360</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/86b743a4-8da8-471e-98f1-7d520702d1f4_ETVAP_ETV360_4609.jpg" />
-    <desc>The program offers a comprehensive view of news and events from various domains.</desc>
+  <programme channel="141135" start="20260902193000 +0530" stop="20260902213000 +0530">
+    <title>Swarabhishekam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/2500d7d0-fbbb-469e-845d-d9c2733f7787_ETVAbhiruchi_Swarabhishekam_2130532.jpg" />
+    <desc>Swarabhishekam</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141134" start="20260902080000 +0530" stop="20260902083000 +0530">
-    <title>ETV 360</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/7edf19ef-487e-4774-8e1d-87b61c292352_ETVAP_ETV360_4609.jpg" />
-    <desc>The program offers a comprehensive view of news and events from various domains.</desc>
+  <programme channel="141135" start="20260902213000 +0530" stop="20260902220000 +0530">
+    <title>Ragam Thanam Pallavi</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/d52d6353-b7f0-486b-8b16-663a95806b92_ETVAbhiruchi_RagamThanamPallavi_2130530.jpg" />
+    <desc>Ragam Thanam Pallavi</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141134" start="20260902083000 +0530" stop="20260902090000 +0530">
-    <title>Neralu Ghoralu</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/e5614508-0b18-432a-b9bb-dced15e5106d_ETVAP_NeraluGhoralu_1946752.jpg" />
-    <desc>A crime-based show hosted by Nutan Prasad, where suspense, investigation, and justice unfold through gripping stories that keep viewers hooked.</desc>
+  <programme channel="141135" start="20260902220000 +0530" stop="20260902230000 +0530">
+    <title>Saragalu</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/80c7f6c9-3a56-4be7-b2c2-dbbb33486926_ETVAbhiruchi_Saragalu_2130531.jpg" />
+    <desc>Saragalu</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
-  <programme channel="141134" start="20260902090000 +0530" stop="20260902093000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/2ef3347b-5414-412a-9e25-bfd5d2ce8222_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+  <programme channel="141135" start="20260902230000 +0530" stop="20260903010000 +0530">
+    <title>Viraamam Ledhu Guru</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/a1609fed-f1bb-4e08-8a41-178bbb27c365_ETVAbhiruchi_ViraamamLedhuGuru_2130533.jpg" />
+    <desc>Viraamam Ledhu Guru</desc>
     <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902093000 +0530" stop="20260902100000 +0530">
-    <title>Sukhibhava</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/c7678d9a-557c-4cb3-94f9-79f0d0b18715_ETVAP_Sukhibhava_1482.jpg" />
-    <desc>This show focuses on raising health and hygiene awareness among people and informing them of the best of medicinal uses.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902100000 +0530" stop="20260902103000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/e21f4e0f-1db0-469c-ba86-1738f08ad0d3_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902103000 +0530" stop="20260902110000 +0530">
-    <title>Yuva</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/a161c686-fbc1-4cb4-92b0-dd6b843f435a_ETVAP_Yuva_95660.jpg" />
-    <desc>Youth are offered a platform for a healthy exchange of views and opinions on the latest development and policies for them.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902110000 +0530" stop="20260902113000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/1fbbd4db-8885-4bee-8ec4-f9a11933468d_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902113000 +0530" stop="20260902120000 +0530">
-    <title>Idisangathi</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/fe39038b-ddac-46eb-9047-1341da834b88_ETVAP_Idisangathi_4610.jpg" />
-    <desc>A magazine programme that takes up a set of contemporary issues in each episode and reports them in a comprehensive manner.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902120000 +0530" stop="20260902123000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/536182d3-16ae-41b5-b7f6-a9bb1a3c5b1d_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902123000 +0530" stop="20260902130000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/99e23c13-b609-406f-8929-6ac439bde95a_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902130000 +0530" stop="20260902133000 +0530">
-    <title>ETV 360</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/a506a61d-9666-46eb-9e29-9bbb68ee843d_ETVAP_ETV360_4609.jpg" />
-    <desc>The program offers a comprehensive view of news and events from various domains.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902133000 +0530" stop="20260902140000 +0530">
-    <title>ETV 360</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/c96718b1-632c-49ed-a710-1655f6e0ea2e_ETVAP_ETV360_4609.jpg" />
-    <desc>The program offers a comprehensive view of news and events from various domains.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902140000 +0530" stop="20260902143000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/5ec6b80f-8e3e-457f-9087-3eeda0641280_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902143000 +0530" stop="20260902150000 +0530">
-    <title>Yuva</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/c3bdf512-3060-479b-92c6-8b02733415f1_ETVAP_Yuva_95660.jpg" />
-    <desc>Youth are offered a platform for a healthy exchange of views and opinions on the latest development and policies for them.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902150000 +0530" stop="20260902153000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/226c7878-06c3-4971-95a5-ba556e9f0341_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902153000 +0530" stop="20260902160000 +0530">
-    <title>Sukhibhava</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/3e93d7c3-10f3-4638-8e91-e18d353ac918_ETVAP_Sukhibhava_1482.jpg" />
-    <desc>This show focuses on raising health and hygiene awareness among people and informing them of the best of medicinal uses.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902160000 +0530" stop="20260902163000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/3769998b-afec-46bd-abb4-0aeeea8d6707_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902163000 +0530" stop="20260902170000 +0530">
-    <title>Idisangathi</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/edbd6806-087a-4280-a1f9-bad96f34c80f_ETVAP_Idisangathi_4610.jpg" />
-    <desc>A magazine programme that takes up a set of contemporary issues in each episode and reports them in a comprehensive manner.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902170000 +0530" stop="20260902173000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/adacc3c0-b989-4cf1-8518-fc861b6741fb_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902173000 +0530" stop="20260902180000 +0530">
-    <title>Ground Report</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/46904cbf-9104-475d-ac1d-c382cec6366c_ETVAP_GroundReport_2077285.jpg" />
-    <desc>An informative news presentation delivering detailed field coverage, public perspectives and factual reporting on important social, political and regional developments affecting communities.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902180000 +0530" stop="20260902183000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/7bf341db-4dc4-4d78-b1e3-f0510142b3a8_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902183000 +0530" stop="20260902190000 +0530">
-    <title>Annadatha</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/0ddac296-d1f0-48e4-bc8c-3fdb486c4fec_ETVAP_Annadatha_1156136.jpg" />
-    <desc>This show delivers easy Telugu recipes for a variety of dishes, guiding beginners with clear tips and helping viewers cook tasty, authentic meals at home today.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902190000 +0530" stop="20260902193000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/7271e51b-3399-480a-ae29-3144da79fce0_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902193000 +0530" stop="20260902200000 +0530">
-    <title>Prathidwani</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/36c3eb1a-164a-4ce5-9a01-6e4f7ebb351a_ETVAP_Prathidwani_1030797.jpg" />
-    <desc>Pratidhwani follows two brothers, one robber and one police inspector, seeking their family's killer, where love and reunion drive a plan ending in justice.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902200000 +0530" stop="20260902203000 +0530">
-    <title>ETV 360</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/078c657b-053e-4456-ab7f-54b28ba6d31d_ETVAP_ETV360_4609.jpg" />
-    <desc>The program offers a comprehensive view of news and events from various domains.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902203000 +0530" stop="20260902210000 +0530">
-    <title>ETV 360</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/322aa1f9-7e9b-4676-bee8-67787ce512e8_ETVAP_ETV360_4609.jpg" />
-    <desc>The program offers a comprehensive view of news and events from various domains.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902210000 +0530" stop="20260902213000 +0530">
-    <title>Yuva</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/7ddd9f81-5b00-4514-b810-d1e5535f2a99_ETVAP_Yuva_95660.jpg" />
-    <desc>Youth are offered a platform for a healthy exchange of views and opinions on the latest development and policies for them.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902213000 +0530" stop="20260902220000 +0530">
-    <title>Idisangathi</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/c727cfbc-901b-455e-a3d7-7255a8daf087_ETVAP_Idisangathi_4610.jpg" />
-    <desc>A magazine programme that takes up a set of contemporary issues in each episode and reports them in a comprehensive manner.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902220000 +0530" stop="20260902223000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/af5874ea-c009-4209-8deb-5190e7c7edf4_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902223000 +0530" stop="20260902230000 +0530">
-    <title>Neralu Ghoralu</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/5702078e-5ffb-48f2-bd65-01139b043331_ETVAP_NeraluGhoralu_1946752.jpg" />
-    <desc>A crime-based show hosted by Nutan Prasad, where suspense, investigation, and justice unfold through gripping stories that keep viewers hooked.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902230000 +0530" stop="20260902232000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/36828126-fe82-465a-bcb9-4410d95383be_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902232000 +0530" stop="20260902233000 +0530">
-    <title>Hearing Impaired News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/ed905e85-7732-41a0-80c9-c596365123b9_ETVAP_HearingImpairedNews_985959.jpg" />
-    <desc>The host presents the latest political and socio-economic news and updates from India and around the world in sign language.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260902</date>
-  </programme>
-  <programme channel="141134" start="20260902233000 +0530" stop="20260903000000 +0530">
-    <title>Idisangathi</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/63cdb0e4-ea26-41c1-8773-e6a7c78d8f92_ETVAP_Idisangathi_4610.jpg" />
-    <desc>A magazine programme that takes up a set of contemporary issues in each episode and reports them in a comprehensive manner.</desc>
-    <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260902</date>
   </programme>
@@ -140213,174 +140213,444 @@
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141135" start="20260903010000 +0530" stop="20260903020000 +0530">
-    <title>Hits Hungama</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/0f98972e-c8fd-4969-9444-0c2b73cff031_ETVAbhiruchi_HitsHungama_2130524.jpg" />
-    <desc>Hits Hungama</desc>
+  <programme channel="141134" start="20260903000000 +0530" stop="20260903003000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/034112e4-8e3d-418e-a13c-e40caf30b7d0_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141135" start="20260903020000 +0530" stop="20260903030000 +0530">
-    <title>Saragalu</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/a6d67a92-1ce0-48c9-9e6b-14fcaacf32f6_ETVAbhiruchi_Saragalu_2130531.jpg" />
-    <desc>Saragalu</desc>
+  <programme channel="141134" start="20260903003000 +0530" stop="20260903010000 +0530">
+    <title>Neralu Ghoralu</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/0ba612c7-56dc-4cf9-a72d-7079cc74653d_ETVAP_NeraluGhoralu_1946752.jpg" />
+    <desc>A crime-based show hosted by Nutan Prasad, where suspense, investigation, and justice unfold through gripping stories that keep viewers hooked.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141135" start="20260903030000 +0530" stop="20260903050000 +0530">
-    <title>Aamani..Padave..Hayiga</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/03a20c4c-f40e-448e-856e-285d28c5cb16_ETVAbhiruchi_AamaniPadaveHayiga_2130522.jpg" />
-    <desc>Aamani..Padave..Hayiga</desc>
+  <programme channel="141134" start="20260903010000 +0530" stop="20260903013000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/cc831931-1b69-4cdd-9ae0-f2ebd12763dd_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141135" start="20260903050000 +0530" stop="20260903060000 +0530">
-    <title>Neerajanam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/4d201cb8-0018-4461-8242-53bf1008f84e_ETVMusic_Neerajanam_2130528.jpg" />
-    <desc>Neerajanam</desc>
+  <programme channel="141134" start="20260903013000 +0530" stop="20260903020000 +0530">
+    <title>Ground Report</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/77e9d483-26e9-4e11-93e7-493b7e7db4fb_ETVAP_GroundReport_2077285.jpg" />
+    <desc>An informative news presentation delivering detailed field coverage, public perspectives and factual reporting on important social, political and regional developments affecting communities.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141135" start="20260903060000 +0530" stop="20260903070000 +0530">
-    <title>Saragalu</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/9576a0b3-72f8-4e81-8d2b-7f45317c5ad1_ETVAbhiruchi_Saragalu_2130531.jpg" />
-    <desc>Saragalu</desc>
+  <programme channel="141134" start="20260903020000 +0530" stop="20260903023000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/655eb321-6198-40b4-94af-cd831c5a7e48_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141135" start="20260903070000 +0530" stop="20260903090000 +0530">
-    <title>Meeku Prematho</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/dd518e77-04e2-4c40-b72c-a21a0ed61437_ETVMusic_MeekuPrematho_2130526.jpg" />
-    <desc>Meeku Prematho</desc>
+  <programme channel="141134" start="20260903023000 +0530" stop="20260903030000 +0530">
+    <title>Sukhibhava</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/fbc0619e-173a-4953-995f-f45ba9440c8b_ETVAP_Sukhibhava_1482.jpg" />
+    <desc>This show focuses on raising health and hygiene awareness among people and informing them of the best of medicinal uses.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141135" start="20260903090000 +0530" stop="20260903100000 +0530">
-    <title>Hits Hungama</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/673477b7-b251-4a62-8822-ac672ad0cf6e_ETVAbhiruchi_HitsHungama_2130524.jpg" />
-    <desc>Hits Hungama</desc>
+  <programme channel="141134" start="20260903030000 +0530" stop="20260903033000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/f07c930e-6b84-4ba2-afaf-8d707485d847_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141135" start="20260903100000 +0530" stop="20260903120000 +0530">
-    <title>Viraamam Ledhu Guru</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/35499225-fe2a-4c8c-95e8-463e4dd3fdc7_ETVAbhiruchi_ViraamamLedhuGuru_2130533.jpg" />
-    <desc>Viraamam Ledhu Guru</desc>
+  <programme channel="141134" start="20260903033000 +0530" stop="20260903040000 +0530">
+    <title>Yuva</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/20de9535-44bb-4293-8867-d3a9f1fc9df2_ETVAP_Yuva_95660.jpg" />
+    <desc>Youth are offered a platform for a healthy exchange of views and opinions on the latest development and policies for them.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141135" start="20260903120000 +0530" stop="20260903130000 +0530">
-    <title>Dilse</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/81d2107b-de31-41c2-8494-57142ba172b1_ETVAbhiruchi_Dilse_2130523.jpg" />
-    <desc>Dilse</desc>
+  <programme channel="141134" start="20260903040000 +0530" stop="20260903043000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/4305b9b0-9e61-47e8-aefd-8eb3134d017b_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141135" start="20260903130000 +0530" stop="20260903140000 +0530">
-    <title>Padutha Teeyaga</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/2531b8bf-d434-4a16-b99f-49a88d92f833_ETVAbhiruchi_PaduthaTeeyaga_2130529.jpg" />
-    <desc>Padutha Teeyaga</desc>
+  <programme channel="141134" start="20260903043000 +0530" stop="20260903050000 +0530">
+    <title>Idisangathi</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/a536f806-08bd-4c61-ae45-550259e122ff_ETVAP_Idisangathi_4610.jpg" />
+    <desc>A magazine programme that takes up a set of contemporary issues in each episode and reports them in a comprehensive manner.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141135" start="20260903140000 +0530" stop="20260903143000 +0530">
-    <title>Ragam Thanam Pallavi</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/71f5c47f-cc04-42ad-8480-6598a977800b_ETVAbhiruchi_RagamThanamPallavi_2130530.jpg" />
-    <desc>Ragam Thanam Pallavi</desc>
+  <programme channel="141134" start="20260903050000 +0530" stop="20260903053000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/6f16ac54-f55e-48bd-9739-b677de5f2fd4_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141135" start="20260903143000 +0530" stop="20260903163000 +0530">
-    <title>Aamani..Padave..Hayiga</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/ebb1584a-b3c6-484b-8167-46a79a26ac95_ETVAbhiruchi_AamaniPadaveHayiga_2130522.jpg" />
-    <desc>Aamani..Padave..Hayiga</desc>
+  <programme channel="141134" start="20260903053000 +0530" stop="20260903060000 +0530">
+    <title>Sukhibhava</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/1ba1ab38-1e22-4e75-8b67-608146fe80c3_ETVAP_Sukhibhava_1482.jpg" />
+    <desc>This show focuses on raising health and hygiene awareness among people and informing them of the best of medicinal uses.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141135" start="20260903163000 +0530" stop="20260903173000 +0530">
-    <title>Hits Hungama</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/5c2e92c8-8374-4b97-8179-a90ca132035c_ETVAbhiruchi_HitsHungama_2130524.jpg" />
-    <desc>Hits Hungama</desc>
+  <programme channel="141134" start="20260903060000 +0530" stop="20260903063000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/822587f4-4656-4c47-a993-abe942414f63_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141135" start="20260903173000 +0530" stop="20260903183000 +0530">
-    <title>Music Magic</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/14c0b122-0a14-4595-a831-763379e87b64_ETVAbhiruchi_MusicMagic_2130527.jpg" />
-    <desc>Music Magic</desc>
+  <programme channel="141134" start="20260903063000 +0530" stop="20260903070000 +0530">
+    <title>Prarthana Samayam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/d21d1ee7-c0d4-4db9-a08c-111d49a622ef_ETVAP_PrarthanaSamayam_1479.jpg" />
+    <desc>This is a sponsored programme which features religious sermons. It includes the testimonies about the miracles of Jesus.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141135" start="20260903183000 +0530" stop="20260903193000 +0530">
-    <title>Dilse</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/50dcbd78-68a6-4d1f-a905-a1f584e895eb_ETVAbhiruchi_Dilse_2130523.jpg" />
-    <desc>Dilse</desc>
+  <programme channel="141134" start="20260903070000 +0530" stop="20260903073000 +0530">
+    <title>Idisangathi</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/c9804078-2012-40ef-9c06-1071dab5aa62_ETVAP_Idisangathi_4610.jpg" />
+    <desc>A magazine programme that takes up a set of contemporary issues in each episode and reports them in a comprehensive manner.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141135" start="20260903193000 +0530" stop="20260903213000 +0530">
-    <title>Swarabhishekam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/04cf84a5-d818-4cba-8d2c-cf472bee0323_ETVAbhiruchi_Swarabhishekam_2130532.jpg" />
-    <desc>Swarabhishekam</desc>
+  <programme channel="141134" start="20260903073000 +0530" stop="20260903080000 +0530">
+    <title>ETV 360</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/7002ebad-af6c-415c-b528-38961b253558_ETVAP_ETV360_4609.jpg" />
+    <desc>The program offers a comprehensive view of news and events from various domains.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141135" start="20260903213000 +0530" stop="20260903220000 +0530">
-    <title>Ragam Thanam Pallavi</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/2f27653b-ead8-406e-b740-bb2038024fdd_ETVAbhiruchi_RagamThanamPallavi_2130530.jpg" />
-    <desc>Ragam Thanam Pallavi</desc>
+  <programme channel="141134" start="20260903080000 +0530" stop="20260903083000 +0530">
+    <title>ETV 360</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/fe5805b7-748b-47f1-afc1-6bb7656fdb13_ETVAP_ETV360_4609.jpg" />
+    <desc>The program offers a comprehensive view of news and events from various domains.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141135" start="20260903220000 +0530" stop="20260903230000 +0530">
-    <title>Saragalu</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/3f911772-e6a5-4859-8ed9-2cb84f0930a0_ETVAbhiruchi_Saragalu_2130531.jpg" />
-    <desc>Saragalu</desc>
+  <programme channel="141134" start="20260903083000 +0530" stop="20260903090000 +0530">
+    <title>Neralu Ghoralu</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/637f963c-cfbc-4f39-b763-1eeb5bbaa47f_ETVAP_NeraluGhoralu_1946752.jpg" />
+    <desc>A crime-based show hosted by Nutan Prasad, where suspense, investigation, and justice unfold through gripping stories that keep viewers hooked.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141135" start="20260903230000 +0530" stop="20260904010000 +0530">
-    <title>Viraamam Ledhu Guru</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/c68a614e-329e-44f8-a7ac-9ccbc2fba54d_ETVAbhiruchi_ViraamamLedhuGuru_2130533.jpg" />
-    <desc>Viraamam Ledhu Guru</desc>
+  <programme channel="141134" start="20260903090000 +0530" stop="20260903093000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/088bf481-0ada-40f5-a586-6e83600f104d_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
     <language>Telugu</language>
-    <category>Entertainment</category>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903093000 +0530" stop="20260903100000 +0530">
+    <title>Sukhibhava</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/96ec098d-cf49-49df-a531-db36a3a0145d_ETVAP_Sukhibhava_1482.jpg" />
+    <desc>This show focuses on raising health and hygiene awareness among people and informing them of the best of medicinal uses.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903100000 +0530" stop="20260903103000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/59bd821d-daba-480b-85aa-a68ed40884bc_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903103000 +0530" stop="20260903110000 +0530">
+    <title>Yuva</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/03a539a8-592d-4919-bada-b0648f244ebd_ETVAP_Yuva_95660.jpg" />
+    <desc>Youth are offered a platform for a healthy exchange of views and opinions on the latest development and policies for them.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903110000 +0530" stop="20260903113000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/2f937393-ebf7-4ce2-9486-bfcb86e22332_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903113000 +0530" stop="20260903120000 +0530">
+    <title>Idisangathi</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/0825653c-04b4-4046-9af2-ec4c9b3b1a1a_ETVAP_Idisangathi_4610.jpg" />
+    <desc>A magazine programme that takes up a set of contemporary issues in each episode and reports them in a comprehensive manner.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903120000 +0530" stop="20260903123000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/dbed4b4d-c4a1-489d-ba8d-2aac2e7af105_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903123000 +0530" stop="20260903130000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/1e7111ae-2d43-4e5c-8653-ca241c83ad0c_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903130000 +0530" stop="20260903133000 +0530">
+    <title>ETV 360</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/ad93f56d-40d0-45ff-a776-7dd198b4a282_ETVAP_ETV360_4609.jpg" />
+    <desc>The program offers a comprehensive view of news and events from various domains.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903133000 +0530" stop="20260903140000 +0530">
+    <title>ETV 360</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/523faa05-afd2-4452-9fe1-6b63f0d2df14_ETVAP_ETV360_4609.jpg" />
+    <desc>The program offers a comprehensive view of news and events from various domains.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903140000 +0530" stop="20260903143000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/eb2ba5b9-b436-4d53-8dae-0924b613150f_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903143000 +0530" stop="20260903150000 +0530">
+    <title>Yuva</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/06ac0a49-3add-4fe2-b178-8ccc5c122ffc_ETVAP_Yuva_95660.jpg" />
+    <desc>Youth are offered a platform for a healthy exchange of views and opinions on the latest development and policies for them.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903150000 +0530" stop="20260903153000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/3539d658-2689-407a-8ceb-ba52092a98d3_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903153000 +0530" stop="20260903160000 +0530">
+    <title>Sukhibhava</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/50db5c27-be5a-41f0-8d73-7188b0ef2b22_ETVAP_Sukhibhava_1482.jpg" />
+    <desc>This show focuses on raising health and hygiene awareness among people and informing them of the best of medicinal uses.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903160000 +0530" stop="20260903163000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/48761677-6ce0-4b15-bcd9-701505258db4_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903163000 +0530" stop="20260903170000 +0530">
+    <title>Idisangathi</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/744d8143-793e-42d2-856b-d67c7175dd3c_ETVAP_Idisangathi_4610.jpg" />
+    <desc>A magazine programme that takes up a set of contemporary issues in each episode and reports them in a comprehensive manner.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903170000 +0530" stop="20260903173000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/b80b25b9-4009-4d2b-86cf-87d21f1c9b68_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903173000 +0530" stop="20260903180000 +0530">
+    <title>Ground Report</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/1eb0176c-8d58-497a-9d9e-838c6fbc28e3_ETVAP_GroundReport_2077285.jpg" />
+    <desc>An informative news presentation delivering detailed field coverage, public perspectives and factual reporting on important social, political and regional developments affecting communities.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903180000 +0530" stop="20260903183000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/60c29ac3-d2d5-4328-897d-1fb894b46231_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903183000 +0530" stop="20260903190000 +0530">
+    <title>Annadatha</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/c16179e9-691c-44af-8d57-d82374adc800_ETVAP_Annadatha_1156136.jpg" />
+    <desc>This show delivers easy Telugu recipes for a variety of dishes, guiding beginners with clear tips and helping viewers cook tasty, authentic meals at home today.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903190000 +0530" stop="20260903193000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/082c9457-45ec-4dae-8b22-97f54de97ecf_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903193000 +0530" stop="20260903200000 +0530">
+    <title>Prathidwani</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/21a63ad2-13f9-41b2-9173-c0b14286941f_ETVAP_Prathidwani_1030797.jpg" />
+    <desc>Pratidhwani follows two brothers, one robber and one police inspector, seeking their family's killer, where love and reunion drive a plan ending in justice.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903200000 +0530" stop="20260903203000 +0530">
+    <title>ETV 360</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/172c0f02-2095-40aa-87c5-4120d8d0f889_ETVAP_ETV360_4609.jpg" />
+    <desc>The program offers a comprehensive view of news and events from various domains.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903203000 +0530" stop="20260903210000 +0530">
+    <title>ETV 360</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/d0fa65f4-e9ba-4db2-b05a-f136d866e205_ETVAP_ETV360_4609.jpg" />
+    <desc>The program offers a comprehensive view of news and events from various domains.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903210000 +0530" stop="20260903213000 +0530">
+    <title>Yuva</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/3008e4ce-9395-45c2-9bd0-7758ad2e1a57_ETVAP_Yuva_95660.jpg" />
+    <desc>Youth are offered a platform for a healthy exchange of views and opinions on the latest development and policies for them.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903213000 +0530" stop="20260903220000 +0530">
+    <title>Idisangathi</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/4c1401d1-62d8-407b-ade8-907a7d42de48_ETVAP_Idisangathi_4610.jpg" />
+    <desc>A magazine programme that takes up a set of contemporary issues in each episode and reports them in a comprehensive manner.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903220000 +0530" stop="20260903223000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/6a610d9d-2267-402f-a9ea-8f4be9de1c7c_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903223000 +0530" stop="20260903230000 +0530">
+    <title>Neralu Ghoralu</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/d15324c5-2ff9-4923-aece-83de24e37264_ETVAP_NeraluGhoralu_1946752.jpg" />
+    <desc>A crime-based show hosted by Nutan Prasad, where suspense, investigation, and justice unfold through gripping stories that keep viewers hooked.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903230000 +0530" stop="20260903232000 +0530">
+    <title>Ghantaravam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/8eb06dc3-f4f2-4a95-b1fc-43f8cb9727fd_ETVAP_Ghantaravam_1476.jpg" />
+    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903232000 +0530" stop="20260903233000 +0530">
+    <title>Hearing Impaired News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/bf620ec0-fe1c-4385-96dd-95488495aafb_ETVAP_HearingImpairedNews_985959.jpg" />
+    <desc>The host presents the latest political and socio-economic news and updates from India and around the world in sign language.</desc>
+    <language>Telugu</language>
+    <category>News</category>
+    <category>Telugu</category>
+    <date>20260903</date>
+  </programme>
+  <programme channel="141134" start="20260903233000 +0530" stop="20260904000000 +0530">
+    <title>Idisangathi</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/12b40161-b7fb-472a-8967-27c88bb4c176_ETVAP_Idisangathi_4610.jpg" />
+    <desc>A magazine programme that takes up a set of contemporary issues in each episode and reports them in a comprehensive manner.</desc>
+    <language>Telugu</language>
+    <category>News</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
@@ -145382,444 +145652,174 @@
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141134" start="20260903000000 +0530" stop="20260903003000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/32bfcbd8-59de-45aa-acb2-62837ba36dac_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+  <programme channel="141135" start="20260903010000 +0530" stop="20260903020000 +0530">
+    <title>Hits Hungama</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/00a94233-e193-46fa-afea-f3456be7afdf_ETVAbhiruchi_HitsHungama_2130524.jpg" />
+    <desc>Hits Hungama</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141134" start="20260903003000 +0530" stop="20260903010000 +0530">
-    <title>Neralu Ghoralu</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/65dfb870-e635-40c6-84e5-440c6e640666_ETVAP_NeraluGhoralu_1946752.jpg" />
-    <desc>A crime-based show hosted by Nutan Prasad, where suspense, investigation, and justice unfold through gripping stories that keep viewers hooked.</desc>
+  <programme channel="141135" start="20260903020000 +0530" stop="20260903030000 +0530">
+    <title>Saragalu</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/bb6217d3-aa44-4309-8e84-a4b64096b326_ETVAbhiruchi_Saragalu_2130531.jpg" />
+    <desc>Saragalu</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141134" start="20260903010000 +0530" stop="20260903013000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/11af888d-930c-4a4c-a8d2-788c56783e0c_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+  <programme channel="141135" start="20260903030000 +0530" stop="20260903050000 +0530">
+    <title>Aamani..Padave..Hayiga</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/89c2d77c-6281-4e80-9372-b39f361c97c3_ETVAbhiruchi_AamaniPadaveHayiga_2130522.jpg" />
+    <desc>Aamani..Padave..Hayiga</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141134" start="20260903013000 +0530" stop="20260903020000 +0530">
-    <title>Ground Report</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/76f41459-25f5-4513-b446-07b83cefe620_ETVAP_GroundReport_2077285.jpg" />
-    <desc>An informative news presentation delivering detailed field coverage, public perspectives and factual reporting on important social, political and regional developments affecting communities.</desc>
+  <programme channel="141135" start="20260903050000 +0530" stop="20260903060000 +0530">
+    <title>Neerajanam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/130d2125-6ef2-4eb3-a982-0a425b50f7e2_ETVMusic_Neerajanam_2130528.jpg" />
+    <desc>Neerajanam</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141134" start="20260903020000 +0530" stop="20260903023000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/4764aba0-77ef-4822-b236-d17f96b91d96_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+  <programme channel="141135" start="20260903060000 +0530" stop="20260903070000 +0530">
+    <title>Saragalu</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/58b0c5cd-d2ae-4c62-ba26-d8eecfde6179_ETVAbhiruchi_Saragalu_2130531.jpg" />
+    <desc>Saragalu</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141134" start="20260903023000 +0530" stop="20260903030000 +0530">
-    <title>Sukhibhava</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/61eeb419-d452-4bda-9f9e-a78b1c6cfce6_ETVAP_Sukhibhava_1482.jpg" />
-    <desc>This show focuses on raising health and hygiene awareness among people and informing them of the best of medicinal uses.</desc>
+  <programme channel="141135" start="20260903070000 +0530" stop="20260903090000 +0530">
+    <title>Meeku Prematho</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/62f442d8-a3b4-49a3-9818-f6cb942f2623_ETVMusic_MeekuPrematho_2130526.jpg" />
+    <desc>Meeku Prematho</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141134" start="20260903030000 +0530" stop="20260903033000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/85d55544-1384-4b44-a358-e514a031f0e5_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+  <programme channel="141135" start="20260903090000 +0530" stop="20260903100000 +0530">
+    <title>Hits Hungama</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/06815ef3-ae75-494c-9fe5-9d7870213a8c_ETVAbhiruchi_HitsHungama_2130524.jpg" />
+    <desc>Hits Hungama</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141134" start="20260903033000 +0530" stop="20260903040000 +0530">
-    <title>Yuva</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/abc9cde8-a495-4066-a731-6341b1a3181f_ETVAP_Yuva_95660.jpg" />
-    <desc>Youth are offered a platform for a healthy exchange of views and opinions on the latest development and policies for them.</desc>
+  <programme channel="141135" start="20260903100000 +0530" stop="20260903120000 +0530">
+    <title>Viraamam Ledhu Guru</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/21a79aed-4bdb-45cc-b95c-979da42e575f_ETVAbhiruchi_ViraamamLedhuGuru_2130533.jpg" />
+    <desc>Viraamam Ledhu Guru</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141134" start="20260903040000 +0530" stop="20260903043000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/894b9f26-3edf-42bc-8fd5-7eae89f64017_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+  <programme channel="141135" start="20260903120000 +0530" stop="20260903130000 +0530">
+    <title>Dilse</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/cba0aaaa-518e-42ac-adbc-67544596d669_ETVAbhiruchi_Dilse_2130523.jpg" />
+    <desc>Dilse</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141134" start="20260903043000 +0530" stop="20260903050000 +0530">
-    <title>Idisangathi</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/d805cd04-3231-4710-9a95-d3bfe98d1b68_ETVAP_Idisangathi_4610.jpg" />
-    <desc>A magazine programme that takes up a set of contemporary issues in each episode and reports them in a comprehensive manner.</desc>
+  <programme channel="141135" start="20260903130000 +0530" stop="20260903140000 +0530">
+    <title>Padutha Teeyaga</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/d75e9052-ec3d-45d6-a0d5-ca3ebcad6eac_ETVAbhiruchi_PaduthaTeeyaga_2130529.jpg" />
+    <desc>Padutha Teeyaga</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141134" start="20260903050000 +0530" stop="20260903053000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/6500603c-c1cc-4a0b-a29f-6b257c30c6c9_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+  <programme channel="141135" start="20260903140000 +0530" stop="20260903143000 +0530">
+    <title>Ragam Thanam Pallavi</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/e1599e7e-4e26-4f82-8ea6-33d6cfce89ae_ETVAbhiruchi_RagamThanamPallavi_2130530.jpg" />
+    <desc>Ragam Thanam Pallavi</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141134" start="20260903053000 +0530" stop="20260903060000 +0530">
-    <title>Sukhibhava</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/a9c1aee8-3ec3-46d4-b628-c40023c40980_ETVAP_Sukhibhava_1482.jpg" />
-    <desc>This show focuses on raising health and hygiene awareness among people and informing them of the best of medicinal uses.</desc>
+  <programme channel="141135" start="20260903143000 +0530" stop="20260903163000 +0530">
+    <title>Aamani..Padave..Hayiga</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/a10d803f-5fef-4b45-8e62-6a0366a6587a_ETVAbhiruchi_AamaniPadaveHayiga_2130522.jpg" />
+    <desc>Aamani..Padave..Hayiga</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141134" start="20260903060000 +0530" stop="20260903063000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/d5ed963f-3c80-4276-bc94-5330aa04791b_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+  <programme channel="141135" start="20260903163000 +0530" stop="20260903173000 +0530">
+    <title>Hits Hungama</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/6590dfc3-fbf5-4596-a6e3-178344c34b21_ETVAbhiruchi_HitsHungama_2130524.jpg" />
+    <desc>Hits Hungama</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141134" start="20260903063000 +0530" stop="20260903070000 +0530">
-    <title>Prarthana Samayam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/bd2b7f8d-955a-43c3-bdd4-c61a903dfb46_ETVAP_PrarthanaSamayam_1479.jpg" />
-    <desc>This is a sponsored programme which features religious sermons. It includes the testimonies about the miracles of Jesus.</desc>
+  <programme channel="141135" start="20260903173000 +0530" stop="20260903183000 +0530">
+    <title>Music Magic</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/9755e039-34d1-4dee-9b54-3ec99cd912de_ETVAbhiruchi_MusicMagic_2130527.jpg" />
+    <desc>Music Magic</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141134" start="20260903070000 +0530" stop="20260903073000 +0530">
-    <title>Idisangathi</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/2344e31c-571a-429d-ba46-e91aeeab3d1d_ETVAP_Idisangathi_4610.jpg" />
-    <desc>A magazine programme that takes up a set of contemporary issues in each episode and reports them in a comprehensive manner.</desc>
+  <programme channel="141135" start="20260903183000 +0530" stop="20260903193000 +0530">
+    <title>Dilse</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/8037a6f3-db2c-43ea-8c53-ed5d551d54f0_ETVAbhiruchi_Dilse_2130523.jpg" />
+    <desc>Dilse</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141134" start="20260903073000 +0530" stop="20260903080000 +0530">
-    <title>ETV 360</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/41201eae-cbe1-4db8-9cd4-444e9ad42616_ETVAP_ETV360_4609.jpg" />
-    <desc>The program offers a comprehensive view of news and events from various domains.</desc>
+  <programme channel="141135" start="20260903193000 +0530" stop="20260903213000 +0530">
+    <title>Swarabhishekam</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/82510054-cfc0-4a8a-b6ff-ef2126e798f8_ETVAbhiruchi_Swarabhishekam_2130532.jpg" />
+    <desc>Swarabhishekam</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141134" start="20260903080000 +0530" stop="20260903083000 +0530">
-    <title>ETV 360</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/d7858345-10a1-4c75-8421-3b17837ca16b_ETVAP_ETV360_4609.jpg" />
-    <desc>The program offers a comprehensive view of news and events from various domains.</desc>
+  <programme channel="141135" start="20260903213000 +0530" stop="20260903220000 +0530">
+    <title>Ragam Thanam Pallavi</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/bfa40f1a-5953-4238-b3bc-033699e75c19_ETVAbhiruchi_RagamThanamPallavi_2130530.jpg" />
+    <desc>Ragam Thanam Pallavi</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141134" start="20260903083000 +0530" stop="20260903090000 +0530">
-    <title>Neralu Ghoralu</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/c4fd1c39-573b-4a5b-bf05-f1d10b8e620b_ETVAP_NeraluGhoralu_1946752.jpg" />
-    <desc>A crime-based show hosted by Nutan Prasad, where suspense, investigation, and justice unfold through gripping stories that keep viewers hooked.</desc>
+  <programme channel="141135" start="20260903220000 +0530" stop="20260903230000 +0530">
+    <title>Saragalu</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/d96cdb37-45f5-4658-99b8-04c97a2f85a1_ETVAbhiruchi_Saragalu_2130531.jpg" />
+    <desc>Saragalu</desc>
     <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
-  <programme channel="141134" start="20260903090000 +0530" stop="20260903093000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/3154d390-540b-424b-8634-657df814d020_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
+  <programme channel="141135" start="20260903230000 +0530" stop="20260904010000 +0530">
+    <title>Viraamam Ledhu Guru</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/aefbbeb7-519c-45c2-a8b0-b42828239522_ETVAbhiruchi_ViraamamLedhuGuru_2130533.jpg" />
+    <desc>Viraamam Ledhu Guru</desc>
     <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903093000 +0530" stop="20260903100000 +0530">
-    <title>Sukhibhava</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/3e9be2cd-7f82-4574-8697-b6b8ab469033_ETVAP_Sukhibhava_1482.jpg" />
-    <desc>This show focuses on raising health and hygiene awareness among people and informing them of the best of medicinal uses.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903100000 +0530" stop="20260903103000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/33b3f07b-1681-4fa8-b79d-85f8806e3c08_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903103000 +0530" stop="20260903110000 +0530">
-    <title>Yuva</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/d4f2401e-d254-46e6-832f-f3e94845e2dd_ETVAP_Yuva_95660.jpg" />
-    <desc>Youth are offered a platform for a healthy exchange of views and opinions on the latest development and policies for them.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903110000 +0530" stop="20260903113000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/7fd0f833-5a0d-40fa-81db-e122ae4ad90b_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903113000 +0530" stop="20260903120000 +0530">
-    <title>Idisangathi</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/d0a4cd72-f160-4329-93de-7df8eee98607_ETVAP_Idisangathi_4610.jpg" />
-    <desc>A magazine programme that takes up a set of contemporary issues in each episode and reports them in a comprehensive manner.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903120000 +0530" stop="20260903123000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/01eb2c38-a0de-40ab-abcc-6cc2d2eeec3f_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903123000 +0530" stop="20260903130000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/c4370436-f3a8-4cba-b6e0-712ae51b48a6_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903130000 +0530" stop="20260903133000 +0530">
-    <title>ETV 360</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/5e228a2a-7f9e-481e-9c68-0ffb9dd633cf_ETVAP_ETV360_4609.jpg" />
-    <desc>The program offers a comprehensive view of news and events from various domains.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903133000 +0530" stop="20260903140000 +0530">
-    <title>ETV 360</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/31c38038-5c17-4352-ad80-57563c1bcc29_ETVAP_ETV360_4609.jpg" />
-    <desc>The program offers a comprehensive view of news and events from various domains.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903140000 +0530" stop="20260903143000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/84520209-9f89-487a-860b-da474f45c373_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903143000 +0530" stop="20260903150000 +0530">
-    <title>Yuva</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/baa730a1-1a8e-4606-a691-1c7ad7e0792e_ETVAP_Yuva_95660.jpg" />
-    <desc>Youth are offered a platform for a healthy exchange of views and opinions on the latest development and policies for them.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903150000 +0530" stop="20260903153000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/37e5046c-ccc5-4ed1-b331-10417826f6ea_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903153000 +0530" stop="20260903160000 +0530">
-    <title>Sukhibhava</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/45db52a4-6d39-4548-9181-102ba276f95f_ETVAP_Sukhibhava_1482.jpg" />
-    <desc>This show focuses on raising health and hygiene awareness among people and informing them of the best of medicinal uses.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903160000 +0530" stop="20260903163000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/3bfaf49e-2ebc-48c6-962b-ab38d34e1402_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903163000 +0530" stop="20260903170000 +0530">
-    <title>Idisangathi</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/74265293-fbcd-4f46-9c4d-eb62b96f784f_ETVAP_Idisangathi_4610.jpg" />
-    <desc>A magazine programme that takes up a set of contemporary issues in each episode and reports them in a comprehensive manner.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903170000 +0530" stop="20260903173000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/757addbd-4b94-4365-87bd-9339368d5a20_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903173000 +0530" stop="20260903180000 +0530">
-    <title>Ground Report</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/5df9f5d1-1b87-4ecc-bec4-be3842af2827_ETVAP_GroundReport_2077285.jpg" />
-    <desc>An informative news presentation delivering detailed field coverage, public perspectives and factual reporting on important social, political and regional developments affecting communities.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903180000 +0530" stop="20260903183000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/24a8f853-3a53-47cf-b137-d52b292054e0_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903183000 +0530" stop="20260903190000 +0530">
-    <title>Annadatha</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/54c08c42-ed6b-4f52-acb6-fe863b257efa_ETVAP_Annadatha_1156136.jpg" />
-    <desc>This show delivers easy Telugu recipes for a variety of dishes, guiding beginners with clear tips and helping viewers cook tasty, authentic meals at home today.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903190000 +0530" stop="20260903193000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/e8884563-c217-4711-a3f9-45a3606baeae_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903193000 +0530" stop="20260903200000 +0530">
-    <title>Prathidwani</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/e442c27b-1f8a-4b88-9140-6459344e6078_ETVAP_Prathidwani_1030797.jpg" />
-    <desc>Pratidhwani follows two brothers, one robber and one police inspector, seeking their family's killer, where love and reunion drive a plan ending in justice.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903200000 +0530" stop="20260903203000 +0530">
-    <title>ETV 360</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/da527442-65fa-4445-ab23-cbda3f9b12c1_ETVAP_ETV360_4609.jpg" />
-    <desc>The program offers a comprehensive view of news and events from various domains.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903203000 +0530" stop="20260903210000 +0530">
-    <title>ETV 360</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/44f76393-7396-4c23-8184-ea619ee9bc9e_ETVAP_ETV360_4609.jpg" />
-    <desc>The program offers a comprehensive view of news and events from various domains.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903210000 +0530" stop="20260903213000 +0530">
-    <title>Yuva</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/ccb2ca61-b1fd-4658-9048-2d0c0b24315e_ETVAP_Yuva_95660.jpg" />
-    <desc>Youth are offered a platform for a healthy exchange of views and opinions on the latest development and policies for them.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903213000 +0530" stop="20260903220000 +0530">
-    <title>Idisangathi</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/ce960e2c-3986-47f8-81f2-11696a95d92a_ETVAP_Idisangathi_4610.jpg" />
-    <desc>A magazine programme that takes up a set of contemporary issues in each episode and reports them in a comprehensive manner.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903220000 +0530" stop="20260903223000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/e0018e41-8cc5-4991-8db2-a6df74c4ac67_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903223000 +0530" stop="20260903230000 +0530">
-    <title>Neralu Ghoralu</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/fe8dc75a-8f8a-4efb-95a5-c3320388dde6_ETVAP_NeraluGhoralu_1946752.jpg" />
-    <desc>A crime-based show hosted by Nutan Prasad, where suspense, investigation, and justice unfold through gripping stories that keep viewers hooked.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903230000 +0530" stop="20260903232000 +0530">
-    <title>Ghantaravam</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/d6385dff-fcbd-4e44-87b0-4d3506521816_ETVAP_Ghantaravam_1476.jpg" />
-    <desc>An hourly news insertion of 7 min each giving the latest news and views from around the world.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903232000 +0530" stop="20260903233000 +0530">
-    <title>Hearing Impaired News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/1ed94d50-c283-485f-87a3-37a16d4af988_ETVAP_HearingImpairedNews_985959.jpg" />
-    <desc>The host presents the latest political and socio-economic news and updates from India and around the world in sign language.</desc>
-    <language>Telugu</language>
-    <category>News</category>
-    <category>Telugu</category>
-    <date>20260903</date>
-  </programme>
-  <programme channel="141134" start="20260903233000 +0530" stop="20260904000000 +0530">
-    <title>Idisangathi</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/02092026/ab183085-fe41-45ee-8c50-9a9e59346808_ETVAP_Idisangathi_4610.jpg" />
-    <desc>A magazine programme that takes up a set of contemporary issues in each episode and reports them in a comprehensive manner.</desc>
-    <language>Telugu</language>
-    <category>News</category>
+    <category>Entertainment</category>
     <category>Telugu</category>
     <date>20260903</date>
   </programme>
