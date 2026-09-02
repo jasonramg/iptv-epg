@@ -2306,15 +2306,6 @@
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPNEW/Web/coverart/72ebebf3-dcc3-496c-9665-f740cf5aa3cc.png"/>
   </programme>
-  <programme channel="abpana" start="20260830173000 +0000" stop="20260830180000 +0000">
-    <title lang="en">Ghanta Khanek Sange Suman</title>
-    <desc lang="en">GHANTA KHANEK SANGE SUMAN</desc>
-    <language>Bengali</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPANA/Web/coverart/7ccb000d-53ec-4457-8a73-c01763d8e3f0.png"/>
-  </programme>
   <programme channel="abpana" start="20260830180000 +0000" stop="20260830183000 +0000">
     <title lang="en">Ghanta Khanek Sange Suman</title>
     <desc lang="en">GHANTA KHANEK SANGE SUMAN</desc>
@@ -4754,15 +4745,6 @@
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPANA/Web/coverart/7ccb000d-53ec-4457-8a73-c01763d8e3f0.png"/>
   </programme>
-  <programme channel="abpasm" start="20260830173000 +0000" stop="20260830180000 +0000">
-    <title lang="en">Top 50</title>
-    <desc lang="en">News of the country, abroad and Gujarat in "top 50" format.</desc>
-    <language>Gujarati</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/coverart/38b65b92-897d-4bd3-910d-1977d415ca34.png"/>
-  </programme>
   <programme channel="abpasm" start="20260830180000 +0000" stop="20260830183000 +0000">
     <title lang="en">Samachar Shatak</title>
     <desc lang="en">Each news in 11 seconds in "Shatak" format.</desc>
@@ -6976,15 +6958,6 @@
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/coverart/38b65b92-897d-4bd3-910d-1977d415ca34.png"/>
-  </programme>
-  <programme channel="abpmaj" start="20260830172800 +0000" stop="20260830175800 +0000">
-    <title lang="en">Mumbai East West</title>
-    <desc lang="en">Brings news from the corners of the city of Mumbai.</desc>
-    <language>Marathi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/coverart/47322414-8baa-42df-aaa7-4fe2326cbd47.png"/>
   </programme>
   <programme channel="abpmaj" start="20260830175800 +0000" stop="20260830183000 +0000">
     <title lang="en">Special Report</title>
@@ -14914,15 +14887,6 @@
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/amuzisports/platform/channels/AMZSPT/Web/coverart/b4b8a329-efab-4244-a425-26146d219736.png"/>
-  </programme>
-  <programme channel="apkadt" start="20260830170000 +0000" stop="20260830180000 +0000">
-    <title lang="en">Aap Ki Adalat</title>
-    <desc lang="en">Watch celebrities from various walks of life face direct questions on this talk show anchored by Rajat Sharma.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/APKADT/Web/coverart/5b4038b3-7c54-4cab-b6c6-dd3d90445ecb.png"/>
   </programme>
   <programme channel="apkadt" start="20260830180000 +0000" stop="20260830190000 +0000">
     <title lang="en">Aap Ki Adalat</title>
@@ -29709,15 +29673,6 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVBHA/Mobile/coverart/b1fed201-a1ca-4714-8e3c-e64277ad0c8f.png"/>
   </programme>
-  <programme channel="divdiv" start="20260830173000 +0000" stop="20260830180000 +0000">
-    <title lang="en">Arpan</title>
-    <desc lang="en">Melodious bhajans by renowned singers</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/coverart/e05badd1-e209-4b25-964d-dd5771794ecb.png"/>
-  </programme>
   <programme channel="divdiv" start="20260830180000 +0000" stop="20260830182900 +0000">
     <title lang="en">Prem Dhavani</title>
     <desc lang="en">Melodious bhajans by renowned singers</desc>
@@ -33399,15 +33354,6 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DRIDRI/Mobile/coverart/426d2383-ebc1-4bd5-9cd0-713c269e0a61.png"/>
   </programme>
-  <programme channel="ersent" start="20260830170017 +0000" stop="20260830175702 +0000">
-    <title lang="en">Flesh S1 Ep 3</title>
-    <desc lang="en">A powerful cartel runs the flesh trade with a weirdo in charge. Radha gets strangely involved in Zoya's missing case.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-16+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/eros/partners/ERSENTMT/poster/web/cover/7acba7ee-e0db-436a-9d24-d5606c3f0ee6.png"/>
-  </programme>
   <programme channel="ersent" start="20260830175702 +0000" stop="20260830185414 +0000">
     <title lang="en">Flesh S1 Ep 4</title>
     <desc lang="en">Radha gets a crucial breakthrough in finding Zoya while power tussle is evident in the flesh cartel.</desc>
@@ -35063,15 +35009,6 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
       <value>PG</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/FIGFIG/Mobile/coverart/8f32cf25-c5f5-4ed2-b620-ad97e6920730.png"/>
-  </programme>
-  <programme channel="filcop" start="20260830175229 +0000" stop="20260830175857 +0000">
-    <title lang="en">Things You Shouldn't Say To Your Partner</title>
-    <desc lang="en">Funny, awkward and borderline-dangerous phrases that one says to a partner (often unintentionally) that trigger eye-rolls, fights or long silences. The video shows how what we say matters — even when we don’t intend.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/pocketaces/platform/channels/FLTRCOPY/Web/coverart/f9d498c1-46fd-4452-89e5-5ebe1ac6e912.png"/>
   </programme>
   <programme channel="filcop" start="20260830175858 +0000" stop="20260830180341 +0000">
     <title lang="en">Every Wedding Prep Ever (aka Shaadi Ki Taiyari)</title>
@@ -45995,15 +45932,6 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/pocketaces/platform/channels/FLTRCOPY/Web/coverart/f9d498c1-46fd-4452-89e5-5ebe1ac6e912.png"/>
   </programme>
-  <programme channel="goagoa" start="20260830173000 +0000" stop="20260830180000 +0000">
-    <title lang="en">Latest News</title>
-    <desc lang="en">Stay ahead of the game with our ""Latest News"" segment, where we bring you up-to-the-minute updates, breaking stories, and exclusive insights from the world of basketball.</desc>
-    <language>English</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/GOAGOA/Mobile/coverart/c8904a2b-e2f6-41bc-bc5c-11e74e2ffac0.png"/>
-  </programme>
   <programme channel="goagoa" start="20260830180000 +0000" stop="20260830183000 +0000">
     <title lang="en">Get The Score</title>
     <desc lang="en">Need to know the score? Look no further than ""Get the Score,"" your go-to destination for real-time updates on all the basketball action.</desc>
@@ -48586,15 +48514,6 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
       <value>UA-13+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/GOAGOA/Mobile/coverart/c8904a2b-e2f6-41bc-bc5c-11e74e2ffac0.png"/>
-  </programme>
-  <programme channel="gregld" start="20260830172746 +0000" stop="20260830175938 +0000">
-    <title lang="en">Chorr Police The Magician's Hat &amp; At The Airport</title>
-    <desc lang="en">Anthony steals a magician's hat, prompting Lovely to chase after him.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/partners/GRNGLDTV/poster/mobile/cover/1ea60bd0-c861-4848-bbeb-dfeb3abaa925.png"/>
   </programme>
   <programme channel="gregld" start="20260830175938 +0000" stop="20260830182932 +0000">
     <title lang="en">Krishna Aur Balram Terror Under The River</title>
@@ -51520,15 +51439,6 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/partners/GRNGLDTV/poster/web/cover/3af5a6e3-b905-4fbb-bbef-0fbf7d1844e3.png"/>
-  </programme>
-  <programme channel="gtcnew" start="20260830170000 +0000" stop="20260830180000 +0000">
-    <title lang="en">Gtc Super Prime</title>
-    <desc lang="en">GTC Super Prime - GTC Super Prime delivers high-impact breaking stories, and fearless ground reporting at the most crucial hour of the day. With sharp analysis, powerful voices, and no-holds-barred questioning, the show cuts through the noise to expose the truth</desc>
-    <language>Punjabi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/GTCNEW/Web/coverart/a61d3eac-301d-4997-b406-185a8dd068cc.png"/>
   </programme>
   <programme channel="gtcnew" start="20260830180000 +0000" stop="20260830183000 +0000">
     <title lang="en">Khabar Tuhadi</title>
@@ -54608,15 +54518,6 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/GTCPUN/Web/coverart/0253f07b-df63-4064-b8ac-16eabe3b9d69.png"/>
   </programme>
-  <programme channel="hoohoo" start="20260830173000 +0000" stop="20260830180000 +0000">
-    <title lang="en">Highlights</title>
-    <desc lang="en">Relive the thrill of the game with our ""Highlights"" program, where we compile the most exhilarating moments, jaw-dropping plays, and game-changing performances from basketball courts around the globe.</desc>
-    <language>English</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/HOOHOO/Mobile/coverart/cf55ca33-ce82-44a7-a99e-9ce32bc031fd.png"/>
-  </programme>
   <programme channel="hoohoo" start="20260830180000 +0000" stop="20260830183000 +0000">
     <title lang="en">Highlights</title>
     <desc lang="en">Relive the thrill of the game with our ""Highlights"" program, where we compile the most exhilarating moments, jaw-dropping plays, and game-changing performances from basketball courts around the globe.</desc>
@@ -57199,14 +57100,6 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
       <value>UA-13+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/HOOHOO/Mobile/coverart/cf55ca33-ce82-44a7-a99e-9ce32bc031fd.png"/>
-  </programme>
-  <programme channel="india_tv_news" start="20260830172800 +0000" stop="20260830175800 +0000">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments.</desc>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/INDIATV/poster/coverart_web.png"/>
   </programme>
   <programme channel="india_tv_news" start="20260830175800 +0000" stop="20260830184500 +0000">
     <title lang="en">Special Report</title>
@@ -59939,15 +59832,6 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDIA_TV/Web/coverart/f0cc13c5-3eea-4ba1-8fbd-d8184edfc760.png"/>
   </programme>
-  <programme channel="indtvy" start="20260830170000 +0000" stop="20260830180000 +0000">
-    <title lang="en">Yoga</title>
-    <desc lang="en">A renowned yoga expert demonstrates various yoga postures and explains their physical and spiritual significance.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDTVY/Web/coverart/af25d10b-a3db-471a-a64c-df4ecba29af1.png"/>
-  </programme>
   <programme channel="indtvy" start="20260830180000 +0000" stop="20260830190000 +0000">
     <title lang="en">Yoga</title>
     <desc lang="en">A renowned yoga expert demonstrates various yoga postures and explains their physical and spiritual significance.</desc>
@@ -61252,15 +61136,6 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDTVY/Web/coverart/af25d10b-a3db-471a-a64c-df4ecba29af1.png"/>
-  </programme>
-  <programme channel="jagran" start="20260830175003 +0000" stop="20260830175642 +0000">
-    <title lang="en">Let's Talk Nutrition with Mugdha Pradhan Part 02 | Difference Between Subcutaneous Fat &amp; Visceral Fat</title>
-    <desc lang="en">In this enlightening video, Functional Nutritionist Mugdha Pradhan breaks down the crucial differences between subcutaneous fat and visceral fat, helping you understand their distinct impacts on your health. Subcutaneous fat is the layer found directly under the skin, often noticeable in areas like the abdomen and thighs. While it’s less harmful, managing it is still important for overall fitness. On the other hand, visceral fat lies deeper, wrapping around vital organs and posing significant health risks, including heart disease and diabetes. Mugdha Pradhan offers practical advice on reducing both types of fat through balanced nutrition and lifestyle changes.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/JAGRANTV/poster/mobile/cover/JAGRANHE_SF_00019.jpg"/>
   </programme>
   <programme channel="jagran" start="20260830175642 +0000" stop="20260830180201 +0000">
     <title lang="en">Curious about what Milind Soman avoids to stay fit?</title>
@@ -72175,15 +72050,6 @@ Impact on Immune System: Learn about the gut's crucial role in maintaining a str
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/JAGRANTV/poster/mobile/cover/e898f2c6-0eca-4ddd-8f5f-18a2d7ef232d.jpg"/>
   </programme>
-  <programme channel="jusgag" start="20260830172907 +0000" stop="20260830175814 +0000">
-    <title lang="en">Just For Laughs Gags</title>
-    <desc lang="en">Featuring pranks involving a remote-controlled turkey, Aladdin's lamp, and many more.</desc>
-    <language>English</language>
-    <rating>
-      <value>A - 18+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/JUSGAG/Mobile/coverart/6428bc9e-1d69-41b3-bbd2-4839cd60e6c2.png"/>
-  </programme>
   <programme channel="jusgag" start="20260830175814 +0000" stop="20260830182711 +0000">
     <title lang="en">Just For Laughs Gags</title>
     <desc lang="en">Featuring pranks involving a remote-controlled turkey, Aladdin's lamp, and many more.</desc>
@@ -76405,15 +76271,6 @@ Impact on Immune System: Learn about the gut's crucial role in maintaining a str
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/LOOKID/Web/coverart/0bf7eba2-fedb-43fe-8942-200ca849b628.png"/>
   </programme>
-  <programme channel="mahkhb" start="20260830173000 +0000" stop="20260830180000 +0000">
-    <title lang="en">Special Report</title>
-    <desc lang="en">Special Report</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MAHKHB/Web/coverart/1a3d5343-8944-4be9-bbbf-b00ca24f2313.png"/>
-  </programme>
   <programme channel="mahkhb" start="20260830180000 +0000" stop="20260830183000 +0000">
     <title lang="en">Special Report</title>
     <desc lang="en">Special Report</desc>
@@ -78474,24 +78331,6 @@ Impact on Immune System: Learn about the gut's crucial role in maintaining a str
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MAHKHB/Web/coverart/1a3d5343-8944-4be9-bbbf-b00ca24f2313.png"/>
-  </programme>
-  <programme channel="mahply" start="20260830150000 +0000" stop="20260830180000 +0000">
-    <title lang="en">Bff  Bhrashtachar</title>
-    <desc lang="en">BFF - Bhrashtachar</desc>
-    <language>Bhojpuri</language>
-    <rating>
-      <value>UA-16+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MAHPLY/Web/coverart/de79fc09-e0f8-44fd-97e9-e6409a5d19f6.png"/>
-  </programme>
-  <programme channel="mahply" start="20260830180000 +0000" stop="20260830180000 +0000">
-    <title lang="en">Bff  Dil Sajan Ke</title>
-    <desc lang="en">BFF - Dil Sajan Ke</desc>
-    <language>Bhojpuri</language>
-    <rating>
-      <value>UA-16+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MAHPLY/Web/coverart/de79fc09-e0f8-44fd-97e9-e6409a5d19f6.png"/>
   </programme>
   <programme channel="mahply" start="20260830210000 +0000" stop="20260830213000 +0000">
     <title lang="en">Jhama Jham Music  3</title>
@@ -84186,15 +84025,6 @@ shows its true colours.</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MRBEAN/Web/coverart/0542ecf4-1bdd-45af-9d72-cba0595f5177.png"/>
   </programme>
-  <programme channel="n18bng" start="20260830173000 +0000" stop="20260830180000 +0000">
-    <title lang="en">Sera 11</title>
-    <desc lang="en">NEWS</desc>
-    <language>Bengali</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/N18BNG/Web/coverart/c2644371-7a5d-4bd5-96a0-79adf659a4a5.png"/>
-  </programme>
   <programme channel="n18bng" start="20260830180000 +0000" stop="20260830183000 +0000">
     <title lang="en">Khobor Dinbhor</title>
     <desc lang="en">NEWS</desc>
@@ -88730,15 +88560,6 @@ shows its true colours.</desc>
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/N18IND/Web/coverart/1d097407-c31e-490c-a6b5-45e9e64bf7eb.png"/>
-  </programme>
-  <programme channel="n18mrt" start="20260830173000 +0000" stop="20260830180000 +0000">
-    <title lang="en">Superfast 100</title>
-    <desc lang="en">Fast news</desc>
-    <language>Punjabi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/N18MRT/Web/coverart/e7c4aed7-9be1-40b5-976b-e19e31a27d37.png"/>
   </programme>
   <programme channel="n18mrt" start="20260830180000 +0000" stop="20260830190000 +0000">
     <title lang="en">News18 Marathi Vishesh</title>
@@ -95238,15 +95059,6 @@ shows its true colours.</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/N18TML/Web/coverart/197ed14e-efa0-440d-9087-a94c935378be.png"/>
   </programme>
-  <programme channel="n18upuk" start="20260830173000 +0000" stop="20260830180000 +0000">
-    <title lang="en">News Bulletin 11 Pm</title>
-    <desc lang="en">30 MINUTE</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/N18UPUK/Web/coverart/fab72702-55ee-42c1-a305-6f6f68073cf2.png"/>
-  </programme>
   <programme channel="n18upuk" start="20260830180000 +0000" stop="20260830183000 +0000">
     <title lang="en">Bhojpuri Bulletin+up Ukd Top 100</title>
     <desc lang="en">30 MINUTE</desc>
@@ -97847,15 +97659,6 @@ shows its true colours.</desc>
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/N18UPUK/Web/coverart/fab72702-55ee-42c1-a305-6f6f68073cf2.png"/>
-  </programme>
-  <programme channel="newnat" start="20260830173000 +0000" stop="20260830180000 +0000">
-    <title lang="en">News Special</title>
-    <desc lang="en">A comprehensive segment of special news of the country and world.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NEWNAT/Web/coverart/18ed2a73-0a4c-4f98-bf23-b636f523ef3f.png"/>
   </programme>
   <programme channel="newnat" start="20260830180000 +0000" stop="20260830183000 +0000">
     <title lang="en">Badi Bahas</title>
@@ -100458,15 +100261,6 @@ shows its true colours.</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NEWNAT/Web/coverart/18ed2a73-0a4c-4f98-bf23-b636f523ef3f.png"/>
   </programme>
-  <programme channel="nnatuk" start="20260830173000 +0000" stop="20260830180000 +0000">
-    <title lang="en">Har Shahar Ki Khabar</title>
-    <desc lang="en">News of every town and city of the state</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Web/coverart/cccfb71c-77b4-4eb3-a31e-8cdf1f49d426.jpg"/>
-  </programme>
   <programme channel="nnatuk" start="20260830180000 +0000" stop="20260830183000 +0000">
     <title lang="en">State Supersonic</title>
     <desc lang="en">A fast news segment covering highlights of the day</desc>
@@ -103067,15 +102861,6 @@ shows its true colours.</desc>
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Web/coverart/cccfb71c-77b4-4eb3-a31e-8cdf1f49d426.jpg"/>
-  </programme>
-  <programme channel="nnbrjh" start="20260830173000 +0000" stop="20260830180000 +0000">
-    <title lang="en">News State Bihar Jharkhand News</title>
-    <desc lang="en">News segment focusing on urban &amp; rural areas, covering highlights from various districts across the state</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNBRJH/Web/coverart/709f080c-0bbb-4a38-8c54-acacecdd9c7b.png"/>
   </programme>
   <programme channel="nnbrjh" start="20260830180000 +0000" stop="20260830183000 +0000">
     <title lang="en">State Special</title>
@@ -105678,15 +105463,6 @@ shows its true colours.</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNBRJH/Web/coverart/709f080c-0bbb-4a38-8c54-acacecdd9c7b.png"/>
   </programme>
-  <programme channel="nnmpcg" start="20260830173000 +0000" stop="20260830180000 +0000">
-    <title lang="en">Final Bulletin</title>
-    <desc lang="en">News segment focusing on urban &amp; rural areas, covering highlights from various districts across the state</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNMPCG/Web/coverart/8c433562-cf46-42e9-a073-b3975fadf0e7.png"/>
-  </programme>
   <programme channel="nnmpcg" start="20260830180000 +0000" stop="20260830183000 +0000">
     <title lang="en">Aaj Ki Badi Khabar</title>
     <desc lang="en">News segment focusing on urban &amp; rural areas, covering highlights from various districts across the state</desc>
@@ -108287,15 +108063,6 @@ shows its true colours.</desc>
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNMPCG/Web/coverart/8c433562-cf46-42e9-a073-b3975fadf0e7.png"/>
-  </programme>
-  <programme channel="nnpbhr" start="20260830173000 +0000" stop="20260830180000 +0000">
-    <title lang="en">Speed News</title>
-    <desc lang="en">Top News of the day are presented in this fast news segment</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNPBHR/Web/coverart/965ce05e-1203-4a55-9ff7-adf29539372f.png"/>
   </programme>
   <programme channel="nnpbhr" start="20260830180000 +0000" stop="20260830183000 +0000">
     <title lang="en">25 25 Khabren</title>
@@ -123039,6 +122806,15 @@ shows its true colours.</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00008.png"/>
   </programme>
+  <programme channel="p_cinshf" start="20260905163229 +0000" stop="20260905165939 +0000">
+    <title lang="en">Yathaarth</title>
+    <desc lang="en">A time travel story of a husband &amp; wife who revisit their past memories through a new technology called Alternate Reality Correction Services, thinking they can resolve their own issues through it.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00008.png"/>
+  </programme>
   <programme channel="p_cinshf" start="20260905165939 +0000" stop="20260905171332 +0000">
     <title lang="en">Raat Hamaari Hai</title>
     <desc lang="en">Rakesh, a virgin, is set up by his friends with an escort, Madhu(who happens to be a psychology student). They both have opposite thoughts on sex and a debate ensues between them over the course of the night and then finally what happens between them.</desc>
@@ -123047,6 +122823,24 @@ shows its true colours.</desc>
       <value>A - 18+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00009.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20260905165939 +0000" stop="20260905171332 +0000">
+    <title lang="en">Raat Hamaari Hai</title>
+    <desc lang="en">Rakesh, a virgin, is set up by his friends with an escort, Madhu(who happens to be a psychology student). They both have opposite thoughts on sex and a debate ensues between them over the course of the night and then finally what happens between them.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00009.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20260905171332 +0000" stop="20260905172930 +0000">
+    <title lang="en">Husbands</title>
+    <desc lang="en">When Aadav visits his ex-wife’s house to give his son a gift, he is greeted at the door by Satvik, the man who has replaced him in his ex's life, and maybe even his son’s.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00010.png"/>
   </programme>
   <programme channel="p_cinshf" start="20260905171332 +0000" stop="20260905172930 +0000">
     <title lang="en">Husbands</title>
@@ -123066,6 +122860,15 @@ shows its true colours.</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00012.png"/>
   </programme>
+  <programme channel="p_cinshf" start="20260905172931 +0000" stop="20260905173839 +0000">
+    <title lang="en">Cuddles</title>
+    <desc lang="en">Based on short story by Larissa Theule, Cuddles follows the story of 30-year-old Krita as she has a chance encounter with Chirag uncle after almost 20 years in a park.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00012.png"/>
+  </programme>
   <programme channel="p_cinshf" start="20260905173839 +0000" stop="20260905175833 +0000">
     <title lang="en">Do Cutting</title>
     <desc lang="en">An unforgettable love story about how a couple due to societal pressures on inter religion marriages hold up their lives.</desc>
@@ -123074,6 +122877,24 @@ shows its true colours.</desc>
       <value>UA-16+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00013.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20260905173839 +0000" stop="20260905175833 +0000">
+    <title lang="en">Do Cutting</title>
+    <desc lang="en">An unforgettable love story about how a couple due to societal pressures on inter religion marriages hold up their lives.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00013.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20260905175833 +0000" stop="20260905180823 +0000">
+    <title lang="en">Curd</title>
+    <desc lang="en">CURD is the story of Hira, who is visiting her son in the US. Unable to spend time with him because of his busy schedule, Hira feels trapped in her house and struggles with the alien culture and loneliness.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00014.png"/>
   </programme>
   <programme channel="p_cinshf" start="20260905175833 +0000" stop="20260905180823 +0000">
     <title lang="en">Curd</title>
@@ -123093,6 +122914,15 @@ shows its true colours.</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00002.png"/>
   </programme>
+  <programme channel="p_cinshf" start="20260905180824 +0000" stop="20260905184412 +0000">
+    <title lang="en">Chilgam</title>
+    <desc lang="en">A story of love and courage that strives to sustain amidst a communally-charged environment.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00002.png"/>
+  </programme>
   <programme channel="p_cinshf" start="20260905184412 +0000" stop="20260905190218 +0000">
     <title lang="en">Kathi Pe Ghoda</title>
     <desc lang="en">An old man living a life full of mistakes gets an extraordinary experience only to realize that he is the ultimate creator of his destiny.</desc>
@@ -123101,6 +122931,24 @@ shows its true colours.</desc>
       <value>A - 18+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00003.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20260905184412 +0000" stop="20260905190218 +0000">
+    <title lang="en">Kathi Pe Ghoda</title>
+    <desc lang="en">An old man living a life full of mistakes gets an extraordinary experience only to realize that he is the ultimate creator of his destiny.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00003.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20260905190218 +0000" stop="20260905191448 +0000">
+    <title lang="en">The Night Before</title>
+    <desc lang="en">On the night before her wedding an Indian - American bride pays visit to her ex whom she ghosted years ago</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00004.png"/>
   </programme>
   <programme channel="p_cinshf" start="20260905190218 +0000" stop="20260905191448 +0000">
     <title lang="en">The Night Before</title>
@@ -123120,6 +122968,15 @@ shows its true colours.</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00005.png"/>
   </programme>
+  <programme channel="p_cinshf" start="20260905191449 +0000" stop="20260905193058 +0000">
+    <title lang="en">Dhruv &amp; Jai</title>
+    <desc lang="en">Dhruv returns from London after completing his studies and goes straight to meet Jai. He ends up waiting for him in his room where he remembers their time together through Jai’s poems and photographs. He looks disturbed as he tries to keep one particular memory at bay all the while wondering what will happen when Jai walks in the door.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00005.png"/>
+  </programme>
   <programme channel="p_cinshf" start="20260905193058 +0000" stop="20260905194134 +0000">
     <title lang="en">Homecoming</title>
     <desc lang="en">Happiness comes knocking at the door on one of her most gloomy days during the pandemic. She embraces it &amp; now it ain't easy to go</desc>
@@ -123128,6 +122985,24 @@ shows its true colours.</desc>
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00006.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20260905193058 +0000" stop="20260905194134 +0000">
+    <title lang="en">Homecoming</title>
+    <desc lang="en">Happiness comes knocking at the door on one of her most gloomy days during the pandemic. She embraces it &amp; now it ain't easy to go</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00006.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20260905194134 +0000" stop="20260905200445 +0000">
+    <title lang="en">Eelu Rani Bhag Gaye</title>
+    <desc lang="en">Two teenagers running away from their home comes across a police officer who persuades them not to go, however Eelu &amp; Rani have something else on their mind.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00007.png"/>
   </programme>
   <programme channel="p_cinshf" start="20260905194134 +0000" stop="20260905200445 +0000">
     <title lang="en">Eelu Rani Bhag Gaye</title>
@@ -123147,6 +123022,15 @@ shows its true colours.</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00023.png"/>
   </programme>
+  <programme channel="p_cinshf" start="20260905200445 +0000" stop="20260905203402 +0000">
+    <title lang="en">On The Way of Love</title>
+    <desc lang="en">A simple story of how a husband &amp; wife realizes about the presence &amp; support for each other during the pandemic.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00023.png"/>
+  </programme>
   <programme channel="p_cinshf" start="20260905203403 +0000" stop="20260905205611 +0000">
     <title lang="en">Panic</title>
     <desc lang="en">A riveting psychological thriller that propels an aspiring actor's life into chaos when a toothache triggers an unfounded belief in oral cancer, setting off a catastrophic chain of events.</desc>
@@ -123155,6 +123039,24 @@ shows its true colours.</desc>
       <value>UA-16+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00028.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20260905203403 +0000" stop="20260905205611 +0000">
+    <title lang="en">Panic</title>
+    <desc lang="en">A riveting psychological thriller that propels an aspiring actor's life into chaos when a toothache triggers an unfounded belief in oral cancer, setting off a catastrophic chain of events.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00028.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20260905205612 +0000" stop="20260905212050 +0000">
+    <title lang="en">Painkiller</title>
+    <desc lang="en">Ronnie’s world comes crashing down, when his wife leaves him. The feeling of losing his wife and daughter is something he can’t wrap his head around.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00029.png"/>
   </programme>
   <programme channel="p_cinshf" start="20260905205612 +0000" stop="20260905212050 +0000">
     <title lang="en">Painkiller</title>
@@ -123174,6 +123076,15 @@ shows its true colours.</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00030.png"/>
   </programme>
+  <programme channel="p_cinshf" start="20260905212050 +0000" stop="20260905213639 +0000">
+    <title lang="en">Thank You For Sharing</title>
+    <desc lang="en">This dark topical narrates the story of Jude, who's been suffering from psychosis, a mental health illness &amp; has an aberrational relation with the voice in his head.</desc>
+    <language>English</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00030.png"/>
+  </programme>
   <programme channel="p_cinshf" start="20260905213640 +0000" stop="20260905215247 +0000">
     <title lang="en">The Last Letter</title>
     <desc lang="en">A sweet, endearing tale of two old school lovers and their conversations, carried out over shy, fond letters creating an emotional heart touching last letter.</desc>
@@ -123182,6 +123093,24 @@ shows its true colours.</desc>
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00033.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20260905213640 +0000" stop="20260905215247 +0000">
+    <title lang="en">The Last Letter</title>
+    <desc lang="en">A sweet, endearing tale of two old school lovers and their conversations, carried out over shy, fond letters creating an emotional heart touching last letter.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00033.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20260905215247 +0000" stop="20260905220905 +0000">
+    <title lang="en">The Bench</title>
+    <desc lang="en">A young man’s monotonous life turns upside down when he meets a stranger on a bench.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00036.png"/>
   </programme>
   <programme channel="p_cinshf" start="20260905215247 +0000" stop="20260905220905 +0000">
     <title lang="en">The Bench</title>
@@ -123201,6 +123130,15 @@ shows its true colours.</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00040.png"/>
   </programme>
+  <programme channel="p_cinshf" start="20260905220906 +0000" stop="20260905221948 +0000">
+    <title lang="en">Omlette</title>
+    <desc lang="en">After being unable to contact her son Rohan and her daughter-in-law for days, Anupama visits Rohan’s place to find out the reason behind this unusual behaviour and an evening full of tension and emotions lead to a shocking end to her search.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00040.png"/>
+  </programme>
   <programme channel="p_cinshf" start="20260905221949 +0000" stop="20260905223823 +0000">
     <title lang="en">Naam Kya Hai</title>
     <desc lang="en">Set in the 1992 riots in Mumbai, "Naam Kya Hai?" revolves around a distraught and prejudiced police officer trying to avenge the murder of his wife amidst the communal tension in the city.</desc>
@@ -123209,6 +123147,24 @@ shows its true colours.</desc>
       <value>A - 18+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00041.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20260905221949 +0000" stop="20260905223823 +0000">
+    <title lang="en">Naam Kya Hai</title>
+    <desc lang="en">Set in the 1992 riots in Mumbai, "Naam Kya Hai?" revolves around a distraught and prejudiced police officer trying to avenge the murder of his wife amidst the communal tension in the city.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00041.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20260905223823 +0000" stop="20260905230434 +0000">
+    <title lang="en">Eelu Rani Bhag Gaye</title>
+    <desc lang="en">Two teenagers running away from their home comes across a police officer who persuades them not to go, however Eelu &amp; Rani have something else on their mind.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00007.png"/>
   </programme>
   <programme channel="p_cinshf" start="20260905223823 +0000" stop="20260905230434 +0000">
     <title lang="en">Eelu Rani Bhag Gaye</title>
@@ -123228,6 +123184,15 @@ shows its true colours.</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00008.png"/>
   </programme>
+  <programme channel="p_cinshf" start="20260905230434 +0000" stop="20260905233144 +0000">
+    <title lang="en">Yathaarth</title>
+    <desc lang="en">A time travel story of a husband &amp; wife who revisit their past memories through a new technology called Alternate Reality Correction Services, thinking they can resolve their own issues through it.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00008.png"/>
+  </programme>
   <programme channel="p_cinshf" start="20260905233145 +0000" stop="20260905234743 +0000">
     <title lang="en">Husbands</title>
     <desc lang="en">When Aadav visits his ex-wife’s house to give his son a gift, he is greeted at the door by Satvik, the man who has replaced him in his ex's life, and maybe even his son’s.</desc>
@@ -123237,23 +123202,14 @@ shows its true colours.</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00010.png"/>
   </programme>
-  <programme channel="p_nunutv" start="20260830173820 +0000" stop="20260830175822 +0000">
-    <title lang="en">Yes Yes Vegetable &amp; Eating Habit</title>
-    <desc lang="en">The very best nursery rhymes and kids songs for you to sing dance and learn too!</desc>
-    <language>English</language>
+  <programme channel="p_cinshf" start="20260905233145 +0000" stop="20260905234743 +0000">
+    <title lang="en">Husbands</title>
+    <desc lang="en">When Aadav visits his ex-wife’s house to give his son a gift, he is greeted at the door by Satvik, the man who has replaced him in his ex's life, and maybe even his son’s.</desc>
+    <language>Hindi</language>
     <rating>
-      <value>U - All Ages</value>
+      <value>UA-16+</value>
     </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode4.png"/>
-  </programme>
-  <programme channel="p_nunutv" start="20260830173857 +0000" stop="20260830175859 +0000">
-    <title lang="en">Yes Yes Vegetable &amp; Eating Habit</title>
-    <desc lang="en">The very best nursery rhymes and kids songs for you to sing dance and learn too!</desc>
-    <language>English</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode4.png"/>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00010.png"/>
   </programme>
   <programme channel="p_nunutv" start="20260830175822 +0000" stop="20260830181547 +0000">
     <title lang="en">New Nursery Rhymes</title>
@@ -129780,6 +129736,15 @@ shows its true colours.</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode1.jpg"/>
   </programme>
+  <programme channel="p_nunutv" start="20260905120913 +0000" stop="20260905122433 +0000">
+    <title lang="en">Baby Shark Dance</title>
+    <desc lang="en">Baby shark doo doo doo doo! In this educational nursery rhyme compilation, you will find some of the most popular NuNu Tv songs, such as ‘Finger Family’, 'Color song’, ‘Being a Good Friend’ and lots more!</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode1.jpg"/>
+  </programme>
   <programme channel="p_nunutv" start="20260905122433 +0000" stop="20260905123911 +0000">
     <title lang="en">Spaceship &amp; Traffic Vehicles</title>
     <desc lang="en">We're Going On A Rocket Ship &amp; other famous Kids Songs &amp; Nursery Rhymes</desc>
@@ -129788,6 +129753,24 @@ shows its true colours.</desc>
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode5.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20260905122433 +0000" stop="20260905123911 +0000">
+    <title lang="en">Spaceship &amp; Traffic Vehicles</title>
+    <desc lang="en">We're Going On A Rocket Ship &amp; other famous Kids Songs &amp; Nursery Rhymes</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode5.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20260905123912 +0000" stop="20260905125914 +0000">
+    <title lang="en">Yes Yes Vegetable &amp; Eating Habit</title>
+    <desc lang="en">The very best nursery rhymes and kids songs for you to sing dance and learn too!</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode4.png"/>
   </programme>
   <programme channel="p_nunutv" start="20260905123912 +0000" stop="20260905125914 +0000">
     <title lang="en">Yes Yes Vegetable &amp; Eating Habit</title>
@@ -129807,6 +129790,15 @@ shows its true colours.</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode6.png"/>
   </programme>
+  <programme channel="p_nunutv" start="20260905125914 +0000" stop="20260905131639 +0000">
+    <title lang="en">New Nursery Rhymes</title>
+    <desc lang="en">Sing and play along with new nursery rhyme &amp; songs compilation while playing with little toys.</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode6.png"/>
+  </programme>
   <programme channel="p_nunutv" start="20260905131639 +0000" stop="20260905133752 +0000">
     <title lang="en">Wheels On The Bus</title>
     <desc lang="en">Sing and enjoy your favorite nursery rhymes &amp; kids songs such as 'Wheels on The Bus', 'Three Little Pigs', 'Rain Rain Go Away' and many more with NuNu and his friends.</desc>
@@ -129815,6 +129807,24 @@ shows its true colours.</desc>
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode3.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20260905131639 +0000" stop="20260905133752 +0000">
+    <title lang="en">Wheels On The Bus</title>
+    <desc lang="en">Sing and enjoy your favorite nursery rhymes &amp; kids songs such as 'Wheels on The Bus', 'Three Little Pigs', 'Rain Rain Go Away' and many more with NuNu and his friends.</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode3.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20260905133752 +0000" stop="20260905135446 +0000">
+    <title lang="en">Yummy! Hot Cross Buns</title>
+    <desc lang="en">From making yummy hot cross buns for their parents, Learn and enjoy other famous Nursery Rhymes and Songs</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode2.jpg"/>
   </programme>
   <programme channel="p_nunutv" start="20260905133752 +0000" stop="20260905135446 +0000">
     <title lang="en">Yummy! Hot Cross Buns</title>
@@ -129834,6 +129844,15 @@ shows its true colours.</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode1.jpg"/>
   </programme>
+  <programme channel="p_nunutv" start="20260905135447 +0000" stop="20260905141007 +0000">
+    <title lang="en">Baby Shark Dance</title>
+    <desc lang="en">Baby shark doo doo doo doo! In this educational nursery rhyme compilation, you will find some of the most popular NuNu Tv songs, such as ‘Finger Family’, 'Color song’, ‘Being a Good Friend’ and lots more!</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode1.jpg"/>
+  </programme>
   <programme channel="p_nunutv" start="20260905141008 +0000" stop="20260905142446 +0000">
     <title lang="en">Spaceship &amp; Traffic Vehicles</title>
     <desc lang="en">We're Going On A Rocket Ship &amp; other famous Kids Songs &amp; Nursery Rhymes</desc>
@@ -129842,6 +129861,24 @@ shows its true colours.</desc>
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode5.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20260905141008 +0000" stop="20260905142446 +0000">
+    <title lang="en">Spaceship &amp; Traffic Vehicles</title>
+    <desc lang="en">We're Going On A Rocket Ship &amp; other famous Kids Songs &amp; Nursery Rhymes</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode5.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20260905142446 +0000" stop="20260905144448 +0000">
+    <title lang="en">Yes Yes Vegetable &amp; Eating Habit</title>
+    <desc lang="en">The very best nursery rhymes and kids songs for you to sing dance and learn too!</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode4.png"/>
   </programme>
   <programme channel="p_nunutv" start="20260905142446 +0000" stop="20260905144448 +0000">
     <title lang="en">Yes Yes Vegetable &amp; Eating Habit</title>
@@ -129861,6 +129898,15 @@ shows its true colours.</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode6.png"/>
   </programme>
+  <programme channel="p_nunutv" start="20260905144448 +0000" stop="20260905150213 +0000">
+    <title lang="en">New Nursery Rhymes</title>
+    <desc lang="en">Sing and play along with new nursery rhyme &amp; songs compilation while playing with little toys.</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode6.png"/>
+  </programme>
   <programme channel="p_nunutv" start="20260905150213 +0000" stop="20260905152326 +0000">
     <title lang="en">Wheels On The Bus</title>
     <desc lang="en">Sing and enjoy your favorite nursery rhymes &amp; kids songs such as 'Wheels on The Bus', 'Three Little Pigs', 'Rain Rain Go Away' and many more with NuNu and his friends.</desc>
@@ -129869,6 +129915,24 @@ shows its true colours.</desc>
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode3.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20260905150213 +0000" stop="20260905152326 +0000">
+    <title lang="en">Wheels On The Bus</title>
+    <desc lang="en">Sing and enjoy your favorite nursery rhymes &amp; kids songs such as 'Wheels on The Bus', 'Three Little Pigs', 'Rain Rain Go Away' and many more with NuNu and his friends.</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode3.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20260905152327 +0000" stop="20260905154021 +0000">
+    <title lang="en">Yummy! Hot Cross Buns</title>
+    <desc lang="en">From making yummy hot cross buns for their parents, Learn and enjoy other famous Nursery Rhymes and Songs</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode2.jpg"/>
   </programme>
   <programme channel="p_nunutv" start="20260905152327 +0000" stop="20260905154021 +0000">
     <title lang="en">Yummy! Hot Cross Buns</title>
@@ -129888,6 +129952,15 @@ shows its true colours.</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode1.jpg"/>
   </programme>
+  <programme channel="p_nunutv" start="20260905154022 +0000" stop="20260905155542 +0000">
+    <title lang="en">Baby Shark Dance</title>
+    <desc lang="en">Baby shark doo doo doo doo! In this educational nursery rhyme compilation, you will find some of the most popular NuNu Tv songs, such as ‘Finger Family’, 'Color song’, ‘Being a Good Friend’ and lots more!</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode1.jpg"/>
+  </programme>
   <programme channel="p_nunutv" start="20260905155542 +0000" stop="20260905161020 +0000">
     <title lang="en">Spaceship &amp; Traffic Vehicles</title>
     <desc lang="en">We're Going On A Rocket Ship &amp; other famous Kids Songs &amp; Nursery Rhymes</desc>
@@ -129896,6 +129969,24 @@ shows its true colours.</desc>
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode5.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20260905155542 +0000" stop="20260905161020 +0000">
+    <title lang="en">Spaceship &amp; Traffic Vehicles</title>
+    <desc lang="en">We're Going On A Rocket Ship &amp; other famous Kids Songs &amp; Nursery Rhymes</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode5.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20260905161020 +0000" stop="20260905163022 +0000">
+    <title lang="en">Yes Yes Vegetable &amp; Eating Habit</title>
+    <desc lang="en">The very best nursery rhymes and kids songs for you to sing dance and learn too!</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode4.png"/>
   </programme>
   <programme channel="p_nunutv" start="20260905161020 +0000" stop="20260905163022 +0000">
     <title lang="en">Yes Yes Vegetable &amp; Eating Habit</title>
@@ -129915,6 +130006,15 @@ shows its true colours.</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode6.png"/>
   </programme>
+  <programme channel="p_nunutv" start="20260905163022 +0000" stop="20260905164747 +0000">
+    <title lang="en">New Nursery Rhymes</title>
+    <desc lang="en">Sing and play along with new nursery rhyme &amp; songs compilation while playing with little toys.</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode6.png"/>
+  </programme>
   <programme channel="p_nunutv" start="20260905164748 +0000" stop="20260905170901 +0000">
     <title lang="en">Wheels On The Bus</title>
     <desc lang="en">Sing and enjoy your favorite nursery rhymes &amp; kids songs such as 'Wheels on The Bus', 'Three Little Pigs', 'Rain Rain Go Away' and many more with NuNu and his friends.</desc>
@@ -129923,6 +130023,24 @@ shows its true colours.</desc>
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode3.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20260905164748 +0000" stop="20260905170901 +0000">
+    <title lang="en">Wheels On The Bus</title>
+    <desc lang="en">Sing and enjoy your favorite nursery rhymes &amp; kids songs such as 'Wheels on The Bus', 'Three Little Pigs', 'Rain Rain Go Away' and many more with NuNu and his friends.</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode3.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20260905170901 +0000" stop="20260905172555 +0000">
+    <title lang="en">Yummy! Hot Cross Buns</title>
+    <desc lang="en">From making yummy hot cross buns for their parents, Learn and enjoy other famous Nursery Rhymes and Songs</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode2.jpg"/>
   </programme>
   <programme channel="p_nunutv" start="20260905170901 +0000" stop="20260905172555 +0000">
     <title lang="en">Yummy! Hot Cross Buns</title>
@@ -129942,6 +130060,15 @@ shows its true colours.</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode1.jpg"/>
   </programme>
+  <programme channel="p_nunutv" start="20260905172556 +0000" stop="20260905174116 +0000">
+    <title lang="en">Baby Shark Dance</title>
+    <desc lang="en">Baby shark doo doo doo doo! In this educational nursery rhyme compilation, you will find some of the most popular NuNu Tv songs, such as ‘Finger Family’, 'Color song’, ‘Being a Good Friend’ and lots more!</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode1.jpg"/>
+  </programme>
   <programme channel="p_nunutv" start="20260905174116 +0000" stop="20260905175554 +0000">
     <title lang="en">Spaceship &amp; Traffic Vehicles</title>
     <desc lang="en">We're Going On A Rocket Ship &amp; other famous Kids Songs &amp; Nursery Rhymes</desc>
@@ -129950,6 +130077,24 @@ shows its true colours.</desc>
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode5.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20260905174116 +0000" stop="20260905175554 +0000">
+    <title lang="en">Spaceship &amp; Traffic Vehicles</title>
+    <desc lang="en">We're Going On A Rocket Ship &amp; other famous Kids Songs &amp; Nursery Rhymes</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode5.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20260905175555 +0000" stop="20260905181557 +0000">
+    <title lang="en">Yes Yes Vegetable &amp; Eating Habit</title>
+    <desc lang="en">The very best nursery rhymes and kids songs for you to sing dance and learn too!</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode4.png"/>
   </programme>
   <programme channel="p_nunutv" start="20260905175555 +0000" stop="20260905181557 +0000">
     <title lang="en">Yes Yes Vegetable &amp; Eating Habit</title>
@@ -129969,6 +130114,24 @@ shows its true colours.</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode6.png"/>
   </programme>
+  <programme channel="p_nunutv" start="20260905181557 +0000" stop="20260905183322 +0000">
+    <title lang="en">New Nursery Rhymes</title>
+    <desc lang="en">Sing and play along with new nursery rhyme &amp; songs compilation while playing with little toys.</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode6.png"/>
+  </programme>
+  <programme channel="p_nunutv" start="20260905183322 +0000" stop="20260905185435 +0000">
+    <title lang="en">Wheels On The Bus</title>
+    <desc lang="en">Sing and enjoy your favorite nursery rhymes &amp; kids songs such as 'Wheels on The Bus', 'Three Little Pigs', 'Rain Rain Go Away' and many more with NuNu and his friends.</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode3.jpg"/>
+  </programme>
   <programme channel="p_nunutv" start="20260905183322 +0000" stop="20260905185435 +0000">
     <title lang="en">Wheels On The Bus</title>
     <desc lang="en">Sing and enjoy your favorite nursery rhymes &amp; kids songs such as 'Wheels on The Bus', 'Three Little Pigs', 'Rain Rain Go Away' and many more with NuNu and his friends.</desc>
@@ -129987,14 +130150,14 @@ shows its true colours.</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode2.jpg"/>
   </programme>
-  <programme channel="p_pktflm" start="20260830172743 +0000" stop="20260830175738 +0000">
-    <title lang="en">Bandage</title>
-    <desc lang="en">A young-adult, aspiring boxer, Aditya, trains with his father to become the best. However, he starts questioning his ambition and skills to make it to the top. Battling with his own troubles, the father tries to motivate Aditya. Will the father-son duo emerge victoriously, or will they crumble down in the face of their adversities?</desc>
-    <language>Hindi</language>
+  <programme channel="p_nunutv" start="20260905185435 +0000" stop="20260905191129 +0000">
+    <title lang="en">Yummy! Hot Cross Buns</title>
+    <desc lang="en">From making yummy hot cross buns for their parents, Learn and enjoy other famous Nursery Rhymes and Songs</desc>
+    <language>English</language>
     <rating>
-      <value>UA-13+</value>
+      <value>U - All Ages</value>
     </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/web/cover/fe308377-cf53-475a-8005-976891f9445a.png"/>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode2.jpg"/>
   </programme>
   <programme channel="p_pktflm" start="20260830175739 +0000" stop="20260830182810 +0000">
     <title lang="en">Broken Stars</title>
@@ -136019,15 +136182,6 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>A - 18+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/71b40db1-05a6-44b6-b16d-badcd8b520a8.png"/>
-  </programme>
-  <programme channel="p_runshf" start="20260830173835 +0000" stop="20260830175537 +0000">
-    <title lang="en">ABC</title>
-    <desc lang="en">For some people life is about triumph against all odds, for some; life is only about complexities. Some walk through this road aimlessly and some; actually become the bridge. ABC is a short film that showcases the dichotomy between two extreme yet simple individuals. It is an empowering film which has the dexterity &amp; optimism to resonate amongst all sections of audience. As humans, we do tend to forget that we are but one world than just mere economy, that it can just take one human, just one moment, just one action to turn around the paths of millions. ABC; is just a sweet gentle reminder of this thought.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00067.png"/>
   </programme>
   <programme channel="p_runshf" start="20260830175443 +0000" stop="20260830180716 +0000">
     <title lang="en">Suno</title>
@@ -148057,15 +148211,6 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPFLM/poster/web/cover/SUPFLM_MOV_00036.png"/>
   </programme>
-  <programme channel="p_supjio" start="20260830160110 +0000" stop="20260830175640 +0000">
-    <title lang="en">Corner Office</title>
-    <desc lang="en">Based on the international best-selling novel The Room. Corner Office an absurdist tale of a man lost in his own space. Our corporate hero is trying to move up in his newly acquired job and discovers a secret room in his office building; his alienation deepens when he discovers a room he's told doesn't exist. Discover human behavior to find humor in the absurdity of everyday life.</desc>
-    <language>English</language>
-    <rating>
-      <value>A - 18+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPHINDI/poster/web/cover/7ddd1b5e-7ded-4378-ae96-76b13e786f18.png"/>
-  </programme>
   <programme channel="p_supjio" start="20260830175640 +0000" stop="20260830201001 +0000">
     <title lang="en">Riders Of Justice</title>
     <desc lang="en">Markus goes home to his teenage daughter, Mathilde, when his wife dies in a train crash. All appears to be a tragic accident until a mathematics geek, who was also a fellow passenger on the train, and his two colleagues show up.</desc>
@@ -148743,15 +148888,6 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
       <value>A - 18+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPHINDI/poster/web/cover/bcff0ef7-cfef-463d-89d2-b88bbede702b.png"/>
-  </programme>
-  <programme channel="p_tttflm" start="20260830174450 +0000" stop="20260830175753 +0000">
-    <title lang="en">Second First Date</title>
-    <desc lang="en">Ishaan and Fiza's story began over a phone screen. After 4 months, Fiza has finally 'dared' to surprise Ishaan, and they had their first, no wait…second…umm actually, they had a second first date! Would it be awkward or unforgettable?</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/TTTFLM/poster/web/cover/TTTFLM_SHF_00039.png"/>
   </programme>
   <programme channel="p_tttflm" start="20260830175753 +0000" stop="20260830180804 +0000">
     <title lang="en">Half Half</title>
@@ -151866,15 +152002,6 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
       <value>UA-13+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PITARATV/poster/web/cover/d0f6d974-63b3-4652-b593-b959c934ec67.png"/>
-  </programme>
-  <programme channel="pitcom" start="20260830173000 +0000" stop="20260830180000 +0000">
-    <title lang="en">Kaato Kaahto</title>
-    <desc lang="en">Entertainment</desc>
-    <language>Punjabi</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PITARCOM/poster/web/cover/1badce49-5f10-4fb3-88a5-0edf39c40d4e.png"/>
   </programme>
   <programme channel="pitcom" start="20260830180000 +0000" stop="20260830183000 +0000">
     <title lang="en">Midnight Tune</title>
@@ -158661,15 +158788,6 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
       <value>UA-13+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRBOL/Web/coverart/dfddecd9-4561-4d52-baf9-f369fafc1fb5.png"/>
-  </programme>
-  <programme channel="shemaroo-filmigaane" start="20260830175126 +0000" stop="20260830175724 +0000">
-    <title lang="en">Mujhe Neend Na Aaye Mujhe Chain Na Aaye</title>
-    <desc lang="en">Mujhe Neend Na Aaye Mujhe Chain Na Aaye</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Web/coverart/e7d304aa-4f09-435b-ae53-308f968bf19f.png"/>
   </programme>
   <programme channel="shemaroo-filmigaane" start="20260830175724 +0000" stop="20260830180353 +0000">
     <title lang="en">Mujhe Allah Ki Qasam Tumse Pyar Ho Gaya</title>
@@ -170121,15 +170239,6 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SIKRAT/Web/coverart/68a92640-cdc5-4f88-86f4-d1c32c38206e.png"/>
   </programme>
-  <programme channel="spdnws" start="20260830173000 +0000" stop="20260830180000 +0000">
-    <title lang="en">Speed 50 + Big News + Special 20</title>
-    <desc lang="en">NEWS</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Web/coverart/b519e3b8-1756-460e-91f8-7d68b950bfd4.png"/>
-  </programme>
   <programme channel="spdnws" start="20260830180000 +0000" stop="20260830183000 +0000">
     <title lang="en">Headlines + Speed 100 + Top News</title>
     <desc lang="en">NEWS</desc>
@@ -172200,7 +172309,25 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/abb0d484-22bf-486d-bd56-92cf9f25eb30.png"/>
   </programme>
+  <programme channel="suptam" start="20260902164457 +0000" stop="20260902183316 +0000">
+    <title lang="en">Death Of Me</title>
+    <desc lang="en">A couple vacationing on a Thai island wakes with no memory and a chilling video showing one killing the other. Caught in black magic and mystery, they must uncover the truth—was she spared, or did nature demand a sacrifice?</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/abb0d484-22bf-486d-bd56-92cf9f25eb30.png"/>
+  </programme>
   <programme channel="suptam" start="20260902183239 +0000" stop="20260902203641 +0000">
+    <title lang="en">Jeepers Creepers 2</title>
+    <desc lang="en">Every 23rd spring for 23days, it gets to eat…Stranded on a lonely road, a school bus full of high school players must defend themselves from the Creeper, the winged, flesh-eating terror.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/c4c1d387-f086-4c1f-957a-a224c8f1bf19.png"/>
+  </programme>
+  <programme channel="suptam" start="20260902183316 +0000" stop="20260902203718 +0000">
     <title lang="en">Jeepers Creepers 2</title>
     <desc lang="en">Every 23rd spring for 23days, it gets to eat…Stranded on a lonely road, a school bus full of high school players must defend themselves from the Creeper, the winged, flesh-eating terror.</desc>
     <language>English</language>
@@ -172236,7 +172363,25 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/58bcb416-f73b-4b9f-9405-1df83c23c58a.png"/>
   </programme>
+  <programme channel="suptam" start="20260902203718 +0000" stop="20260902221326 +0000">
+    <title lang="en">Jurassic Hunt</title>
+    <desc lang="en">In this pulse-pounding Creature thriller, female adventurer Parker joins a crew of male trophy hunters in a remote wilderness park. Their goal: slaughter genetically recreated dinosaurs &amp; work together to evade the giant human-hungry creatures.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/58bcb416-f73b-4b9f-9405-1df83c23c58a.png"/>
+  </programme>
   <programme channel="suptam" start="20260902221249 +0000" stop="20260903002555 +0000">
+    <title lang="en">Lawless</title>
+    <desc lang="en">A riveting, intense story of Crime and Corruption, Loyalty and Love, Brutality and Tenderness, LAWLESS is a rich addition to the American Gangster Canon.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/8913ddc0-0ebd-42f4-9ef9-b76713585b9c.png"/>
+  </programme>
+  <programme channel="suptam" start="20260902221326 +0000" stop="20260903002632 +0000">
     <title lang="en">Lawless</title>
     <desc lang="en">A riveting, intense story of Crime and Corruption, Loyalty and Love, Brutality and Tenderness, LAWLESS is a rich addition to the American Gangster Canon.</desc>
     <language>English</language>
@@ -172272,7 +172417,25 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/de1ee845-2e40-43a0-bbb6-58f6f20ae7ed.png"/>
   </programme>
+  <programme channel="suptam" start="20260903002632 +0000" stop="20260903021623 +0000">
+    <title lang="en">Out Of Death</title>
+    <desc lang="en">Jack Harris who must tap into his killer instincts to survive the wilderness and the human predators as he tries to help a woman who witnesses a crime and finds herself running from a rural mountain town's corrupt police department.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/de1ee845-2e40-43a0-bbb6-58f6f20ae7ed.png"/>
+  </programme>
   <programme channel="suptam" start="20260903021546 +0000" stop="20260903040628 +0000">
+    <title lang="en">Redline</title>
+    <desc lang="en">Redline is an auto/action thriller that features an extensive exotic car collection Phantom Rolls Royce, Lamborghini Murcielago, Enzo Ferrari, Ferrari F430, Ferrari Scaglietti and two Mercedes SLR McLaren AMGs.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/94b87e0d-e9fd-4d7d-b7a2-2cd8e91f7820.png"/>
+  </programme>
+  <programme channel="suptam" start="20260903021623 +0000" stop="20260903040705 +0000">
     <title lang="en">Redline</title>
     <desc lang="en">Redline is an auto/action thriller that features an extensive exotic car collection Phantom Rolls Royce, Lamborghini Murcielago, Enzo Ferrari, Ferrari F430, Ferrari Scaglietti and two Mercedes SLR McLaren AMGs.</desc>
     <language>English</language>
@@ -172308,7 +172471,25 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/42b3b537-32f9-4200-9ce2-9ab2690b61e8.png"/>
   </programme>
+  <programme channel="suptam" start="20260903040705 +0000" stop="20260903060657 +0000">
+    <title lang="en">Room 203</title>
+    <desc lang="en">Lifelong friends Kim and Izzy and roommates are terrified by the vengeful spirits dwelling in their apartment. To save Izzy's life, Kim may need to sacrifice her own. Based on the Internationally Bestselling novel by Kamon Nanami.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/42b3b537-32f9-4200-9ce2-9ab2690b61e8.png"/>
+  </programme>
   <programme channel="suptam" start="20260903060620 +0000" stop="20260903075736 +0000">
+    <title lang="en">Spread</title>
+    <desc lang="en">A sex comedy centered on a serial womanizer and his jilted lover. In Los Angeles, Nikki is homeless, car-less and closing in on 30, but he's good-looking, moving from one wealthy woman of 35 or 40 to another, a kept boy-toy.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SUPTAM/Web/coverart/346eece2-78fc-4b19-83ab-99d07ce9ac4b.png"/>
+  </programme>
+  <programme channel="suptam" start="20260903060657 +0000" stop="20260903075813 +0000">
     <title lang="en">Spread</title>
     <desc lang="en">A sex comedy centered on a serial womanizer and his jilted lover. In Los Angeles, Nikki is homeless, car-less and closing in on 30, but he's good-looking, moving from one wealthy woman of 35 or 40 to another, a kept boy-toy.</desc>
     <language>English</language>
@@ -172344,7 +172525,25 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/97910565-11fe-439a-86b5-55056e8d454a.png"/>
   </programme>
+  <programme channel="suptam" start="20260903075813 +0000" stop="20260903095038 +0000">
+    <title lang="en">The Catcher Was A Spy</title>
+    <desc lang="en">This gripping, espionage thriller brings to life the true story of Moe Berg a World War II spy. His mission: go behind enemy lines in Europe to assassinate the Nazi's chief nuclear scientist before the Germans develop an atomic bomb.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/97910565-11fe-439a-86b5-55056e8d454a.png"/>
+  </programme>
   <programme channel="suptam" start="20260903095001 +0000" stop="20260903120716 +0000">
+    <title lang="en">The Good Boss</title>
+    <desc lang="en">What makes a good boss? Charming yet manipulative, he meddles in employees’ lives and crosses every line. Javier Bardem stars in this darkly comic tale where ambition sparks chaos with unexpected consequences.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/446f3d55-68fd-4480-b3c6-ccf6ef9152f6.png"/>
+  </programme>
+  <programme channel="suptam" start="20260903095038 +0000" stop="20260903120753 +0000">
     <title lang="en">The Good Boss</title>
     <desc lang="en">What makes a good boss? Charming yet manipulative, he meddles in employees’ lives and crosses every line. Javier Bardem stars in this darkly comic tale where ambition sparks chaos with unexpected consequences.</desc>
     <language>English</language>
@@ -172380,7 +172579,25 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/7a494518-19a7-441c-a59f-554ffd8c360f.png"/>
   </programme>
+  <programme channel="suptam" start="20260903120753 +0000" stop="20260903140245 +0000">
+    <title lang="en">Universal Soldier: Regeneration</title>
+    <desc lang="en">Terrorists kidnap Russian Prime Minister's 2 kids, take Chernobyl Nuclear Power Plant &amp; threaten to blow up reactor. Four Universal Soldiers go in and they are world's only hope is to reactivate decommissioned Universal Soldier Luc Deveraux.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/7a494518-19a7-441c-a59f-554ffd8c360f.png"/>
+  </programme>
   <programme channel="suptam" start="20260903140208 +0000" stop="20260903155401 +0000">
+    <title lang="en">Vivarium</title>
+    <desc lang="en">A Young couple thinking about buying their perfect single family starter home. They visits a real estate agency where they are received by a strange sales agent and find themselves trapped in a surreal, mysterious, maze-like nightmare.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/55bd9339-e92d-401c-968c-82e3a437a088.png"/>
+  </programme>
+  <programme channel="suptam" start="20260903140245 +0000" stop="20260903155438 +0000">
     <title lang="en">Vivarium</title>
     <desc lang="en">A Young couple thinking about buying their perfect single family starter home. They visits a real estate agency where they are received by a strange sales agent and find themselves trapped in a surreal, mysterious, maze-like nightmare.</desc>
     <language>English</language>
@@ -172416,7 +172633,25 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/5f2f5193-5712-4d1d-b479-a8527327ae4e.png"/>
   </programme>
+  <programme channel="suptam" start="20260903155438 +0000" stop="20260903180944 +0000">
+    <title lang="en">Beauty And The Beast</title>
+    <desc lang="en">This timeless tale was originally written in 1757. Could Beauty ever love the ghastly lord, the Beast? Only true love can break the spell.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/5f2f5193-5712-4d1d-b479-a8527327ae4e.png"/>
+  </programme>
   <programme channel="suptam" start="20260903180907 +0000" stop="20260903200637 +0000">
+    <title lang="en">Corner Office</title>
+    <desc lang="en">Based on the bestseller The Room, Corner Office follows a man lost in corporate absurdity. As he climbs the ladder, he finds a secret room that “doesn’t exist,” spiraling deeper into alienation and surreal humor.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/783a7bc6-80b2-4f87-8a7b-f3412c98f811.png"/>
+  </programme>
+  <programme channel="suptam" start="20260903180944 +0000" stop="20260903200714 +0000">
     <title lang="en">Corner Office</title>
     <desc lang="en">Based on the bestseller The Room, Corner Office follows a man lost in corporate absurdity. As he climbs the ladder, he finds a secret room that “doesn’t exist,” spiraling deeper into alienation and surreal humor.</desc>
     <language>English</language>
@@ -172452,7 +172687,25 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/a37d84f9-4772-4e56-9190-9c578ae1cfba.png"/>
   </programme>
+  <programme channel="suptam" start="20260903200714 +0000" stop="20260903215418 +0000">
+    <title lang="en">Haywire</title>
+    <desc lang="en">A female assassin takes on covert global missions no government will admit to. Hunted worldwide, she must use all her skills to survive and eliminate the final thread of a deadly conspiracy against her.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/a37d84f9-4772-4e56-9190-9c578ae1cfba.png"/>
+  </programme>
   <programme channel="suptam" start="20260903215341 +0000" stop="20260903233457 +0000">
+    <title lang="en">Jurassic Attack</title>
+    <desc lang="en">A group of soldiers attempting to rescue a hostage from a terrorist crash land into unfamiliar jungles which are inhabited by a group of long hidden dinosaurs. Now they must find a way out before becoming prey for prehistoric predators.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/a2c6dd68-7346-4594-9e8a-d2bc3b2b653c.png"/>
+  </programme>
+  <programme channel="suptam" start="20260903215418 +0000" stop="20260903233534 +0000">
     <title lang="en">Jurassic Attack</title>
     <desc lang="en">A group of soldiers attempting to rescue a hostage from a terrorist crash land into unfamiliar jungles which are inhabited by a group of long hidden dinosaurs. Now they must find a way out before becoming prey for prehistoric predators.</desc>
     <language>English</language>
@@ -172488,7 +172741,25 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/7b11188f-b75c-451e-baca-25586ad097aa.png"/>
   </programme>
+  <programme channel="suptam" start="20260903233534 +0000" stop="20260904015238 +0000">
+    <title lang="en">King Lear</title>
+    <desc lang="en">Set in a fictional present, King Lear explores what it means to be human—cruelty, love, and loss. Chaos unfolds when an aging king gives power to his corrupt daughters and rejects the only one who truly loves him.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/7b11188f-b75c-451e-baca-25586ad097aa.png"/>
+  </programme>
   <programme channel="suptam" start="20260904015201 +0000" stop="20260904033118 +0000">
+    <title lang="en">Maneater</title>
+    <desc lang="en">While the group of friends explore a beautiful small island, all hell breaks loose for Jessie as the rogue shark sets its hunting grounds within the vicinity. A Father with a score to settle brings his war to their doorstep.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/9bd9a0c3-e0f8-4ab1-9cfc-c5c21432cdcc.png"/>
+  </programme>
+  <programme channel="suptam" start="20260904015238 +0000" stop="20260904033155 +0000">
     <title lang="en">Maneater</title>
     <desc lang="en">While the group of friends explore a beautiful small island, all hell breaks loose for Jessie as the rogue shark sets its hunting grounds within the vicinity. A Father with a score to settle brings his war to their doorstep.</desc>
     <language>English</language>
@@ -172524,7 +172795,25 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/08f1862b-2ed5-4fac-a13e-a6fee0326e5e.png"/>
   </programme>
+  <programme channel="suptam" start="20260904033155 +0000" stop="20260904050700 +0000">
+    <title lang="en">Poseidon Rex</title>
+    <desc lang="en">While searching for lost treasure, deep sea divers unleash a monster that causes havoc and destruction not only in sea but also on land.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/08f1862b-2ed5-4fac-a13e-a6fee0326e5e.png"/>
+  </programme>
   <programme channel="suptam" start="20260904050623 +0000" stop="20260904071318 +0000">
+    <title lang="en">Rememory</title>
+    <desc lang="en">Memories are inescapable—painful, joyful, haunting. After inventor Gordon dies mysteriously, Sam uses his Rememory machine to probe others’ memories for the truth. A gripping noir mystery thriller unfolds. REMEMORY is a noir mystery Thriller.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/43877be9-a876-4e3f-adb9-bac8da2f8b33.png"/>
+  </programme>
+  <programme channel="suptam" start="20260904050700 +0000" stop="20260904071355 +0000">
     <title lang="en">Rememory</title>
     <desc lang="en">Memories are inescapable—painful, joyful, haunting. After inventor Gordon dies mysteriously, Sam uses his Rememory machine to probe others’ memories for the truth. A gripping noir mystery thriller unfolds. REMEMORY is a noir mystery Thriller.</desc>
     <language>English</language>
@@ -172560,7 +172849,25 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/0500dffa-37b5-4ec3-bbc3-88f624f9c3d6.png"/>
   </programme>
+  <programme channel="suptam" start="20260904071355 +0000" stop="20260904090757 +0000">
+    <title lang="en">Sky Sharks</title>
+    <desc lang="en">A team of geologists uncover an old Nazi warship still intact where dark experiments had occurred. In order to conquer the world, the Nazis created rocket-powered sharks whose pilots are genetically mutated with supernatural powers.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/0500dffa-37b5-4ec3-bbc3-88f624f9c3d6.png"/>
+  </programme>
   <programme channel="suptam" start="20260904090720 +0000" stop="20260904105845 +0000">
+    <title lang="en">Spytime</title>
+    <desc lang="en">Anacleto, a former secret agent, is forced to come out of retirement and protect his son, Adolfo, when his arch-enemy, Vazquez, breaks out of prison and targets him</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/615f0dda-148b-491a-a012-c8d50e6aab16.png"/>
+  </programme>
+  <programme channel="suptam" start="20260904090757 +0000" stop="20260904105922 +0000">
     <title lang="en">Spytime</title>
     <desc lang="en">Anacleto, a former secret agent, is forced to come out of retirement and protect his son, Adolfo, when his arch-enemy, Vazquez, breaks out of prison and targets him</desc>
     <language>English</language>
@@ -172596,7 +172903,25 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/77b05386-1477-41d5-a9b7-cabd8167343f.png"/>
   </programme>
+  <programme channel="suptam" start="20260904105922 +0000" stop="20260904123428 +0000">
+    <title lang="en">The Free Fall</title>
+    <desc lang="en">The Free Fall is a deeply personal horror thriller, a mind bending pressure cooker that constantly challenges us, hurling us towards one of the most shocking cinematic reveals imaginable.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/77b05386-1477-41d5-a9b7-cabd8167343f.png"/>
+  </programme>
   <programme channel="suptam" start="20260904123351 +0000" stop="20260904143927 +0000">
+    <title lang="en">Universal Soldier: Day Of Reckoning</title>
+    <desc lang="en">Haunted by images of the attack, he vows to kill the man responsible: The fight pits John against Andrew Scott and an army of genetically enhanced warriors; meanwhile, he must contend with a Uni Sol in relentless pursuit.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/25b46387-aaa5-43ae-a9c7-5f3891e0c9a4.png"/>
+  </programme>
+  <programme channel="suptam" start="20260904123428 +0000" stop="20260904144004 +0000">
     <title lang="en">Universal Soldier: Day Of Reckoning</title>
     <desc lang="en">Haunted by images of the attack, he vows to kill the man responsible: The fight pits John against Andrew Scott and an army of genetically enhanced warriors; meanwhile, he must contend with a Uni Sol in relentless pursuit.</desc>
     <language>English</language>
@@ -172632,7 +172957,25 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/15efabda-5902-4996-88e1-aab799a581cb.png"/>
   </programme>
+  <programme channel="suptam" start="20260904144004 +0000" stop="20260904163457 +0000">
+    <title lang="en">Untraceable</title>
+    <desc lang="en">A FBI secret service agent, gets caught in a deadly cat-and-mouse game with a serial killer who knows that people will log onto an "untraceable" website where he conducts violent and painful murders LIVE on the net.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/15efabda-5902-4996-88e1-aab799a581cb.png"/>
+  </programme>
   <programme channel="suptam" start="20260904163420 +0000" stop="20260904180159 +0000">
+    <title lang="en">Wrecker</title>
+    <desc lang="en">Two beautiful young women taking a trip through the countryside, are terrorized by an unknown driver trying to run them down in a heavy duty tow truck.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/31812a20-0ff1-440b-a225-a889ed1f33bc.png"/>
+  </programme>
+  <programme channel="suptam" start="20260904163457 +0000" stop="20260904180236 +0000">
     <title lang="en">Wrecker</title>
     <desc lang="en">Two beautiful young women taking a trip through the countryside, are terrorized by an unknown driver trying to run them down in a heavy duty tow truck.</desc>
     <language>English</language>
@@ -172668,7 +173011,25 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/f452fa4a-d1f4-49bd-a85f-5aa931dc59cb.png"/>
   </programme>
+  <programme channel="suptam" start="20260904180236 +0000" stop="20260904203635 +0000">
+    <title lang="en">Rebel</title>
+    <desc lang="en">A young man leaves Belgium to help war victims in Syria, but is forced to join an armed group and is left stranded in AL Raqqa. While at home his little brother becomes easy prey for jihadi recruiters. The only thing their mother has left with is to protect: her Son.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/f452fa4a-d1f4-49bd-a85f-5aa931dc59cb.png"/>
+  </programme>
   <programme channel="suptam" start="20260904203558 +0000" stop="20260904230724 +0000">
+    <title lang="en">The Hurt Locker</title>
+    <desc lang="en">THE HURT LOCKER is an intense portrayal of elite soldiers who have one of the most dangerous jobs in the world: disarming bombs during the Iraq War.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/bf5e7138-29cb-46b2-a89c-950fb49ab4dc.png"/>
+  </programme>
+  <programme channel="suptam" start="20260904203635 +0000" stop="20260904230801 +0000">
     <title lang="en">The Hurt Locker</title>
     <desc lang="en">THE HURT LOCKER is an intense portrayal of elite soldiers who have one of the most dangerous jobs in the world: disarming bombs during the Iraq War.</desc>
     <language>English</language>
@@ -172704,7 +173065,25 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/8e34cbbb-8af3-4c11-9f72-cb9f9e2dbed1.png"/>
   </programme>
+  <programme channel="suptam" start="20260904230801 +0000" stop="20260905010217 +0000">
+    <title lang="en">Orphan First Kill</title>
+    <desc lang="en">After orchestrating a brilliant escape from an Estonian psychiatric facility, Esther travels to America by impersonating the missing daughter of a wealthy family. Yet, an unexpected twist arises that pits her against a mother who will protect her family from the murderous "child" at any cost.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/8e34cbbb-8af3-4c11-9f72-cb9f9e2dbed1.png"/>
+  </programme>
   <programme channel="suptam" start="20260905010140 +0000" stop="20260905024630 +0000">
+    <title lang="en">Hatching</title>
+    <desc lang="en">In the most terrifying creature feature Hatching is a story about lovelessness that creates a monster. After finding a wounded bird in the woods, a 12 year old brings its strange egg home, she hides it and keeps it warm until it hatches. The creature that emerges becomes her closest friend and a living nightmare. What has she been hatching under everyone's noses that shocks them all?</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/fd0d0c31-70c2-4555-9b04-90ceb2598c22.png"/>
+  </programme>
+  <programme channel="suptam" start="20260905010217 +0000" stop="20260905024707 +0000">
     <title lang="en">Hatching</title>
     <desc lang="en">In the most terrifying creature feature Hatching is a story about lovelessness that creates a monster. After finding a wounded bird in the woods, a 12 year old brings its strange egg home, she hides it and keeps it warm until it hatches. The creature that emerges becomes her closest friend and a living nightmare. What has she been hatching under everyone's noses that shocks them all?</desc>
     <language>English</language>
@@ -172740,7 +173119,25 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/26dec7c1-a417-4120-830c-5d2493c3acee.png"/>
   </programme>
+  <programme channel="suptam" start="20260905024707 +0000" stop="20260905044235 +0000">
+    <title lang="en">The Descent</title>
+    <desc lang="en">Six girlfriends, a deep cave expedition going horribly wrong, suffocating miles under the surface of Earth, breed of predators smells their skin.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/26dec7c1-a417-4120-830c-5d2493c3acee.png"/>
+  </programme>
   <programme channel="suptam" start="20260905044158 +0000" stop="20260905063336 +0000">
+    <title lang="en">The Descent Part 2</title>
+    <desc lang="en">Refusing to believe her story about cave-dwelling monsters, the sole survivor of a spelunking exploration gone horribly wrong is forced to follow the authorities back into the caves where something awaits. The trapped group soon faces the hunger and savage breed of predators while trying to find a way out.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/92f19a59-3cf9-4832-bbd0-6a6cf85d7a11.png"/>
+  </programme>
+  <programme channel="suptam" start="20260905044235 +0000" stop="20260905063413 +0000">
     <title lang="en">The Descent Part 2</title>
     <desc lang="en">Refusing to believe her story about cave-dwelling monsters, the sole survivor of a spelunking exploration gone horribly wrong is forced to follow the authorities back into the caves where something awaits. The trapped group soon faces the hunger and savage breed of predators while trying to find a way out.</desc>
     <language>English</language>
@@ -173856,6 +174253,15 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/7d414516-1cc7-4634-9769-462817a49050.png"/>
   </programme>
+  <programme channel="suptel" start="20260905111203 +0000" stop="20260905132411 +0000">
+    <title lang="en">Bad Samaritan</title>
+    <desc lang="en">Bad Samaritan is a terrifying thriller of two young car valets who use their business as a front to burglarize houses of customers while they eat. Their lives are turned upside down when they rob the home of a demented serial killer after making a shocking discovery of a woman being held captive. They must choose to run and hide, or face the killer whose dark secrets they have just exposed.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/7d414516-1cc7-4634-9769-462817a49050.png"/>
+  </programme>
   <programme channel="suptel" start="20260905132411 +0000" stop="20260905152617 +0000">
     <title lang="en">Cold Skin</title>
     <desc lang="en">In 1914, a young man arrives at a remote island near the Antarctic Circle to take the post of weather observer only to find himself trapped in a watchtower besieged by deadly creatures which live in hiding on the island.</desc>
@@ -173864,6 +174270,24 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
       <value>A - 18+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/beccb651-1263-43de-8acf-140c83cfbc8a.png"/>
+  </programme>
+  <programme channel="suptel" start="20260905132411 +0000" stop="20260905152617 +0000">
+    <title lang="en">Cold Skin</title>
+    <desc lang="en">In 1914, a young man arrives at a remote island near the Antarctic Circle to take the post of weather observer only to find himself trapped in a watchtower besieged by deadly creatures which live in hiding on the island.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/beccb651-1263-43de-8acf-140c83cfbc8a.png"/>
+  </programme>
+  <programme channel="suptel" start="20260905152617 +0000" stop="20260905173219 +0000">
+    <title lang="en">Jeepers Creepers 2</title>
+    <desc lang="en">Every 23rd spring for 23days, it gets to eat…Stranded on a lonely road, a school bus full of high school players must defend themselves from the Creeper, the winged, flesh-eating terror - ancient beast that resurfaces on the earth every 23 years to feed.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/40b32be2-b416-408a-a091-96d720b780a4.png"/>
   </programme>
   <programme channel="suptel" start="20260905152617 +0000" stop="20260905173219 +0000">
     <title lang="en">Jeepers Creepers 2</title>
@@ -173883,6 +174307,15 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/5c240540-412f-4e99-bf02-300f7c36679b.png"/>
   </programme>
+  <programme channel="suptel" start="20260905173219 +0000" stop="20260905190827 +0000">
+    <title lang="en">Jurassic Hunt</title>
+    <desc lang="en">In this pulse-pounding Creature thriller, Female adventurer Parker joins a crew of male trophy hunters in a remote wilderness park. Their goal: slaughter genetically recreated dinosaurs &amp; must work together to evade the giant human-hungry creatures and mercenaries hired to finish them off. This battle's about to become primitive.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/5c240540-412f-4e99-bf02-300f7c36679b.png"/>
+  </programme>
   <programme channel="suptel" start="20260905190827 +0000" stop="20260905212133 +0000">
     <title lang="en">Lawless</title>
     <desc lang="en">We control the fear, you understand? Without the fear, we are all good as dead.’ The notorious gangster Al Capone observed that “Prohibition has made nothing but trouble,” and “I am like any other man. All I do is supply a demand.” Acclaimed director delivers a thrillingly vivid slice of American outlaw history in his epic gangster tale, LAWLESS. LAWLESS is the true story of the infamous Bondurant Brothers: three bootlegging siblings who made a run for the American Dream in Prohibition-era Virginia. The film gathers an ensemble of gifted, dynamic new-generation stars – Tom Hardy, Shia LaBeouf, Jessica Chastain, Jason Clarke, Mia Wasikowska, Dane DeHaan – alongside two of the finest actors of their generations, Guy Pearce and Gary Oldman. A riveting, intense story of Crime and Corruption, Loyalty and Love, Brutality and Tenderness, LAWLESS is a rich addition to the American Gangster Canon.</desc>
@@ -173891,6 +174324,24 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
       <value>A - 18+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/270df0d3-1b1b-4805-bea3-5db08dcf6e33.png"/>
+  </programme>
+  <programme channel="suptel" start="20260905190827 +0000" stop="20260905212133 +0000">
+    <title lang="en">Lawless</title>
+    <desc lang="en">We control the fear, you understand? Without the fear, we are all good as dead.’ The notorious gangster Al Capone observed that “Prohibition has made nothing but trouble,” and “I am like any other man. All I do is supply a demand.” Acclaimed director delivers a thrillingly vivid slice of American outlaw history in his epic gangster tale, LAWLESS. LAWLESS is the true story of the infamous Bondurant Brothers: three bootlegging siblings who made a run for the American Dream in Prohibition-era Virginia. The film gathers an ensemble of gifted, dynamic new-generation stars – Tom Hardy, Shia LaBeouf, Jessica Chastain, Jason Clarke, Mia Wasikowska, Dane DeHaan – alongside two of the finest actors of their generations, Guy Pearce and Gary Oldman. A riveting, intense story of Crime and Corruption, Loyalty and Love, Brutality and Tenderness, LAWLESS is a rich addition to the American Gangster Canon.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/270df0d3-1b1b-4805-bea3-5db08dcf6e33.png"/>
+  </programme>
+  <programme channel="suptel" start="20260905212133 +0000" stop="20260905231124 +0000">
+    <title lang="en">Out Of Death</title>
+    <desc lang="en">From the producers of The Irishman &amp; Lone Survivor comes this thrilling story of Jack Harris (Bruce Willis) who must tap into his killer instincts to survive the wilderness and the human predators as he tries to help a woman who witnesses a crime and finds herself running from a rural mountain town's corrupt police department after she took a video of police killing a drug dealer.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/bd4f63c0-a696-4838-b87d-dc10b6407452.png"/>
   </programme>
   <programme channel="suptel" start="20260905212133 +0000" stop="20260905231124 +0000">
     <title lang="en">Out Of Death</title>
@@ -175268,15 +175719,6 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SWASTO/Web/coverart/2a9a1f3a-e418-4a91-bb2d-3e6f85ed5942.png"/>
-  </programme>
-  <programme channel="tv9bha" start="20260830173000 +0000" stop="20260830180000 +0000">
-    <title lang="en">Super Prime Time Rpt</title>
-    <desc lang="en">The Host Presents Detailed News On The Most Important And Public Attention Issue In Politics.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/TV9BHA/Web/coverart/dfd882d3-529f-4c74-a6c8-44f0f4c9e10a.png"/>
   </programme>
   <programme channel="tv9bha" start="20260830180000 +0000" stop="20260830183000 +0000">
     <title lang="en">Super Prime Time Rpt...</title>
@@ -177878,15 +178320,6 @@ But as they say, there’s nothing mom can’t solve. With that belief on the on
       <value>UA-13+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/TV9BHA/Web/coverart/dfd882d3-529f-4c74-a6c8-44f0f4c9e10a.png"/>
-  </programme>
-  <programme channel="tv9mar" start="20260830173000 +0000" stop="20260830180000 +0000">
-    <title lang="en">News Top9</title>
-    <desc lang="en">The Anchor Presents The Latest News And Developments On 9 Differenct Topics Or Fields From State And Nation</desc>
-    <language>Marathi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/TV9MAR/Mobile/coverart/bbfc1d62-3bc7-4d48-9bd3-3bf9a390870e.png"/>
   </programme>
   <programme channel="tv9mar" start="20260830180000 +0000" stop="20260830183000 +0000">
     <title lang="en">Mahtvachya Batmya</title>
@@ -185183,15 +185616,6 @@ and Dd Seg ( Hearing Impaired )</desc>
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/TV9TEL/Mobile/coverart/b40446db-6c7c-4c66-91f6-ca3d77ee30cd.png"/>
-  </programme>
-  <programme channel="xtrspo" start="20260830171228 +0000" stop="20260830175929 +0000">
-    <title lang="en">Peace And Left</title>
-    <desc lang="en">A surf series following Hugues Oyarzabal, capturing spectacular first-person barrel footage at iconic spots around the globe, offering a rare inside view of high-performance surfing.</desc>
-    <language>English</language>
-    <rating>
-      <value>A - 18+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/XTRSPO/Mobile/coverart/ad0d3ed0-873c-4f07-ad21-71619ce22768.png"/>
   </programme>
   <programme channel="xtrspo" start="20260830175929 +0000" stop="20260830185847 +0000">
     <title lang="en">Pour Vous Servir</title>
