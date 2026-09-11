@@ -96,10 +96,6 @@
     <display-name>News18 Tamil Nadu</display-name>
     <icon src="https://metaimg.sundirectgo.in/epgChannels/141087_8e522aea-a089-45d7-9abc-d61e2630a35b.png" />
   </channel>
-  <channel id="1715605">
-    <display-name>News18 Tamil Nadu</display-name>
-    <icon src="https://metaimg.sundirectgo.in/epgChannels/141087_8e522aea-a089-45d7-9abc-d61e2630a35b.png" />
-  </channel>
   <channel id="143258">
     <display-name>Sun News</display-name>
     <icon src="https://metaimg.sundirectgo.in/epgChannels/143258_38c2bede-2bf3-44f5-892e-d68cc42180ba.png" />
@@ -7913,258 +7909,6 @@
   <programme channel="1707770" start="20260911230000 +0530" stop="20260912000000 +0530">
     <title>Solladhigaram</title>
     <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/a67c38e3-4312-401c-b5a5-3ccc99fc12f5_News18TamilNadu_Solladhigaram_1358236.jpg" />
-    <desc>Unspoken issues and controversies discussed and debated.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260911</date>
-  </programme>
-  <programme channel="1715605" start="20260911000000 +0530" stop="20260911060000 +0530">
-    <title>Super 30</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/f2943836-fbf7-4a68-b2fd-d757f13e2602_News18TamilNadu_Super30_1544002.jpg" />
-    <desc>A rapid news bulletin covering 30 important headlines of the day.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260911</date>
-  </programme>
-  <programme channel="1715605" start="20260911060000 +0530" stop="20260911070000 +0530">
-    <title>Ettuthikkum 80</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/044aab43-a1a0-412b-ab8d-472046f36296_News18TamilNadu_Ettuthikkum80_1660618.jpg" />
-    <desc>A quick roundup of 80 crucial news stories across various sectors.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260911</date>
-  </programme>
-  <programme channel="1715605" start="20260911070000 +0530" stop="20260911080000 +0530">
-    <title>7 Mani Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/6031b1be-5efb-4d3c-a287-e07b891426c9_News18TamilNadu_7ManiSeithigal_460849.jpg" />
-    <desc>Get the latest political, social, and sports news from India and globally.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260911</date>
-  </programme>
-  <programme channel="1715605" start="20260911080000 +0530" stop="20260911090000 +0530">
-    <title>Super 60 News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/5959389c-f24a-4bdb-8740-a52b19edb01b_News18TamilNadu_Super60News_1387845.jpg" />
-    <desc>A comprehensive news segment with 60 key stories from the day.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260911</date>
-  </programme>
-  <programme channel="1715605" start="20260911090000 +0530" stop="20260911093000 +0530">
-    <title>Vanakkam Tamilnadu</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/daac1d03-e8db-4e8d-8564-7a6880450d7e_News18TamilNadu_VanakkamTamilnadu_533375.jpg" />
-    <desc>Catch the latest updates on news, current events, and socio-political happenings!</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260911</date>
-  </programme>
-  <programme channel="1715605" start="20260911093000 +0530" stop="20260911100000 +0530">
-    <title>18 Dharbar</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/198a8397-4688-4e97-833d-d320e5801fca_News18TamilNadu_18Dharbar_1654115.jpg" />
-    <desc>In-depth discussions on the latest political issues and government policies.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260911</date>
-  </programme>
-  <programme channel="1715605" start="20260911100000 +0530" stop="20260911110000 +0530">
-    <title>10 Mani Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/46380876-5cb9-47e2-8906-a979d1d51fa7_News18TamilNadu_10ManiSeithigal_460841.jpg" />
-    <desc>Get the latest political, social, and sports news from India and globally.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260911</date>
-  </programme>
-  <programme channel="1715605" start="20260911110000 +0530" stop="20260911120000 +0530">
-    <title>11 Mani Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/7ade455f-f9c0-422e-b8ad-0f4d2010c658_News18TamilNadu_11ManiSeithigal_460842.jpg" />
-    <desc>Get the latest political, social, and sports news from India and globally.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260911</date>
-  </programme>
-  <programme channel="1715605" start="20260911120000 +0530" stop="20260911130000 +0530">
-    <title>12 Mani Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/765e8676-b513-4d97-91d3-86e973739868_News18TamilNadu_12ManiSeithigal_460843.jpg" />
-    <desc>Get the latest political, social, and sports news from India and globally.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260911</date>
-  </programme>
-  <programme channel="1715605" start="20260911130000 +0530" stop="20260911133000 +0530">
-    <title>1 Mani Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/fe6b777f-58fa-4ce6-a1bb-e0e2432dc0f9_News18TamilNadu_1ManiSeithigal_460840.jpg" />
-    <desc>Get the latest political, social, and sports news from India and globally.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260911</date>
-  </programme>
-  <programme channel="1715605" start="20260911133000 +0530" stop="20260911140000 +0530">
-    <title>Crime Time</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/9ef109e8-ecca-487e-9939-0b972e3d24ab_News18TamilNadu_CrimeTime_533372.jpg" />
-    <desc>A deep dive into recent crimes, investigations, and law enforcement updates.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260911</date>
-  </programme>
-  <programme channel="1715605" start="20260911140000 +0530" stop="20260911143000 +0530">
-    <title>2 Mani Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/ec368517-2fe7-47d6-87f9-1c957ac0bdaa_News18TamilNadu_2ManiSeithigal_460844.jpg" />
-    <desc>Get the latest political, social, and sports news from India and globally.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260911</date>
-  </programme>
-  <programme channel="1715605" start="20260911143000 +0530" stop="20260911150000 +0530">
-    <title>Kadhai Alla Varalaru</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/33f089e7-0918-4ce1-b38a-1b7afde14060_News18TamilNadu_KadhaiAllaVaralaru_1026957.jpg" />
-    <desc>Exploring untold historical events and their impact on present times.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260911</date>
-  </programme>
-  <programme channel="1715605" start="20260911150000 +0530" stop="20260911153000 +0530">
-    <title>3 Mani Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/49158bf9-0de2-4807-a852-2f6d6674c73e_News18TamilNadu_3ManiSeithigal_460846.jpg" />
-    <desc>Get the latest political, social, and sports news from India and globally.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260911</date>
-  </programme>
-  <programme channel="1715605" start="20260911153000 +0530" stop="20260911160000 +0530">
-    <title>Super 30</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/140149a1-d122-415f-af2d-dd0e4d1fd60f_News18TamilNadu_Super30_1544002.jpg" />
-    <desc>A rapid news bulletin covering 30 important headlines of the day.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260911</date>
-  </programme>
-  <programme channel="1715605" start="20260911160000 +0530" stop="20260911163000 +0530">
-    <title>4 Mani Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/58d61622-2fc6-4305-9c1b-73bfced10ef9_News18TamilNadu_4ManiSeithigal_460847.jpg" />
-    <desc>Get the latest political, social, and sports news from India and globally.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260911</date>
-  </programme>
-  <programme channel="1715605" start="20260911163000 +0530" stop="20260911170000 +0530">
-    <title>Crime Time</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/2716ce9e-9f9b-4866-98c7-136dc18cb628_News18TamilNadu_CrimeTime_533372.jpg" />
-    <desc>A deep dive into recent crimes, investigations, and law enforcement updates.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260911</date>
-  </programme>
-  <programme channel="1715605" start="20260911170000 +0530" stop="20260911180000 +0530">
-    <title>5 Mani Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/b4d4a275-d81b-4501-8140-a3c2844edc0c_News18TamilNadu_5ManiSeithigal_460848.jpg" />
-    <desc>Get the latest political, social, and sports news from India and globally.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260911</date>
-  </programme>
-  <programme channel="1715605" start="20260911180000 +0530" stop="20260911183000 +0530">
-    <title>Super 30</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/8e68e3ea-cf4e-42ea-8e65-c1564c47d0b5_News18TamilNadu_Super30_1544002.jpg" />
-    <desc>A rapid news bulletin covering 30 important headlines of the day.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260911</date>
-  </programme>
-  <programme channel="1715605" start="20260911183000 +0530" stop="20260911190000 +0530">
-    <title>Kadhai Alla Varalaru</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/553ef5e7-f292-41d7-9c30-75590189cf3c_News18TamilNadu_KadhaiAllaVaralaru_1026957.jpg" />
-    <desc>Exploring untold historical events and their impact on present times.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260911</date>
-  </programme>
-  <programme channel="1715605" start="20260911190000 +0530" stop="20260911193000 +0530">
-    <title>30 Minute - Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/5c89ec97-c2ab-4984-bcc9-bbae0d21155f_News18TamilNadu_30Minute-Headlines_1716790.jpg" />
-    <desc>Catch the latest live updates on politics, economics, and social stories nationwide!</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260911</date>
-  </programme>
-  <programme channel="1715605" start="20260911193000 +0530" stop="20260911200000 +0530">
-    <title>Crime Time</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/05f35e33-383a-4b72-98da-8cb7786de731_News18TamilNadu_CrimeTime_533372.jpg" />
-    <desc>A deep dive into recent crimes, investigations, and law enforcement updates.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260911</date>
-  </programme>
-  <programme channel="1715605" start="20260911200000 +0530" stop="20260911210000 +0530">
-    <title>Solladhigaram</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/5c4c7b19-0d44-48df-80e6-1992ae195058_News18TamilNadu_Solladhigaram_1358236.jpg" />
-    <desc>Unspoken issues and controversies discussed and debated.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260911</date>
-  </programme>
-  <programme channel="1715605" start="20260911210000 +0530" stop="20260911213000 +0530">
-    <title>Oru Nimida Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/d113f788-a89b-48e9-9369-569a6504d3e0_News18TamilNadu_OruNimidaSeithigal_1403336.jpg" />
-    <desc>Breaking news and headlines delivered in a minute.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260911</date>
-  </programme>
-  <programme channel="1715605" start="20260911213000 +0530" stop="20260911220000 +0530">
-    <title>Kadhai Alla Varalaru</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/1886d48f-6cc3-45be-b213-96905e5031e7_News18TamilNadu_KadhaiAllaVaralaru_1026957.jpg" />
-    <desc>Exploring untold historical events and their impact on present times.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260911</date>
-  </programme>
-  <programme channel="1715605" start="20260911220000 +0530" stop="20260911223000 +0530">
-    <title>Crime Time</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/aca12e6d-da9c-45f6-9c8b-6a4bb1cb66b0_News18TamilNadu_CrimeTime_533372.jpg" />
-    <desc>A deep dive into recent crimes, investigations, and law enforcement updates.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260911</date>
-  </programme>
-  <programme channel="1715605" start="20260911223000 +0530" stop="20260911230000 +0530">
-    <title>18 Dharbar</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/919fa02a-bb5d-4c5c-a431-b84f2256b01b_News18TamilNadu_18Dharbar_1654115.jpg" />
-    <desc>In-depth discussions on the latest political issues and government policies.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260911</date>
-  </programme>
-  <programme channel="1715605" start="20260911230000 +0530" stop="20260912000000 +0530">
-    <title>Solladhigaram</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/2929d3a8-90f5-4598-8bf6-cfbc6671318e_News18TamilNadu_Solladhigaram_1358236.jpg" />
     <desc>Unspoken issues and controversies discussed and debated.</desc>
     <language>Tamil</language>
     <category>News</category>
@@ -91604,7 +91348,7 @@
   </programme>
   <programme channel="144652" start="20260911000000 +0530" stop="20260911000200 +0530">
     <title>Top Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/674ee74b-f01d-4e46-a313-eb1ddb6eec83_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/170364b5-aae0-4aba-a80c-de714b2179c6_CalcuttaNews_TopHeadlines_1487699.jpg" />
     <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91613,7 +91357,7 @@
   </programme>
   <programme channel="144652" start="20260911000200 +0530" stop="20260911002500 +0530">
     <title>CN Round Up</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/f3fc2639-1f22-42a5-8322-97a03383ba10_CalcuttaNews_CNRoundUp_451664.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/cc7017a2-69ff-4b96-b1b4-95111e22e38b_CalcuttaNews_CNRoundUp_451664.jpg" />
     <desc>CN Round Up delivers all the top headlines, breaking news, and essential stories in one concise, fast-paced show. Stay informed and updated on global and local events.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91622,7 +91366,7 @@
   </programme>
   <programme channel="144652" start="20260911002500 +0530" stop="20260911003000 +0530">
     <title>Faster</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/a8058afe-b313-4498-9059-6a423fff57a8_CalcuttaNews_Faster_1793009.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/143f8b9c-a56c-465d-b3d3-cb203acd53ff_CalcuttaNews_Faster_1793009.jpg" />
     <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91631,7 +91375,7 @@
   </programme>
   <programme channel="144652" start="20260911003000 +0530" stop="20260911003200 +0530">
     <title>Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/f1fe5102-6323-4302-879c-d6434d77ae46_CalcuttaNews_Headlines_528865.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/c64ab04c-2724-4d9d-8ee5-e6861718bba5_CalcuttaNews_Headlines_528865.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91640,7 +91384,7 @@
   </programme>
   <programme channel="144652" start="20260911003200 +0530" stop="20260911020000 +0530">
     <title>Halla Bol</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/f83adaa2-f58c-4801-8a5e-b1435f815254_CalcuttaNews_HallaBol_1487696.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/13e44d4f-2fa1-42fa-b097-5de58a6885cd_CalcuttaNews_HallaBol_1487696.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91649,7 +91393,7 @@
   </programme>
   <programme channel="144652" start="20260911020000 +0530" stop="20260911060000 +0530">
     <title>Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/0acd73e2-3ed4-4527-a8b5-ec64f252fbd0_CalcuttaNews_Headlines_528865.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/a8205695-a9fb-45ce-8bab-435c6ed109ed_CalcuttaNews_Headlines_528865.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91658,7 +91402,7 @@
   </programme>
   <programme channel="144652" start="20260911060000 +0530" stop="20260911060100 +0530">
     <title>Top Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/920ecd22-b8bc-49cf-8511-29db13a165bc_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/6016ab21-a12e-4b15-9976-08976487f398_CalcuttaNews_TopHeadlines_1487699.jpg" />
     <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91667,7 +91411,7 @@
   </programme>
   <programme channel="144652" start="20260911060100 +0530" stop="20260911060600 +0530">
     <title>Amrita Katha</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/1fafbe4b-749c-48fa-89a9-a04428a00f71_CalcuttaNews_AmritaKatha_630837.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/f95acfcb-566c-4c50-9138-c853258d3c9e_CalcuttaNews_AmritaKatha_630837.jpg" />
     <desc>A renowned spiritual leader delivers a discourse on religious texts to devotees to praise the Almighty.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91676,7 +91420,7 @@
   </programme>
   <programme channel="144652" start="20260911060600 +0530" stop="20260911062800 +0530">
     <title>Sampadaker Najare</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/1ce16fad-42ed-497f-8ab0-b268122635d7_CalcuttaNews_SampadakerNajare_1793017.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/adfdd12a-f56a-4c06-bdf0-7741bb3a1861_CalcuttaNews_SampadakerNajare_1793017.jpg" />
     <desc>The host delivers regional updates from Kolkata along with the latest national news, covering key developments and important stories from across the country.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91685,7 +91429,7 @@
   </programme>
   <programme channel="144652" start="20260911062800 +0530" stop="20260911063000 +0530">
     <title>Satasat</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/3932822c-bf40-4321-a677-ce6935852c44_CalcuttaNews_Satasat_1793019.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/2519f067-cba8-4fdf-9ab9-50f86ea9cd84_CalcuttaNews_Satasat_1793019.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91694,7 +91438,7 @@
   </programme>
   <programme channel="144652" start="20260911063000 +0530" stop="20260911063200 +0530">
     <title>Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/de33df27-aa77-44d8-822a-acdff1e82c5c_CalcuttaNews_Headlines_528865.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/89aae762-f91f-4cf0-b7f0-9ac2594db8dd_CalcuttaNews_Headlines_528865.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91703,7 +91447,7 @@
   </programme>
   <programme channel="144652" start="20260911063200 +0530" stop="20260911065500 +0530">
     <title>Calcutta Express</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/0092b755-086e-4a35-84ba-d325268dce13_CalcuttaNews_CalcuttaExpress_1487694.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/ec976777-07f4-4488-9464-758d4d4613af_CalcuttaNews_CalcuttaExpress_1487694.jpg" />
     <desc>Calcutta Express presents local news and headlines on politics, education, and real estate.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91712,7 +91456,7 @@
   </programme>
   <programme channel="144652" start="20260911065500 +0530" stop="20260911070000 +0530">
     <title>Satasat</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/d990d81a-2f82-4263-aed0-379e8d674aa1_CalcuttaNews_Satasat_1793019.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/d3903bed-b9e6-4484-a135-2c217ff9fda7_CalcuttaNews_Satasat_1793019.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91721,7 +91465,7 @@
   </programme>
   <programme channel="144652" start="20260911070000 +0530" stop="20260911070200 +0530">
     <title>Top Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/0c5a08d7-d7d0-4078-8e16-9bddb4f9e365_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/accd01d9-d03e-4ddd-95bd-0f7d4680cae3_CalcuttaNews_TopHeadlines_1487699.jpg" />
     <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91730,7 +91474,7 @@
   </programme>
   <programme channel="144652" start="20260911070200 +0530" stop="20260911072500 +0530">
     <title>Good Morning Bangla</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/50b53b2b-dead-4c05-9ba6-ac3d324ada80_CalcuttaNews_GoodMorningBangla_1647976.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/cd06bcd8-232f-48a9-945c-09af51d45a6b_CalcuttaNews_GoodMorningBangla_1647976.jpg" />
     <desc>Wake up to Good Morning Bangla-get the day's news and stories with our morning broadcast.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91739,7 +91483,7 @@
   </programme>
   <programme channel="144652" start="20260911072500 +0530" stop="20260911073000 +0530">
     <title>Faster</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/88d2da42-4625-4d05-80dc-417b10a6a89f_CalcuttaNews_Faster_1793009.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/7e597bbe-70d5-45b8-bdf8-2898a0e33058_CalcuttaNews_Faster_1793009.jpg" />
     <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91748,7 +91492,7 @@
   </programme>
   <programme channel="144652" start="20260911073000 +0530" stop="20260911073200 +0530">
     <title>Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/ed2decfa-c4c4-4141-84ca-dd86c0ad7fc3_CalcuttaNews_Headlines_528865.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/bf7ed02b-a320-486f-90ef-2b0a8cb31aa2_CalcuttaNews_Headlines_528865.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91757,7 +91501,7 @@
   </programme>
   <programme channel="144652" start="20260911073200 +0530" stop="20260911075500 +0530">
     <title>Good Morning Bangla</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/45eb092c-46f6-41fb-b9a3-412aea3c5e15_CalcuttaNews_GoodMorningBangla_1647976.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/4f31810a-648f-4663-9564-942b52af3cbb_CalcuttaNews_GoodMorningBangla_1647976.jpg" />
     <desc>Wake up to Good Morning Bangla-get the day's news and stories with our morning broadcast.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91766,7 +91510,7 @@
   </programme>
   <programme channel="144652" start="20260911075500 +0530" stop="20260911080000 +0530">
     <title>Satasat</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/c3b0926c-512a-4de5-8fb1-6910976278e4_CalcuttaNews_Satasat_1793019.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/39966e36-c9c1-492e-b92f-8c7fb89cde02_CalcuttaNews_Satasat_1793019.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91775,7 +91519,7 @@
   </programme>
   <programme channel="144652" start="20260911080000 +0530" stop="20260911080200 +0530">
     <title>Top Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/6ead3787-bce0-4c96-8c9d-9385b90cd22f_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/f9da5c8a-0416-49f5-96ec-cc8f059355cc_CalcuttaNews_TopHeadlines_1487699.jpg" />
     <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91784,7 +91528,7 @@
   </programme>
   <programme channel="144652" start="20260911080200 +0530" stop="20260911082500 +0530">
     <title>Att-Tar Breaking</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/d4849fb1-23f5-4e60-a24b-30c1e5f636a5_CalcuttaNews_Att-TarBreaking_1793006.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/d1ff837a-ba0d-4e9a-b9ad-fc6be96f9e7e_CalcuttaNews_Att-TarBreaking_1793006.jpg" />
     <desc>The host delivers the latest socio-economic and political news, updates, and developments from around the world, keeping viewers informed about global events and trends.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91793,7 +91537,7 @@
   </programme>
   <programme channel="144652" start="20260911082500 +0530" stop="20260911083000 +0530">
     <title>Faster</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/edd60d63-1a1d-4039-bcad-5eaf6eb52609_CalcuttaNews_Faster_1793009.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/734e2b87-710e-4fd0-a6c1-0a0e5cd2d717_CalcuttaNews_Faster_1793009.jpg" />
     <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91802,7 +91546,7 @@
   </programme>
   <programme channel="144652" start="20260911083000 +0530" stop="20260911083200 +0530">
     <title>Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/2d275c32-dccc-428d-95d8-bfebcd12a2a0_CalcuttaNews_Headlines_528865.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/b74d75b6-4465-4b52-b3cc-5ae98710ae6d_CalcuttaNews_Headlines_528865.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91811,7 +91555,7 @@
   </programme>
   <programme channel="144652" start="20260911083200 +0530" stop="20260911085500 +0530">
     <title>Jela Superfast</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/9e41daa8-a61e-4e7d-8b1b-88435c2d523c_CalcuttaNews_JelaSuperfast_1793011.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/6043bf0d-7583-4771-9797-2a70cc93bdb7_CalcuttaNews_JelaSuperfast_1793011.jpg" />
     <desc>The host delivers rapid updates on the latest socio-economic and political news, providing insights on current events and developments in quick succession to keep viewers informed.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91820,7 +91564,7 @@
   </programme>
   <programme channel="144652" start="20260911085500 +0530" stop="20260911090000 +0530">
     <title>Satasat</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/c9004478-df5a-4382-a330-89b2196cf3ab_CalcuttaNews_Satasat_1793019.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/1f9750e8-77c2-4526-bf07-39dcd6a3ff2c_CalcuttaNews_Satasat_1793019.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91829,7 +91573,7 @@
   </programme>
   <programme channel="144652" start="20260911090000 +0530" stop="20260911090200 +0530">
     <title>Top Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/85a1f79a-9eee-444e-9372-6cbc2d83d6f5_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/a26dfb2a-4b46-460a-8189-1d766eb7144f_CalcuttaNews_TopHeadlines_1487699.jpg" />
     <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91838,7 +91582,7 @@
   </programme>
   <programme channel="144652" start="20260911090200 +0530" stop="20260911092500 +0530">
     <title>News At Nine</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/f1612b55-93b0-4262-91ed-1e9e884ff24a_CalcuttaNews_NewsAtNine_1793014.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/9ae029e3-7126-4f2c-be1b-451cbb8230f7_CalcuttaNews_NewsAtNine_1793014.jpg" />
     <desc>The host rounds up the latest trending news from politics, sports, culture, and entertainment in India, keeping viewers informed on key national happenings.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91847,7 +91591,7 @@
   </programme>
   <programme channel="144652" start="20260911092500 +0530" stop="20260911093000 +0530">
     <title>Faster</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/f4e5965a-ffd9-4cd8-b912-a699bed27e1a_CalcuttaNews_Faster_1793009.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/e356e27a-1c09-4734-9750-64842d3961fd_CalcuttaNews_Faster_1793009.jpg" />
     <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91856,7 +91600,7 @@
   </programme>
   <programme channel="144652" start="20260911093000 +0530" stop="20260911093200 +0530">
     <title>Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/d9a3a36b-efd5-4a81-a6a0-68b3ba3013a3_CalcuttaNews_Headlines_528865.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/d8f44ff7-6d71-46b4-a815-047ced596c16_CalcuttaNews_Headlines_528865.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91865,7 +91609,7 @@
   </programme>
   <programme channel="144652" start="20260911093200 +0530" stop="20260911095500 +0530">
     <title>News At Nine</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/ead6c909-de18-4bad-adc4-34884f9ce7e1_CalcuttaNews_NewsAtNine_1793014.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/f58fd791-ff09-4150-bdff-8cebe467feae_CalcuttaNews_NewsAtNine_1793014.jpg" />
     <desc>The host rounds up the latest trending news from politics, sports, culture, and entertainment in India, keeping viewers informed on key national happenings.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91874,7 +91618,7 @@
   </programme>
   <programme channel="144652" start="20260911095500 +0530" stop="20260911100000 +0530">
     <title>Satasat</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/6d718729-508b-4b12-918f-db372c54fcc6_CalcuttaNews_Satasat_1793019.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/211392f5-0984-4098-ae02-4186b8171efe_CalcuttaNews_Satasat_1793019.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91883,7 +91627,7 @@
   </programme>
   <programme channel="144652" start="20260911100000 +0530" stop="20260911100200 +0530">
     <title>Top Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/e089f349-00fa-42e9-a9a8-12aab6078977_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/31ab749d-816c-4f2e-8e8e-2031443630a1_CalcuttaNews_TopHeadlines_1487699.jpg" />
     <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91892,7 +91636,7 @@
   </programme>
   <programme channel="144652" start="20260911100200 +0530" stop="20260911102500 +0530">
     <title>The Debate</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/c9703b36-91f4-4582-a0e5-13e993af9803_CalcuttaNews_TheDebate_1550044.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/3eeff367-b23c-4e29-aafe-83b42fc5e1cf_CalcuttaNews_TheDebate_1550044.jpg" />
     <desc>Host updates top news: political, social, economic, sports, recent country developments in brief.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91901,7 +91645,7 @@
   </programme>
   <programme channel="144652" start="20260911102500 +0530" stop="20260911103000 +0530">
     <title>Faster</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/18b990de-b614-470f-a3a8-0009570cbfae_CalcuttaNews_Faster_1793009.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/256366c4-b3d2-4d35-8fa5-b9a57948f380_CalcuttaNews_Faster_1793009.jpg" />
     <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91910,7 +91654,7 @@
   </programme>
   <programme channel="144652" start="20260911103000 +0530" stop="20260911103200 +0530">
     <title>Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/88e037c7-98d0-448f-aafe-45dd51459821_CalcuttaNews_Headlines_528865.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/e0a8b13d-56c4-421d-8afe-de93290229f9_CalcuttaNews_Headlines_528865.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91919,7 +91663,7 @@
   </programme>
   <programme channel="144652" start="20260911103200 +0530" stop="20260911105500 +0530">
     <title>Calcutta Express</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/5d86e312-46a0-4ee5-92cf-43acf1af7c17_CalcuttaNews_CalcuttaExpress_1487694.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/edb123e3-9474-4935-bca8-aa1aeb6a4971_CalcuttaNews_CalcuttaExpress_1487694.jpg" />
     <desc>Calcutta Express presents local news and headlines on politics, education, and real estate.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91928,7 +91672,7 @@
   </programme>
   <programme channel="144652" start="20260911105500 +0530" stop="20260911110000 +0530">
     <title>Satasat</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/d93027fa-2155-4be2-9875-2b92012e9272_CalcuttaNews_Satasat_1793019.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/dd236bd0-3a16-45ad-8840-f978bae7cca1_CalcuttaNews_Satasat_1793019.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91937,7 +91681,7 @@
   </programme>
   <programme channel="144652" start="20260911110000 +0530" stop="20260911110200 +0530">
     <title>Top Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/389d8af6-6356-4239-8ec7-31508d7afc58_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/a711a8fc-f489-4501-8c53-cf603f7a1d9d_CalcuttaNews_TopHeadlines_1487699.jpg" />
     <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91946,7 +91690,7 @@
   </programme>
   <programme channel="144652" start="20260911110200 +0530" stop="20260911112500 +0530">
     <title>Calcutta News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/edeecc84-df44-4d0c-b64c-fca6f83b2efc_CalcuttaNews_CalcuttaNews_451653.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/417ad2ed-0e66-4cd9-b48f-bad0a9775802_CalcuttaNews_CalcuttaNews_451653.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91955,7 +91699,7 @@
   </programme>
   <programme channel="144652" start="20260911112500 +0530" stop="20260911113000 +0530">
     <title>Faster</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/5cc5b4ac-4b8b-46b5-ab0a-8fe6b9840bbf_CalcuttaNews_Faster_1793009.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/3d84f2bc-b06c-4b8e-ad07-978ab9a8fb89_CalcuttaNews_Faster_1793009.jpg" />
     <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91964,7 +91708,7 @@
   </programme>
   <programme channel="144652" start="20260911113000 +0530" stop="20260911113200 +0530">
     <title>Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/414bd3d1-2261-48f1-8c9f-fdff183f696f_CalcuttaNews_Headlines_528865.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/4482bb21-8e47-48a4-a1f7-bac6b41b3afa_CalcuttaNews_Headlines_528865.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91973,7 +91717,7 @@
   </programme>
   <programme channel="144652" start="20260911113200 +0530" stop="20260911115500 +0530">
     <title>Jelar Convoy</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/6729ffaf-64e8-4903-972a-fe7d311b9335_CalcuttaNews_JelarConvoy_1793012.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/3acb73ab-bf89-4157-bd6c-37a4fc77c3d2_CalcuttaNews_JelarConvoy_1793012.jpg" />
     <desc>The host compiles and presents the latest news and updates from all districts of West Bengal, focusing on issues that matter most to the people and their interests.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91982,7 +91726,7 @@
   </programme>
   <programme channel="144652" start="20260911115500 +0530" stop="20260911120000 +0530">
     <title>Satasat</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/a552a71e-ede8-43fb-bef4-aefb1bb0960c_CalcuttaNews_Satasat_1793019.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/4c2a9fe1-6fd0-405a-8ed2-787faf4c7fbf_CalcuttaNews_Satasat_1793019.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -91991,7 +91735,7 @@
   </programme>
   <programme channel="144652" start="20260911120000 +0530" stop="20260911120200 +0530">
     <title>Top Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/d11065b6-7c6a-48e0-bdf5-d60b086870c1_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/9ad6f7b1-bdd1-454c-a3af-f9a6c2741124_CalcuttaNews_TopHeadlines_1487699.jpg" />
     <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92000,7 +91744,7 @@
   </programme>
   <programme channel="144652" start="20260911120200 +0530" stop="20260911122500 +0530">
     <title>Zero Hour</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/e793776f-bae1-4f57-bedf-cff3964c8522_CalcuttaNews_ZeroHour_1647970.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/cd01e69e-104d-4d15-be37-c91c2437861c_CalcuttaNews_ZeroHour_1647970.jpg" />
     <desc>Don't miss Zero Hour news coverage-tune in for critical developments and breaking stories.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92009,7 +91753,7 @@
   </programme>
   <programme channel="144652" start="20260911122500 +0530" stop="20260911123000 +0530">
     <title>Faster</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/28c43230-962b-41d3-9b62-af8f4ce7a46c_CalcuttaNews_Faster_1793009.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/f356eac0-47d2-43e4-ab5e-5212d77e5e9f_CalcuttaNews_Faster_1793009.jpg" />
     <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92018,7 +91762,7 @@
   </programme>
   <programme channel="144652" start="20260911123000 +0530" stop="20260911123200 +0530">
     <title>Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/a6587e0b-bf86-4dd8-b559-f51cccb726bb_CalcuttaNews_Headlines_528865.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/99d7c0d8-9d53-44f2-a66c-2e52744e4b8b_CalcuttaNews_Headlines_528865.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92027,7 +91771,7 @@
   </programme>
   <programme channel="144652" start="20260911123200 +0530" stop="20260911125500 +0530">
     <title>Jela Superfast</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/27b1ecd0-3d59-4e4c-a5d9-6efe0c200e42_CalcuttaNews_JelaSuperfast_1793011.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/6d56314a-c44b-4329-9349-33a5e239de8d_CalcuttaNews_JelaSuperfast_1793011.jpg" />
     <desc>The host delivers rapid updates on the latest socio-economic and political news, providing insights on current events and developments in quick succession to keep viewers informed.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92036,7 +91780,7 @@
   </programme>
   <programme channel="144652" start="20260911125500 +0530" stop="20260911130000 +0530">
     <title>Satasat</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/db93daa2-7d4f-4ad6-ba7d-36ccb5ddade3_CalcuttaNews_Satasat_1793019.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/d5a65e3a-7798-455d-ada5-14f5a9473bff_CalcuttaNews_Satasat_1793019.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92045,7 +91789,7 @@
   </programme>
   <programme channel="144652" start="20260911130000 +0530" stop="20260911130200 +0530">
     <title>Top Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/42a32e1a-5dcc-47dc-a443-272e03d99014_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/3da37a2d-e6d5-4fb7-b609-5001fb7bede1_CalcuttaNews_TopHeadlines_1487699.jpg" />
     <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92054,7 +91798,7 @@
   </programme>
   <programme channel="144652" start="20260911130200 +0530" stop="20260911132500 +0530">
     <title>Calcutta News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/8e55a8d3-16d5-40db-9b82-d68e40233eae_CalcuttaNews_CalcuttaNews_451653.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/4a16c42c-a8c1-4d3f-ac62-0c1c4cb47e57_CalcuttaNews_CalcuttaNews_451653.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92063,7 +91807,7 @@
   </programme>
   <programme channel="144652" start="20260911132500 +0530" stop="20260911133000 +0530">
     <title>Faster</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/efc3dc78-b3fa-4392-be99-f231fd2dde46_CalcuttaNews_Faster_1793009.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/9797ea26-bef1-4996-bf25-66a3961fb9d3_CalcuttaNews_Faster_1793009.jpg" />
     <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92072,7 +91816,7 @@
   </programme>
   <programme channel="144652" start="20260911133000 +0530" stop="20260911133200 +0530">
     <title>Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/1bbaaf68-66a7-4c69-bc26-e7fd29f0cf22_CalcuttaNews_Headlines_528865.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/6db4df26-2598-401f-b359-eb8caad32565_CalcuttaNews_Headlines_528865.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92081,7 +91825,7 @@
   </programme>
   <programme channel="144652" start="20260911133200 +0530" stop="20260911135500 +0530">
     <title>Aajker Manashi</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/dc67851a-1386-4f78-a2e6-3ebd28cc7520_CalcuttaNews_AajkerManashi_1793005.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/6c4566c2-7bff-4fce-a3e4-ececb3a5b82a_CalcuttaNews_AajkerManashi_1793005.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92090,7 +91834,7 @@
   </programme>
   <programme channel="144652" start="20260911135500 +0530" stop="20260911140000 +0530">
     <title>Satasat</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/72c3edfe-975a-4f33-83ba-b0aa9e0f54e7_CalcuttaNews_Satasat_1793019.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/d0a882e3-b595-4fe1-a281-876617d3f435_CalcuttaNews_Satasat_1793019.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92099,7 +91843,7 @@
   </programme>
   <programme channel="144652" start="20260911140000 +0530" stop="20260911140200 +0530">
     <title>Top Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/7647e63a-f791-46af-866d-d96f79ca6352_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/4ba69d08-2897-4725-888b-ff797e739106_CalcuttaNews_TopHeadlines_1487699.jpg" />
     <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92108,7 +91852,7 @@
   </programme>
   <programme channel="144652" start="20260911140200 +0530" stop="20260911142500 +0530">
     <title>News Room @ 2Pm</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/ed78cf38-df1f-477c-9d08-f1c3ed0ede27_CalcuttaNews_NewsRoom2Pm_1793016.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/a0e593ca-15d3-4cef-a453-cf5ac0e59e1a_CalcuttaNews_NewsRoom2Pm_1793016.jpg" />
     <desc>The host delivers a round-up of India's latest trending news in politics, sports, culture, and entertainment, keeping viewers updated on key national events.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92117,7 +91861,7 @@
   </programme>
   <programme channel="144652" start="20260911142500 +0530" stop="20260911143000 +0530">
     <title>Faster</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/ff413e45-6ada-4891-b28c-44309924042b_CalcuttaNews_Faster_1793009.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/1a8d3873-80b0-4006-9834-340c2c797fcf_CalcuttaNews_Faster_1793009.jpg" />
     <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92126,7 +91870,7 @@
   </programme>
   <programme channel="144652" start="20260911143000 +0530" stop="20260911143200 +0530">
     <title>Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/5896775f-9174-4962-a8d7-eea2971e7578_CalcuttaNews_Headlines_528865.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/f0cc4a41-0b91-4ea8-8273-9bb6ccec5f31_CalcuttaNews_Headlines_528865.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92135,7 +91879,7 @@
   </programme>
   <programme channel="144652" start="20260911143200 +0530" stop="20260911145500 +0530">
     <title>Calcutta Express</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/895a0751-2d8c-4b28-9b21-ce0b64f4bfab_CalcuttaNews_CalcuttaExpress_1487694.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/7314d0a6-0ff5-4767-9706-9dfb8072d5cb_CalcuttaNews_CalcuttaExpress_1487694.jpg" />
     <desc>Calcutta Express presents local news and headlines on politics, education, and real estate.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92144,7 +91888,7 @@
   </programme>
   <programme channel="144652" start="20260911145500 +0530" stop="20260911150000 +0530">
     <title>Satasat</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/f2b581d9-e10f-42cc-bdc6-a6a329f71d01_CalcuttaNews_Satasat_1793019.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/7630c7f6-eaec-404f-bc40-57e9f0fa4e33_CalcuttaNews_Satasat_1793019.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92153,7 +91897,7 @@
   </programme>
   <programme channel="144652" start="20260911150000 +0530" stop="20260911150200 +0530">
     <title>Top Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/967420cf-203a-4c82-a2d9-5d788f1bd0fa_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/87903070-156c-4d2f-a481-42e7db524a7c_CalcuttaNews_TopHeadlines_1487699.jpg" />
     <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92162,7 +91906,7 @@
   </programme>
   <programme channel="144652" start="20260911150200 +0530" stop="20260911152500 +0530">
     <title>Calcutta News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/3605e01b-7f3d-47b7-b2c8-a19f111d5b5f_CalcuttaNews_CalcuttaNews_451653.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/93df8d93-291a-4e00-b837-cab4f24e6f09_CalcuttaNews_CalcuttaNews_451653.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92171,7 +91915,7 @@
   </programme>
   <programme channel="144652" start="20260911152500 +0530" stop="20260911153000 +0530">
     <title>Faster</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/2fabc680-308b-4cee-b51d-d549843871ad_CalcuttaNews_Faster_1793009.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/3a630b66-f721-4f63-8316-08fb39bc9c7b_CalcuttaNews_Faster_1793009.jpg" />
     <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92180,7 +91924,7 @@
   </programme>
   <programme channel="144652" start="20260911153000 +0530" stop="20260911153200 +0530">
     <title>Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/018272b7-21b2-4cf0-954c-87dcc8dc07af_CalcuttaNews_Headlines_528865.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/f40fde58-89b8-402d-93e7-a8b7dfff324f_CalcuttaNews_Headlines_528865.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92189,7 +91933,7 @@
   </programme>
   <programme channel="144652" start="20260911153200 +0530" stop="20260911155500 +0530">
     <title>Jelar Convoy</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/0ef106b3-6b74-44ba-98e9-722759de166a_CalcuttaNews_JelarConvoy_1793012.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/b506344e-a0f1-4cff-b694-7d4be46725e5_CalcuttaNews_JelarConvoy_1793012.jpg" />
     <desc>The host compiles and presents the latest news and updates from all districts of West Bengal, focusing on issues that matter most to the people and their interests.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92198,7 +91942,7 @@
   </programme>
   <programme channel="144652" start="20260911155500 +0530" stop="20260911160000 +0530">
     <title>Satasat</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/eb9a9f1d-df1c-4538-b631-94a89105320f_CalcuttaNews_Satasat_1793019.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/c9c8a6e7-c1ef-434a-99c7-6319d133de1d_CalcuttaNews_Satasat_1793019.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92207,7 +91951,7 @@
   </programme>
   <programme channel="144652" start="20260911160000 +0530" stop="20260911160200 +0530">
     <title>Top Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/2842e944-8560-4028-a1c3-8e37e2f3d592_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/cf67d1b0-8f14-4a4c-9997-6b16050accda_CalcuttaNews_TopHeadlines_1487699.jpg" />
     <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92216,7 +91960,7 @@
   </programme>
   <programme channel="144652" start="20260911160200 +0530" stop="20260911162500 +0530">
     <title>Charter Chatuskon</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/48c7ae69-883e-47a0-80bf-18c776367ef3_CalcuttaNews_CharterChatuskon_1793008.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/fa9ee52f-9629-437c-92f8-6a5b267306c6_CalcuttaNews_CharterChatuskon_1793008.jpg" />
     <desc>The host covers the latest news and developments on socio-economic and political issues, providing insights into global events and their impact.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92225,7 +91969,7 @@
   </programme>
   <programme channel="144652" start="20260911162500 +0530" stop="20260911163000 +0530">
     <title>Faster</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/75008d26-a636-4807-8d9b-fdbf50e016a0_CalcuttaNews_Faster_1793009.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/00ec8542-353d-4ad0-92d8-e3b07c1a68ee_CalcuttaNews_Faster_1793009.jpg" />
     <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92234,7 +91978,7 @@
   </programme>
   <programme channel="144652" start="20260911163000 +0530" stop="20260911163200 +0530">
     <title>Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/508cbc3d-6bec-402d-a644-3de4c16a5fdd_CalcuttaNews_Headlines_528865.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/70bd3e84-4e7f-4d05-bdf4-0c19e0c2b395_CalcuttaNews_Headlines_528865.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92243,7 +91987,7 @@
   </programme>
   <programme channel="144652" start="20260911163200 +0530" stop="20260911165800 +0530">
     <title>Jela Superfast</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/8806fd2a-1e51-4167-8758-e55cab974219_CalcuttaNews_JelaSuperfast_1793011.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/99148fb5-8a94-43cf-853e-425740a9cd50_CalcuttaNews_JelaSuperfast_1793011.jpg" />
     <desc>The host delivers rapid updates on the latest socio-economic and political news, providing insights on current events and developments in quick succession to keep viewers informed.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92252,7 +91996,7 @@
   </programme>
   <programme channel="144652" start="20260911165800 +0530" stop="20260911170000 +0530">
     <title>Satasat</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/ae96af3c-b6a2-436a-85a3-0f0d6b3c6d47_CalcuttaNews_Satasat_1793019.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/454f1a56-48fe-4826-9ef1-dd63b634c65e_CalcuttaNews_Satasat_1793019.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92261,7 +92005,7 @@
   </programme>
   <programme channel="144652" start="20260911170000 +0530" stop="20260911170200 +0530">
     <title>Top Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/d9b33f90-9330-454f-8a99-a17d36a07bf5_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/a1763691-8713-4368-9c65-556bda67aba1_CalcuttaNews_TopHeadlines_1487699.jpg" />
     <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92270,7 +92014,7 @@
   </programme>
   <programme channel="144652" start="20260911170200 +0530" stop="20260911172500 +0530">
     <title>Panctar Panch</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/caf73182-b3ea-45bd-967e-acd463a678a9_CalcuttaNews_PanctarPanch_1647973.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/34590208-2352-4948-8d92-3c138b58c8c7_CalcuttaNews_PanctarPanch_1647973.jpg" />
     <desc>Tune in to Panctar Panch for breaking news and developments from around the world.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92279,7 +92023,7 @@
   </programme>
   <programme channel="144652" start="20260911172500 +0530" stop="20260911173000 +0530">
     <title>Faster</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/d471d1b9-5c79-40c5-a910-0dba6c928395_CalcuttaNews_Faster_1793009.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/acfd4c70-3957-43cb-9bd4-7d47a9de7614_CalcuttaNews_Faster_1793009.jpg" />
     <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92288,7 +92032,7 @@
   </programme>
   <programme channel="144652" start="20260911173000 +0530" stop="20260911173200 +0530">
     <title>Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/cb8b5b0d-679a-4bc5-b7d1-1a48d946bd58_CalcuttaNews_Headlines_528865.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/be020663-ff0b-4cfc-a00a-f2528a0e8b5e_CalcuttaNews_Headlines_528865.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92297,7 +92041,7 @@
   </programme>
   <programme channel="144652" start="20260911173200 +0530" stop="20260911175500 +0530">
     <title>Calcutta News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/35cb0925-5653-48a0-a6e4-c9df3a0de122_CalcuttaNews_CalcuttaNews_451653.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/26ef4fb5-9a8c-40fe-a33a-3f95b4d1ded1_CalcuttaNews_CalcuttaNews_451653.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92306,7 +92050,7 @@
   </programme>
   <programme channel="144652" start="20260911175500 +0530" stop="20260911180000 +0530">
     <title>Satasat</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/9d6ae1b3-2ed8-467d-8c75-fb006e12b24b_CalcuttaNews_Satasat_1793019.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/61cd7b42-f39a-41be-aa4a-cbc49e7c6ad3_CalcuttaNews_Satasat_1793019.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92315,7 +92059,7 @@
   </programme>
   <programme channel="144652" start="20260911180000 +0530" stop="20260911180200 +0530">
     <title>Top Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/806144fc-157e-4b1c-b87b-9e2dce8b36c0_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/d3f97118-fc93-4f52-9704-2a03326bb3f7_CalcuttaNews_TopHeadlines_1487699.jpg" />
     <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92324,7 +92068,7 @@
   </programme>
   <programme channel="144652" start="20260911180200 +0530" stop="20260911182500 +0530">
     <title>Chotar Golpo-Golper Chota</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/de17a5a0-8ff0-4bc8-8fbd-d3b1d552aa05_CalcuttaNews_ChotarGolpo-GolperChota_1647968.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/a25eaea0-f206-4af4-8531-b75e96fad2be_CalcuttaNews_ChotarGolpo-GolperChota_1647968.jpg" />
     <desc>Dive into Chotar Golpo-Golper Chota for intriguing stories and news highlights-stay engaged!</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92333,7 +92077,7 @@
   </programme>
   <programme channel="144652" start="20260911182500 +0530" stop="20260911183000 +0530">
     <title>Faster</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/92679073-bf8c-4e28-8f8e-2f06c203e381_CalcuttaNews_Faster_1793009.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/e919d47d-1af8-42d9-af2b-ac16b974a38b_CalcuttaNews_Faster_1793009.jpg" />
     <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92342,7 +92086,7 @@
   </programme>
   <programme channel="144652" start="20260911183000 +0530" stop="20260911183200 +0530">
     <title>Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/40fb6397-e0fe-4de1-a5ab-1e2d46ed5b7f_CalcuttaNews_Headlines_528865.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/660c4b05-8eda-47d9-ab15-af33a16e8096_CalcuttaNews_Headlines_528865.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92351,7 +92095,7 @@
   </programme>
   <programme channel="144652" start="20260911183200 +0530" stop="20260911185500 +0530">
     <title>Tea Break</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/ccbc358b-69d2-44c2-81b2-5d37ff4bbcb5_CalcuttaNews_TeaBreak_1487698.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/8eff0c90-9fb6-48d1-b0be-aa6c477607c6_CalcuttaNews_TeaBreak_1487698.jpg" />
     <desc>Calcutta News tea break shows the latest news in Bengali from India and the world.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92360,7 +92104,7 @@
   </programme>
   <programme channel="144652" start="20260911185500 +0530" stop="20260911190000 +0530">
     <title>Satasat</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/e5fd434c-26e4-4676-915e-1459853554d5_CalcuttaNews_Satasat_1793019.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/929f1e70-26fa-4b73-9142-624aa3d7927f_CalcuttaNews_Satasat_1793019.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92369,7 +92113,7 @@
   </programme>
   <programme channel="144652" start="20260911190000 +0530" stop="20260911190200 +0530">
     <title>Top Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/26601510-dbe4-47e7-b298-7236e8439d20_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/a69c1660-6aa7-4777-9624-e7c167643f38_CalcuttaNews_TopHeadlines_1487699.jpg" />
     <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92378,7 +92122,7 @@
   </programme>
   <programme channel="144652" start="20260911190200 +0530" stop="20260911192500 +0530">
     <title>Satar Satkahon</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/27b2de9e-8c5d-4b5c-a5e0-fb7a94279faf_CalcuttaNews_SatarSatkahon_1793018.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/d18b5f65-73ea-4ac6-9764-9c1803947d7b_CalcuttaNews_SatarSatkahon_1793018.jpg" />
     <desc>The host provides the latest updates and developments from various spheres, including business, politics, and social issues, offering viewers a comprehensive overview of current events.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92387,7 +92131,7 @@
   </programme>
   <programme channel="144652" start="20260911192500 +0530" stop="20260911193000 +0530">
     <title>Faster</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/58358180-6067-4514-9b8d-c591afaa0277_CalcuttaNews_Faster_1793009.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/65cdde32-3b2e-4c12-b3de-84ba171194d9_CalcuttaNews_Faster_1793009.jpg" />
     <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92396,7 +92140,7 @@
   </programme>
   <programme channel="144652" start="20260911193000 +0530" stop="20260911193200 +0530">
     <title>Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/1efb0b8b-ecd4-4724-8f4f-fa96fe599c32_CalcuttaNews_Headlines_528865.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/04a4515a-27f2-4929-845f-c8cdbf3a7651_CalcuttaNews_Headlines_528865.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92405,7 +92149,7 @@
   </programme>
   <programme channel="144652" start="20260911193200 +0530" stop="20260911195500 +0530">
     <title>Mahanagar Katha</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/91824beb-fc1f-4868-8b96-5a7b15993c90_CalcuttaNews_MahanagarKatha_1793013.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/3b5903af-aba0-45b4-b955-ccc94ad6710d_CalcuttaNews_MahanagarKatha_1793013.jpg" />
     <desc>The host covers the latest news stories, updates, and developments in social issues, politics, sports, and finance, providing insights into each topic for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92414,7 +92158,7 @@
   </programme>
   <programme channel="144652" start="20260911195500 +0530" stop="20260911195700 +0530">
     <title>Top Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/cf437e7b-1ddb-47ff-8e17-af9faf255066_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/c703f1c6-9e0c-45d9-a854-da5a742bff6e_CalcuttaNews_TopHeadlines_1487699.jpg" />
     <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92423,7 +92167,7 @@
   </programme>
   <programme channel="144652" start="20260911195700 +0530" stop="20260911212500 +0530">
     <title>Halla Bol</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/65030a12-cbec-4545-8d96-38ff309baa9e_CalcuttaNews_HallaBol_1487696.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/a5c75e11-d57b-4ade-8fe3-fad9e0f8b711_CalcuttaNews_HallaBol_1487696.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92432,7 +92176,7 @@
   </programme>
   <programme channel="144652" start="20260911212500 +0530" stop="20260911213000 +0530">
     <title>Faster</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/17503d4f-aac2-4366-88f9-f1ede26f8ed9_CalcuttaNews_Faster_1793009.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/81e64f8a-418a-4d3e-a44d-da29ab7f5cf7_CalcuttaNews_Faster_1793009.jpg" />
     <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92441,7 +92185,7 @@
   </programme>
   <programme channel="144652" start="20260911213000 +0530" stop="20260911213200 +0530">
     <title>Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/e2f92f47-2eb7-4de5-84af-5f080d578a5b_CalcuttaNews_Headlines_528865.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/0ea717c5-efbf-4840-a690-608f9233e77e_CalcuttaNews_Headlines_528865.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92450,7 +92194,7 @@
   </programme>
   <programme channel="144652" start="20260911213200 +0530" stop="20260911215500 +0530">
     <title>Calcutta Express</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/4b80ece2-9c33-4eb9-9ac2-95574e16544b_CalcuttaNews_CalcuttaExpress_1487694.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/e6859471-2e43-4190-b614-0389af0f75b8_CalcuttaNews_CalcuttaExpress_1487694.jpg" />
     <desc>Calcutta Express presents local news and headlines on politics, education, and real estate.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92459,7 +92203,7 @@
   </programme>
   <programme channel="144652" start="20260911215500 +0530" stop="20260911220000 +0530">
     <title>Satasat</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/75c07dfc-b9af-4d78-89b1-f7d139622c99_CalcuttaNews_Satasat_1793019.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/95b766b1-b599-4a33-904f-8097399a4d97_CalcuttaNews_Satasat_1793019.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92468,7 +92212,7 @@
   </programme>
   <programme channel="144652" start="20260911220000 +0530" stop="20260911220200 +0530">
     <title>Top Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/4007e3b4-09fc-4200-afb6-17001b1857ee_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/f7e21d35-17f0-4e1e-bf9a-1e4edc353fbe_CalcuttaNews_TopHeadlines_1487699.jpg" />
     <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92477,7 +92221,7 @@
   </programme>
   <programme channel="144652" start="20260911220200 +0530" stop="20260911222500 +0530">
     <title>Bangabhumi</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/9b043aa3-54b2-4c5d-b625-6853b9686309_CalcuttaNews_Bangabhumi_1793007.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/80454bcc-c4ac-4566-b6c4-0c7475c509c5_CalcuttaNews_Bangabhumi_1793007.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92486,7 +92230,7 @@
   </programme>
   <programme channel="144652" start="20260911222500 +0530" stop="20260911223000 +0530">
     <title>Faster</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/2e3b6171-1625-45c1-9738-3393216f0d79_CalcuttaNews_Faster_1793009.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/8c86f433-a3b7-4410-a234-cefd74101792_CalcuttaNews_Faster_1793009.jpg" />
     <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -92495,7 +92239,7 @@
   </programme>
   <programme channel="144652" start="20260911223000 +0530" stop="20260911223200 +0530">
     <title>Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/10092026/28d8f912-96fe-4df3-9750-18af06e5809b_CalcuttaNews_Headlines_528865.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/102569b1-82b9-4b31-b65b-a45066b8a9e3_CalcuttaNews_Headlines_528865.jpg" />
     <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
@@ -211798,6 +211542,906 @@
     <title>Shubharatri Bangla</title>
     <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/c0622e67-dcc5-404d-b00a-5c55485a7e9e_24GHANTA_ShubharatriBangla_1855940.jpg" />
     <desc>This show tells you about Kolkata news. Learn about social problems, money matters, and state politics. Stay up-to-date with the latest happenings in Kolkata.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912000000 +0530" stop="20260912000200 +0530">
+    <title>Top Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/1b48a882-bf39-48fb-86a2-03aeed0ba89c_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912000200 +0530" stop="20260912002500 +0530">
+    <title>CN Round Up</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/dbf67e22-91aa-46a2-b13c-049430c7d0a5_CalcuttaNews_CNRoundUp_451664.jpg" />
+    <desc>CN Round Up delivers all the top headlines, breaking news, and essential stories in one concise, fast-paced show. Stay informed and updated on global and local events.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912002500 +0530" stop="20260912003000 +0530">
+    <title>Faster</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/e1c57461-5bdb-4440-aa9d-aea806bb2e5d_CalcuttaNews_Faster_1793009.jpg" />
+    <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912003000 +0530" stop="20260912003200 +0530">
+    <title>Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/3813ef28-95bf-4bb6-ab79-713405cf581d_CalcuttaNews_Headlines_528865.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912003200 +0530" stop="20260912020000 +0530">
+    <title>Halla Bol</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/e9383404-d464-44d6-880a-ca509486cd28_CalcuttaNews_HallaBol_1487696.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912020000 +0530" stop="20260912060000 +0530">
+    <title>Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/26afff24-64c6-44df-be06-3a7fa6a7c02d_CalcuttaNews_Headlines_528865.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912060000 +0530" stop="20260912060100 +0530">
+    <title>Top Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/eec3d869-500b-451b-8b71-71abbfbdbaba_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912060100 +0530" stop="20260912060600 +0530">
+    <title>Amrita Katha</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/50cb07a6-0acc-41c6-bf27-dae784348c85_CalcuttaNews_AmritaKatha_630837.jpg" />
+    <desc>A renowned spiritual leader delivers a discourse on religious texts to devotees to praise the Almighty.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>Religious</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912060600 +0530" stop="20260912062800 +0530">
+    <title>Sampadaker Najare</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/88f7c830-0945-4e84-b7ea-c95604651ea4_CalcuttaNews_SampadakerNajare_1793017.jpg" />
+    <desc>The host delivers regional updates from Kolkata along with the latest national news, covering key developments and important stories from across the country.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912062800 +0530" stop="20260912063000 +0530">
+    <title>Satasat</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/607e77ec-44c1-4818-8735-75fc50cbea24_CalcuttaNews_Satasat_1793019.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912063000 +0530" stop="20260912063200 +0530">
+    <title>Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/a276830f-c028-4ae6-b5e1-08a47e14fa21_CalcuttaNews_Headlines_528865.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912063200 +0530" stop="20260912065500 +0530">
+    <title>Calcutta Express</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/6c89d4a7-6b0e-46a9-87be-e50e3e72701c_CalcuttaNews_CalcuttaExpress_1487694.jpg" />
+    <desc>Calcutta Express presents local news and headlines on politics, education, and real estate.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912065500 +0530" stop="20260912070000 +0530">
+    <title>Satasat</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/554c89bf-5619-48cb-a2fc-d9b6363cbf65_CalcuttaNews_Satasat_1793019.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912070000 +0530" stop="20260912070200 +0530">
+    <title>Top Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/ac52daa4-4819-4aaf-81b6-bd3a095c9f3b_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912070200 +0530" stop="20260912072500 +0530">
+    <title>Good Morning Bangla</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/51461b28-2ba8-48ca-b38e-620228b81955_CalcuttaNews_GoodMorningBangla_1647976.jpg" />
+    <desc>Wake up to Good Morning Bangla-get the day's news and stories with our morning broadcast.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912072500 +0530" stop="20260912073000 +0530">
+    <title>Faster</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/80b7c07b-00c7-41fb-beda-03428b795c72_CalcuttaNews_Faster_1793009.jpg" />
+    <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912073000 +0530" stop="20260912073200 +0530">
+    <title>Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/936d3d9a-6ecc-4165-8747-00ecedb6e016_CalcuttaNews_Headlines_528865.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912073200 +0530" stop="20260912075500 +0530">
+    <title>Good Morning Bangla</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/199444d3-d10b-472d-8f1e-b28f065761ce_CalcuttaNews_GoodMorningBangla_1647976.jpg" />
+    <desc>Wake up to Good Morning Bangla-get the day's news and stories with our morning broadcast.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912075500 +0530" stop="20260912080000 +0530">
+    <title>Satasat</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/60ec26db-764e-451b-a78f-5878693434bd_CalcuttaNews_Satasat_1793019.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912080000 +0530" stop="20260912080200 +0530">
+    <title>Top Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/44f44d8a-2038-476a-9ff7-33054e3fe45b_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912080200 +0530" stop="20260912082500 +0530">
+    <title>Att-Tar Breaking</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/ad5123ab-39a7-45f0-9536-5fcf7f98c5f4_CalcuttaNews_Att-TarBreaking_1793006.jpg" />
+    <desc>The host delivers the latest socio-economic and political news, updates, and developments from around the world, keeping viewers informed about global events and trends.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912082500 +0530" stop="20260912083000 +0530">
+    <title>Faster</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/fac4b63a-7359-4eee-8cf4-a3e35eeb614f_CalcuttaNews_Faster_1793009.jpg" />
+    <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912083000 +0530" stop="20260912083200 +0530">
+    <title>Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/09fe0617-b0f5-4aeb-a7d9-8bdc3e850e4e_CalcuttaNews_Headlines_528865.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912083200 +0530" stop="20260912085500 +0530">
+    <title>Jela Superfast</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/0fa015b9-3baf-454f-9991-50bb29f5e470_CalcuttaNews_JelaSuperfast_1793011.jpg" />
+    <desc>The host delivers rapid updates on the latest socio-economic and political news, providing insights on current events and developments in quick succession to keep viewers informed.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912085500 +0530" stop="20260912090000 +0530">
+    <title>Satasat</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/aef1cc1a-4cf7-4273-8d82-7d15ef7f80cc_CalcuttaNews_Satasat_1793019.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912090000 +0530" stop="20260912090200 +0530">
+    <title>Top Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/e6508490-0da2-4109-aca1-5558fc6a16c0_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912090200 +0530" stop="20260912092500 +0530">
+    <title>News At Nine</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/50bf3fe0-c879-4ba9-b423-8cedfc5cd9f1_CalcuttaNews_NewsAtNine_1793014.jpg" />
+    <desc>The host rounds up the latest trending news from politics, sports, culture, and entertainment in India, keeping viewers informed on key national happenings.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912092500 +0530" stop="20260912093000 +0530">
+    <title>Faster</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/91449295-e8e0-40b4-ad49-6ad7d2b418d8_CalcuttaNews_Faster_1793009.jpg" />
+    <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912093000 +0530" stop="20260912093200 +0530">
+    <title>Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/e803e0c6-0477-4a61-bbc1-d45ef94833cf_CalcuttaNews_Headlines_528865.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912093200 +0530" stop="20260912095500 +0530">
+    <title>News At Nine</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/f880656b-1238-413b-bccb-d31fb2b2dd07_CalcuttaNews_NewsAtNine_1793014.jpg" />
+    <desc>The host rounds up the latest trending news from politics, sports, culture, and entertainment in India, keeping viewers informed on key national happenings.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912095500 +0530" stop="20260912100000 +0530">
+    <title>Satasat</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/17b3dbe3-38d5-4e6f-81b9-4544281d7e17_CalcuttaNews_Satasat_1793019.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912100000 +0530" stop="20260912100200 +0530">
+    <title>Top Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/ce17bf97-a99b-46eb-aa19-c52358f9a298_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912100200 +0530" stop="20260912102500 +0530">
+    <title>The Debate</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/4c98c6f2-a4e2-46ed-9938-3ac1563cccbc_CalcuttaNews_TheDebate_1550044.jpg" />
+    <desc>Host updates top news: political, social, economic, sports, recent country developments in brief.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912102500 +0530" stop="20260912103000 +0530">
+    <title>Faster</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/ffd60812-1289-4c67-b78a-1d4efb3997b6_CalcuttaNews_Faster_1793009.jpg" />
+    <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912103000 +0530" stop="20260912103200 +0530">
+    <title>Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/6581122a-63ca-42b9-bb36-113abc78fe36_CalcuttaNews_Headlines_528865.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912103200 +0530" stop="20260912105500 +0530">
+    <title>Calcutta Express</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/5b8d5c6f-b8d2-4282-bf86-e00cf031835b_CalcuttaNews_CalcuttaExpress_1487694.jpg" />
+    <desc>Calcutta Express presents local news and headlines on politics, education, and real estate.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912105500 +0530" stop="20260912110000 +0530">
+    <title>Satasat</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/1e0b0ec1-2f08-4cf7-a310-26b2b000be80_CalcuttaNews_Satasat_1793019.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912110000 +0530" stop="20260912110200 +0530">
+    <title>Top Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/fbb1ca30-4807-4d3b-862c-4f4285254ea6_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912110200 +0530" stop="20260912112500 +0530">
+    <title>Calcutta News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/ae75d10d-0b73-451a-91fd-7a1914963105_CalcuttaNews_CalcuttaNews_451653.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912112500 +0530" stop="20260912113000 +0530">
+    <title>Faster</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/fb66ab1f-5d30-4e4e-b7d7-dc8d6ddaae28_CalcuttaNews_Faster_1793009.jpg" />
+    <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912113000 +0530" stop="20260912113200 +0530">
+    <title>Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/dfd6b9e0-8758-49b4-95a3-dd7a9f697d74_CalcuttaNews_Headlines_528865.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912113200 +0530" stop="20260912115500 +0530">
+    <title>Jelar Convoy</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/63837b80-1d6b-4a92-b41b-6adeee4dbd86_CalcuttaNews_JelarConvoy_1793012.jpg" />
+    <desc>The host compiles and presents the latest news and updates from all districts of West Bengal, focusing on issues that matter most to the people and their interests.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912115500 +0530" stop="20260912120000 +0530">
+    <title>Satasat</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/f090b684-643b-41b0-8b85-befcc1d9e8c9_CalcuttaNews_Satasat_1793019.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912120000 +0530" stop="20260912120200 +0530">
+    <title>Top Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/44dca41a-54f8-481c-b00f-e8bbc76888d0_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912120200 +0530" stop="20260912122500 +0530">
+    <title>Zero Hour</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/efd67de8-8814-4d0a-aab5-5a5f5c8742bc_CalcuttaNews_ZeroHour_1647970.jpg" />
+    <desc>Don't miss Zero Hour news coverage-tune in for critical developments and breaking stories.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912122500 +0530" stop="20260912123000 +0530">
+    <title>Faster</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/c6c13fb9-4916-4158-af1c-ab1e575329d1_CalcuttaNews_Faster_1793009.jpg" />
+    <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912123000 +0530" stop="20260912123200 +0530">
+    <title>Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/cd07443c-8673-4fef-b91a-28227b6b6a16_CalcuttaNews_Headlines_528865.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912123200 +0530" stop="20260912125500 +0530">
+    <title>Jela Superfast</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/95f66aae-d0d5-428b-bc7a-d9d2198f56d4_CalcuttaNews_JelaSuperfast_1793011.jpg" />
+    <desc>The host delivers rapid updates on the latest socio-economic and political news, providing insights on current events and developments in quick succession to keep viewers informed.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912125500 +0530" stop="20260912130000 +0530">
+    <title>Satasat</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/3d2c243b-51e5-484c-bbc2-27ecae3ac722_CalcuttaNews_Satasat_1793019.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912130000 +0530" stop="20260912130200 +0530">
+    <title>Top Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/26910e3f-cf2a-42c7-bfd1-9dbef92967aa_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912130200 +0530" stop="20260912132500 +0530">
+    <title>Calcutta News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/11171e86-760c-4cce-9e3e-8f9aef94eb3d_CalcuttaNews_CalcuttaNews_451653.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912132500 +0530" stop="20260912133000 +0530">
+    <title>Faster</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/c0fdeea3-2b57-4647-8e55-69cc31dfd89c_CalcuttaNews_Faster_1793009.jpg" />
+    <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912133000 +0530" stop="20260912133200 +0530">
+    <title>Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/d20dc5af-7da1-4e12-b6ff-995b0a11630d_CalcuttaNews_Headlines_528865.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912133200 +0530" stop="20260912135500 +0530">
+    <title>Aajker Manashi</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/6e3a2c7e-93d8-4982-ab2e-75b49f911cd2_CalcuttaNews_AajkerManashi_1793005.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912135500 +0530" stop="20260912140000 +0530">
+    <title>Satasat</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/82b7414e-eb62-4754-ab83-8c19bb94aa34_CalcuttaNews_Satasat_1793019.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912140000 +0530" stop="20260912140200 +0530">
+    <title>Top Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/84220214-a3fd-49d6-b0dd-e15caa4523d5_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912140200 +0530" stop="20260912142500 +0530">
+    <title>News Room @ 2Pm</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/5d871476-b9e4-4cc9-9eb8-cecb931ee880_CalcuttaNews_NewsRoom2Pm_1793016.jpg" />
+    <desc>The host delivers a round-up of India's latest trending news in politics, sports, culture, and entertainment, keeping viewers updated on key national events.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912142500 +0530" stop="20260912143000 +0530">
+    <title>Faster</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/295a5cb3-6ac1-4eaa-a8ea-42cb001f9fc6_CalcuttaNews_Faster_1793009.jpg" />
+    <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912143000 +0530" stop="20260912143200 +0530">
+    <title>Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/9eef7de4-ef51-4f0e-a831-49531f86a19d_CalcuttaNews_Headlines_528865.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912143200 +0530" stop="20260912145500 +0530">
+    <title>Calcutta Express</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/a3d90cb6-e114-445b-ba7f-a75fa488f8bb_CalcuttaNews_CalcuttaExpress_1487694.jpg" />
+    <desc>Calcutta Express presents local news and headlines on politics, education, and real estate.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912145500 +0530" stop="20260912150000 +0530">
+    <title>Satasat</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/92db68a2-f4b5-4c80-83e8-f7da5a5933ed_CalcuttaNews_Satasat_1793019.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912150000 +0530" stop="20260912150200 +0530">
+    <title>Top Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/54534874-1cef-499d-a059-87c3743c4b62_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912150200 +0530" stop="20260912152500 +0530">
+    <title>Calcutta News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/1e7fb630-b4ab-4b74-bad7-b1076251cc76_CalcuttaNews_CalcuttaNews_451653.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912152500 +0530" stop="20260912153000 +0530">
+    <title>Faster</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/a28edad5-cfd8-40b5-83e3-141dea03ea30_CalcuttaNews_Faster_1793009.jpg" />
+    <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912153000 +0530" stop="20260912153200 +0530">
+    <title>Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/ee293d64-e0c4-4142-a8e1-b074fa39cee4_CalcuttaNews_Headlines_528865.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912153200 +0530" stop="20260912155500 +0530">
+    <title>Jelar Convoy</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/fad11b46-6753-4be3-972d-09c6b95e8ef5_CalcuttaNews_JelarConvoy_1793012.jpg" />
+    <desc>The host compiles and presents the latest news and updates from all districts of West Bengal, focusing on issues that matter most to the people and their interests.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912155500 +0530" stop="20260912160000 +0530">
+    <title>Satasat</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/b97f55df-c585-418c-a9b0-98c573a37604_CalcuttaNews_Satasat_1793019.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912160000 +0530" stop="20260912160200 +0530">
+    <title>Top Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/0a3928ff-8515-4d81-a087-f89bba85fcdb_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912160200 +0530" stop="20260912162500 +0530">
+    <title>Charter Chatuskon</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/09252385-eb78-4a67-9a9a-eb1e5d81e9b6_CalcuttaNews_CharterChatuskon_1793008.jpg" />
+    <desc>The host covers the latest news and developments on socio-economic and political issues, providing insights into global events and their impact.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912162500 +0530" stop="20260912163000 +0530">
+    <title>Faster</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/e3908301-7b60-4c6d-b561-5e0b02dc8f8b_CalcuttaNews_Faster_1793009.jpg" />
+    <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912163000 +0530" stop="20260912163200 +0530">
+    <title>Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/e4db9321-b6bb-4650-b34e-37e27a5e7301_CalcuttaNews_Headlines_528865.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912163200 +0530" stop="20260912165800 +0530">
+    <title>Jela Superfast</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/5b1228a8-4fae-4485-8e57-c66af0c0969c_CalcuttaNews_JelaSuperfast_1793011.jpg" />
+    <desc>The host delivers rapid updates on the latest socio-economic and political news, providing insights on current events and developments in quick succession to keep viewers informed.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912165800 +0530" stop="20260912170000 +0530">
+    <title>Satasat</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/de63fb3a-9338-4592-95b4-36c861c7d5bb_CalcuttaNews_Satasat_1793019.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912170000 +0530" stop="20260912170200 +0530">
+    <title>Top Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/8daad085-0897-474c-9e6b-16b8ebcc71be_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912170200 +0530" stop="20260912172500 +0530">
+    <title>Panctar Panch</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/abf1615d-a94a-4ef1-8006-a723dbf75d41_CalcuttaNews_PanctarPanch_1647973.jpg" />
+    <desc>Tune in to Panctar Panch for breaking news and developments from around the world.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912172500 +0530" stop="20260912173000 +0530">
+    <title>Faster</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/bd796824-8ec7-4b99-bae7-f8148343c2db_CalcuttaNews_Faster_1793009.jpg" />
+    <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912173000 +0530" stop="20260912173200 +0530">
+    <title>Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/1f55399e-67af-4c4d-a56b-d2f58905d976_CalcuttaNews_Headlines_528865.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912173200 +0530" stop="20260912175500 +0530">
+    <title>Calcutta News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/aa868add-29d0-4f46-bce8-d4476d6de468_CalcuttaNews_CalcuttaNews_451653.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912175500 +0530" stop="20260912180000 +0530">
+    <title>Satasat</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/0db147f7-b9c4-49c1-89a4-5768460cc2ac_CalcuttaNews_Satasat_1793019.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912180000 +0530" stop="20260912180200 +0530">
+    <title>Top Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/da7c0e84-c43f-4921-bf2b-cf09233ae3dc_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912180200 +0530" stop="20260912182500 +0530">
+    <title>Chotar Golpo-Golper Chota</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/63e07554-2c1c-43ec-90b2-72664aa3366c_CalcuttaNews_ChotarGolpo-GolperChota_1647968.jpg" />
+    <desc>Dive into Chotar Golpo-Golper Chota for intriguing stories and news highlights-stay engaged!</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912182500 +0530" stop="20260912183000 +0530">
+    <title>Faster</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/1317c269-8a16-4164-82c2-57eb0d4b3503_CalcuttaNews_Faster_1793009.jpg" />
+    <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912183000 +0530" stop="20260912183200 +0530">
+    <title>Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/4cfcad1d-4bec-4b10-beb9-9f88696985bc_CalcuttaNews_Headlines_528865.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912183200 +0530" stop="20260912185500 +0530">
+    <title>Tea Break</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/cd389a32-a9ed-4c26-8723-158bb1ff1d07_CalcuttaNews_TeaBreak_1487698.jpg" />
+    <desc>Calcutta News tea break shows the latest news in Bengali from India and the world.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912185500 +0530" stop="20260912190000 +0530">
+    <title>Satasat</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/81ea46d4-6abd-40da-9900-1437fdf0100e_CalcuttaNews_Satasat_1793019.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912190000 +0530" stop="20260912190200 +0530">
+    <title>Top Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/6e91f41d-59ab-4b3a-bb0c-59308496d3a2_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912190200 +0530" stop="20260912192500 +0530">
+    <title>Satar Satkahon</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/bb68046f-db63-470c-8117-767e73cad816_CalcuttaNews_SatarSatkahon_1793018.jpg" />
+    <desc>The host provides the latest updates and developments from various spheres, including business, politics, and social issues, offering viewers a comprehensive overview of current events.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912192500 +0530" stop="20260912193000 +0530">
+    <title>Faster</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/1814667c-cf83-4295-b026-27ef5ea9de5e_CalcuttaNews_Faster_1793009.jpg" />
+    <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912193000 +0530" stop="20260912193200 +0530">
+    <title>Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/4ef9dcc2-652e-4644-a1c2-5b24ba4d4319_CalcuttaNews_Headlines_528865.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912193200 +0530" stop="20260912195500 +0530">
+    <title>Mahanagar Katha</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/f02673ae-dfb1-4d93-b444-aa985edc4078_CalcuttaNews_MahanagarKatha_1793013.jpg" />
+    <desc>The host covers the latest news stories, updates, and developments in social issues, politics, sports, and finance, providing insights into each topic for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912195500 +0530" stop="20260912195700 +0530">
+    <title>Top Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/a007ee19-3400-4772-8f0f-69e7dc4d3fcd_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912195700 +0530" stop="20260912212500 +0530">
+    <title>Halla Bol</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/4bd9dd04-d75d-4c6c-82c1-8a8e3b37de2f_CalcuttaNews_HallaBol_1487696.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912212500 +0530" stop="20260912213000 +0530">
+    <title>Faster</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/9137a15b-f058-49fb-a6c1-1eea0e743b03_CalcuttaNews_Faster_1793009.jpg" />
+    <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912213000 +0530" stop="20260912213200 +0530">
+    <title>Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/28f190cf-81bf-47d9-8fb8-314e8247f6bc_CalcuttaNews_Headlines_528865.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912213200 +0530" stop="20260912215500 +0530">
+    <title>Calcutta Express</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/b9c4db26-479b-45ec-86aa-5174afe80b24_CalcuttaNews_CalcuttaExpress_1487694.jpg" />
+    <desc>Calcutta Express presents local news and headlines on politics, education, and real estate.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912215500 +0530" stop="20260912220000 +0530">
+    <title>Satasat</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/1ddb5332-593c-452d-8b6c-fdf9105cc4a6_CalcuttaNews_Satasat_1793019.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912220000 +0530" stop="20260912220200 +0530">
+    <title>Top Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/d95be350-690a-4980-b288-9181b9ba5cfe_CalcuttaNews_TopHeadlines_1487699.jpg" />
+    <desc>Get the latest Bengali news and breaking headlines from India and worldwide with Calcutta News.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912220200 +0530" stop="20260912222500 +0530">
+    <title>Bangabhumi</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/a7a64686-5032-4b63-bfd5-064d8f8a41bf_CalcuttaNews_Bangabhumi_1793007.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912222500 +0530" stop="20260912223000 +0530">
+    <title>Faster</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/08e8dd04-0b41-4ed0-95a7-60798b7c7cff_CalcuttaNews_Faster_1793009.jpg" />
+    <desc>The host delivers rapid updates on the latest political and socio-economic news and developments from across the country, keeping viewers informed.</desc>
+    <language>Bangla</language>
+    <category>Bangla</category>
+    <category>News</category>
+    <date>20260912</date>
+  </programme>
+  <programme channel="144652" start="20260912223000 +0530" stop="20260912223200 +0530">
+    <title>Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/11092026/b041e4df-bcd6-428e-a69b-3fd496c9d3f5_CalcuttaNews_Headlines_528865.jpg" />
+    <desc>A host explains current global socio-economic and political news, sharing clear updates and developments from around the world, making complex topics easier to understand for viewers.</desc>
     <language>Bangla</language>
     <category>Bangla</category>
     <category>News</category>
