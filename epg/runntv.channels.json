@@ -1,5 +1,19 @@
 [
     {
+        "id": "blywcm",
+        "name": "Eros Universe Bollywood Cinema",
+        "category": "Movies",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYWCM/Web/thumbnail/26a59852-eecf-4255-b59b-efeb012344fb.png",
+        "stream": "https://eros-blywdcnm.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8"
+    },
+    {
+        "id": "altmov",
+        "name": "All Time Movies",
+        "category": "Movies",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ALTMOV/Web/thumbnail/6b0ed93c-db95-4d9b-8bad-a0c0245782c2.png",
+        "stream": "https://alltimemovies.cdn.runn.tv/penmusic/stream/altmov/playlist.m3u8"
+    },
+    {
         "id": "blyrag",
         "name": "NH BollyRaga",
         "category": "Entertainment",
@@ -7,11 +21,25 @@
         "stream": "https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8"
     },
     {
-        "id": "blywcm",
-        "name": "Eros Universe Bollywood Cinema",
+        "id": "blyflx",
+        "name": "NH BollyFlix",
         "category": "Movies",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYWCM/Web/thumbnail/26a59852-eecf-4255-b59b-efeb012344fb.png",
-        "stream": "https://eros-blywdcnm.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8"
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYFLX/Web/thumbnail/a3b425cc-d6bd-4618-b78f-27c875df5da5.png",
+        "stream": "https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8"
+    },
+    {
+        "id": "ersent",
+        "name": "Eros Universe Entertainment",
+        "category": "Movies",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ERSENT/Web/thumbnail/4b435974-1477-4e41-a8ea-bf05ddf4113b.png",
+        "stream": "https://eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8"
+    },
+    {
+        "id": "shemaroo-bollywood",
+        "name": "Shemaroo Bollywood",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRBOL/Web/thumbnail/logo_web.png",
+        "stream": "https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8"
     },
     {
         "id": "shemaroo-filmigaane",
@@ -47,34 +75,6 @@
         "category": "Entertainment",
         "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NHNAMO/Web/thumbnail/75cbbbf8-95ce-44e7-a964-dcec32085c79.png",
         "stream": "https://nhnamo.cdn.runn.tv/index.m3u8"
-    },
-    {
-        "id": "altmov",
-        "name": "All Time Movies",
-        "category": "Movies",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ALTMOV/Web/thumbnail/6b0ed93c-db95-4d9b-8bad-a0c0245782c2.png",
-        "stream": "https://alltimemovies.cdn.runn.tv/penmusic/stream/altmov/playlist.m3u8"
-    },
-    {
-        "id": "ersent",
-        "name": "Eros Universe Entertainment",
-        "category": "Movies",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ERSENT/Web/thumbnail/4b435974-1477-4e41-a8ea-bf05ddf4113b.png",
-        "stream": "https://eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8"
-    },
-    {
-        "id": "shemaroo-bollywood",
-        "name": "Shemaroo Bollywood",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRBOL/Web/thumbnail/logo_web.png",
-        "stream": "https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8"
-    },
-    {
-        "id": "blyflx",
-        "name": "NH BollyFlix",
-        "category": "Movies",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYFLX/Web/thumbnail/a3b425cc-d6bd-4618-b78f-27c875df5da5.png",
-        "stream": "https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8"
     },
     {
         "id": "blygld",
