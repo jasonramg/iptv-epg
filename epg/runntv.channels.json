@@ -7,48 +7,6 @@
         "stream": "https://eros-blywdcnm.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8"
     },
     {
-        "id": "altmov",
-        "name": "All Time Movies",
-        "category": "Movies",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ALTMOV/Web/thumbnail/6b0ed93c-db95-4d9b-8bad-a0c0245782c2.png",
-        "stream": "https://alltimemovies.cdn.runn.tv/penmusic/stream/altmov/playlist.m3u8"
-    },
-    {
-        "id": "blyrag",
-        "name": "NH BollyRaga",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYRAG/Web/thumbnail/edac5b07-addf-45c8-97fb-77af5ff4831b.png",
-        "stream": "https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8"
-    },
-    {
-        "id": "blyflx",
-        "name": "NH BollyFlix",
-        "category": "Movies",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYFLX/Web/thumbnail/a3b425cc-d6bd-4618-b78f-27c875df5da5.png",
-        "stream": "https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8"
-    },
-    {
-        "id": "ersent",
-        "name": "Eros Universe Entertainment",
-        "category": "Movies",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ERSENT/Web/thumbnail/4b435974-1477-4e41-a8ea-bf05ddf4113b.png",
-        "stream": "https://eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8"
-    },
-    {
-        "id": "shemaroo-bollywood",
-        "name": "Shemaroo Bollywood",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRBOL/Web/thumbnail/logo_web.png",
-        "stream": "https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8"
-    },
-    {
-        "id": "shemaroo-filmigaane",
-        "name": "Shemaroo Filmigaane",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRFGN/Web/thumbnail/logo_web.png",
-        "stream": "https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8"
-    },
-    {
         "id": "b4umus",
         "name": "B4U Music",
         "category": "Entertainment",
@@ -63,11 +21,53 @@
         "stream": "https://9x.cdn.runn.tv/9XM/master.m3u8"
     },
     {
+        "id": "shemaroo-bollywood",
+        "name": "Shemaroo Bollywood",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRBOL/Web/thumbnail/logo_web.png",
+        "stream": "https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8"
+    },
+    {
+        "id": "altmov",
+        "name": "All Time Movies",
+        "category": "Movies",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ALTMOV/Web/thumbnail/6b0ed93c-db95-4d9b-8bad-a0c0245782c2.png",
+        "stream": "https://alltimemovies.cdn.runn.tv/penmusic/stream/altmov/playlist.m3u8"
+    },
+    {
+        "id": "ersent",
+        "name": "Eros Universe Entertainment",
+        "category": "Movies",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ERSENT/Web/thumbnail/4b435974-1477-4e41-a8ea-bf05ddf4113b.png",
+        "stream": "https://eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8"
+    },
+    {
         "id": "kuting",
         "name": "Kutingg",
         "category": "Entertainment",
         "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/KUTING/Web/thumbnail/e17460cc-7367-4740-8d17-4dcc0ca88a60.png",
         "stream": "https://balajitelefilms-runntv.vgcdn.net/vglive-sk-864130/v1/019d675553f51ea540a815e5635b31/019d67562bdd1ea540a815e5635b34/playlist.m3u8"
+    },
+    {
+        "id": "shemaroo-filmigaane",
+        "name": "Shemaroo Filmigaane",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRFGN/Web/thumbnail/logo_web.png",
+        "stream": "https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8"
+    },
+    {
+        "id": "blyrag",
+        "name": "NH BollyRaga",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYRAG/Web/thumbnail/edac5b07-addf-45c8-97fb-77af5ff4831b.png",
+        "stream": "https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8"
+    },
+    {
+        "id": "blyflx",
+        "name": "NH BollyFlix",
+        "category": "Movies",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYFLX/Web/thumbnail/a3b425cc-d6bd-4618-b78f-27c875df5da5.png",
+        "stream": "https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8"
     },
     {
         "id": "nhnamo",
