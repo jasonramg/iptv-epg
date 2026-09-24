@@ -1,17 +1,10 @@
 [
     {
-        "id": "blywcm",
-        "name": "Eros Universe Bollywood Cinema",
+        "id": "ersent",
+        "name": "Eros Universe Entertainment",
         "category": "Movies",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYWCM/Web/thumbnail/26a59852-eecf-4255-b59b-efeb012344fb.png",
-        "stream": "https://eros-blywdcnm.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8"
-    },
-    {
-        "id": "blygld",
-        "name": "NH BollyGold",
-        "category": "Movies",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYGLD/Web/thumbnail/d4eada62-e3ab-48b9-afe7-44942db7cf00.png",
-        "stream": "https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8"
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ERSENT/Web/thumbnail/4b435974-1477-4e41-a8ea-bf05ddf4113b.png",
+        "stream": "https://eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8"
     },
     {
         "id": "kuting",
@@ -35,18 +28,25 @@
         "stream": "https://b4u-music.cdn.runn.tv/playlist.m3u8"
     },
     {
+        "id": "nhnamo",
+        "name": "NH Namo",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NHNAMO/Web/thumbnail/75cbbbf8-95ce-44e7-a964-dcec32085c79.png",
+        "stream": "https://nhnamo.cdn.runn.tv/index.m3u8"
+    },
+    {
+        "id": "blywcm",
+        "name": "Eros Universe Bollywood Cinema",
+        "category": "Movies",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYWCM/Web/thumbnail/26a59852-eecf-4255-b59b-efeb012344fb.png",
+        "stream": "https://eros-blywdcnm.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8"
+    },
+    {
         "id": "altmov",
         "name": "All Time Movies",
         "category": "Movies",
         "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ALTMOV/Web/thumbnail/6b0ed93c-db95-4d9b-8bad-a0c0245782c2.png",
         "stream": "https://alltimemovies.cdn.runn.tv/penmusic/stream/altmov/playlist.m3u8"
-    },
-    {
-        "id": "ersent",
-        "name": "Eros Universe Entertainment",
-        "category": "Movies",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ERSENT/Web/thumbnail/4b435974-1477-4e41-a8ea-bf05ddf4113b.png",
-        "stream": "https://eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8"
     },
     {
         "id": "run9xm",
@@ -63,6 +63,13 @@
         "stream": "https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8"
     },
     {
+        "id": "divbha",
+        "name": "Divya Bhajan",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVBHA/Mobile/thumbnail/c545dbe3-3a90-41dd-addf-2012badf35a4.png",
+        "stream": "https://pitaaratv.cdn.runn.tv/ptnr-RUNNTV/title-Divya_Bhajan_NONSSAI/v1/vglive-sk-987805/playlist.m3u8"
+    },
+    {
         "id": "shemaroo-bollywood",
         "name": "Shemaroo Bollywood",
         "category": "Entertainment",
@@ -70,18 +77,18 @@
         "stream": "https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8"
     },
     {
+        "id": "blygld",
+        "name": "NH BollyGold",
+        "category": "Movies",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYGLD/Web/thumbnail/d4eada62-e3ab-48b9-afe7-44942db7cf00.png",
+        "stream": "https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8"
+    },
+    {
         "id": "blyflx",
         "name": "NH BollyFlix",
         "category": "Movies",
         "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYFLX/Web/thumbnail/a3b425cc-d6bd-4618-b78f-27c875df5da5.png",
         "stream": "https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8"
-    },
-    {
-        "id": "nhnamo",
-        "name": "NH Namo",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NHNAMO/Web/thumbnail/75cbbbf8-95ce-44e7-a964-dcec32085c79.png",
-        "stream": "https://nhnamo.cdn.runn.tv/index.m3u8"
     },
     {
         "id": "p_supjio",
@@ -126,6 +133,13 @@
         "stream": "https://filtercopy.cdn.runn.tv/pocketaces/stream/fltrcopy/playlist.m3u8"
     },
     {
+        "id": "gregld",
+        "name": "Green Gold TV",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/GREGLD/Web/thumbnail/ce985205-5974-48c4-94d4-0d7551e94b85.png",
+        "stream": "https://runntv-grngld.cdn.runn.tv/greengold/stream/grngld/playlist.m3u8"
+    },
+    {
         "id": "pitcom",
         "name": "Pitaara Comedy",
         "category": "Entertainment",
@@ -145,13 +159,6 @@
         "category": "Entertainment",
         "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_RUNTHR/Web/thumbnail/logo_web.png",
         "stream": "https://runthr.cdn.runn.tv/runntv/stream/p_runthr/playlist.m3u8"
-    },
-    {
-        "id": "divbha",
-        "name": "Divya Bhajan",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVBHA/Mobile/thumbnail/c545dbe3-3a90-41dd-addf-2012badf35a4.png",
-        "stream": "https://pitaaratv.cdn.runn.tv/ptnr-RUNNTV/title-Divya_Bhajan_NONSSAI/v1/vglive-sk-987805/playlist.m3u8"
     },
     {
         "id": "swasto",
@@ -194,13 +201,6 @@
         "category": "Entertainment",
         "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_NAVBHT/Web/thumbnail/logo_web.png",
         "stream": "https://navbharat.cdn.runn.tv/master.m3u8"
-    },
-    {
-        "id": "gregld",
-        "name": "Green Gold TV",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/GREGLD/Web/thumbnail/ce985205-5974-48c4-94d4-0d7551e94b85.png",
-        "stream": "https://runntv-grngld.cdn.runn.tv/greengold/stream/grngld/playlist.m3u8"
     },
     {
         "id": "mahply",
