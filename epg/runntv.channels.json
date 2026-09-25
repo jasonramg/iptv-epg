@@ -1,5 +1,54 @@
 [
     {
+        "id": "blyflx",
+        "name": "NH BollyFlix",
+        "category": "Movies",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYFLX/Web/thumbnail/a3b425cc-d6bd-4618-b78f-27c875df5da5.png",
+        "stream": "https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8"
+    },
+    {
+        "id": "shemaroo-bollywood",
+        "name": "Shemaroo Bollywood",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRBOL/Web/thumbnail/logo_web.png",
+        "stream": "https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8"
+    },
+    {
+        "id": "blywcm",
+        "name": "Eros Universe Bollywood Cinema",
+        "category": "Movies",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYWCM/Web/thumbnail/26a59852-eecf-4255-b59b-efeb012344fb.png",
+        "stream": "https://eros-blywdcnm.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8"
+    },
+    {
+        "id": "blygld",
+        "name": "NH BollyGold",
+        "category": "Movies",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYGLD/Web/thumbnail/d4eada62-e3ab-48b9-afe7-44942db7cf00.png",
+        "stream": "https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8"
+    },
+    {
+        "id": "kuting",
+        "name": "Kutingg",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/KUTING/Web/thumbnail/e17460cc-7367-4740-8d17-4dcc0ca88a60.png",
+        "stream": "https://balajitelefilms-runntv.vgcdn.net/vglive-sk-864130/v1/019d675553f51ea540a815e5635b31/019d67562bdd1ea540a815e5635b34/playlist.m3u8"
+    },
+    {
+        "id": "altmov",
+        "name": "All Time Movies",
+        "category": "Movies",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ALTMOV/Web/thumbnail/6b0ed93c-db95-4d9b-8bad-a0c0245782c2.png",
+        "stream": "https://alltimemovies.cdn.runn.tv/penmusic/stream/altmov/playlist.m3u8"
+    },
+    {
+        "id": "nhnamo",
+        "name": "NH Namo",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NHNAMO/Web/thumbnail/75cbbbf8-95ce-44e7-a964-dcec32085c79.png",
+        "stream": "https://nhnamo.cdn.runn.tv/index.m3u8"
+    },
+    {
         "id": "b4umus",
         "name": "B4U Music",
         "category": "Entertainment",
@@ -21,39 +70,11 @@
         "stream": "https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8"
     },
     {
-        "id": "nhnamo",
-        "name": "NH Namo",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NHNAMO/Web/thumbnail/75cbbbf8-95ce-44e7-a964-dcec32085c79.png",
-        "stream": "https://nhnamo.cdn.runn.tv/index.m3u8"
-    },
-    {
         "id": "ersent",
         "name": "Eros Universe Entertainment",
         "category": "Movies",
         "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ERSENT/Web/thumbnail/4b435974-1477-4e41-a8ea-bf05ddf4113b.png",
         "stream": "https://eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8"
-    },
-    {
-        "id": "kuting",
-        "name": "Kutingg",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/KUTING/Web/thumbnail/e17460cc-7367-4740-8d17-4dcc0ca88a60.png",
-        "stream": "https://balajitelefilms-runntv.vgcdn.net/vglive-sk-864130/v1/019d675553f51ea540a815e5635b31/019d67562bdd1ea540a815e5635b34/playlist.m3u8"
-    },
-    {
-        "id": "blywcm",
-        "name": "Eros Universe Bollywood Cinema",
-        "category": "Movies",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYWCM/Web/thumbnail/26a59852-eecf-4255-b59b-efeb012344fb.png",
-        "stream": "https://eros-blywdcnm.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8"
-    },
-    {
-        "id": "altmov",
-        "name": "All Time Movies",
-        "category": "Movies",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ALTMOV/Web/thumbnail/6b0ed93c-db95-4d9b-8bad-a0c0245782c2.png",
-        "stream": "https://alltimemovies.cdn.runn.tv/penmusic/stream/altmov/playlist.m3u8"
     },
     {
         "id": "run9xm",
@@ -68,27 +89,6 @@
         "category": "Entertainment",
         "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVBHA/Mobile/thumbnail/c545dbe3-3a90-41dd-addf-2012badf35a4.png",
         "stream": "https://pitaaratv.cdn.runn.tv/ptnr-RUNNTV/title-Divya_Bhajan_NONSSAI/v1/vglive-sk-987805/playlist.m3u8"
-    },
-    {
-        "id": "shemaroo-bollywood",
-        "name": "Shemaroo Bollywood",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRBOL/Web/thumbnail/logo_web.png",
-        "stream": "https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8"
-    },
-    {
-        "id": "blygld",
-        "name": "NH BollyGold",
-        "category": "Movies",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYGLD/Web/thumbnail/d4eada62-e3ab-48b9-afe7-44942db7cf00.png",
-        "stream": "https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8"
-    },
-    {
-        "id": "blyflx",
-        "name": "NH BollyFlix",
-        "category": "Movies",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYFLX/Web/thumbnail/a3b425cc-d6bd-4618-b78f-27c875df5da5.png",
-        "stream": "https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8"
     },
     {
         "id": "p_supjio",
