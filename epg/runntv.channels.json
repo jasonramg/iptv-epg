@@ -1,5 +1,33 @@
 [
     {
+        "id": "b4umus",
+        "name": "B4U Music",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UMUS/Mobile/thumbnail/a7139e1a-3391-412c-9478-f8feb183f143.png",
+        "stream": "https://b4u-music.cdn.runn.tv/playlist.m3u8"
+    },
+    {
+        "id": "shemaroo-filmigaane",
+        "name": "Shemaroo Filmigaane",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRFGN/Web/thumbnail/logo_web.png",
+        "stream": "https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8"
+    },
+    {
+        "id": "blyrag",
+        "name": "NH BollyRaga",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYRAG/Web/thumbnail/edac5b07-addf-45c8-97fb-77af5ff4831b.png",
+        "stream": "https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8"
+    },
+    {
+        "id": "nhnamo",
+        "name": "NH Namo",
+        "category": "Entertainment",
+        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NHNAMO/Web/thumbnail/75cbbbf8-95ce-44e7-a964-dcec32085c79.png",
+        "stream": "https://nhnamo.cdn.runn.tv/index.m3u8"
+    },
+    {
         "id": "ersent",
         "name": "Eros Universe Entertainment",
         "category": "Movies",
@@ -12,27 +40,6 @@
         "category": "Entertainment",
         "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/KUTING/Web/thumbnail/e17460cc-7367-4740-8d17-4dcc0ca88a60.png",
         "stream": "https://balajitelefilms-runntv.vgcdn.net/vglive-sk-864130/v1/019d675553f51ea540a815e5635b31/019d67562bdd1ea540a815e5635b34/playlist.m3u8"
-    },
-    {
-        "id": "shemaroo-filmigaane",
-        "name": "Shemaroo Filmigaane",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRFGN/Web/thumbnail/logo_web.png",
-        "stream": "https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8"
-    },
-    {
-        "id": "b4umus",
-        "name": "B4U Music",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UMUS/Mobile/thumbnail/a7139e1a-3391-412c-9478-f8feb183f143.png",
-        "stream": "https://b4u-music.cdn.runn.tv/playlist.m3u8"
-    },
-    {
-        "id": "nhnamo",
-        "name": "NH Namo",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NHNAMO/Web/thumbnail/75cbbbf8-95ce-44e7-a964-dcec32085c79.png",
-        "stream": "https://nhnamo.cdn.runn.tv/index.m3u8"
     },
     {
         "id": "blywcm",
@@ -54,13 +61,6 @@
         "category": "Music",
         "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/RUN9XM/Mobile/thumbnail/66e1721d-864f-46cf-a583-73c2837e5a75.png",
         "stream": "https://9x.cdn.runn.tv/9XM/master.m3u8"
-    },
-    {
-        "id": "blyrag",
-        "name": "NH BollyRaga",
-        "category": "Entertainment",
-        "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYRAG/Web/thumbnail/edac5b07-addf-45c8-97fb-77af5ff4831b.png",
-        "stream": "https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8"
     },
     {
         "id": "divbha",
