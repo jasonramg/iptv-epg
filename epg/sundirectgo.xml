@@ -92,11 +92,11 @@
     <display-name>Kalaignar Seithigal</display-name>
     <icon src="https://metaimg.sundirectgo.in/epgChannels/141110_923e1cb3-24a8-43cb-903b-d747e8558f03.png" />
   </channel>
-  <channel id="1715605">
+  <channel id="1707770">
     <display-name>News18 Tamil Nadu</display-name>
     <icon src="https://metaimg.sundirectgo.in/epgChannels/141087_8e522aea-a089-45d7-9abc-d61e2630a35b.png" />
   </channel>
-  <channel id="1707770">
+  <channel id="1715605">
     <display-name>News18 Tamil Nadu</display-name>
     <icon src="https://metaimg.sundirectgo.in/epgChannels/141087_8e522aea-a089-45d7-9abc-d61e2630a35b.png" />
   </channel>
@@ -7022,267 +7022,6 @@
     <category>Tamil</category>
     <date>20260926</date>
   </programme>
-  <programme channel="1715605" start="20260926000000 +0530" stop="20260926060000 +0530">
-    <title>Super 30</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/6570ef2f-50ec-4aef-abce-a689fec1eb1a_News18TamilNadu_Super30_1544002.jpg" />
-    <desc>A rapid news bulletin covering 30 important headlines of the day.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
-  <programme channel="1715605" start="20260926060000 +0530" stop="20260926070000 +0530">
-    <title>Ettuthikkum 80</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/96b52bc4-eab3-4786-9b2c-2ccbc77cacaf_News18TamilNadu_Ettuthikkum80_1660618.jpg" />
-    <desc>A quick roundup of 80 crucial news stories across various sectors.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
-  <programme channel="1715605" start="20260926070000 +0530" stop="20260926080000 +0530">
-    <title>7 Mani Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/8cf40e2b-80ce-49d0-b18e-c834b67bd51f_News18TamilNadu_7ManiSeithigal_460849.jpg" />
-    <desc>Get the latest political, social, and sports news from India and globally.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
-  <programme channel="1715605" start="20260926080000 +0530" stop="20260926090000 +0530">
-    <title>Super 60 News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/ea202224-7aa6-432d-b781-c0d72b3302b2_News18TamilNadu_Super60News_1387845.jpg" />
-    <desc>A comprehensive news segment with 60 key stories from the day.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
-  <programme channel="1715605" start="20260926090000 +0530" stop="20260926093000 +0530">
-    <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/d8584273-cab5-4a24-bce2-2c35486ddb06_News18TamilNadu_News_437171.jpg" />
-    <desc>Comprehensive news coverage of regional, national, and international events.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
-  <programme channel="1715605" start="20260926093000 +0530" stop="20260926100000 +0530">
-    <title>18 Dharbar</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/d63e4394-1278-4aef-8e2f-39c9d94e10e7_News18TamilNadu_18Dharbar_1654115.jpg" />
-    <desc>In-depth discussions on the latest political issues and government policies.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
-  <programme channel="1715605" start="20260926100000 +0530" stop="20260926110000 +0530">
-    <title>10 Mani Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/7f2c39ae-1454-418e-a9e3-aa6ce4c67e90_News18TamilNadu_10ManiSeithigal_460841.jpg" />
-    <desc>Get the latest political, social, and sports news from India and globally.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
-  <programme channel="1715605" start="20260926110000 +0530" stop="20260926120000 +0530">
-    <title>11 Mani Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/0102a513-0de3-45e3-aee0-387b95ce8bef_News18TamilNadu_11ManiSeithigal_460842.jpg" />
-    <desc>Get the latest political, social, and sports news from India and globally.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
-  <programme channel="1715605" start="20260926120000 +0530" stop="20260926123000 +0530">
-    <title>12 Mani Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/e6dbf7d6-516d-4a78-b58b-3b0343460860_News18TamilNadu_12ManiSeithigal_460843.jpg" />
-    <desc>Get the latest political, social, and sports news from India and globally.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
-  <programme channel="1715605" start="20260926123000 +0530" stop="20260926130000 +0530">
-    <title>News18 Spl</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/abd9e45f-70d1-43d8-a1b5-cfec1755d28f_News18TamilNadu_News18Spl_1439499.jpg" />
-    <desc>Discover News18 Spl for special reports and exclusive news. See it now!</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
-  <programme channel="1715605" start="20260926130000 +0530" stop="20260926133000 +0530">
-    <title>1 Mani Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/f720c61c-9187-4cd9-9bef-012f997731c3_News18TamilNadu_1ManiSeithigal_460840.jpg" />
-    <desc>Get the latest political, social, and sports news from India and globally.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
-  <programme channel="1715605" start="20260926133000 +0530" stop="20260926140000 +0530">
-    <title>Crime Time</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/4de41686-715f-48d2-a056-a12d8c8587cd_News18TamilNadu_CrimeTime_533372.jpg" />
-    <desc>A deep dive into recent crimes, investigations, and law enforcement updates.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
-  <programme channel="1715605" start="20260926140000 +0530" stop="20260926143000 +0530">
-    <title>2 Mani Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/4d427fd8-89bb-4e48-ae46-2549cc4ca4fd_News18TamilNadu_2ManiSeithigal_460844.jpg" />
-    <desc>Get the latest political, social, and sports news from India and globally.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
-  <programme channel="1715605" start="20260926143000 +0530" stop="20260926150000 +0530">
-    <title>Kadhai Alla Varalaru</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/0006c92a-ae69-400b-9db7-b9a44edfea0e_News18TamilNadu_KadhaiAllaVaralaru_1026957.jpg" />
-    <desc>Exploring untold historical events and their impact on present times.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
-  <programme channel="1715605" start="20260926150000 +0530" stop="20260926153000 +0530">
-    <title>3 Mani Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/aa31293f-0c03-47a0-9a75-6ae0ac7fe19f_News18TamilNadu_3ManiSeithigal_460846.jpg" />
-    <desc>Get the latest political, social, and sports news from India and globally.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
-  <programme channel="1715605" start="20260926153000 +0530" stop="20260926160000 +0530">
-    <title>Super 30</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/8af6e719-dafb-4650-8591-bb418b2bc528_News18TamilNadu_Super30_1544002.jpg" />
-    <desc>A rapid news bulletin covering 30 important headlines of the day.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
-  <programme channel="1715605" start="20260926160000 +0530" stop="20260926163000 +0530">
-    <title>4 Mani Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/85c8c582-3062-459c-9bbf-0708fe0232a8_News18TamilNadu_4ManiSeithigal_460847.jpg" />
-    <desc>Get the latest political, social, and sports news from India and globally.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
-  <programme channel="1715605" start="20260926163000 +0530" stop="20260926170000 +0530">
-    <title>Crime Time</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/c0e08c1f-4582-4731-9f68-e221af470085_News18TamilNadu_CrimeTime_533372.jpg" />
-    <desc>A deep dive into recent crimes, investigations, and law enforcement updates.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
-  <programme channel="1715605" start="20260926170000 +0530" stop="20260926180000 +0530">
-    <title>5 Mani Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/ca86b4f8-9865-4598-90de-4e367ad6efe0_News18TamilNadu_5ManiSeithigal_460848.jpg" />
-    <desc>Get the latest political, social, and sports news from India and globally.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
-  <programme channel="1715605" start="20260926180000 +0530" stop="20260926183000 +0530">
-    <title>Super 30</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/a1638bfd-7031-4407-bcdb-6390c81adce4_News18TamilNadu_Super30_1544002.jpg" />
-    <desc>A rapid news bulletin covering 30 important headlines of the day.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
-  <programme channel="1715605" start="20260926183000 +0530" stop="20260926190000 +0530">
-    <title>Kadhai Alla Varalaru</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/4d468d45-7642-4b28-a391-529a491612f3_News18TamilNadu_KadhaiAllaVaralaru_1026957.jpg" />
-    <desc>Exploring untold historical events and their impact on present times.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
-  <programme channel="1715605" start="20260926190000 +0530" stop="20260926193000 +0530">
-    <title>30 Minute - Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/49d96a79-1926-4345-ae32-9fab232ae68a_News18TamilNadu_30Minute-Headlines_1716790.jpg" />
-    <desc>Catch the latest live updates on politics, economics, and social stories nationwide!</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
-  <programme channel="1715605" start="20260926193000 +0530" stop="20260926200000 +0530">
-    <title>Crime Time</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/253c049f-1a08-4c68-9705-fa263d1bd1f8_News18TamilNadu_CrimeTime_533372.jpg" />
-    <desc>A deep dive into recent crimes, investigations, and law enforcement updates.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
-  <programme channel="1715605" start="20260926200000 +0530" stop="20260926210000 +0530">
-    <title>Solladhigaram</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/b2c26104-3eee-4c3f-a382-797899cf7e56_News18TamilNadu_Solladhigaram_1358236.jpg" />
-    <desc>Unspoken issues and controversies discussed and debated.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
-  <programme channel="1715605" start="20260926210000 +0530" stop="20260926213000 +0530">
-    <title>Oru Nimida Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/cbe7d3dd-aab6-453a-be14-7da7c0964c3e_News18TamilNadu_OruNimidaSeithigal_1403336.jpg" />
-    <desc>Breaking news and headlines delivered in a minute.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
-  <programme channel="1715605" start="20260926213000 +0530" stop="20260926220000 +0530">
-    <title>Kadhai Alla Varalaru</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/3c3a586d-e542-4b0b-af45-187d5b4ec3fb_News18TamilNadu_KadhaiAllaVaralaru_1026957.jpg" />
-    <desc>Exploring untold historical events and their impact on present times.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
-  <programme channel="1715605" start="20260926220000 +0530" stop="20260926223000 +0530">
-    <title>Crime Time</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/337355b8-95b5-46bf-bd9d-909b71b8fc2d_News18TamilNadu_CrimeTime_533372.jpg" />
-    <desc>A deep dive into recent crimes, investigations, and law enforcement updates.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
-  <programme channel="1715605" start="20260926223000 +0530" stop="20260926230000 +0530">
-    <title>18 Dharbar</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/48b63d7a-5b50-4c94-96e8-8f9ddd6e964f_News18TamilNadu_18Dharbar_1654115.jpg" />
-    <desc>In-depth discussions on the latest political issues and government policies.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
-  <programme channel="1715605" start="20260926230000 +0530" stop="20260927000000 +0530">
-    <title>Solladhigaram</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/24396b5b-c3ee-459b-a042-d1ece3cbbeef_News18TamilNadu_Solladhigaram_1358236.jpg" />
-    <desc>Unspoken issues and controversies discussed and debated.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20260926</date>
-  </programme>
   <programme channel="1707770" start="20260926000000 +0530" stop="20260926060000 +0530">
     <title>Super 30</title>
     <icon src="https://metaimg.sundirectgo.in/epg-images/26092026/a8cc0c4d-a7df-4ccf-991e-490bf0a32be9_News18TamilNadu_Super30_1544002.jpg" />
@@ -7538,6 +7277,267 @@
   <programme channel="1707770" start="20260926230000 +0530" stop="20260927000000 +0530">
     <title>Solladhigaram</title>
     <icon src="https://metaimg.sundirectgo.in/epg-images/26092026/fe554fe3-8b0f-4b89-b792-bc11832641ca_News18TamilNadu_Solladhigaram_1358236.jpg" />
+    <desc>Unspoken issues and controversies discussed and debated.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926000000 +0530" stop="20260926060000 +0530">
+    <title>Super 30</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/6570ef2f-50ec-4aef-abce-a689fec1eb1a_News18TamilNadu_Super30_1544002.jpg" />
+    <desc>A rapid news bulletin covering 30 important headlines of the day.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926060000 +0530" stop="20260926070000 +0530">
+    <title>Ettuthikkum 80</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/96b52bc4-eab3-4786-9b2c-2ccbc77cacaf_News18TamilNadu_Ettuthikkum80_1660618.jpg" />
+    <desc>A quick roundup of 80 crucial news stories across various sectors.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926070000 +0530" stop="20260926080000 +0530">
+    <title>7 Mani Seithigal</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/8cf40e2b-80ce-49d0-b18e-c834b67bd51f_News18TamilNadu_7ManiSeithigal_460849.jpg" />
+    <desc>Get the latest political, social, and sports news from India and globally.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926080000 +0530" stop="20260926090000 +0530">
+    <title>Super 60 News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/ea202224-7aa6-432d-b781-c0d72b3302b2_News18TamilNadu_Super60News_1387845.jpg" />
+    <desc>A comprehensive news segment with 60 key stories from the day.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926090000 +0530" stop="20260926093000 +0530">
+    <title>News</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/d8584273-cab5-4a24-bce2-2c35486ddb06_News18TamilNadu_News_437171.jpg" />
+    <desc>Comprehensive news coverage of regional, national, and international events.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926093000 +0530" stop="20260926100000 +0530">
+    <title>18 Dharbar</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/d63e4394-1278-4aef-8e2f-39c9d94e10e7_News18TamilNadu_18Dharbar_1654115.jpg" />
+    <desc>In-depth discussions on the latest political issues and government policies.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926100000 +0530" stop="20260926110000 +0530">
+    <title>10 Mani Seithigal</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/7f2c39ae-1454-418e-a9e3-aa6ce4c67e90_News18TamilNadu_10ManiSeithigal_460841.jpg" />
+    <desc>Get the latest political, social, and sports news from India and globally.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926110000 +0530" stop="20260926120000 +0530">
+    <title>11 Mani Seithigal</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/0102a513-0de3-45e3-aee0-387b95ce8bef_News18TamilNadu_11ManiSeithigal_460842.jpg" />
+    <desc>Get the latest political, social, and sports news from India and globally.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926120000 +0530" stop="20260926123000 +0530">
+    <title>12 Mani Seithigal</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/e6dbf7d6-516d-4a78-b58b-3b0343460860_News18TamilNadu_12ManiSeithigal_460843.jpg" />
+    <desc>Get the latest political, social, and sports news from India and globally.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926123000 +0530" stop="20260926130000 +0530">
+    <title>News18 Spl</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/abd9e45f-70d1-43d8-a1b5-cfec1755d28f_News18TamilNadu_News18Spl_1439499.jpg" />
+    <desc>Discover News18 Spl for special reports and exclusive news. See it now!</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926130000 +0530" stop="20260926133000 +0530">
+    <title>1 Mani Seithigal</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/f720c61c-9187-4cd9-9bef-012f997731c3_News18TamilNadu_1ManiSeithigal_460840.jpg" />
+    <desc>Get the latest political, social, and sports news from India and globally.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926133000 +0530" stop="20260926140000 +0530">
+    <title>Crime Time</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/4de41686-715f-48d2-a056-a12d8c8587cd_News18TamilNadu_CrimeTime_533372.jpg" />
+    <desc>A deep dive into recent crimes, investigations, and law enforcement updates.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926140000 +0530" stop="20260926143000 +0530">
+    <title>2 Mani Seithigal</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/4d427fd8-89bb-4e48-ae46-2549cc4ca4fd_News18TamilNadu_2ManiSeithigal_460844.jpg" />
+    <desc>Get the latest political, social, and sports news from India and globally.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926143000 +0530" stop="20260926150000 +0530">
+    <title>Kadhai Alla Varalaru</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/0006c92a-ae69-400b-9db7-b9a44edfea0e_News18TamilNadu_KadhaiAllaVaralaru_1026957.jpg" />
+    <desc>Exploring untold historical events and their impact on present times.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926150000 +0530" stop="20260926153000 +0530">
+    <title>3 Mani Seithigal</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/aa31293f-0c03-47a0-9a75-6ae0ac7fe19f_News18TamilNadu_3ManiSeithigal_460846.jpg" />
+    <desc>Get the latest political, social, and sports news from India and globally.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926153000 +0530" stop="20260926160000 +0530">
+    <title>Super 30</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/8af6e719-dafb-4650-8591-bb418b2bc528_News18TamilNadu_Super30_1544002.jpg" />
+    <desc>A rapid news bulletin covering 30 important headlines of the day.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926160000 +0530" stop="20260926163000 +0530">
+    <title>4 Mani Seithigal</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/85c8c582-3062-459c-9bbf-0708fe0232a8_News18TamilNadu_4ManiSeithigal_460847.jpg" />
+    <desc>Get the latest political, social, and sports news from India and globally.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926163000 +0530" stop="20260926170000 +0530">
+    <title>Crime Time</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/c0e08c1f-4582-4731-9f68-e221af470085_News18TamilNadu_CrimeTime_533372.jpg" />
+    <desc>A deep dive into recent crimes, investigations, and law enforcement updates.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926170000 +0530" stop="20260926180000 +0530">
+    <title>5 Mani Seithigal</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/ca86b4f8-9865-4598-90de-4e367ad6efe0_News18TamilNadu_5ManiSeithigal_460848.jpg" />
+    <desc>Get the latest political, social, and sports news from India and globally.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926180000 +0530" stop="20260926183000 +0530">
+    <title>Super 30</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/a1638bfd-7031-4407-bcdb-6390c81adce4_News18TamilNadu_Super30_1544002.jpg" />
+    <desc>A rapid news bulletin covering 30 important headlines of the day.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926183000 +0530" stop="20260926190000 +0530">
+    <title>Kadhai Alla Varalaru</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/4d468d45-7642-4b28-a391-529a491612f3_News18TamilNadu_KadhaiAllaVaralaru_1026957.jpg" />
+    <desc>Exploring untold historical events and their impact on present times.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926190000 +0530" stop="20260926193000 +0530">
+    <title>30 Minute - Headlines</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/49d96a79-1926-4345-ae32-9fab232ae68a_News18TamilNadu_30Minute-Headlines_1716790.jpg" />
+    <desc>Catch the latest live updates on politics, economics, and social stories nationwide!</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926193000 +0530" stop="20260926200000 +0530">
+    <title>Crime Time</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/253c049f-1a08-4c68-9705-fa263d1bd1f8_News18TamilNadu_CrimeTime_533372.jpg" />
+    <desc>A deep dive into recent crimes, investigations, and law enforcement updates.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926200000 +0530" stop="20260926210000 +0530">
+    <title>Solladhigaram</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/b2c26104-3eee-4c3f-a382-797899cf7e56_News18TamilNadu_Solladhigaram_1358236.jpg" />
+    <desc>Unspoken issues and controversies discussed and debated.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926210000 +0530" stop="20260926213000 +0530">
+    <title>Oru Nimida Seithigal</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/cbe7d3dd-aab6-453a-be14-7da7c0964c3e_News18TamilNadu_OruNimidaSeithigal_1403336.jpg" />
+    <desc>Breaking news and headlines delivered in a minute.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926213000 +0530" stop="20260926220000 +0530">
+    <title>Kadhai Alla Varalaru</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/3c3a586d-e542-4b0b-af45-187d5b4ec3fb_News18TamilNadu_KadhaiAllaVaralaru_1026957.jpg" />
+    <desc>Exploring untold historical events and their impact on present times.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926220000 +0530" stop="20260926223000 +0530">
+    <title>Crime Time</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/337355b8-95b5-46bf-bd9d-909b71b8fc2d_News18TamilNadu_CrimeTime_533372.jpg" />
+    <desc>A deep dive into recent crimes, investigations, and law enforcement updates.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926223000 +0530" stop="20260926230000 +0530">
+    <title>18 Dharbar</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/48b63d7a-5b50-4c94-96e8-8f9ddd6e964f_News18TamilNadu_18Dharbar_1654115.jpg" />
+    <desc>In-depth discussions on the latest political issues and government policies.</desc>
+    <language>Tamil</language>
+    <category>News</category>
+    <category>Tamil</category>
+    <date>20260926</date>
+  </programme>
+  <programme channel="1715605" start="20260926230000 +0530" stop="20260927000000 +0530">
+    <title>Solladhigaram</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/25092026/24396b5b-c3ee-459b-a042-d1ece3cbbeef_News18TamilNadu_Solladhigaram_1358236.jpg" />
     <desc>Unspoken issues and controversies discussed and debated.</desc>
     <language>Tamil</language>
     <category>News</category>
