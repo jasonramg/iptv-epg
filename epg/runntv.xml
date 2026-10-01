@@ -8740,15 +8740,6 @@
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/coverart/38b65b92-897d-4bd3-910d-1977d415ca34.png"/>
   </programme>
-  <programme channel="abpmaj" start="20260928003000 +0000" stop="20260928004500 +0000">
-    <title lang="en">100 Headlines</title>
-    <desc lang="en">Top 100 News of the day are presented in this fast news segment</desc>
-    <language>Marathi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/coverart/47322414-8baa-42df-aaa7-4fe2326cbd47.png"/>
-  </programme>
   <programme channel="abpmaj" start="20260928004500 +0000" stop="20260928005800 +0000">
     <title lang="en">Divyang Bulletin</title>
     <desc lang="en">Special Bulletin</desc>
@@ -12078,15 +12069,6 @@
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/coverart/47322414-8baa-42df-aaa7-4fe2326cbd47.png"/>
-  </programme>
-  <programme channel="alrght" start="20260928001718 +0000" stop="20260928004103 +0000">
-    <title lang="en">Backpackers S1 Ep 03</title>
-    <desc lang="en">Friends set off on backpacking adventures, discovering new places and themselves.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-16+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/ruskmedia/platform/channels/ALRGHT/Web/coverart/8a3e7bab-1f26-4f18-8104-1256d88f76ff.png"/>
   </programme>
   <programme channel="alrght" start="20260928004103 +0000" stop="20260928005823 +0000">
     <title lang="en">Office Dancers Ep 01</title>
@@ -26510,15 +26492,6 @@ the journey to catch the culprits and prove his innocence. Will he succeed in hi
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/eros/partners/ERSBOLCM/poster/web/cover/3dbdccbc-1061-4e41-a223-e78570034220.png"/>
   </programme>
-  <programme channel="carcar" start="20260928001757 +0000" stop="20260928004951 +0000">
-    <title lang="en">Dive Olly Dive</title>
-    <desc lang="en">Dive Olly Dive sigue as aventuras de Olly, um sumarino en formação, y Beth, a sua melhor amiga. Vivem na estação especial de submarinos, baixo os ordems do buzo Doug, os jovems submarinos exploram o espectacular mundo submarino.</desc>
-    <language>English</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CARCAR/Mobile/coverart/a92bf450-139e-4354-a60d-410daec156ee.png"/>
-  </programme>
   <programme channel="carcar" start="20260928004951 +0000" stop="20260928011930 +0000">
     <title lang="en">Dive Olly Dive</title>
     <desc lang="en">Dive Olly Dive sigue as aventuras de Olly, um sumarino en formação, y Beth, a sua melhor amiga. Vivem na estação especial de submarinos, baixo os ordems do buzo Doug, os jovems submarinos exploram o espectacular mundo submarino.</desc>
@@ -34748,6 +34721,15 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/pocketaces/platform/channels/DICMED/Web/coverart/7a64bd23-cd03-4eb3-843b-edd16ebb0936.png"/>
   </programme>
+  <programme channel="dicmed" start="20261004003448 +0000" stop="20261004010237 +0000">
+    <title lang="en">Conflict Of Interest</title>
+    <desc lang="en">Shagun wants to keep the Filmy Weddings business floating and for that she’s willing to go to any lengths. Even if it means shooting a wedding film for Adhira’s ex-boyfriend – Akhil. Adhira is furious and tries her best to sabotage the entire project. Unfortunately, her one big hurdle is Dad, who has taken quite a fondness for Akhil. Check out the episode and find out what happens next!</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/pocketaces/platform/channels/DICMED/Web/coverart/7a64bd23-cd03-4eb3-843b-edd16ebb0936.png"/>
+  </programme>
   <programme channel="divbha" start="20260927233000 +0000" stop="20260928023000 +0000">
     <title lang="en">Amrit Versha</title>
     <desc lang="en">Melodious bhajans by renowned singers.</desc>
@@ -35827,15 +35809,6 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVBHA/Mobile/coverart/b1fed201-a1ca-4714-8e3c-e64277ad0c8f.png"/>
-  </programme>
-  <programme channel="divdiv" start="20260928003000 +0000" stop="20260928004000 +0000">
-    <title lang="en">Aarti</title>
-    <desc lang="en">The aartis sung in the Hindu religion are telecasted</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/coverart/e05badd1-e209-4b25-964d-dd5771794ecb.png"/>
   </programme>
   <programme channel="divdiv" start="20260928004000 +0000" stop="20260928010000 +0000">
     <title lang="en">Yog Bhagaye Rog</title>
@@ -37780,15 +37753,6 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/coverart/e05badd1-e209-4b25-964d-dd5771794ecb.png"/>
-  </programme>
-  <programme channel="dridri" start="20260928001626 +0000" stop="20260928004810 +0000">
-    <title lang="en">Shifting Gears</title>
-    <desc lang="en">Shifting Gears is the all-new authoritative guide to the latest trends and technology from within today’s ever-changing automotive industry. From the racetrack to the suburban street, Shifting Gears delivers the most up-to-date news on cutting edge research, development and design.</desc>
-    <language>English</language>
-    <rating>
-      <value>UA-16+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DRIDRI/Mobile/coverart/426d2383-ebc1-4bd5-9cd0-713c269e0a61.png"/>
   </programme>
   <programme channel="dridri" start="20260928004810 +0000" stop="20260928011914 +0000">
     <title lang="en">Garage Dreams</title>
@@ -40643,24 +40607,6 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/eros/partners/ERSENTMT/poster/web/cover/742f7ffc-7137-4b67-ae32-54e404f53149.png"/>
   </programme>
-  <programme channel="figfig" start="20260927212304 +0000" stop="20260928003941 +0000">
-    <title lang="en">Tna Impact Wrestling</title>
-    <desc lang="en">Experience the TNA IMPACT WRESTLING 2012 &amp; 2013 World Tour featuring the best wrestlers</desc>
-    <language>English</language>
-    <rating>
-      <value>PG</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/FIGFIG/Mobile/coverart/8f32cf25-c5f5-4ed2-b620-ad97e6920730.png"/>
-  </programme>
-  <programme channel="figfig" start="20260928001508 +0000" stop="20260928003941 +0000">
-    <title lang="en">Tna Impact Wrestling</title>
-    <desc lang="en">Experience the TNA IMPACT WRESTLING 2012 &amp; 2013 World Tour featuring the best wrestlers</desc>
-    <language>English</language>
-    <rating>
-      <value>PG</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/FIGFIG/Mobile/coverart/8f32cf25-c5f5-4ed2-b620-ad97e6920730.png"/>
-  </programme>
   <programme channel="figfig" start="20260928003941 +0000" stop="20260928035635 +0000">
     <title lang="en">Tna Impact Wrestling</title>
     <desc lang="en">Experience the TNA IMPACT WRESTLING 2012 &amp; 2013 World Tour featuring the best wrestlers</desc>
@@ -41624,7 +41570,7 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/FIGFIG/Mobile/coverart/8f32cf25-c5f5-4ed2-b620-ad97e6920730.png"/>
   </programme>
-  <programme channel="figfig" start="20261003212017 +0000" stop="20261004001012 +0000">
+  <programme channel="figfig" start="20261003212017 +0000" stop="20261004002226 +0000">
     <title lang="en">Tna Impact Wrestling</title>
     <desc lang="en">Experience the TNA IMPACT WRESTLING 2012 &amp; 2013 World Tour featuring the best wrestlers</desc>
     <language>English</language>
@@ -41632,24 +41578,6 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
       <value>PG</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/FIGFIG/Mobile/coverart/8f32cf25-c5f5-4ed2-b620-ad97e6920730.png"/>
-  </programme>
-  <programme channel="filcop" start="20260928003422 +0000" stop="20260928004450 +0000">
-    <title lang="en">Exam Ka Pressure</title>
-    <desc lang="en">Portrays the intense stress students face during exam time. Through relatable scenarios and witty dialogues, it highlights the universal anxiety of preparing for and taking exams.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/pocketaces/platform/channels/FLTRCOPY/Web/coverart/f9d498c1-46fd-4452-89e5-5ebe1ac6e912.png"/>
-  </programme>
-  <programme channel="filcop" start="20260928004450 +0000" stop="20260928005112 +0000">
-    <title lang="en">Struggles Of Cooking For The First Time</title>
-    <desc lang="en">he video humorously portrays the various difficulties and comical mishaps encountered by someone attempting to cook for the first time. It highlights the relatable struggles of a novice in the kitchen, from preparing vegetables to handling spices and dealing with kitchen disasters.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/pocketaces/platform/channels/FLTRCOPY/Web/coverart/f9d498c1-46fd-4452-89e5-5ebe1ac6e912.png"/>
   </programme>
   <programme channel="filcop" start="20260928005113 +0000" stop="20260928005705 +0000">
     <title lang="en">When You Date An Aquarius</title>
@@ -52581,6 +52509,24 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/pocketaces/platform/channels/FLTRCOPY/Web/coverart/f9d498c1-46fd-4452-89e5-5ebe1ac6e912.png"/>
   </programme>
+  <programme channel="filcop" start="20261003224037 +0000" stop="20261003224622 +0000">
+    <title lang="en">When Your Sister Acts Like Your Mom</title>
+    <desc lang="en">The video shows how an older sister can sometimes take on mom-like duties—disciplining, caring, worrying—but also still be someone you laugh with and goof around with. It captures that dual role of caregiver + sibling, showing both the annoying and comforting sides of it.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/pocketaces/platform/channels/FLTRCOPY/Web/coverart/f9d498c1-46fd-4452-89e5-5ebe1ac6e912.png"/>
+  </programme>
+  <programme channel="filcop" start="20261003224623 +0000" stop="20261003225406 +0000">
+    <title lang="en">College First Year Vs. Final Year</title>
+    <desc lang="en">This video comically illustrates the stark differences in experiences between a student's first year and final year of college. It highlights the evolution of behavior, priorities, and attitudes towards academics, friendships, and overall college life</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/pocketaces/platform/channels/FLTRCOPY/Web/coverart/f9d498c1-46fd-4452-89e5-5ebe1ac6e912.png"/>
+  </programme>
   <programme channel="goagoa" start="20260928003000 +0000" stop="20260928010000 +0000">
     <title lang="en">Ace Net News</title>
     <desc lang="en">Immerse yourself in the world of football with this program, where news unfolds through dynamic videos, providing an engaging and immersive perspective on the latest events.</desc>
@@ -55156,6 +55102,15 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/GOAGOA/Mobile/coverart/c8904a2b-e2f6-41bc-bc5c-11e74e2ffac0.png"/>
   </programme>
   <programme channel="goagoa" start="20261003233000 +0000" stop="20261004000000 +0000">
+    <title lang="en">Interview</title>
+    <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
+    <language>English</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/GOAGOA/Mobile/coverart/c8904a2b-e2f6-41bc-bc5c-11e74e2ffac0.png"/>
+  </programme>
+  <programme channel="goagoa" start="20261004000000 +0000" stop="20261004003000 +0000">
     <title lang="en">Interview</title>
     <desc lang="en">Step into the locker room and behind the scenes with ""Interview,"" where we sit down with players, coaches, analysts, and other basketball personalities for candid conversations, exclusive insights, and compelling stories.</desc>
     <language>English</language>
@@ -58232,6 +58187,15 @@ Raunak: A volatile but highly skilled "fragger." The task is harder than Arun an
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/partners/GRNGLDTV/poster/web/cover/daaf337e-49b9-4527-a3f2-ab40b6477f1b.png"/>
+  </programme>
+  <programme channel="gregld" start="20261004003323 +0000" stop="20261004010302 +0000">
+    <title lang="en">Luv Kushh Venom Strike &amp; Pawan In Danger</title>
+    <desc lang="en">Luv, Kush save Babbu's kingdom.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/partners/GRNGLDTV/poster/web/cover/53dfcffd-4258-468b-9131-b328ca3726dc.png"/>
   </programme>
   <programme channel="gtcnew" start="20260928003000 +0000" stop="20260928013000 +0000">
     <title lang="en">Big Debate</title>
@@ -64226,6 +64190,15 @@ In a relaxed and inviting setting, guests open up about their journeys, struggle
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/HOOHOO/Mobile/coverart/cf55ca33-ce82-44a7-a99e-9ce32bc031fd.png"/>
   </programme>
+  <programme channel="hoohoo" start="20261004000000 +0000" stop="20261004003000 +0000">
+    <title lang="en">Live Scores</title>
+    <desc lang="en">Experience the thrill of the game in real-time with ""Live Scores,"" your companion for following basketball action as it happens.</desc>
+    <language>English</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/HOOHOO/Mobile/coverart/cf55ca33-ce82-44a7-a99e-9ce32bc031fd.png"/>
+  </programme>
   <programme channel="india_tv_news" start="20260928003000 +0000" stop="20260928005800 +0000">
     <title lang="en">Jaago India</title>
     <desc lang="en">The host presents the latest updates on various social, political and economic issues.</desc>
@@ -68357,42 +68330,6 @@ In a relaxed and inviting setting, guests open up about their journeys, struggle
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDTVY/Web/coverart/af25d10b-a3db-471a-a64c-df4ecba29af1.png"/>
-  </programme>
-  <programme channel="jagran" start="20260928003523 +0000" stop="20260928004557 +0000">
-    <title lang="en">Wellness Vardaan By Vidhi Chawla | EP 02 - Foods To Avoid For A Healthy Heart</title>
-    <desc lang="en">Discover the surprising everyday foods that might be harming your heart health and learn healthier alternatives to incorporate into your diet. Vidhi breaks down complex nutritional information into easy-to-understand tips, ensuring you make informed choices for a stronger, healthier heart.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/JAGRANTV/poster/mobile/cover/JAGRANHE_SF_00025.png"/>
-  </programme>
-  <programme channel="jagran" start="20260928003620 +0000" stop="20260928004654 +0000">
-    <title lang="en">Wellness Vardaan By Vidhi Chawla | EP 02 - Foods To Avoid For A Healthy Heart</title>
-    <desc lang="en">Discover the surprising everyday foods that might be harming your heart health and learn healthier alternatives to incorporate into your diet. Vidhi breaks down complex nutritional information into easy-to-understand tips, ensuring you make informed choices for a stronger, healthier heart.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/JAGRANTV/poster/mobile/cover/JAGRANHE_SF_00025.png"/>
-  </programme>
-  <programme channel="jagran" start="20260928004557 +0000" stop="20260928004945 +0000">
-    <title lang="en">Celebrity Fitness Secrets-Malaika Arora</title>
-    <desc lang="en">Join us in this episode of our Bollywood Celebrity Fitness Series as we delve into the fitness regime of the stunning Malaika Arora. Known for her enviable physique and dedication to health, Malaika shares her secrets to staying fit and fabulous.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/JAGRANTV/poster/mobile/cover/JAGRANHE_SF_00004.png"/>
-  </programme>
-  <programme channel="jagran" start="20260928004655 +0000" stop="20260928005043 +0000">
-    <title lang="en">Celebrity Fitness Secrets-Malaika Arora</title>
-    <desc lang="en">Join us in this episode of our Bollywood Celebrity Fitness Series as we delve into the fitness regime of the stunning Malaika Arora. Known for her enviable physique and dedication to health, Malaika shares her secrets to staying fit and fabulous.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/JAGRANTV/poster/mobile/cover/JAGRANHE_SF_00004.png"/>
   </programme>
   <programme channel="jagran" start="20260928004946 +0000" stop="20260928010023 +0000">
     <title lang="en">Wellness Vardaan By Vidhi Chawla | EP 08 - Natural Detox VS Detox Diets - Which one to Choose?</title>
@@ -83610,15 +83547,6 @@ Our coach, Vidhi Chawla shares essential foods to include in your diet to balanc
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/JOURNY/Web/coverart/6b9056e6-49f3-4b66-b730-5785513a4640.png"/>
   </programme>
-  <programme channel="jusgag" start="20260928001442 +0000" stop="20260928004528 +0000">
-    <title lang="en">Just For Laughs Gags</title>
-    <desc lang="en">Featuring pranks involving a remote-controlled turkey, Aladdin's lamp, and many more.</desc>
-    <language>English</language>
-    <rating>
-      <value>A - 18+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/JUSGAG/Mobile/coverart/6428bc9e-1d69-41b3-bbd2-4839cd60e6c2.png"/>
-  </programme>
   <programme channel="jusgag" start="20260928004528 +0000" stop="20260928011614 +0000">
     <title lang="en">Just For Laughs Gags</title>
     <desc lang="en">Featuring pranks involving a remote-controlled turkey, Aladdin's lamp, and many more.</desc>
@@ -92934,15 +92862,6 @@ Our coach, Vidhi Chawla shares essential foods to include in your diet to balanc
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MAHPLY/Web/coverart/de79fc09-e0f8-44fd-97e9-e6409a5d19f6.png"/>
   </programme>
-  <programme channel="mangot" start="20260927223313 +0000" stop="20260928004326 +0000">
-    <title lang="en">Bheemudu Kaadu Krishnudu</title>
-    <desc lang="en">A romantic comedy film</desc>
-    <language>Telugu</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MANGOT/Mobile/coverart/95405c98-2d8c-4565-9737-ac5a845ef7ca.png"/>
-  </programme>
   <programme channel="mangot" start="20260928004326 +0000" stop="20260928011245 +0000">
     <title lang="en">Devotinal Saibaba Venkateswaraswamy</title>
     <desc lang="en">Mango Mobile Tv - Where Entertainment Never Ends!</desc>
@@ -94706,15 +94625,6 @@ Our coach, Vidhi Chawla shares essential foods to include in your diet to balanc
       <value>A - 18+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MMAATV/Mobile/coverart/02425ca9-6706-4cdb-a268-d9ff36638017.png"/>
-  </programme>
-  <programme channel="mrbean" start="20260928001306 +0000" stop="20260928003841 +0000">
-    <title lang="en">Mr Bean Animated Season 03</title>
-    <desc lang="en">Mr. Bean has to retrieve a football from a haunted house … and get back out alive.</desc>
-    <language>English</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MRBEAN/Web/coverart/0542ecf4-1bdd-45af-9d72-cba0595f5177.png"/>
   </programme>
   <programme channel="mrbean" start="20260928003841 +0000" stop="20260928010416 +0000">
     <title lang="en">Mr Bean Animated Season 03</title>
@@ -131562,15 +131472,6 @@ slugs and mice</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00013.png"/>
   </programme>
-  <programme channel="p_cinshf" start="20260928003654 +0000" stop="20260928005047 +0000">
-    <title lang="en">Raat Hamaari Hai</title>
-    <desc lang="en">Rakesh, a virgin, is set up by his friends with an escort, Madhu(who happens to be a psychology student). They both have opposite thoughts on sex and a debate ensues between them over the course of the night and then finally what happens between them.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>A - 18+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00009.png"/>
-  </programme>
   <programme channel="p_cinshf" start="20260928005047 +0000" stop="20260928010645 +0000">
     <title lang="en">Husbands</title>
     <desc lang="en">When Aadav visits his ex-wife’s house to give his son a gift, he is greeted at the door by Satvik, the man who has replaced him in his ex's life, and maybe even his son’s.</desc>
@@ -133829,15 +133730,6 @@ slugs and mice</desc>
       <value>UA-13+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00036.png"/>
-  </programme>
-  <programme channel="p_cinshf" start="20261001002724 +0000" stop="20261001003806 +0000">
-    <title lang="en">Omlette</title>
-    <desc lang="en">After being unable to contact her son Rohan and her daughter-in-law for days, Anupama visits Rohan’s place to find out the reason behind this unusual behaviour and an evening full of tension and emotions lead to a shocking end to her search.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00040.png"/>
   </programme>
   <programme channel="p_cinshf" start="20261001002724 +0000" stop="20261001003806 +0000">
     <title lang="en">Omlette</title>
@@ -137835,6 +137727,15 @@ slugs and mice</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00008.png"/>
   </programme>
+  <programme channel="p_cinshf" start="20261003214207 +0000" stop="20261003220917 +0000">
+    <title lang="en">Yathaarth</title>
+    <desc lang="en">A time travel story of a husband &amp; wife who revisit their past memories through a new technology called Alternate Reality Correction Services, thinking they can resolve their own issues through it.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00008.png"/>
+  </programme>
   <programme channel="p_cinshf" start="20261003220918 +0000" stop="20261003222311 +0000">
     <title lang="en">Raat Hamaari Hai</title>
     <desc lang="en">Rakesh, a virgin, is set up by his friends with an escort, Madhu(who happens to be a psychology student). They both have opposite thoughts on sex and a debate ensues between them over the course of the night and then finally what happens between them.</desc>
@@ -137843,6 +137744,24 @@ slugs and mice</desc>
       <value>A - 18+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00009.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20261003220918 +0000" stop="20261003222311 +0000">
+    <title lang="en">Raat Hamaari Hai</title>
+    <desc lang="en">Rakesh, a virgin, is set up by his friends with an escort, Madhu(who happens to be a psychology student). They both have opposite thoughts on sex and a debate ensues between them over the course of the night and then finally what happens between them.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00009.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20261003222311 +0000" stop="20261003223909 +0000">
+    <title lang="en">Husbands</title>
+    <desc lang="en">When Aadav visits his ex-wife’s house to give his son a gift, he is greeted at the door by Satvik, the man who has replaced him in his ex's life, and maybe even his son’s.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00010.png"/>
   </programme>
   <programme channel="p_cinshf" start="20261003222311 +0000" stop="20261003223909 +0000">
     <title lang="en">Husbands</title>
@@ -137862,6 +137781,15 @@ slugs and mice</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00012.png"/>
   </programme>
+  <programme channel="p_cinshf" start="20261003223909 +0000" stop="20261003224817 +0000">
+    <title lang="en">Cuddles</title>
+    <desc lang="en">Based on short story by Larissa Theule, Cuddles follows the story of 30-year-old Krita as she has a chance encounter with Chirag uncle after almost 20 years in a park.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00012.png"/>
+  </programme>
   <programme channel="p_cinshf" start="20261003224818 +0000" stop="20261003230812 +0000">
     <title lang="en">Do Cutting</title>
     <desc lang="en">An unforgettable love story about how a couple due to societal pressures on inter religion marriages hold up their lives.</desc>
@@ -137870,6 +137798,24 @@ slugs and mice</desc>
       <value>UA-16+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00013.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20261003224818 +0000" stop="20261003230812 +0000">
+    <title lang="en">Do Cutting</title>
+    <desc lang="en">An unforgettable love story about how a couple due to societal pressures on inter religion marriages hold up their lives.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00013.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20261003230812 +0000" stop="20261003231802 +0000">
+    <title lang="en">Curd</title>
+    <desc lang="en">CURD is the story of Hira, who is visiting her son in the US. Unable to spend time with him because of his busy schedule, Hira feels trapped in her house and struggles with the alien culture and loneliness.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00014.png"/>
   </programme>
   <programme channel="p_cinshf" start="20261003230812 +0000" stop="20261003231802 +0000">
     <title lang="en">Curd</title>
@@ -137889,6 +137835,15 @@ slugs and mice</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00002.png"/>
   </programme>
+  <programme channel="p_cinshf" start="20261003231802 +0000" stop="20261003235350 +0000">
+    <title lang="en">Chilgam</title>
+    <desc lang="en">A story of love and courage that strives to sustain amidst a communally-charged environment.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00002.png"/>
+  </programme>
   <programme channel="p_cinshf" start="20261003235350 +0000" stop="20261004001156 +0000">
     <title lang="en">Kathi Pe Ghoda</title>
     <desc lang="en">An old man living a life full of mistakes gets an extraordinary experience only to realize that he is the ultimate creator of his destiny.</desc>
@@ -137897,6 +137852,24 @@ slugs and mice</desc>
       <value>A - 18+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00003.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20261003235350 +0000" stop="20261004001156 +0000">
+    <title lang="en">Kathi Pe Ghoda</title>
+    <desc lang="en">An old man living a life full of mistakes gets an extraordinary experience only to realize that he is the ultimate creator of his destiny.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00003.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20261004001157 +0000" stop="20261004002427 +0000">
+    <title lang="en">The Night Before</title>
+    <desc lang="en">On the night before her wedding an Indian - American bride pays visit to her ex whom she ghosted years ago</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00004.png"/>
   </programme>
   <programme channel="p_cinshf" start="20261004001157 +0000" stop="20261004002427 +0000">
     <title lang="en">The Night Before</title>
@@ -137916,6 +137889,15 @@ slugs and mice</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00005.png"/>
   </programme>
+  <programme channel="p_cinshf" start="20261004002427 +0000" stop="20261004004036 +0000">
+    <title lang="en">Dhruv &amp; Jai</title>
+    <desc lang="en">Dhruv returns from London after completing his studies and goes straight to meet Jai. He ends up waiting for him in his room where he remembers their time together through Jai’s poems and photographs. He looks disturbed as he tries to keep one particular memory at bay all the while wondering what will happen when Jai walks in the door.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00005.png"/>
+  </programme>
   <programme channel="p_cinshf" start="20261004004036 +0000" stop="20261004005112 +0000">
     <title lang="en">Homecoming</title>
     <desc lang="en">Happiness comes knocking at the door on one of her most gloomy days during the pandemic. She embraces it &amp; now it ain't easy to go</desc>
@@ -137924,6 +137906,24 @@ slugs and mice</desc>
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00006.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20261004004036 +0000" stop="20261004005112 +0000">
+    <title lang="en">Homecoming</title>
+    <desc lang="en">Happiness comes knocking at the door on one of her most gloomy days during the pandemic. She embraces it &amp; now it ain't easy to go</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00006.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20261004005113 +0000" stop="20261004011424 +0000">
+    <title lang="en">Eelu Rani Bhag Gaye</title>
+    <desc lang="en">Two teenagers running away from their home comes across a police officer who persuades them not to go, however Eelu &amp; Rani have something else on their mind.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00007.png"/>
   </programme>
   <programme channel="p_cinshf" start="20261004005113 +0000" stop="20261004011424 +0000">
     <title lang="en">Eelu Rani Bhag Gaye</title>
@@ -137943,6 +137943,15 @@ slugs and mice</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00023.png"/>
   </programme>
+  <programme channel="p_cinshf" start="20261004011424 +0000" stop="20261004014341 +0000">
+    <title lang="en">On The Way of Love</title>
+    <desc lang="en">A simple story of how a husband &amp; wife realizes about the presence &amp; support for each other during the pandemic.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00023.png"/>
+  </programme>
   <programme channel="p_cinshf" start="20261004014341 +0000" stop="20261004020549 +0000">
     <title lang="en">Panic</title>
     <desc lang="en">A riveting psychological thriller that propels an aspiring actor's life into chaos when a toothache triggers an unfounded belief in oral cancer, setting off a catastrophic chain of events.</desc>
@@ -137951,6 +137960,24 @@ slugs and mice</desc>
       <value>UA-16+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00028.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20261004014341 +0000" stop="20261004020549 +0000">
+    <title lang="en">Panic</title>
+    <desc lang="en">A riveting psychological thriller that propels an aspiring actor's life into chaos when a toothache triggers an unfounded belief in oral cancer, setting off a catastrophic chain of events.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00028.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20261004020550 +0000" stop="20261004023028 +0000">
+    <title lang="en">Painkiller</title>
+    <desc lang="en">Ronnie’s world comes crashing down, when his wife leaves him. The feeling of losing his wife and daughter is something he can’t wrap his head around.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00029.png"/>
   </programme>
   <programme channel="p_cinshf" start="20261004020550 +0000" stop="20261004023028 +0000">
     <title lang="en">Painkiller</title>
@@ -137970,6 +137997,15 @@ slugs and mice</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00030.png"/>
   </programme>
+  <programme channel="p_cinshf" start="20261004023028 +0000" stop="20261004024617 +0000">
+    <title lang="en">Thank You For Sharing</title>
+    <desc lang="en">This dark topical narrates the story of Jude, who's been suffering from psychosis, a mental health illness &amp; has an aberrational relation with the voice in his head.</desc>
+    <language>English</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00030.png"/>
+  </programme>
   <programme channel="p_cinshf" start="20261004024618 +0000" stop="20261004030225 +0000">
     <title lang="en">The Last Letter</title>
     <desc lang="en">A sweet, endearing tale of two old school lovers and their conversations, carried out over shy, fond letters creating an emotional heart touching last letter.</desc>
@@ -137978,6 +138014,24 @@ slugs and mice</desc>
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00033.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20261004024618 +0000" stop="20261004030225 +0000">
+    <title lang="en">The Last Letter</title>
+    <desc lang="en">A sweet, endearing tale of two old school lovers and their conversations, carried out over shy, fond letters creating an emotional heart touching last letter.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00033.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20261004030226 +0000" stop="20261004031844 +0000">
+    <title lang="en">The Bench</title>
+    <desc lang="en">A young man’s monotonous life turns upside down when he meets a stranger on a bench.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00036.png"/>
   </programme>
   <programme channel="p_cinshf" start="20261004030226 +0000" stop="20261004031844 +0000">
     <title lang="en">The Bench</title>
@@ -137997,6 +138051,15 @@ slugs and mice</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00040.png"/>
   </programme>
+  <programme channel="p_cinshf" start="20261004031845 +0000" stop="20261004032927 +0000">
+    <title lang="en">Omlette</title>
+    <desc lang="en">After being unable to contact her son Rohan and her daughter-in-law for days, Anupama visits Rohan’s place to find out the reason behind this unusual behaviour and an evening full of tension and emotions lead to a shocking end to her search.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00040.png"/>
+  </programme>
   <programme channel="p_cinshf" start="20261004032927 +0000" stop="20261004034801 +0000">
     <title lang="en">Naam Kya Hai</title>
     <desc lang="en">Set in the 1992 riots in Mumbai, "Naam Kya Hai?" revolves around a distraught and prejudiced police officer trying to avenge the murder of his wife amidst the communal tension in the city.</desc>
@@ -138005,6 +138068,24 @@ slugs and mice</desc>
       <value>A - 18+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00041.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20261004032927 +0000" stop="20261004034801 +0000">
+    <title lang="en">Naam Kya Hai</title>
+    <desc lang="en">Set in the 1992 riots in Mumbai, "Naam Kya Hai?" revolves around a distraught and prejudiced police officer trying to avenge the murder of his wife amidst the communal tension in the city.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00041.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20261004034802 +0000" stop="20261004041413 +0000">
+    <title lang="en">Eelu Rani Bhag Gaye</title>
+    <desc lang="en">Two teenagers running away from their home comes across a police officer who persuades them not to go, however Eelu &amp; Rani have something else on their mind.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00007.png"/>
   </programme>
   <programme channel="p_cinshf" start="20261004034802 +0000" stop="20261004041413 +0000">
     <title lang="en">Eelu Rani Bhag Gaye</title>
@@ -138024,6 +138105,24 @@ slugs and mice</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00008.png"/>
   </programme>
+  <programme channel="p_cinshf" start="20261004041413 +0000" stop="20261004044123 +0000">
+    <title lang="en">Yathaarth</title>
+    <desc lang="en">A time travel story of a husband &amp; wife who revisit their past memories through a new technology called Alternate Reality Correction Services, thinking they can resolve their own issues through it.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00008.png"/>
+  </programme>
+  <programme channel="p_cinshf" start="20261004044124 +0000" stop="20261004045722 +0000">
+    <title lang="en">Husbands</title>
+    <desc lang="en">When Aadav visits his ex-wife’s house to give his son a gift, he is greeted at the door by Satvik, the man who has replaced him in his ex's life, and maybe even his son’s.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00010.png"/>
+  </programme>
   <programme channel="p_cinshf" start="20261004044124 +0000" stop="20261004045722 +0000">
     <title lang="en">Husbands</title>
     <desc lang="en">When Aadav visits his ex-wife’s house to give his son a gift, he is greeted at the door by Satvik, the man who has replaced him in his ex's life, and maybe even his son’s.</desc>
@@ -138042,23 +138141,14 @@ slugs and mice</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00009.png"/>
   </programme>
-  <programme channel="p_nunutv" start="20260928002534 +0000" stop="20260928004536 +0000">
-    <title lang="en">Yes Yes Vegetable &amp; Eating Habit</title>
-    <desc lang="en">The very best nursery rhymes and kids songs for you to sing dance and learn too!</desc>
-    <language>English</language>
+  <programme channel="p_cinshf" start="20261004045722 +0000" stop="20261004051115 +0000">
+    <title lang="en">Raat Hamaari Hai</title>
+    <desc lang="en">Rakesh, a virgin, is set up by his friends with an escort, Madhu(who happens to be a psychology student). They both have opposite thoughts on sex and a debate ensues between them over the course of the night and then finally what happens between them.</desc>
+    <language>Hindi</language>
     <rating>
-      <value>U - All Ages</value>
+      <value>A - 18+</value>
     </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode4.png"/>
-  </programme>
-  <programme channel="p_nunutv" start="20260928002631 +0000" stop="20260928004633 +0000">
-    <title lang="en">Yes Yes Vegetable &amp; Eating Habit</title>
-    <desc lang="en">The very best nursery rhymes and kids songs for you to sing dance and learn too!</desc>
-    <language>English</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode4.png"/>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00009.png"/>
   </programme>
   <programme channel="p_nunutv" start="20260928004536 +0000" stop="20260928010301 +0000">
     <title lang="en">New Nursery Rhymes</title>
@@ -144684,6 +144774,15 @@ slugs and mice</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode1.jpg"/>
   </programme>
+  <programme channel="p_nunutv" start="20261003185647 +0000" stop="20261003191207 +0000">
+    <title lang="en">Baby Shark Dance</title>
+    <desc lang="en">Baby shark doo doo doo doo! In this educational nursery rhyme compilation, you will find some of the most popular NuNu Tv songs, such as ‘Finger Family’, 'Color song’, ‘Being a Good Friend’ and lots more!</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode1.jpg"/>
+  </programme>
   <programme channel="p_nunutv" start="20261003191207 +0000" stop="20261003192645 +0000">
     <title lang="en">Spaceship &amp; Traffic Vehicles</title>
     <desc lang="en">We're Going On A Rocket Ship &amp; other famous Kids Songs &amp; Nursery Rhymes</desc>
@@ -144692,6 +144791,24 @@ slugs and mice</desc>
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode5.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20261003191207 +0000" stop="20261003192645 +0000">
+    <title lang="en">Spaceship &amp; Traffic Vehicles</title>
+    <desc lang="en">We're Going On A Rocket Ship &amp; other famous Kids Songs &amp; Nursery Rhymes</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode5.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20261003192645 +0000" stop="20261003194647 +0000">
+    <title lang="en">Yes Yes Vegetable &amp; Eating Habit</title>
+    <desc lang="en">The very best nursery rhymes and kids songs for you to sing dance and learn too!</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode4.png"/>
   </programme>
   <programme channel="p_nunutv" start="20261003192645 +0000" stop="20261003194647 +0000">
     <title lang="en">Yes Yes Vegetable &amp; Eating Habit</title>
@@ -144711,6 +144828,15 @@ slugs and mice</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode6.png"/>
   </programme>
+  <programme channel="p_nunutv" start="20261003194647 +0000" stop="20261003200412 +0000">
+    <title lang="en">New Nursery Rhymes</title>
+    <desc lang="en">Sing and play along with new nursery rhyme &amp; songs compilation while playing with little toys.</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode6.png"/>
+  </programme>
   <programme channel="p_nunutv" start="20261003200412 +0000" stop="20261003202525 +0000">
     <title lang="en">Wheels On The Bus</title>
     <desc lang="en">Sing and enjoy your favorite nursery rhymes &amp; kids songs such as 'Wheels on The Bus', 'Three Little Pigs', 'Rain Rain Go Away' and many more with NuNu and his friends.</desc>
@@ -144719,6 +144845,24 @@ slugs and mice</desc>
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode3.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20261003200412 +0000" stop="20261003202525 +0000">
+    <title lang="en">Wheels On The Bus</title>
+    <desc lang="en">Sing and enjoy your favorite nursery rhymes &amp; kids songs such as 'Wheels on The Bus', 'Three Little Pigs', 'Rain Rain Go Away' and many more with NuNu and his friends.</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode3.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20261003202526 +0000" stop="20261003204220 +0000">
+    <title lang="en">Yummy! Hot Cross Buns</title>
+    <desc lang="en">From making yummy hot cross buns for their parents, Learn and enjoy other famous Nursery Rhymes and Songs</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode2.jpg"/>
   </programme>
   <programme channel="p_nunutv" start="20261003202526 +0000" stop="20261003204220 +0000">
     <title lang="en">Yummy! Hot Cross Buns</title>
@@ -144738,6 +144882,15 @@ slugs and mice</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode1.jpg"/>
   </programme>
+  <programme channel="p_nunutv" start="20261003204221 +0000" stop="20261003205741 +0000">
+    <title lang="en">Baby Shark Dance</title>
+    <desc lang="en">Baby shark doo doo doo doo! In this educational nursery rhyme compilation, you will find some of the most popular NuNu Tv songs, such as ‘Finger Family’, 'Color song’, ‘Being a Good Friend’ and lots more!</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode1.jpg"/>
+  </programme>
   <programme channel="p_nunutv" start="20261003205741 +0000" stop="20261003211219 +0000">
     <title lang="en">Spaceship &amp; Traffic Vehicles</title>
     <desc lang="en">We're Going On A Rocket Ship &amp; other famous Kids Songs &amp; Nursery Rhymes</desc>
@@ -144746,6 +144899,24 @@ slugs and mice</desc>
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode5.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20261003205741 +0000" stop="20261003211219 +0000">
+    <title lang="en">Spaceship &amp; Traffic Vehicles</title>
+    <desc lang="en">We're Going On A Rocket Ship &amp; other famous Kids Songs &amp; Nursery Rhymes</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode5.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20261003211220 +0000" stop="20261003213222 +0000">
+    <title lang="en">Yes Yes Vegetable &amp; Eating Habit</title>
+    <desc lang="en">The very best nursery rhymes and kids songs for you to sing dance and learn too!</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode4.png"/>
   </programme>
   <programme channel="p_nunutv" start="20261003211220 +0000" stop="20261003213222 +0000">
     <title lang="en">Yes Yes Vegetable &amp; Eating Habit</title>
@@ -144765,6 +144936,15 @@ slugs and mice</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode6.png"/>
   </programme>
+  <programme channel="p_nunutv" start="20261003213222 +0000" stop="20261003214947 +0000">
+    <title lang="en">New Nursery Rhymes</title>
+    <desc lang="en">Sing and play along with new nursery rhyme &amp; songs compilation while playing with little toys.</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode6.png"/>
+  </programme>
   <programme channel="p_nunutv" start="20261003214947 +0000" stop="20261003221100 +0000">
     <title lang="en">Wheels On The Bus</title>
     <desc lang="en">Sing and enjoy your favorite nursery rhymes &amp; kids songs such as 'Wheels on The Bus', 'Three Little Pigs', 'Rain Rain Go Away' and many more with NuNu and his friends.</desc>
@@ -144773,6 +144953,24 @@ slugs and mice</desc>
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode3.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20261003214947 +0000" stop="20261003221100 +0000">
+    <title lang="en">Wheels On The Bus</title>
+    <desc lang="en">Sing and enjoy your favorite nursery rhymes &amp; kids songs such as 'Wheels on The Bus', 'Three Little Pigs', 'Rain Rain Go Away' and many more with NuNu and his friends.</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode3.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20261003221100 +0000" stop="20261003222754 +0000">
+    <title lang="en">Yummy! Hot Cross Buns</title>
+    <desc lang="en">From making yummy hot cross buns for their parents, Learn and enjoy other famous Nursery Rhymes and Songs</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode2.jpg"/>
   </programme>
   <programme channel="p_nunutv" start="20261003221100 +0000" stop="20261003222754 +0000">
     <title lang="en">Yummy! Hot Cross Buns</title>
@@ -144792,6 +144990,15 @@ slugs and mice</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode1.jpg"/>
   </programme>
+  <programme channel="p_nunutv" start="20261003222755 +0000" stop="20261003224315 +0000">
+    <title lang="en">Baby Shark Dance</title>
+    <desc lang="en">Baby shark doo doo doo doo! In this educational nursery rhyme compilation, you will find some of the most popular NuNu Tv songs, such as ‘Finger Family’, 'Color song’, ‘Being a Good Friend’ and lots more!</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode1.jpg"/>
+  </programme>
   <programme channel="p_nunutv" start="20261003224316 +0000" stop="20261003225754 +0000">
     <title lang="en">Spaceship &amp; Traffic Vehicles</title>
     <desc lang="en">We're Going On A Rocket Ship &amp; other famous Kids Songs &amp; Nursery Rhymes</desc>
@@ -144800,6 +145007,24 @@ slugs and mice</desc>
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode5.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20261003224316 +0000" stop="20261003225754 +0000">
+    <title lang="en">Spaceship &amp; Traffic Vehicles</title>
+    <desc lang="en">We're Going On A Rocket Ship &amp; other famous Kids Songs &amp; Nursery Rhymes</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode5.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20261003225754 +0000" stop="20261003231756 +0000">
+    <title lang="en">Yes Yes Vegetable &amp; Eating Habit</title>
+    <desc lang="en">The very best nursery rhymes and kids songs for you to sing dance and learn too!</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode4.png"/>
   </programme>
   <programme channel="p_nunutv" start="20261003225754 +0000" stop="20261003231756 +0000">
     <title lang="en">Yes Yes Vegetable &amp; Eating Habit</title>
@@ -144819,6 +145044,15 @@ slugs and mice</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode6.png"/>
   </programme>
+  <programme channel="p_nunutv" start="20261003231756 +0000" stop="20261003233521 +0000">
+    <title lang="en">New Nursery Rhymes</title>
+    <desc lang="en">Sing and play along with new nursery rhyme &amp; songs compilation while playing with little toys.</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode6.png"/>
+  </programme>
   <programme channel="p_nunutv" start="20261003233521 +0000" stop="20261003235634 +0000">
     <title lang="en">Wheels On The Bus</title>
     <desc lang="en">Sing and enjoy your favorite nursery rhymes &amp; kids songs such as 'Wheels on The Bus', 'Three Little Pigs', 'Rain Rain Go Away' and many more with NuNu and his friends.</desc>
@@ -144827,6 +145061,24 @@ slugs and mice</desc>
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode3.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20261003233521 +0000" stop="20261003235634 +0000">
+    <title lang="en">Wheels On The Bus</title>
+    <desc lang="en">Sing and enjoy your favorite nursery rhymes &amp; kids songs such as 'Wheels on The Bus', 'Three Little Pigs', 'Rain Rain Go Away' and many more with NuNu and his friends.</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode3.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20261003235635 +0000" stop="20261004001329 +0000">
+    <title lang="en">Yummy! Hot Cross Buns</title>
+    <desc lang="en">From making yummy hot cross buns for their parents, Learn and enjoy other famous Nursery Rhymes and Songs</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode2.jpg"/>
   </programme>
   <programme channel="p_nunutv" start="20261003235635 +0000" stop="20261004001329 +0000">
     <title lang="en">Yummy! Hot Cross Buns</title>
@@ -144846,6 +145098,15 @@ slugs and mice</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode1.jpg"/>
   </programme>
+  <programme channel="p_nunutv" start="20261004001330 +0000" stop="20261004002850 +0000">
+    <title lang="en">Baby Shark Dance</title>
+    <desc lang="en">Baby shark doo doo doo doo! In this educational nursery rhyme compilation, you will find some of the most popular NuNu Tv songs, such as ‘Finger Family’, 'Color song’, ‘Being a Good Friend’ and lots more!</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode1.jpg"/>
+  </programme>
   <programme channel="p_nunutv" start="20261004002850 +0000" stop="20261004004328 +0000">
     <title lang="en">Spaceship &amp; Traffic Vehicles</title>
     <desc lang="en">We're Going On A Rocket Ship &amp; other famous Kids Songs &amp; Nursery Rhymes</desc>
@@ -144854,6 +145115,24 @@ slugs and mice</desc>
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode5.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20261004002850 +0000" stop="20261004004328 +0000">
+    <title lang="en">Spaceship &amp; Traffic Vehicles</title>
+    <desc lang="en">We're Going On A Rocket Ship &amp; other famous Kids Songs &amp; Nursery Rhymes</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode5.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20261004004328 +0000" stop="20261004010330 +0000">
+    <title lang="en">Yes Yes Vegetable &amp; Eating Habit</title>
+    <desc lang="en">The very best nursery rhymes and kids songs for you to sing dance and learn too!</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode4.png"/>
   </programme>
   <programme channel="p_nunutv" start="20261004004328 +0000" stop="20261004010330 +0000">
     <title lang="en">Yes Yes Vegetable &amp; Eating Habit</title>
@@ -144873,6 +145152,15 @@ slugs and mice</desc>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode6.png"/>
   </programme>
+  <programme channel="p_nunutv" start="20261004010330 +0000" stop="20261004012055 +0000">
+    <title lang="en">New Nursery Rhymes</title>
+    <desc lang="en">Sing and play along with new nursery rhyme &amp; songs compilation while playing with little toys.</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode6.png"/>
+  </programme>
   <programme channel="p_nunutv" start="20261004012056 +0000" stop="20261004014209 +0000">
     <title lang="en">Wheels On The Bus</title>
     <desc lang="en">Sing and enjoy your favorite nursery rhymes &amp; kids songs such as 'Wheels on The Bus', 'Three Little Pigs', 'Rain Rain Go Away' and many more with NuNu and his friends.</desc>
@@ -144881,6 +145169,24 @@ slugs and mice</desc>
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode3.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20261004012056 +0000" stop="20261004014209 +0000">
+    <title lang="en">Wheels On The Bus</title>
+    <desc lang="en">Sing and enjoy your favorite nursery rhymes &amp; kids songs such as 'Wheels on The Bus', 'Three Little Pigs', 'Rain Rain Go Away' and many more with NuNu and his friends.</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode3.jpg"/>
+  </programme>
+  <programme channel="p_nunutv" start="20261004014209 +0000" stop="20261004015903 +0000">
+    <title lang="en">Yummy! Hot Cross Buns</title>
+    <desc lang="en">From making yummy hot cross buns for their parents, Learn and enjoy other famous Nursery Rhymes and Songs</desc>
+    <language>English</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SPSTUD/poster/web/cover/episode2.jpg"/>
   </programme>
   <programme channel="p_nunutv" start="20261004014209 +0000" stop="20261004015903 +0000">
     <title lang="en">Yummy! Hot Cross Buns</title>
@@ -149027,6 +149333,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/ed3950ef-a7f4-4751-9f62-7569e9896c99.png"/>
   </programme>
+  <programme channel="p_runact" start="20261003231552 +0000" stop="20261004012858 +0000">
+    <title lang="en">Lawless</title>
+    <desc lang="en">We control the fear, you understand? Without the fear, we are all good as dead.’ The notorious gangster Al Capone observed that “Prohibition has made nothing but trouble,” and “I am like any other man. All I do is supply a demand.” Acclaimed director delivers a thrillingly vivid slice of American outlaw history in his epic gangster tale, LAWLESS. LAWLESS is the true story of the infamous Bondurant Brothers: three bootlegging siblings who made a run for the American Dream in Prohibition-era Virginia. The film gathers an ensemble of gifted, dynamic new-generation stars – Tom Hardy, Shia LaBeouf, Jessica Chastain, Jason Clarke, Mia Wasikowska, Dane DeHaan – alongside two of the finest actors of their generations, Guy Pearce and Gary Oldman. A riveting, intense story of Crime and Corruption, Loyalty and Love, Brutality and Tenderness, LAWLESS is a rich addition to the American Gangster Canon.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/ed3950ef-a7f4-4751-9f62-7569e9896c99.png"/>
+  </programme>
   <programme channel="p_runact" start="20261004012858 +0000" stop="20261004033434 +0000">
     <title lang="en">Universal Soldier: Day Of Reckoning</title>
     <desc lang="en">John awakens from a coma to discover his wife and daughter were murdered in a brutal home invasion. Haunted by images of the attack, he vows to kill the man responsible: The fight pits John against Andrew Scott and an army of genetically enhanced warriors; meanwhile, he must contend with a Uni Sol in relentless pursuit.</desc>
@@ -149035,6 +149350,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>A - 18+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/7fd11459-fff4-443e-99f3-fcbf969c2914.png"/>
+  </programme>
+  <programme channel="p_runact" start="20261004012858 +0000" stop="20261004033434 +0000">
+    <title lang="en">Universal Soldier: Day Of Reckoning</title>
+    <desc lang="en">John awakens from a coma to discover his wife and daughter were murdered in a brutal home invasion. Haunted by images of the attack, he vows to kill the man responsible: The fight pits John against Andrew Scott and an army of genetically enhanced warriors; meanwhile, he must contend with a Uni Sol in relentless pursuit.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/7fd11459-fff4-443e-99f3-fcbf969c2914.png"/>
+  </programme>
+  <programme channel="p_runact" start="20261004033434 +0000" stop="20261004052516 +0000">
+    <title lang="en">Redline</title>
+    <desc lang="en">Redline is an auto/action thriller that features an extensive exotic car collection Phantom Rolls Royce, Lamborghini Murcielago, Enzo Ferrari, Ferrari F430, Ferrari Scaglietti and two Mercedes SLR McLaren AMGs. The film follows a gorgeous young automobile fanaticize driver who becomes part of illegal drag racing competitions organized by exotic car fanatics.</desc>
+    <language>English</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/74a8f81d-9186-4149-846c-12c8061d0980.png"/>
   </programme>
   <programme channel="p_runact" start="20261004033434 +0000" stop="20261004052516 +0000">
     <title lang="en">Redline</title>
@@ -149054,6 +149387,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/f33972fa-12d2-42c6-8520-80c9d0adceff.png"/>
   </programme>
+  <programme channel="p_runact" start="20261004052516 +0000" stop="20261004071507 +0000">
+    <title lang="en">Out Of Death</title>
+    <desc lang="en">From the producers of The Irishman &amp; Lone Survivor comes this thrilling story of Jack Harris (Bruce Willis) who must tap into his killer instincts to survive the wilderness and the human predators as he tries to help a woman who witnesses a crime and finds herself running from a rural mountain town's corrupt police department after she took a video of police killing a drug dealer.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/f33972fa-12d2-42c6-8520-80c9d0adceff.png"/>
+  </programme>
   <programme channel="p_runact" start="20261004071508 +0000" stop="20261004084247 +0000">
     <title lang="en">Wrecker</title>
     <desc lang="en">Two beautiful young women taking a trip through the countryside, are terrorized by an unknown driver trying to run them down in a heavy duty tow truck.</desc>
@@ -149062,6 +149404,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>A - 18+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/a55fa06e-e293-4525-b10a-699db65fb87d.png"/>
+  </programme>
+  <programme channel="p_runact" start="20261004071508 +0000" stop="20261004084247 +0000">
+    <title lang="en">Wrecker</title>
+    <desc lang="en">Two beautiful young women taking a trip through the countryside, are terrorized by an unknown driver trying to run them down in a heavy duty tow truck.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/a55fa06e-e293-4525-b10a-699db65fb87d.png"/>
+  </programme>
+  <programme channel="p_runact" start="20261004084247 +0000" stop="20261004103738 +0000">
+    <title lang="en">Universal Soldier: Regeneration</title>
+    <desc lang="en">Terrorists kidnap the Russian Prime Minister's two kids, take Chernobyl Nuclear Power Plant and threaten to blow up a reactor. Four Universal Soldiers go in but are no match to a Next Generation UniSol. The world's only hope is to reactivate decommissioned Universal Soldier Luc Deveraux.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/f2810c23-ea08-4641-9565-841b69b7434b.png"/>
   </programme>
   <programme channel="p_runact" start="20261004084247 +0000" stop="20261004103738 +0000">
     <title lang="en">Universal Soldier: Regeneration</title>
@@ -149081,6 +149441,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/2fb9aa34-eb97-4ad1-be07-f544c5429c16.png"/>
   </programme>
+  <programme channel="p_runact" start="20261004103738 +0000" stop="20261004122424 +0000">
+    <title lang="en">Tekken: Kazuya's Revenge</title>
+    <desc lang="en">Suffering from amnesia, a young man trying to discover his true identity is kidnapped by an underground crime organization and turned into a ruthless assassin</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/2fb9aa34-eb97-4ad1-be07-f544c5429c16.png"/>
+  </programme>
   <programme channel="p_runact" start="20261004122425 +0000" stop="20261004141649 +0000">
     <title lang="en">The Catcher Was A Spy</title>
     <desc lang="en">With an ensemble cast, this gripping, espionage thriller brings to life the true story of Moe Berg a World War II spy. His mission: go behind enemy lines in Europe to assassinate the Nazi's chief nuclear scientist before the Germans develop an atomic bomb. Berg must rely on his steel-trap intellect in a high-stakes game of cat and mouse - with the fate of the world hanging in the balance.</desc>
@@ -149089,6 +149458,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>A - 18+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/466873ad-6349-44fd-b8e0-e46d31477836.png"/>
+  </programme>
+  <programme channel="p_runact" start="20261004122425 +0000" stop="20261004141649 +0000">
+    <title lang="en">The Catcher Was A Spy</title>
+    <desc lang="en">With an ensemble cast, this gripping, espionage thriller brings to life the true story of Moe Berg a World War II spy. His mission: go behind enemy lines in Europe to assassinate the Nazi's chief nuclear scientist before the Germans develop an atomic bomb. Berg must rely on his steel-trap intellect in a high-stakes game of cat and mouse - with the fate of the world hanging in the balance.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/466873ad-6349-44fd-b8e0-e46d31477836.png"/>
+  </programme>
+  <programme channel="p_runact" start="20261004141650 +0000" stop="20261004165049 +0000">
+    <title lang="en">Rebel</title>
+    <desc lang="en">A young man leaves Belgium to help war victims in Syria, but is forced to join an armed group and is left stranded in AL Raqqa. While at home his little brother becomes easy prey for jihadi recruiters. The only thing their mother has left with is to protect: her Son.</desc>
+    <language>English</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/516f919e-5a9a-423b-9fec-1846aebe9c8b.png"/>
   </programme>
   <programme channel="p_runact" start="20261004141650 +0000" stop="20261004165049 +0000">
     <title lang="en">Rebel</title>
@@ -149108,6 +149495,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/a25e3014-78a7-4f2d-af97-e775d738fbd5.png"/>
   </programme>
+  <programme channel="p_runact" start="20261004165049 +0000" stop="20261004192214 +0000">
+    <title lang="en">The Hurt Locker</title>
+    <desc lang="en">THE HURT LOCKER is an intense portrayal of elite soldiers who have one of the most dangerous jobs in the world: disarming bombs during the Iraq War.</desc>
+    <language>English</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/a25e3014-78a7-4f2d-af97-e775d738fbd5.png"/>
+  </programme>
+  <programme channel="p_runact" start="20261004192215 +0000" stop="20261004214850 +0000">
+    <title lang="en">Born To Fly</title>
+    <desc lang="en">Two American F-35 Lightning II fighters enter Chinese airspace and cause havoc near the coast. Flying at supersonic speeds, the F-35s create sonic booms that damage an oil refinery and fishing boats. Box office smash hit &amp; multiple award winner Born to Fly comes to life with special operations team headed by elite pilots who face death and challenge the limits of the sky and themselves.</desc>
+    <language>English</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/42719642-edb6-4dbd-bf3c-d8c62e51acf1.png"/>
+  </programme>
   <programme channel="p_runact" start="20261004192215 +0000" stop="20261004214850 +0000">
     <title lang="en">Born To Fly</title>
     <desc lang="en">Two American F-35 Lightning II fighters enter Chinese airspace and cause havoc near the coast. Flying at supersonic speeds, the F-35s create sonic booms that damage an oil refinery and fishing boats. Box office smash hit &amp; multiple award winner Born to Fly comes to life with special operations team headed by elite pilots who face death and challenge the limits of the sky and themselves.</desc>
@@ -149126,23 +149531,14 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/ccd59ace-8bd2-4db7-a6ba-0a84890cbfc9.png"/>
   </programme>
-  <programme channel="p_runshf" start="20260928002311 +0000" stop="20260928004202 +0000">
-    <title lang="en">Bridge</title>
-    <desc lang="en">Mukesh is a widower and has a 28-year-old so Rahul. They live together and rarely talk amicably with each other. Rahul thinks his father is too weird for his age whereas Mukesh thinks why Rahul constantly judges him for his choices.</desc>
-    <language>Hindi</language>
+  <programme channel="p_runact" start="20261004214850 +0000" stop="20261004235214 +0000">
+    <title lang="en">The Deep Dark</title>
+    <desc lang="en">1956, northern France. When a group of miners are forced to take a professor underground with them for samples in the depths of a coal mine, they quickly realize that they are not alone and discover a crypt from another time, unknowingly waking up a bloodthirsty creature. One watchword: survival.</desc>
+    <language>English</language>
     <rating>
-      <value>U - All Ages</value>
+      <value>UA-16+</value>
     </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00096.png"/>
-  </programme>
-  <programme channel="p_runshf" start="20260928002543 +0000" stop="20260928004614 +0000">
-    <title lang="en">Harmless</title>
-    <desc lang="en">A boy down on his luck. A girl looking for thrills. A plot is hatched. A kidnapping is staged. As far as crimes go, this one seems harmless. But, as with all things, there is a price to pay. A hefty price. Harmless begins as a crime-thriller and develops into a dramatic adventure with a little bit of romance thrown in.</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>UA-13+</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00136.png"/>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/web/cover/ccd59ace-8bd2-4db7-a6ba-0a84890cbfc9.png"/>
   </programme>
   <programme channel="p_runshf" start="20260928004202 +0000" stop="20260928010426 +0000">
     <title lang="en">Love, Bites</title>
@@ -155625,6 +156021,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00024.png"/>
   </programme>
+  <programme channel="p_runshf" start="20261003230142 +0000" stop="20261003233342 +0000">
+    <title lang="en">Exchange Offer</title>
+    <desc lang="en">A complaint registered to the manufacturing company for a dead computer brings back nostalgia and surprises in the life of a retired school principle who is living a mundane life.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00024.png"/>
+  </programme>
   <programme channel="p_runshf" start="20261003233342 +0000" stop="20261003235501 +0000">
     <title lang="en">Holding Back</title>
     <desc lang="en">Short Film Holding back a short film is based on a true incident in 1999, of Shiva, a young man suffering from blood cancer and who, unfortunately, passed away during the journey while traveling by train from Bangalore to Chennai, for a friend’s marriage. Shiva was traveling with his mom and elder cousin Suresh. This film deals with the mother’s emotional journey of her son’s death. The pivotal character- Mother, is played by the national award winner Seema Biswas, popularly known for her role in and as the Bandit Queen; while Father is played by national award-winning director-writer Ananth Mahadevan; Coolie is played by Aditya Lakhia (Kachra) of Lagaan fame; Cousin brother is played by Raj Arjun, main lead in Shabri and Kaalo, Shiva, the son is played by Kunal Kumar with supporting roles played by Marathi theatre and film veterans, Pradeep Patwardhan and Jaywanth Wadekar. Background score is to be given by Anurag Saikia, the national award winner for the music of Yugadrashta in 2014. The camerawork is done by Pushpank Gawade who won the best award for Cinematography for the film Kaalo in South Africa film festival 2012.</desc>
@@ -155633,6 +156038,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00032.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261003233342 +0000" stop="20261003235501 +0000">
+    <title lang="en">Holding Back</title>
+    <desc lang="en">Short Film Holding back a short film is based on a true incident in 1999, of Shiva, a young man suffering from blood cancer and who, unfortunately, passed away during the journey while traveling by train from Bangalore to Chennai, for a friend’s marriage. Shiva was traveling with his mom and elder cousin Suresh. This film deals with the mother’s emotional journey of her son’s death. The pivotal character- Mother, is played by the national award winner Seema Biswas, popularly known for her role in and as the Bandit Queen; while Father is played by national award-winning director-writer Ananth Mahadevan; Coolie is played by Aditya Lakhia (Kachra) of Lagaan fame; Cousin brother is played by Raj Arjun, main lead in Shabri and Kaalo, Shiva, the son is played by Kunal Kumar with supporting roles played by Marathi theatre and film veterans, Pradeep Patwardhan and Jaywanth Wadekar. Background score is to be given by Anurag Saikia, the national award winner for the music of Yugadrashta in 2014. The camerawork is done by Pushpank Gawade who won the best award for Cinematography for the film Kaalo in South Africa film festival 2012.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00032.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261003235501 +0000" stop="20261004001452 +0000">
+    <title lang="en">A Situation</title>
+    <desc lang="en">A widower father, Pradeep has adapted to the challenging life of raising a daughter single-handedly after demise of his wife. One fine morning, she undergoes menstrual bleeding while taking a bath. Helpless and terrified she is locked inside the bathroom, not answering her father. He does not understand what to do next. This film shows that even today, periods stand as the biggest question to a lot of parents.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00058.png"/>
   </programme>
   <programme channel="p_runshf" start="20261003235501 +0000" stop="20261004001452 +0000">
     <title lang="en">A Situation</title>
@@ -155652,6 +156075,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00136.png"/>
   </programme>
+  <programme channel="p_runshf" start="20261004001453 +0000" stop="20261004003554 +0000">
+    <title lang="en">Harmless</title>
+    <desc lang="en">A boy down on his luck. A girl looking for thrills. A plot is hatched. A kidnapping is staged. As far as crimes go, this one seems harmless. But, as with all things, there is a price to pay. A hefty price. Harmless begins as a crime-thriller and develops into a dramatic adventure with a little bit of romance thrown in.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00136.png"/>
+  </programme>
   <programme channel="p_runshf" start="20261004003554 +0000" stop="20261004005437 +0000">
     <title lang="en">Girl In Red</title>
     <language>Hindi</language>
@@ -155659,6 +156091,23 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>UA-16+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00028.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004003554 +0000" stop="20261004005437 +0000">
+    <title lang="en">Girl In Red</title>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00028.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004005438 +0000" stop="20261004011329 +0000">
+    <title lang="en">Bridge</title>
+    <desc lang="en">Mukesh is a widower and has a 28-year-old so Rahul. They live together and rarely talk amicably with each other. Rahul thinks his father is too weird for his age whereas Mukesh thinks why Rahul constantly judges him for his choices.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00096.png"/>
   </programme>
   <programme channel="p_runshf" start="20261004005438 +0000" stop="20261004011329 +0000">
     <title lang="en">Bridge</title>
@@ -155678,6 +156127,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00176.png"/>
   </programme>
+  <programme channel="p_runshf" start="20261004011330 +0000" stop="20261004013554 +0000">
+    <title lang="en">Love, Bites</title>
+    <desc lang="en">Love, bites is a romantic drama where the story revolves around the lives of Karthik, an artist, and Meghna, scientist. Their sexual chemistry is obvious to everyone. Even to those who haven’t seen them together, since they like to flaunt the hickeys on their body. But something changes in their equation when the hickey becomes a bridge of memory that leads to an old sexual encounter Meghna had which Karthik finds out about. Will Meghna be able to help Karthik erase the marks of her past? Or will Karthik just to have to wake up to a realization that the past, even though it haunts, might not be real.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00176.png"/>
+  </programme>
   <programme channel="p_runshf" start="20261004013555 +0000" stop="20261004015210 +0000">
     <title lang="en">Dum Dum Deega Deega</title>
     <desc lang="en">The solution to your problem is often hidden in the problem itself; all you need is a different outlook. The story of a beggar child, Ajju, who lives on the streets of Mumbai, but dreams big. He challenges his unfortunate fate, with nothing but a 'different outlook' towards the situation he faces.</desc>
@@ -155686,6 +156144,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00022.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004013555 +0000" stop="20261004015210 +0000">
+    <title lang="en">Dum Dum Deega Deega</title>
+    <desc lang="en">The solution to your problem is often hidden in the problem itself; all you need is a different outlook. The story of a beggar child, Ajju, who lives on the streets of Mumbai, but dreams big. He challenges his unfortunate fate, with nothing but a 'different outlook' towards the situation he faces.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00022.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004015211 +0000" stop="20261004022411 +0000">
+    <title lang="en">Exchange Offer</title>
+    <desc lang="en">A complaint registered to the manufacturing company for a dead computer brings back nostalgia and surprises in the life of a retired school principle who is living a mundane life.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00024.png"/>
   </programme>
   <programme channel="p_runshf" start="20261004015211 +0000" stop="20261004022411 +0000">
     <title lang="en">Exchange Offer</title>
@@ -155705,6 +156181,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00169.png"/>
   </programme>
+  <programme channel="p_runshf" start="20261004022411 +0000" stop="20261004023503 +0000">
+    <title lang="en">Laugh</title>
+    <desc lang="en">A film about who we were and who we've become , how socialising was and where its reached ,how something as simple as laughing has taken a complicated turn</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00169.png"/>
+  </programme>
   <programme channel="p_runshf" start="20261004023503 +0000" stop="20261004024608 +0000">
     <title lang="en">Bena</title>
     <desc lang="en">After a set of jewelry goes missing, the police search Bena's bag. Her employers, Bhai and Bhabhi, are shocked to see the contents. They throw her out and Bena spends the day calling people for jobs. The family driver calls Bena and informs her that the set was found. Bena knew that the set would be found as it was misplaced not stolen. Next, she gets a call for a new job. Bena finds out that her employer Bhabhi had recommended Bena. Why was Bena thrown out of her job? What in the bag?</desc>
@@ -155713,6 +156198,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00008.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004023503 +0000" stop="20261004024608 +0000">
+    <title lang="en">Bena</title>
+    <desc lang="en">After a set of jewelry goes missing, the police search Bena's bag. Her employers, Bhai and Bhabhi, are shocked to see the contents. They throw her out and Bena spends the day calling people for jobs. The family driver calls Bena and informs her that the set was found. Bena knew that the set would be found as it was misplaced not stolen. Next, she gets a call for a new job. Bena finds out that her employer Bhabhi had recommended Bena. Why was Bena thrown out of her job? What in the bag?</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00008.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004024608 +0000" stop="20261004030310 +0000">
+    <title lang="en">ABC</title>
+    <desc lang="en">For some people life is about triumph against all odds, for some; life is only about complexities. Some walk through this road aimlessly and some; actually become the bridge. ABC is a short film that showcases the dichotomy between two extreme yet simple individuals. It is an empowering film which has the dexterity &amp; optimism to resonate amongst all sections of audience. As humans, we do tend to forget that we are but one world than just mere economy, that it can just take one human, just one moment, just one action to turn around the paths of millions. ABC; is just a sweet gentle reminder of this thought.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00067.png"/>
   </programme>
   <programme channel="p_runshf" start="20261004024608 +0000" stop="20261004030310 +0000">
     <title lang="en">ABC</title>
@@ -155732,6 +156235,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00010.png"/>
   </programme>
+  <programme channel="p_runshf" start="20261004030311 +0000" stop="20261004031607 +0000">
+    <title lang="en">Bhagwaan - The Faith</title>
+    <desc lang="en">A final chance meeting with a mysterious old homeless man changes everything they’ve experienced that day. The story delves into how deep their faith truly is and how people worship gods. Some use faith and god as a means of solace while others as a crutch for a troubling life.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00010.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004031608 +0000" stop="20261004033555 +0000">
+    <title lang="en">Agarbatti</title>
+    <desc lang="en">Bhola, who is mentally challenged but still manages to survive by himself, selling incense sticks on the roads. An accident takes place near bhola, he doesn’t see the person clearly who is driving the car. Will he be able to tell the police about this incident?</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00069.png"/>
+  </programme>
   <programme channel="p_runshf" start="20261004031608 +0000" stop="20261004033555 +0000">
     <title lang="en">Agarbatti</title>
     <desc lang="en">Bhola, who is mentally challenged but still manages to survive by himself, selling incense sticks on the roads. An accident takes place near bhola, he doesn’t see the person clearly who is driving the car. Will he be able to tell the police about this incident?</desc>
@@ -155750,6 +156271,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00136.png"/>
   </programme>
+  <programme channel="p_runshf" start="20261004033555 +0000" stop="20261004035656 +0000">
+    <title lang="en">Harmless</title>
+    <desc lang="en">A boy down on his luck. A girl looking for thrills. A plot is hatched. A kidnapping is staged. As far as crimes go, this one seems harmless. But, as with all things, there is a price to pay. A hefty price. Harmless begins as a crime-thriller and develops into a dramatic adventure with a little bit of romance thrown in.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00136.png"/>
+  </programme>
   <programme channel="p_runshf" start="20261004035657 +0000" stop="20261004041540 +0000">
     <title lang="en">Girl In Red</title>
     <language>Hindi</language>
@@ -155757,6 +156287,23 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>UA-16+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00028.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004035657 +0000" stop="20261004041540 +0000">
+    <title lang="en">Girl In Red</title>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00028.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004041541 +0000" stop="20261004043805 +0000">
+    <title lang="en">Love, Bites</title>
+    <desc lang="en">Love, bites is a romantic drama where the story revolves around the lives of Karthik, an artist, and Meghna, scientist. Their sexual chemistry is obvious to everyone. Even to those who haven’t seen them together, since they like to flaunt the hickeys on their body. But something changes in their equation when the hickey becomes a bridge of memory that leads to an old sexual encounter Meghna had which Karthik finds out about. Will Meghna be able to help Karthik erase the marks of her past? Or will Karthik just to have to wake up to a realization that the past, even though it haunts, might not be real.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00176.png"/>
   </programme>
   <programme channel="p_runshf" start="20261004041541 +0000" stop="20261004043805 +0000">
     <title lang="en">Love, Bites</title>
@@ -155776,6 +156323,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00044.png"/>
   </programme>
+  <programme channel="p_runshf" start="20261004043805 +0000" stop="20261004044820 +0000">
+    <title lang="en">Make Her Happy</title>
+    <desc lang="en">Nandita and Rahul are to be married soon. They are a live-in couple. Things take a U-turn when Rahul gets a call from his ex-girlfriend 'Suhana'. Will Rahul be able to save himself? Watch to find out who has trapped whom.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00044.png"/>
+  </programme>
   <programme channel="p_runshf" start="20261004044821 +0000" stop="20261004050117 +0000">
     <title lang="en">Bhagwaan - The Faith</title>
     <desc lang="en">A final chance meeting with a mysterious old homeless man changes everything they’ve experienced that day. The story delves into how deep their faith truly is and how people worship gods. Some use faith and god as a means of solace while others as a crutch for a troubling life.</desc>
@@ -155784,6 +156340,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00010.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004044821 +0000" stop="20261004050117 +0000">
+    <title lang="en">Bhagwaan - The Faith</title>
+    <desc lang="en">A final chance meeting with a mysterious old homeless man changes everything they’ve experienced that day. The story delves into how deep their faith truly is and how people worship gods. Some use faith and god as a means of solace while others as a crutch for a troubling life.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00010.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004050118 +0000" stop="20261004051939 +0000">
+    <title lang="en">Bridge</title>
+    <desc lang="en">Mukesh is a widower and has a 28-year-old so Rahul. They live together and rarely talk amicably with each other. Rahul thinks his father is too weird for his age whereas Mukesh thinks why Rahul constantly judges him for his choices.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00096.png"/>
   </programme>
   <programme channel="p_runshf" start="20261004050118 +0000" stop="20261004051939 +0000">
     <title lang="en">Bridge</title>
@@ -155803,6 +156377,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00058.png"/>
   </programme>
+  <programme channel="p_runshf" start="20261004051939 +0000" stop="20261004053900 +0000">
+    <title lang="en">A Situation</title>
+    <desc lang="en">A widower father, Pradeep has adapted to the challenging life of raising a daughter single-handedly after demise of his wife. One fine morning, she undergoes menstrual bleeding while taking a bath. Helpless and terrified she is locked inside the bathroom, not answering her father. He does not understand what to do next. This film shows that even today, periods stand as the biggest question to a lot of parents.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00058.png"/>
+  </programme>
   <programme channel="p_runshf" start="20261004053901 +0000" stop="20261004060825 +0000">
     <title lang="en">Desh Ki Pardesh ?</title>
     <desc lang="en">The film follows the Parikh's on their visit to their children settled in the US. However, to only realize that there's a lot more than just a generation gap between them. Mainly, dawning upon Hasmuk Parikh's that it's great to dream big for your children, but one must be mentally prepared that those dreams may or not have them in it.</desc>
@@ -155811,6 +156394,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00110.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004053901 +0000" stop="20261004060825 +0000">
+    <title lang="en">Desh Ki Pardesh ?</title>
+    <desc lang="en">The film follows the Parikh's on their visit to their children settled in the US. However, to only realize that there's a lot more than just a generation gap between them. Mainly, dawning upon Hasmuk Parikh's that it's great to dream big for your children, but one must be mentally prepared that those dreams may or not have them in it.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00110.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004060825 +0000" stop="20261004064106 +0000">
+    <title lang="en">Family</title>
+    <desc lang="en">Anvith's friend Karthik is leaving school and moving to another city as his parents are getting divorced. This news makes Anvith very sad. The reason for their divorce which Karthik reveals to Anvith is a regular heated argument between Karthik's parents. Then Anvith also starts noticing the same argument between his parents. So, Anvith decides to do everything right so that their parents don't fight, but end up ruining everything which leads to a more heated argument.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00025.png"/>
   </programme>
   <programme channel="p_runshf" start="20261004060825 +0000" stop="20261004064106 +0000">
     <title lang="en">Family</title>
@@ -155830,6 +156431,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00024.png"/>
   </programme>
+  <programme channel="p_runshf" start="20261004064106 +0000" stop="20261004071235 +0000">
+    <title lang="en">Exchange Offer</title>
+    <desc lang="en">A complaint registered to the manufacturing company for a dead computer brings back nostalgia and surprises in the life of a retired school principle who is living a mundane life.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00024.png"/>
+  </programme>
   <programme channel="p_runshf" start="20261004071236 +0000" stop="20261004073049 +0000">
     <title lang="en">Girl In Red</title>
     <language>Hindi</language>
@@ -155837,6 +156447,23 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>UA-16+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00028.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004071236 +0000" stop="20261004073049 +0000">
+    <title lang="en">Girl In Red</title>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00028.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004073050 +0000" stop="20261004074705 +0000">
+    <title lang="en">Dum Dum Deega Deega</title>
+    <desc lang="en">The solution to your problem is often hidden in the problem itself; all you need is a different outlook. The story of a beggar child, Ajju, who lives on the streets of Mumbai, but dreams big. He challenges his unfortunate fate, with nothing but a 'different outlook' towards the situation he faces.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00022.png"/>
   </programme>
   <programme channel="p_runshf" start="20261004073050 +0000" stop="20261004074705 +0000">
     <title lang="en">Dum Dum Deega Deega</title>
@@ -155856,6 +156483,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00044.png"/>
   </programme>
+  <programme channel="p_runshf" start="20261004074706 +0000" stop="20261004075721 +0000">
+    <title lang="en">Make Her Happy</title>
+    <desc lang="en">Nandita and Rahul are to be married soon. They are a live-in couple. Things take a U-turn when Rahul gets a call from his ex-girlfriend 'Suhana'. Will Rahul be able to save himself? Watch to find out who has trapped whom.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00044.png"/>
+  </programme>
   <programme channel="p_runshf" start="20261004075722 +0000" stop="20261004082646 +0000">
     <title lang="en">Desh Ki Pardesh ?</title>
     <desc lang="en">The film follows the Parikh's on their visit to their children settled in the US. However, to only realize that there's a lot more than just a generation gap between them. Mainly, dawning upon Hasmuk Parikh's that it's great to dream big for your children, but one must be mentally prepared that those dreams may or not have them in it.</desc>
@@ -155864,6 +156500,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00110.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004075722 +0000" stop="20261004082646 +0000">
+    <title lang="en">Desh Ki Pardesh ?</title>
+    <desc lang="en">The film follows the Parikh's on their visit to their children settled in the US. However, to only realize that there's a lot more than just a generation gap between them. Mainly, dawning upon Hasmuk Parikh's that it's great to dream big for your children, but one must be mentally prepared that those dreams may or not have them in it.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00110.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004082646 +0000" stop="20261004083942 +0000">
+    <title lang="en">Bhagwaan - The Faith</title>
+    <desc lang="en">A final chance meeting with a mysterious old homeless man changes everything they’ve experienced that day. The story delves into how deep their faith truly is and how people worship gods. Some use faith and god as a means of solace while others as a crutch for a troubling life.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00010.png"/>
   </programme>
   <programme channel="p_runshf" start="20261004082646 +0000" stop="20261004083942 +0000">
     <title lang="en">Bhagwaan - The Faith</title>
@@ -155883,7 +156537,34 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00025.png"/>
   </programme>
+  <programme channel="p_runshf" start="20261004083943 +0000" stop="20261004091224 +0000">
+    <title lang="en">Family</title>
+    <desc lang="en">Anvith's friend Karthik is leaving school and moving to another city as his parents are getting divorced. This news makes Anvith very sad. The reason for their divorce which Karthik reveals to Anvith is a regular heated argument between Karthik's parents. Then Anvith also starts noticing the same argument between his parents. So, Anvith decides to do everything right so that their parents don't fight, but end up ruining everything which leads to a more heated argument.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00025.png"/>
+  </programme>
   <programme channel="p_runshf" start="20261004091224 +0000" stop="20261004093831 +0000">
+    <title lang="en">Epicfail</title>
+    <desc lang="en">It is difficult to understand the truth about Ramayana in today’s time as it gets lost in translation. This is a film about a young and passionate journalist discovering the truth about Sita.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00001.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004091224 +0000" stop="20261004093831 +0000">
+    <title lang="en">Epicfail</title>
+    <desc lang="en">It is difficult to understand the truth about Ramayana in today’s time as it gets lost in translation. This is a film about a young and passionate journalist discovering the truth about Sita.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00001.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004093831 +0000" stop="20261004100508 +0000">
     <title lang="en">Epicfail</title>
     <desc lang="en">It is difficult to understand the truth about Ramayana in today’s time as it gets lost in translation. This is a film about a young and passionate journalist discovering the truth about Sita.</desc>
     <language>Hindi</language>
@@ -155910,6 +156591,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00048.png"/>
   </programme>
+  <programme channel="p_runshf" start="20261004100509 +0000" stop="20261004103346 +0000">
+    <title lang="en">10.30 Lets Go To School</title>
+    <desc lang="en">Disha is an ordinary village girl with dreams like any other kid. Not only does she love her father unconditionally, but also her books and school. Life takes an unexpected turn when her Baba and Bua decide to discontinue their education. Her fate is about to meet that of thousands of other children who drop out of school every year. However, it is not so easy to give up. She is intelligent, confident and above all, determined to get back what she rightfully deserves, her right to dream!</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-7+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00048.png"/>
+  </programme>
   <programme channel="p_runshf" start="20261004103347 +0000" stop="20261004110728 +0000">
     <title lang="en">Family</title>
     <desc lang="en">Anvith's friend Karthik is leaving school and moving to another city as his parents are getting divorced. This news makes Anvith very sad. The reason for their divorce which Karthik reveals to Anvith is a regular heated argument between Karthik's parents. Then Anvith also starts noticing the same argument between his parents. So, Anvith decides to do everything right so that their parents don't fight, but end up ruining everything which leads to a more heated argument.</desc>
@@ -155918,6 +156608,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00025.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004103347 +0000" stop="20261004110728 +0000">
+    <title lang="en">Family</title>
+    <desc lang="en">Anvith's friend Karthik is leaving school and moving to another city as his parents are getting divorced. This news makes Anvith very sad. The reason for their divorce which Karthik reveals to Anvith is a regular heated argument between Karthik's parents. Then Anvith also starts noticing the same argument between his parents. So, Anvith decides to do everything right so that their parents don't fight, but end up ruining everything which leads to a more heated argument.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00025.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004110728 +0000" stop="20261004112728 +0000">
+    <title lang="en">Barat</title>
+    <desc lang="en">A Typical miser starts picking up a mysterious trail of money only to find out something unearthly lurking around!</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00080.png"/>
   </programme>
   <programme channel="p_runshf" start="20261004110728 +0000" stop="20261004112728 +0000">
     <title lang="en">Barat</title>
@@ -155937,6 +156645,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00044.png"/>
   </programme>
+  <programme channel="p_runshf" start="20261004112728 +0000" stop="20261004113743 +0000">
+    <title lang="en">Make Her Happy</title>
+    <desc lang="en">Nandita and Rahul are to be married soon. They are a live-in couple. Things take a U-turn when Rahul gets a call from his ex-girlfriend 'Suhana'. Will Rahul be able to save himself? Watch to find out who has trapped whom.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00044.png"/>
+  </programme>
   <programme channel="p_runshf" start="20261004113744 +0000" stop="20261004115815 +0000">
     <title lang="en">Harmless</title>
     <desc lang="en">A boy down on his luck. A girl looking for thrills. A plot is hatched. A kidnapping is staged. As far as crimes go, this one seems harmless. But, as with all things, there is a price to pay. A hefty price. Harmless begins as a crime-thriller and develops into a dramatic adventure with a little bit of romance thrown in.</desc>
@@ -155945,6 +156662,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>UA-13+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00136.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004113744 +0000" stop="20261004115815 +0000">
+    <title lang="en">Harmless</title>
+    <desc lang="en">A boy down on his luck. A girl looking for thrills. A plot is hatched. A kidnapping is staged. As far as crimes go, this one seems harmless. But, as with all things, there is a price to pay. A hefty price. Harmless begins as a crime-thriller and develops into a dramatic adventure with a little bit of romance thrown in.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00136.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004115815 +0000" stop="20261004120837 +0000">
+    <title lang="en">Laugh</title>
+    <desc lang="en">A film about who we were and who we've become , how socialising was and where its reached ,how something as simple as laughing has taken a complicated turn</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00169.png"/>
   </programme>
   <programme channel="p_runshf" start="20261004115815 +0000" stop="20261004120837 +0000">
     <title lang="en">Laugh</title>
@@ -155964,6 +156699,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00176.png"/>
   </programme>
+  <programme channel="p_runshf" start="20261004120837 +0000" stop="20261004123101 +0000">
+    <title lang="en">Love, Bites</title>
+    <desc lang="en">Love, bites is a romantic drama where the story revolves around the lives of Karthik, an artist, and Meghna, scientist. Their sexual chemistry is obvious to everyone. Even to those who haven’t seen them together, since they like to flaunt the hickeys on their body. But something changes in their equation when the hickey becomes a bridge of memory that leads to an old sexual encounter Meghna had which Karthik finds out about. Will Meghna be able to help Karthik erase the marks of her past? Or will Karthik just to have to wake up to a realization that the past, even though it haunts, might not be real.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00176.png"/>
+  </programme>
   <programme channel="p_runshf" start="20261004123102 +0000" stop="20261004125019 +0000">
     <title lang="en">Agarbatti</title>
     <desc lang="en">Bhola, who is mentally challenged but still manages to survive by himself, selling incense sticks on the roads. An accident takes place near bhola, he doesn’t see the person clearly who is driving the car. Will he be able to tell the police about this incident?</desc>
@@ -155972,6 +156716,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>UA-13+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00069.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004123102 +0000" stop="20261004125019 +0000">
+    <title lang="en">Agarbatti</title>
+    <desc lang="en">Bhola, who is mentally challenged but still manages to survive by himself, selling incense sticks on the roads. An accident takes place near bhola, he doesn’t see the person clearly who is driving the car. Will he be able to tell the police about this incident?</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00069.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004125020 +0000" stop="20261004130941 +0000">
+    <title lang="en">A Situation</title>
+    <desc lang="en">A widower father, Pradeep has adapted to the challenging life of raising a daughter single-handedly after demise of his wife. One fine morning, she undergoes menstrual bleeding while taking a bath. Helpless and terrified she is locked inside the bathroom, not answering her father. He does not understand what to do next. This film shows that even today, periods stand as the biggest question to a lot of parents.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00058.png"/>
   </programme>
   <programme channel="p_runshf" start="20261004125020 +0000" stop="20261004130941 +0000">
     <title lang="en">A Situation</title>
@@ -155991,6 +156753,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00048.png"/>
   </programme>
+  <programme channel="p_runshf" start="20261004130942 +0000" stop="20261004133749 +0000">
+    <title lang="en">10.30 Lets Go To School</title>
+    <desc lang="en">Disha is an ordinary village girl with dreams like any other kid. Not only does she love her father unconditionally, but also her books and school. Life takes an unexpected turn when her Baba and Bua decide to discontinue their education. Her fate is about to meet that of thousands of other children who drop out of school every year. However, it is not so easy to give up. She is intelligent, confident and above all, determined to get back what she rightfully deserves, her right to dream!</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-7+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00048.png"/>
+  </programme>
   <programme channel="p_runshf" start="20261004133749 +0000" stop="20261004134854 +0000">
     <title lang="en">Bena</title>
     <desc lang="en">After a set of jewelry goes missing, the police search Bena's bag. Her employers, Bhai and Bhabhi, are shocked to see the contents. They throw her out and Bena spends the day calling people for jobs. The family driver calls Bena and informs her that the set was found. Bena knew that the set would be found as it was misplaced not stolen. Next, she gets a call for a new job. Bena finds out that her employer Bhabhi had recommended Bena. Why was Bena thrown out of her job? What in the bag?</desc>
@@ -155999,6 +156770,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00008.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004133749 +0000" stop="20261004134854 +0000">
+    <title lang="en">Bena</title>
+    <desc lang="en">After a set of jewelry goes missing, the police search Bena's bag. Her employers, Bhai and Bhabhi, are shocked to see the contents. They throw her out and Bena spends the day calling people for jobs. The family driver calls Bena and informs her that the set was found. Bena knew that the set would be found as it was misplaced not stolen. Next, she gets a call for a new job. Bena finds out that her employer Bhabhi had recommended Bena. Why was Bena thrown out of her job? What in the bag?</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00008.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004134855 +0000" stop="20261004140557 +0000">
+    <title lang="en">ABC</title>
+    <desc lang="en">For some people life is about triumph against all odds, for some; life is only about complexities. Some walk through this road aimlessly and some; actually become the bridge. ABC is a short film that showcases the dichotomy between two extreme yet simple individuals. It is an empowering film which has the dexterity &amp; optimism to resonate amongst all sections of audience. As humans, we do tend to forget that we are but one world than just mere economy, that it can just take one human, just one moment, just one action to turn around the paths of millions. ABC; is just a sweet gentle reminder of this thought.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00067.png"/>
   </programme>
   <programme channel="p_runshf" start="20261004134855 +0000" stop="20261004140557 +0000">
     <title lang="en">ABC</title>
@@ -156018,6 +156807,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00096.png"/>
   </programme>
+  <programme channel="p_runshf" start="20261004140558 +0000" stop="20261004142419 +0000">
+    <title lang="en">Bridge</title>
+    <desc lang="en">Mukesh is a widower and has a 28-year-old so Rahul. They live together and rarely talk amicably with each other. Rahul thinks his father is too weird for his age whereas Mukesh thinks why Rahul constantly judges him for his choices.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00096.png"/>
+  </programme>
   <programme channel="p_runshf" start="20261004142419 +0000" stop="20261004144507 +0000">
     <title lang="en">Holding Back</title>
     <desc lang="en">Short Film Holding back a short film is based on a true incident in 1999, of Shiva, a young man suffering from blood cancer and who, unfortunately, passed away during the journey while traveling by train from Bangalore to Chennai, for a friend’s marriage. Shiva was traveling with his mom and elder cousin Suresh. This film deals with the mother’s emotional journey of her son’s death. The pivotal character- Mother, is played by the national award winner Seema Biswas, popularly known for her role in and as the Bandit Queen; while Father is played by national award-winning director-writer Ananth Mahadevan; Coolie is played by Aditya Lakhia (Kachra) of Lagaan fame; Cousin brother is played by Raj Arjun, main lead in Shabri and Kaalo, Shiva, the son is played by Kunal Kumar with supporting roles played by Marathi theatre and film veterans, Pradeep Patwardhan and Jaywanth Wadekar. Background score is to be given by Anurag Saikia, the national award winner for the music of Yugadrashta in 2014. The camerawork is done by Pushpank Gawade who won the best award for Cinematography for the film Kaalo in South Africa film festival 2012.</desc>
@@ -156026,6 +156824,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00032.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004142419 +0000" stop="20261004144507 +0000">
+    <title lang="en">Holding Back</title>
+    <desc lang="en">Short Film Holding back a short film is based on a true incident in 1999, of Shiva, a young man suffering from blood cancer and who, unfortunately, passed away during the journey while traveling by train from Bangalore to Chennai, for a friend’s marriage. Shiva was traveling with his mom and elder cousin Suresh. This film deals with the mother’s emotional journey of her son’s death. The pivotal character- Mother, is played by the national award winner Seema Biswas, popularly known for her role in and as the Bandit Queen; while Father is played by national award-winning director-writer Ananth Mahadevan; Coolie is played by Aditya Lakhia (Kachra) of Lagaan fame; Cousin brother is played by Raj Arjun, main lead in Shabri and Kaalo, Shiva, the son is played by Kunal Kumar with supporting roles played by Marathi theatre and film veterans, Pradeep Patwardhan and Jaywanth Wadekar. Background score is to be given by Anurag Saikia, the national award winner for the music of Yugadrashta in 2014. The camerawork is done by Pushpank Gawade who won the best award for Cinematography for the film Kaalo in South Africa film festival 2012.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00032.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004144508 +0000" stop="20261004151432 +0000">
+    <title lang="en">Desh Ki Pardesh ?</title>
+    <desc lang="en">The film follows the Parikh's on their visit to their children settled in the US. However, to only realize that there's a lot more than just a generation gap between them. Mainly, dawning upon Hasmuk Parikh's that it's great to dream big for your children, but one must be mentally prepared that those dreams may or not have them in it.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00110.png"/>
   </programme>
   <programme channel="p_runshf" start="20261004144508 +0000" stop="20261004151432 +0000">
     <title lang="en">Desh Ki Pardesh ?</title>
@@ -156045,6 +156861,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00067.png"/>
   </programme>
+  <programme channel="p_runshf" start="20261004151432 +0000" stop="20261004153204 +0000">
+    <title lang="en">ABC</title>
+    <desc lang="en">For some people life is about triumph against all odds, for some; life is only about complexities. Some walk through this road aimlessly and some; actually become the bridge. ABC is a short film that showcases the dichotomy between two extreme yet simple individuals. It is an empowering film which has the dexterity &amp; optimism to resonate amongst all sections of audience. As humans, we do tend to forget that we are but one world than just mere economy, that it can just take one human, just one moment, just one action to turn around the paths of millions. ABC; is just a sweet gentle reminder of this thought.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00067.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004153205 +0000" stop="20261004160546 +0000">
+    <title lang="en">Family</title>
+    <desc lang="en">Anvith's friend Karthik is leaving school and moving to another city as his parents are getting divorced. This news makes Anvith very sad. The reason for their divorce which Karthik reveals to Anvith is a regular heated argument between Karthik's parents. Then Anvith also starts noticing the same argument between his parents. So, Anvith decides to do everything right so that their parents don't fight, but end up ruining everything which leads to a more heated argument.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00025.png"/>
+  </programme>
   <programme channel="p_runshf" start="20261004153205 +0000" stop="20261004160546 +0000">
     <title lang="en">Family</title>
     <desc lang="en">Anvith's friend Karthik is leaving school and moving to another city as his parents are getting divorced. This news makes Anvith very sad. The reason for their divorce which Karthik reveals to Anvith is a regular heated argument between Karthik's parents. Then Anvith also starts noticing the same argument between his parents. So, Anvith decides to do everything right so that their parents don't fight, but end up ruining everything which leads to a more heated argument.</desc>
@@ -156061,6 +156895,23 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>UA-16+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00028.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004160547 +0000" stop="20261004162430 +0000">
+    <title lang="en">Girl In Red</title>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00028.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004162430 +0000" stop="20261004163336 +0000">
+    <title lang="en">Homecoming</title>
+    <desc lang="en">Happiness comes knocking at the door on one of her most gloomy days during the pandemic. She embraces it &amp; now it ain't easy to go</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00006.png"/>
   </programme>
   <programme channel="p_runshf" start="20261004162430 +0000" stop="20261004163336 +0000">
     <title lang="en">Homecoming</title>
@@ -156080,6 +156931,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00044.png"/>
   </programme>
+  <programme channel="p_runshf" start="20261004163337 +0000" stop="20261004164352 +0000">
+    <title lang="en">Make Her Happy</title>
+    <desc lang="en">Nandita and Rahul are to be married soon. They are a live-in couple. Things take a U-turn when Rahul gets a call from his ex-girlfriend 'Suhana'. Will Rahul be able to save himself? Watch to find out who has trapped whom.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00044.png"/>
+  </programme>
   <programme channel="p_runshf" start="20261004164353 +0000" stop="20261004165524 +0000">
     <title lang="en">Aakhri Sawari</title>
     <desc lang="en">Manish, a perfect husband and father, tormented by a mysterious parcel he receives from an anonymous sender has to make a life-changing decision. He shares his problems with his cab driver who listens patiently and tries to help. What the cab driver offers changes both of their lives forever.</desc>
@@ -156088,6 +156948,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>UA-13+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00062.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004164353 +0000" stop="20261004165524 +0000">
+    <title lang="en">Aakhri Sawari</title>
+    <desc lang="en">Manish, a perfect husband and father, tormented by a mysterious parcel he receives from an anonymous sender has to make a life-changing decision. He shares his problems with his cab driver who listens patiently and tries to help. What the cab driver offers changes both of their lives forever.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00062.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004165524 +0000" stop="20261004171524 +0000">
+    <title lang="en">Barat</title>
+    <desc lang="en">A Typical miser starts picking up a mysterious trail of money only to find out something unearthly lurking around!</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00080.png"/>
   </programme>
   <programme channel="p_runshf" start="20261004165524 +0000" stop="20261004171524 +0000">
     <title lang="en">Barat</title>
@@ -156107,6 +156985,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00181.png"/>
   </programme>
+  <programme channel="p_runshf" start="20261004171524 +0000" stop="20261004174016 +0000">
+    <title lang="en">Pilibhit</title>
+    <desc lang="en">Inspired by true stories, Siraj, a righteous, impoverished flute maker, resides at the edge of the forests of Pilibhit, North India, where man-eating tigers thrive. His mounting livelihood pressures and tragedies corner him to take a drastic measure that threatens to tear down his values and a loved one.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00181.png"/>
+  </programme>
   <programme channel="p_runshf" start="20261004174017 +0000" stop="20261004175741 +0000">
     <title lang="en">Do Cutting</title>
     <desc lang="en">An unforgettable love story about how a couple due to societal pressures on inter religion marriages hold up their lives.</desc>
@@ -156115,6 +157002,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>UA-16+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00013.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004174017 +0000" stop="20261004175741 +0000">
+    <title lang="en">Do Cutting</title>
+    <desc lang="en">An unforgettable love story about how a couple due to societal pressures on inter religion marriages hold up their lives.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00013.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004175741 +0000" stop="20261004181439 +0000">
+    <title lang="en">A Tale Of An Onion Witch</title>
+    <desc lang="en">Two flatmates, evidently from the gym-going North Indian breed of tinsel-town hopefuls, are warned about the 100 year old Witch that occasionally wanders around at night asking for an Onion. When an attractive neighbour knocks for help at midnight, their red-blooded fates unravel.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-13+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00003.png"/>
   </programme>
   <programme channel="p_runshf" start="20261004175741 +0000" stop="20261004181439 +0000">
     <title lang="en">A Tale Of An Onion Witch</title>
@@ -156134,6 +157039,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00028.png"/>
   </programme>
+  <programme channel="p_runshf" start="20261004181440 +0000" stop="20261004183419 +0000">
+    <title lang="en">Panic</title>
+    <desc lang="en">A riveting psychological thriller that propels an aspiring actor's life into chaos when a toothache triggers an unfounded belief in oral cancer, setting off a catastrophic chain of events.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00028.png"/>
+  </programme>
   <programme channel="p_runshf" start="20261004183419 +0000" stop="20261004183853 +0000">
     <title lang="en">Alvida</title>
     <desc lang="en">Break-ups can be hard, but sometimes they are necessary. Sometimes, you need all your strength to let go and say ... Alvida.</desc>
@@ -156142,6 +157056,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>U - All Ages</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00070.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004183419 +0000" stop="20261004183853 +0000">
+    <title lang="en">Alvida</title>
+    <desc lang="en">Break-ups can be hard, but sometimes they are necessary. Sometimes, you need all your strength to let go and say ... Alvida.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00070.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004183853 +0000" stop="20261004185445 +0000">
+    <title lang="en">An Astrologer's Day</title>
+    <desc lang="en">Based on a short story by R.K. Narayan from Malgudi Days. A normal day in the life of an astrologer reveals a lot about him.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00071.png"/>
   </programme>
   <programme channel="p_runshf" start="20261004183853 +0000" stop="20261004185445 +0000">
     <title lang="en">An Astrologer's Day</title>
@@ -156161,6 +157093,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00008.png"/>
   </programme>
+  <programme channel="p_runshf" start="20261004185446 +0000" stop="20261004190551 +0000">
+    <title lang="en">Bena</title>
+    <desc lang="en">After a set of jewelry goes missing, the police search Bena's bag. Her employers, Bhai and Bhabhi, are shocked to see the contents. They throw her out and Bena spends the day calling people for jobs. The family driver calls Bena and informs her that the set was found. Bena knew that the set would be found as it was misplaced not stolen. Next, she gets a call for a new job. Bena finds out that her employer Bhabhi had recommended Bena. Why was Bena thrown out of her job? What in the bag?</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00008.png"/>
+  </programme>
   <programme channel="p_runshf" start="20261004190552 +0000" stop="20261004192733 +0000">
     <title lang="en">Eelu Rani Bhag Gaye</title>
     <desc lang="en">Two teenagers running away from their home comes across a police officer who persuades them not to go, however Eelu &amp; Rani have something else on their mind.</desc>
@@ -156169,6 +157110,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>UA-16+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00007.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004190552 +0000" stop="20261004192733 +0000">
+    <title lang="en">Eelu Rani Bhag Gaye</title>
+    <desc lang="en">Two teenagers running away from their home comes across a police officer who persuades them not to go, however Eelu &amp; Rani have something else on their mind.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>UA-16+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/CINSHF/poster/web/cover/CINSHF_SHF_00007.png"/>
+  </programme>
+  <programme channel="p_runshf" start="20261004192733 +0000" stop="20261004194029 +0000">
+    <title lang="en">Bhagwaan - The Faith</title>
+    <desc lang="en">A final chance meeting with a mysterious old homeless man changes everything they’ve experienced that day. The story delves into how deep their faith truly is and how people worship gods. Some use faith and god as a means of solace while others as a crutch for a troubling life.</desc>
+    <language>Hindi</language>
+    <rating>
+      <value>U - All Ages</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/cover/PKTFLM_SHF_00010.png"/>
   </programme>
   <programme channel="p_runshf" start="20261004192733 +0000" stop="20261004194029 +0000">
     <title lang="en">Bhagwaan - The Faith</title>
@@ -167219,33 +168178,6 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRBOL/Web/coverart/dfddecd9-4561-4d52-baf9-f369fafc1fb5.png"/>
   </programme>
-  <programme channel="shemaroo-filmigaane" start="20260928003554 +0000" stop="20260928004018 +0000">
-    <title lang="en">Love Is Pain Dard Hota Hai Pyar Mein Love Is Madne</title>
-    <desc lang="en">Love Is Pain Dard Hota Hai Pyar Mein Love Is Madne</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Web/coverart/e7d304aa-4f09-435b-ae53-308f968bf19f.png"/>
-  </programme>
-  <programme channel="shemaroo-filmigaane" start="20260928004018 +0000" stop="20260928004743 +0000">
-    <title lang="en">Tumne Agar Pyar Se Dekha Nahin Mujhko To Chhod Ke</title>
-    <desc lang="en">Tumne Agar Pyar Se Dekha Nahin Mujhko To Chhod Ke</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Web/coverart/e7d304aa-4f09-435b-ae53-308f968bf19f.png"/>
-  </programme>
-  <programme channel="shemaroo-filmigaane" start="20260928004743 +0000" stop="20260928005208 +0000">
-    <title lang="en">Dil To Khoya Hai Yahin Pe Kahin Pe Tu Zara Bata</title>
-    <desc lang="en">Dil To Khoya Hai Yahin Pe Kahin Pe Tu Zara Bata</desc>
-    <language>Hindi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Web/coverart/e7d304aa-4f09-435b-ae53-308f968bf19f.png"/>
-  </programme>
   <programme channel="shemaroo-filmigaane" start="20260928005208 +0000" stop="20260928005855 +0000">
     <title lang="en">Bambai Ki Chhoriyan Bacha Bappa Morya Inhein Aaye</title>
     <desc lang="en">Bambai Ki Chhoriyan Bacha Bappa Morya Inhein Aaye</desc>
@@ -177137,15 +178069,6 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Web/coverart/e7d304aa-4f09-435b-ae53-308f968bf19f.png"/>
   </programme>
-  <programme channel="sikrat" start="20260927235000 +0000" stop="20260928005000 +0000">
-    <title lang="en">Amrit Baani</title>
-    <desc lang="en">The primary scripture in the Sikhism tradition which is arranged according to raga</desc>
-    <language>Punjabi</language>
-    <rating>
-      <value>U - All Ages</value>
-    </rating>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SIKRAT/Web/coverart/68a92640-cdc5-4f88-86f4-d1c32c38206e.png"/>
-  </programme>
   <programme channel="sikrat" start="20260928005000 +0000" stop="20260928023000 +0000">
     <title lang="en">Nitnem</title>
     <desc lang="en">Daily Routine Paath is a collaboration of different banis. It includes Panj (5) Bania.</desc>
@@ -181484,6 +182407,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/615f0dda-148b-491a-a012-c8d50e6aab16.png"/>
   </programme>
+  <programme channel="suptam" start="20261003224119 +0000" stop="20261004003243 +0000">
+    <title lang="en">Spytime</title>
+    <desc lang="en">Anacleto, a former secret agent, is forced to come out of retirement and protect his son, Adolfo, when his arch-enemy, Vazquez, breaks out of prison and targets him</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/615f0dda-148b-491a-a012-c8d50e6aab16.png"/>
+  </programme>
   <programme channel="suptam" start="20261004003244 +0000" stop="20261004020749 +0000">
     <title lang="en">The Free Fall</title>
     <desc lang="en">The Free Fall is a deeply personal horror thriller, a mind bending pressure cooker that constantly challenges us, hurling us towards one of the most shocking cinematic reveals imaginable.</desc>
@@ -181492,6 +182424,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>A - 18+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/77b05386-1477-41d5-a9b7-cabd8167343f.png"/>
+  </programme>
+  <programme channel="suptam" start="20261004003244 +0000" stop="20261004020749 +0000">
+    <title lang="en">The Free Fall</title>
+    <desc lang="en">The Free Fall is a deeply personal horror thriller, a mind bending pressure cooker that constantly challenges us, hurling us towards one of the most shocking cinematic reveals imaginable.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/77b05386-1477-41d5-a9b7-cabd8167343f.png"/>
+  </programme>
+  <programme channel="suptam" start="20261004020749 +0000" stop="20261004041325 +0000">
+    <title lang="en">Universal Soldier: Day Of Reckoning</title>
+    <desc lang="en">Haunted by images of the attack, he vows to kill the man responsible: The fight pits John against Andrew Scott and an army of genetically enhanced warriors; meanwhile, he must contend with a Uni Sol in relentless pursuit.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/25b46387-aaa5-43ae-a9c7-5f3891e0c9a4.png"/>
   </programme>
   <programme channel="suptam" start="20261004020749 +0000" stop="20261004041325 +0000">
     <title lang="en">Universal Soldier: Day Of Reckoning</title>
@@ -181511,6 +182461,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/15efabda-5902-4996-88e1-aab799a581cb.png"/>
   </programme>
+  <programme channel="suptam" start="20261004041325 +0000" stop="20261004060817 +0000">
+    <title lang="en">Untraceable</title>
+    <desc lang="en">A FBI secret service agent, gets caught in a deadly cat-and-mouse game with a serial killer who knows that people will log onto an "untraceable" website where he conducts violent and painful murders LIVE on the net.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/15efabda-5902-4996-88e1-aab799a581cb.png"/>
+  </programme>
   <programme channel="suptam" start="20261004060818 +0000" stop="20261004073557 +0000">
     <title lang="en">Wrecker</title>
     <desc lang="en">Two beautiful young women taking a trip through the countryside, are terrorized by an unknown driver trying to run them down in a heavy duty tow truck.</desc>
@@ -181519,6 +182478,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>A - 18+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/31812a20-0ff1-440b-a225-a889ed1f33bc.png"/>
+  </programme>
+  <programme channel="suptam" start="20261004060818 +0000" stop="20261004073557 +0000">
+    <title lang="en">Wrecker</title>
+    <desc lang="en">Two beautiful young women taking a trip through the countryside, are terrorized by an unknown driver trying to run them down in a heavy duty tow truck.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/31812a20-0ff1-440b-a225-a889ed1f33bc.png"/>
+  </programme>
+  <programme channel="suptam" start="20261004073557 +0000" stop="20261004100956 +0000">
+    <title lang="en">Rebel</title>
+    <desc lang="en">A young man leaves Belgium to help war victims in Syria, but is forced to join an armed group and is left stranded in AL Raqqa. While at home his little brother becomes easy prey for jihadi recruiters. The only thing their mother has left with is to protect: her Son.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/f452fa4a-d1f4-49bd-a85f-5aa931dc59cb.png"/>
   </programme>
   <programme channel="suptam" start="20261004073557 +0000" stop="20261004100956 +0000">
     <title lang="en">Rebel</title>
@@ -181538,6 +182515,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/bf5e7138-29cb-46b2-a89c-950fb49ab4dc.png"/>
   </programme>
+  <programme channel="suptam" start="20261004100956 +0000" stop="20261004124121 +0000">
+    <title lang="en">The Hurt Locker</title>
+    <desc lang="en">THE HURT LOCKER is an intense portrayal of elite soldiers who have one of the most dangerous jobs in the world: disarming bombs during the Iraq War.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/bf5e7138-29cb-46b2-a89c-950fb49ab4dc.png"/>
+  </programme>
   <programme channel="suptam" start="20261004124122 +0000" stop="20261004143538 +0000">
     <title lang="en">Orphan First Kill</title>
     <desc lang="en">After orchestrating a brilliant escape from an Estonian psychiatric facility, Esther travels to America by impersonating the missing daughter of a wealthy family. Yet, an unexpected twist arises that pits her against a mother who will protect her family from the murderous "child" at any cost.</desc>
@@ -181546,6 +182532,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>A - 18+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/8e34cbbb-8af3-4c11-9f72-cb9f9e2dbed1.png"/>
+  </programme>
+  <programme channel="suptam" start="20261004124122 +0000" stop="20261004143538 +0000">
+    <title lang="en">Orphan First Kill</title>
+    <desc lang="en">After orchestrating a brilliant escape from an Estonian psychiatric facility, Esther travels to America by impersonating the missing daughter of a wealthy family. Yet, an unexpected twist arises that pits her against a mother who will protect her family from the murderous "child" at any cost.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/8e34cbbb-8af3-4c11-9f72-cb9f9e2dbed1.png"/>
+  </programme>
+  <programme channel="suptam" start="20261004143538 +0000" stop="20261004162028 +0000">
+    <title lang="en">Hatching</title>
+    <desc lang="en">In the most terrifying creature feature Hatching is a story about lovelessness that creates a monster. After finding a wounded bird in the woods, a 12 year old brings its strange egg home, she hides it and keeps it warm until it hatches. The creature that emerges becomes her closest friend and a living nightmare. What has she been hatching under everyone's noses that shocks them all?</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/fd0d0c31-70c2-4555-9b04-90ceb2598c22.png"/>
   </programme>
   <programme channel="suptam" start="20261004143538 +0000" stop="20261004162028 +0000">
     <title lang="en">Hatching</title>
@@ -181565,6 +182569,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/26dec7c1-a417-4120-830c-5d2493c3acee.png"/>
   </programme>
+  <programme channel="suptam" start="20261004162029 +0000" stop="20261004181556 +0000">
+    <title lang="en">The Descent</title>
+    <desc lang="en">Six girlfriends, a deep cave expedition going horribly wrong, suffocating miles under the surface of Earth, breed of predators smells their skin.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/26dec7c1-a417-4120-830c-5d2493c3acee.png"/>
+  </programme>
   <programme channel="suptam" start="20261004181556 +0000" stop="20261004200733 +0000">
     <title lang="en">The Descent Part 2</title>
     <desc lang="en">Refusing to believe her story about cave-dwelling monsters, the sole survivor of a spelunking exploration gone horribly wrong is forced to follow the authorities back into the caves where something awaits. The trapped group soon faces the hunger and savage breed of predators while trying to find a way out.</desc>
@@ -181573,6 +182586,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>A - 18+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/92f19a59-3cf9-4832-bbd0-6a6cf85d7a11.png"/>
+  </programme>
+  <programme channel="suptam" start="20261004181556 +0000" stop="20261004200733 +0000">
+    <title lang="en">The Descent Part 2</title>
+    <desc lang="en">Refusing to believe her story about cave-dwelling monsters, the sole survivor of a spelunking exploration gone horribly wrong is forced to follow the authorities back into the caves where something awaits. The trapped group soon faces the hunger and savage breed of predators while trying to find a way out.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/92f19a59-3cf9-4832-bbd0-6a6cf85d7a11.png"/>
+  </programme>
+  <programme channel="suptam" start="20261004200734 +0000" stop="20261004223409 +0000">
+    <title lang="en">Born To Fly</title>
+    <desc lang="en">Two American F-35 Lightning II fighters enter Chinese airspace and cause havoc near the coast. Flying at supersonic speeds, the F-35s create sonic booms that damage an oil refinery and fishing boats. Box office smash hit &amp; multiple award winner Born to Fly comes to life with special operations team headed by elite pilots who face death and challenge the limits of the sky and themselves.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTAMIL/poster/web/cover/62eab8ff-c4ba-4b3e-80a7-14bb6d0a51fb.png"/>
   </programme>
   <programme channel="suptam" start="20261004200734 +0000" stop="20261004223409 +0000">
     <title lang="en">Born To Fly</title>
@@ -182591,6 +183622,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/ecb00283-bf2f-4924-9f29-99dd96f4f2bf.png"/>
   </programme>
+  <programme channel="suptel" start="20261003230115 +0000" stop="20261004011621 +0000">
+    <title lang="en">Beauty And The Beast</title>
+    <desc lang="en">This timeless tale was originally written in 1757. Could Beauty ever love the ghastly lord, the Beast? The year is 1810. After losing his fortune at sea, a bankrupt merchant poor father-of-six, after plucking a scented rose from the repulsive master's garden must do the impossible, permit his daughter Beauty, to take his place and pay for the parent’s sins. Only true love can break the spell.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/ecb00283-bf2f-4924-9f29-99dd96f4f2bf.png"/>
+  </programme>
   <programme channel="suptel" start="20261004011621 +0000" stop="20261004031313 +0000">
     <title lang="en">Universal Soldier: Regeneration</title>
     <desc lang="en">Terrorists kidnap the Russian Prime Minister's two kids, take Chernobyl Nuclear Power Plant and threaten to blow up a reactor. Four Universal Soldiers go in but are no match to a Next Generation UniSol. The world's only hope is to reactivate decommissioned Universal Soldier Luc Deveraux.</desc>
@@ -182599,6 +183639,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>A - 18+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/e74221b1-e175-451c-b902-8152145b4ab8.png"/>
+  </programme>
+  <programme channel="suptel" start="20261004011621 +0000" stop="20261004031313 +0000">
+    <title lang="en">Universal Soldier: Regeneration</title>
+    <desc lang="en">Terrorists kidnap the Russian Prime Minister's two kids, take Chernobyl Nuclear Power Plant and threaten to blow up a reactor. Four Universal Soldiers go in but are no match to a Next Generation UniSol. The world's only hope is to reactivate decommissioned Universal Soldier Luc Deveraux.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/e74221b1-e175-451c-b902-8152145b4ab8.png"/>
+  </programme>
+  <programme channel="suptel" start="20261004031313 +0000" stop="20261004051519 +0000">
+    <title lang="en">Cold Skin</title>
+    <desc lang="en">In 1914, a young man arrives at a remote island near the Antarctic Circle to take the post of weather observer only to find himself trapped in a watchtower besieged by deadly creatures which live in hiding on the island.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/beccb651-1263-43de-8acf-140c83cfbc8a.png"/>
   </programme>
   <programme channel="suptel" start="20261004031313 +0000" stop="20261004051519 +0000">
     <title lang="en">Cold Skin</title>
@@ -182618,6 +183676,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/648ae8a1-0e8c-49ec-a8fa-dd1a0fe54d75.png"/>
   </programme>
+  <programme channel="suptel" start="20261004051519 +0000" stop="20261004073434 +0000">
+    <title lang="en">The Good Boss</title>
+    <desc lang="en">What makes a Good Boss? Is your boss good? Manipulative? Shamelessly meddles in his employees private lives? Crosses every line imaginable. The Good Boss is a biting character study with academy award winner Javier Bardem. To win the competition, the manipulative "good boss" unknowingly starts an explosive chain reaction with wild consequences.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/648ae8a1-0e8c-49ec-a8fa-dd1a0fe54d75.png"/>
+  </programme>
   <programme channel="suptel" start="20261004073434 +0000" stop="20261004093204 +0000">
     <title lang="en">Corner Office</title>
     <desc lang="en">Based on the international best-selling novel The Room. Corner Office an absurdist tale of a man lost in his own space. Our corporate hero is trying to move up in his newly acquired job and discovers a secret room in his office building; his alienation deepens when he discovers a room he's told doesn't exist. Discover human behavior to find humor in the absurdity of everyday life.</desc>
@@ -182626,6 +183693,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>A - 18+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/60cab168-c921-4d9e-91d7-2ff0dde47d6b.png"/>
+  </programme>
+  <programme channel="suptel" start="20261004073434 +0000" stop="20261004093204 +0000">
+    <title lang="en">Corner Office</title>
+    <desc lang="en">Based on the international best-selling novel The Room. Corner Office an absurdist tale of a man lost in his own space. Our corporate hero is trying to move up in his newly acquired job and discovers a secret room in his office building; his alienation deepens when he discovers a room he's told doesn't exist. Discover human behavior to find humor in the absurdity of everyday life.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/60cab168-c921-4d9e-91d7-2ff0dde47d6b.png"/>
+  </programme>
+  <programme channel="suptel" start="20261004093204 +0000" stop="20261004110710 +0000">
+    <title lang="en">The Free Fall</title>
+    <desc lang="en">The Free Fall is a deeply personal horror thriller, a mind bending pressure cooker that constantly challenges us, hurling us towards one of the most shocking cinematic reveals imaginable. After attempting to take her own life, a young woman must wrestle with an overbearing husband and the only way out of this hell, is to fall into it.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/22d72b19-0abb-4205-833c-627d5949f9a8.png"/>
   </programme>
   <programme channel="suptel" start="20261004093204 +0000" stop="20261004110710 +0000">
     <title lang="en">The Free Fall</title>
@@ -182645,6 +183730,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/8147bf2b-a86a-441b-92a3-2c64ad681a8f.png"/>
   </programme>
+  <programme channel="suptel" start="20261004110710 +0000" stop="20261004125529 +0000">
+    <title lang="en">Death Of Me</title>
+    <desc lang="en">A vacationing couple on an island off the coast of Thailand with no memory of the previous night must discover the mystery behind a strange video that shows one of them killing the other. In a web of mystery, black magic, and murder they must attempt to reconstruct the night's events &amp; discover is she to blame for not being sacrificed or was it Mother Nature?</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/8147bf2b-a86a-441b-92a3-2c64ad681a8f.png"/>
+  </programme>
   <programme channel="suptel" start="20261004125529 +0000" stop="20261004144754 +0000">
     <title lang="en">The Catcher Was A Spy</title>
     <desc lang="en">With an ensemble cast, this gripping, espionage thriller brings to life the true story of Moe Berg a World War II spy. His mission: go behind enemy lines in Europe to assassinate the Nazi's chief nuclear scientist before the Germans develop an atomic bomb. Berg must rely on his steel-trap intellect in a high-stakes game of cat and mouse - with the fate of the world hanging in the balance.</desc>
@@ -182653,6 +183747,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>A - 18+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/ec270ce2-3b10-4a51-af32-6bd2a6b29e25.png"/>
+  </programme>
+  <programme channel="suptel" start="20261004125529 +0000" stop="20261004144754 +0000">
+    <title lang="en">The Catcher Was A Spy</title>
+    <desc lang="en">With an ensemble cast, this gripping, espionage thriller brings to life the true story of Moe Berg a World War II spy. His mission: go behind enemy lines in Europe to assassinate the Nazi's chief nuclear scientist before the Germans develop an atomic bomb. Berg must rely on his steel-trap intellect in a high-stakes game of cat and mouse - with the fate of the world hanging in the balance.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/ec270ce2-3b10-4a51-af32-6bd2a6b29e25.png"/>
+  </programme>
+  <programme channel="suptel" start="20261004144754 +0000" stop="20261004163458 +0000">
+    <title lang="en">Haywire</title>
+    <desc lang="en">From Academy Award-winning director Steven Soderbergh of Ocean’s 11, 12 &amp; 13 comes HAYWIRE. A Female Assassin covert operative is hired to various global missions to perform jobs which governments can't authorize. When the operation goes awry, she needs to use all of her skills &amp; tricks to escape an international manhunt and eliminate the last remaining link of the conspiracy against her.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/6462a63f-606e-4aae-b1f7-04d878fa1f4d.png"/>
   </programme>
   <programme channel="suptel" start="20261004144754 +0000" stop="20261004163458 +0000">
     <title lang="en">Haywire</title>
@@ -182672,6 +183784,15 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/c611b3f5-d92b-45a7-b51d-a8de7e9e10c9.png"/>
   </programme>
+  <programme channel="suptel" start="20261004163458 +0000" stop="20261004182623 +0000">
+    <title lang="en">Spytime</title>
+    <desc lang="en">Anacleto, a former secret agent, is forced to come out of retirement and protect his son, Adolfo, when his arch-enemy, Vazquez, breaks out of prison and targets him</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/c611b3f5-d92b-45a7-b51d-a8de7e9e10c9.png"/>
+  </programme>
   <programme channel="suptel" start="20261004182623 +0000" stop="20261004203225 +0000">
     <title lang="en">Jeepers Creepers 2</title>
     <desc lang="en">Every 23rd spring for 23days, it gets to eat…Stranded on a lonely road, a school bus full of high school players must defend themselves from the Creeper, the winged, flesh-eating terror - ancient beast that resurfaces on the earth every 23 years to feed.</desc>
@@ -182680,6 +183801,24 @@ As tensions rise, the family's unity is tested during the Dussehra festival. In 
       <value>A - 18+</value>
     </rating>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/40b32be2-b416-408a-a091-96d720b780a4.png"/>
+  </programme>
+  <programme channel="suptel" start="20261004182623 +0000" stop="20261004203225 +0000">
+    <title lang="en">Jeepers Creepers 2</title>
+    <desc lang="en">Every 23rd spring for 23days, it gets to eat…Stranded on a lonely road, a school bus full of high school players must defend themselves from the Creeper, the winged, flesh-eating terror - ancient beast that resurfaces on the earth every 23 years to feed.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/40b32be2-b416-408a-a091-96d720b780a4.png"/>
+  </programme>
+  <programme channel="suptel" start="20261004203225 +0000" stop="20261004222827 +0000">
+    <title lang="en">Sky Sharks</title>
+    <desc lang="en">Deep in the ice of the antarctic, a team of geologists uncover an old Nazi warship still intact where dark experiments had occurred. In order to conquer the world, the Nazis created rocket-powered sharks whose pilots are genetically mutated, super soldiers with supernatural powers who were able to fly &amp; destroy</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPTELGU/poster/web/cover/290b61a4-70ef-4571-a876-398229c2984b.png"/>
   </programme>
   <programme channel="suptel" start="20261004203225 +0000" stop="20261004222827 +0000">
     <title lang="en">Sky Sharks</title>
@@ -196495,6 +197634,15 @@ and Dd Seg ( Hearing Impaired )</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/XTRSPO/Mobile/coverart/ad0d3ed0-873c-4f07-ad21-71619ce22768.png"/>
   </programme>
   <programme channel="xtrspo" start="20261001002105 +0000" stop="20261001011606 +0000">
+    <title lang="en">Silent Revolution</title>
+    <desc lang="en">A documentary series exploring the European BMX scene, following riders across competitions, training, and daily life to reveal the dedication, culture, and challenges behind professional BMX.</desc>
+    <language>English</language>
+    <rating>
+      <value>A - 18+</value>
+    </rating>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/XTRSPO/Mobile/coverart/ad0d3ed0-873c-4f07-ad21-71619ce22768.png"/>
+  </programme>
+  <programme channel="xtrspo" start="20261001003322 +0000" stop="20261001011606 +0000">
     <title lang="en">Silent Revolution</title>
     <desc lang="en">A documentary series exploring the European BMX scene, following riders across competitions, training, and daily life to reveal the dedication, culture, and challenges behind professional BMX.</desc>
     <language>English</language>
