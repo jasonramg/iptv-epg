@@ -22,15 +22,15 @@ Free XMLTV EPGs for supported IPTV providers.
 <!-- EPG_STATUS_START -->
 | Provider | Last Updated | Status | XML | XML.GZ |
 |----------|--------------|:------:|-----|--------|
-| Airtel | 1h ago | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/airtel.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/airtel.xml.gz) |
-| Dish TV | 6h ago | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/dishtv.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/dishtv.xml.gz) |
-| JioTV | 9h ago | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/jiotv.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/jiotv.xml.gz) |
-| RunNTV | 4h ago | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/runntv.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/runntv.xml.gz) |
-| Sling TV | 6h ago | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/slingtv.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/slingtv.xml.gz) |
-| SunDirect GO | 6h ago | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/sundirectgo.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/sundirectgo.xml.gz) |
-| Tata Play | 52d ago | 🔴 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/tataplay.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/tataplay.xml.gz) |
-| YuppTV | 8h ago | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/yupptv.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/yupptv.xml.gz) |
-| ZEE5 | 9h ago | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/zee5.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/zee5.xml.gz) |
+| Airtel | 10h ago | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/airtel.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/airtel.xml.gz) |
+| Dish TV | 15h ago | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/dishtv.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/dishtv.xml.gz) |
+| JioTV | 14m ago | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/jiotv.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/jiotv.xml.gz) |
+| RunNTV | 36m ago | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/runntv.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/runntv.xml.gz) |
+| Sling TV | 1h ago | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/slingtv.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/slingtv.xml.gz) |
+| SunDirect GO | 1h ago | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/sundirectgo.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/sundirectgo.xml.gz) |
+| Tata Play | 53d ago | 🔴 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/tataplay.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/tataplay.xml.gz) |
+| YuppTV | 4h ago | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/yupptv.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/yupptv.xml.gz) |
+| ZEE5 | 6h ago | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/zee5.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/zee5.xml.gz) |
 <!-- EPG_STATUS_END -->
 
 **Status Legend**
