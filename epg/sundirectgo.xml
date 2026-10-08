@@ -840,6 +840,10 @@
     <display-name>Peace Of Mind</display-name>
     <icon src="https://metaimg.sundirectgo.in/epgChannels/144640_fa3fe07b-2da0-4381-b64a-e215b27e526c.png" />
   </channel>
+  <channel id="2178298">
+    <display-name>Hindu Dharmam</display-name>
+    <icon src="https://sun-direct-max.s3.ap-south-1.amazonaws.com/Logo/Hindu Dharmam-LCN 497.png" />
+  </channel>
   <channel id="141157">
     <display-name>Chutti TV</display-name>
     <icon src="https://metaimg.sundirectgo.in/epgChannels/141157_603a0864-9068-470f-89c6-d14a47586e11.png" />
@@ -67973,6 +67977,86 @@
     <category>Devotional</category>
     <category>Hindi</category>
     <category>Religion</category>
+    <date>20261008</date>
+  </programme>
+  <programme channel="2178298" start="20261008000000 +0530" stop="20261008030000 +0530">
+    <title>Entertainment</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/08102026/b1e44ee9-aeab-4b97-807f-27a8ce884f08_Entertainment1.jpg" />
+    <desc>Entertainment Program</desc>
+    <language>Telugu</language>
+    <category>Drama</category>
+    <category>Religion</category>
+    <category>Telugu</category>
+    <date>20261008</date>
+  </programme>
+  <programme channel="2178298" start="20261008030000 +0530" stop="20261008060000 +0530">
+    <title>Entertainment</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/08102026/f6294b50-062c-4d37-b524-73da708aaf39_Entertainment1.jpg" />
+    <desc>Entertainment Program</desc>
+    <language>Telugu</language>
+    <category>Drama</category>
+    <category>Religion</category>
+    <category>Telugu</category>
+    <date>20261008</date>
+  </programme>
+  <programme channel="2178298" start="20261008060000 +0530" stop="20261008090000 +0530">
+    <title>Entertainment</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/08102026/ef4e0b93-9b00-4b3e-84e0-d0aba2028820_Entertainment1.jpg" />
+    <desc>Entertainment Program</desc>
+    <language>Telugu</language>
+    <category>Drama</category>
+    <category>Religion</category>
+    <category>Telugu</category>
+    <date>20261008</date>
+  </programme>
+  <programme channel="2178298" start="20261008090000 +0530" stop="20261008120000 +0530">
+    <title>Entertainment</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/08102026/715f6062-ba86-4db4-99a7-8f84110501a5_Entertainment1.jpg" />
+    <desc>Entertainment Program</desc>
+    <language>Telugu</language>
+    <category>Drama</category>
+    <category>Religion</category>
+    <category>Telugu</category>
+    <date>20261008</date>
+  </programme>
+  <programme channel="2178298" start="20261008120000 +0530" stop="20261008150000 +0530">
+    <title>Entertainment</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/08102026/3091f939-91e6-4909-8402-b99e4e3a2a79_Entertainment1.jpg" />
+    <desc>Entertainment Program</desc>
+    <language>Telugu</language>
+    <category>Drama</category>
+    <category>Religion</category>
+    <category>Telugu</category>
+    <date>20261008</date>
+  </programme>
+  <programme channel="2178298" start="20261008150000 +0530" stop="20261008180000 +0530">
+    <title>Entertainment</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/08102026/9d7c85e4-638e-473b-ba71-457216343cf3_Entertainment1.jpg" />
+    <desc>Entertainment Program</desc>
+    <language>Telugu</language>
+    <category>Drama</category>
+    <category>Religion</category>
+    <category>Telugu</category>
+    <date>20261008</date>
+  </programme>
+  <programme channel="2178298" start="20261008180000 +0530" stop="20261008210000 +0530">
+    <title>Entertainment</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/08102026/6269eed7-f11c-4d8c-bd1b-93c6458c010c_Entertainment1.jpg" />
+    <desc>Entertainment Program</desc>
+    <language>Telugu</language>
+    <category>Drama</category>
+    <category>Religion</category>
+    <category>Telugu</category>
+    <date>20261008</date>
+  </programme>
+  <programme channel="2178298" start="20261008210000 +0530" stop="20261009000000 +0530">
+    <title>Entertainment</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/08102026/5664a69b-ef7a-4305-944a-6d7dcad19f33_Entertainment1.jpg" />
+    <desc>Entertainment Program</desc>
+    <language>Telugu</language>
+    <category>Drama</category>
+    <category>Religion</category>
+    <category>Telugu</category>
     <date>20261008</date>
   </programme>
   <programme channel="141157" start="20261008000000 +0530" stop="20261008020000 +0530">
@@ -192308,6 +192392,86 @@
     <category>Devotional</category>
     <category>Hindi</category>
     <category>Religion</category>
+    <date>20261009</date>
+  </programme>
+  <programme channel="2178298" start="20261009000000 +0530" stop="20261009030000 +0530">
+    <title>Entertainment</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/08102026/aaa4e769-d0c7-4d66-8701-c9ec756e5064_Entertainment1.jpg" />
+    <desc>Entertainment Program</desc>
+    <language>Telugu</language>
+    <category>Drama</category>
+    <category>Religion</category>
+    <category>Telugu</category>
+    <date>20261009</date>
+  </programme>
+  <programme channel="2178298" start="20261009030000 +0530" stop="20261009060000 +0530">
+    <title>Entertainment</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/08102026/08ec63fa-8ee3-46c3-8890-cd9ed6638c66_Entertainment1.jpg" />
+    <desc>Entertainment Program</desc>
+    <language>Telugu</language>
+    <category>Drama</category>
+    <category>Religion</category>
+    <category>Telugu</category>
+    <date>20261009</date>
+  </programme>
+  <programme channel="2178298" start="20261009060000 +0530" stop="20261009090000 +0530">
+    <title>Entertainment</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/08102026/c32878f5-9c9e-46e2-a340-50d779a52f4b_Entertainment1.jpg" />
+    <desc>Entertainment Program</desc>
+    <language>Telugu</language>
+    <category>Drama</category>
+    <category>Religion</category>
+    <category>Telugu</category>
+    <date>20261009</date>
+  </programme>
+  <programme channel="2178298" start="20261009090000 +0530" stop="20261009120000 +0530">
+    <title>Entertainment</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/08102026/42d06424-72ed-44bd-aa07-2fc90f6d1769_Entertainment1.jpg" />
+    <desc>Entertainment Program</desc>
+    <language>Telugu</language>
+    <category>Drama</category>
+    <category>Religion</category>
+    <category>Telugu</category>
+    <date>20261009</date>
+  </programme>
+  <programme channel="2178298" start="20261009120000 +0530" stop="20261009150000 +0530">
+    <title>Entertainment</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/08102026/cb15ba7c-f1ef-4670-80bc-a3b83c677217_Entertainment1.jpg" />
+    <desc>Entertainment Program</desc>
+    <language>Telugu</language>
+    <category>Drama</category>
+    <category>Religion</category>
+    <category>Telugu</category>
+    <date>20261009</date>
+  </programme>
+  <programme channel="2178298" start="20261009150000 +0530" stop="20261009180000 +0530">
+    <title>Entertainment</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/08102026/0bf37ec3-1b7a-4cca-9c99-839f6e61eda9_Entertainment1.jpg" />
+    <desc>Entertainment Program</desc>
+    <language>Telugu</language>
+    <category>Drama</category>
+    <category>Religion</category>
+    <category>Telugu</category>
+    <date>20261009</date>
+  </programme>
+  <programme channel="2178298" start="20261009180000 +0530" stop="20261009210000 +0530">
+    <title>Entertainment</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/08102026/63fc02eb-e18b-4a09-ba44-a59e89313f63_Entertainment1.jpg" />
+    <desc>Entertainment Program</desc>
+    <language>Telugu</language>
+    <category>Drama</category>
+    <category>Religion</category>
+    <category>Telugu</category>
+    <date>20261009</date>
+  </programme>
+  <programme channel="2178298" start="20261009210000 +0530" stop="20261010000000 +0530">
+    <title>Entertainment</title>
+    <icon src="https://metaimg.sundirectgo.in/epg-images/08102026/8816ca8a-3147-4e43-a34b-337a12cde5a9_Entertainment1.jpg" />
+    <desc>Entertainment Program</desc>
+    <language>Telugu</language>
+    <category>Drama</category>
+    <category>Religion</category>
+    <category>Telugu</category>
     <date>20261009</date>
   </programme>
   <programme channel="141157" start="20261009000000 +0530" stop="20261009020000 +0530">
