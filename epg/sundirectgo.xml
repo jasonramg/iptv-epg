@@ -92,10 +92,6 @@
     <display-name>Kalaignar Seithigal</display-name>
     <icon src="https://metaimg.sundirectgo.in/epgChannels/141110_923e1cb3-24a8-43cb-903b-d747e8558f03.png" />
   </channel>
-  <channel id="1715605">
-    <display-name>News18 Tamil Nadu</display-name>
-    <icon src="https://metaimg.sundirectgo.in/epgChannels/141087_8e522aea-a089-45d7-9abc-d61e2630a35b.png" />
-  </channel>
   <channel id="1707770">
     <display-name>News18 Tamil Nadu</display-name>
     <icon src="https://metaimg.sundirectgo.in/epgChannels/141087_8e522aea-a089-45d7-9abc-d61e2630a35b.png" />
@@ -7646,258 +7642,6 @@
     <category>Tamil</category>
     <date>20261015</date>
   </programme>
-  <programme channel="1715605" start="20261015000000 +0530" stop="20261015060000 +0530">
-    <title>Super 30</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/14102026/f414f93d-6857-4f8a-8688-52d5b43b89df_News18TamilNadu_Super30_1544002.jpg" />
-    <desc>A rapid news bulletin covering 30 important headlines of the day.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20261015</date>
-  </programme>
-  <programme channel="1715605" start="20261015060000 +0530" stop="20261015070000 +0530">
-    <title>Ettuthikkum 80</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/14102026/43fdd84b-86a6-4f89-acf5-0fcd5244ecfb_News18TamilNadu_Ettuthikkum80_1660618.jpg" />
-    <desc>A quick roundup of 80 crucial news stories across various sectors.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20261015</date>
-  </programme>
-  <programme channel="1715605" start="20261015070000 +0530" stop="20261015080000 +0530">
-    <title>7 Mani Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/14102026/4998edb1-d52a-4d86-9a60-9384c91a0484_News18TamilNadu_7ManiSeithigal_460849.jpg" />
-    <desc>Get the latest political, social, and sports news from India and globally.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20261015</date>
-  </programme>
-  <programme channel="1715605" start="20261015080000 +0530" stop="20261015090000 +0530">
-    <title>Super 60 News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/14102026/52989952-062a-4fba-a875-c9dcc280803c_News18TamilNadu_Super60News_1387845.jpg" />
-    <desc>A comprehensive news segment with 60 key stories from the day.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20261015</date>
-  </programme>
-  <programme channel="1715605" start="20261015090000 +0530" stop="20261015093000 +0530">
-    <title>Vanakkam Tamilnadu</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/14102026/50c9948f-5f9d-43ea-b4a9-29a4a6b8ef3e_News18TamilNadu_VanakkamTamilnadu_533375.jpg" />
-    <desc>Catch the latest updates on news, current events, and socio-political happenings!</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20261015</date>
-  </programme>
-  <programme channel="1715605" start="20261015093000 +0530" stop="20261015100000 +0530">
-    <title>18 Dharbar</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/14102026/89c627c0-ffe0-40ec-b0e5-7d9196b06b4b_News18TamilNadu_18Dharbar_1654115.jpg" />
-    <desc>In-depth discussions on the latest political issues and government policies.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20261015</date>
-  </programme>
-  <programme channel="1715605" start="20261015100000 +0530" stop="20261015110000 +0530">
-    <title>10 Mani Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/14102026/3b424a6a-8e93-4866-934c-7987bd6fbf1c_News18TamilNadu_10ManiSeithigal_460841.jpg" />
-    <desc>Get the latest political, social, and sports news from India and globally.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20261015</date>
-  </programme>
-  <programme channel="1715605" start="20261015110000 +0530" stop="20261015120000 +0530">
-    <title>11 Mani Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/14102026/383abf45-9553-4e02-a628-d81e46dc5604_News18TamilNadu_11ManiSeithigal_460842.jpg" />
-    <desc>Get the latest political, social, and sports news from India and globally.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20261015</date>
-  </programme>
-  <programme channel="1715605" start="20261015120000 +0530" stop="20261015130000 +0530">
-    <title>12 Mani Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/14102026/8a11736e-0d14-4b16-bc46-c78c3cf3b4ff_News18TamilNadu_12ManiSeithigal_460843.jpg" />
-    <desc>Get the latest political, social, and sports news from India and globally.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20261015</date>
-  </programme>
-  <programme channel="1715605" start="20261015130000 +0530" stop="20261015133000 +0530">
-    <title>1 Mani Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/14102026/ae3bf0f6-4fa2-40ff-904e-abc4c04d79e2_News18TamilNadu_1ManiSeithigal_460840.jpg" />
-    <desc>Get the latest political, social, and sports news from India and globally.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20261015</date>
-  </programme>
-  <programme channel="1715605" start="20261015133000 +0530" stop="20261015140000 +0530">
-    <title>Crime Time</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/14102026/4441718b-7a1e-4611-8050-3f71250106a4_News18TamilNadu_CrimeTime_533372.jpg" />
-    <desc>A deep dive into recent crimes, investigations, and law enforcement updates.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20261015</date>
-  </programme>
-  <programme channel="1715605" start="20261015140000 +0530" stop="20261015143000 +0530">
-    <title>2 Mani Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/14102026/e6bbe0bf-2561-4d61-a2cc-0a613fb67dda_News18TamilNadu_2ManiSeithigal_460844.jpg" />
-    <desc>Get the latest political, social, and sports news from India and globally.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20261015</date>
-  </programme>
-  <programme channel="1715605" start="20261015143000 +0530" stop="20261015150000 +0530">
-    <title>Kadhai Alla Varalaru</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/14102026/571e023f-28d1-4619-aab8-775bffe86172_News18TamilNadu_KadhaiAllaVaralaru_1026957.jpg" />
-    <desc>Exploring untold historical events and their impact on present times.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20261015</date>
-  </programme>
-  <programme channel="1715605" start="20261015150000 +0530" stop="20261015153000 +0530">
-    <title>3 Mani Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/14102026/21ced23a-2c28-4304-a21b-b908667ed55e_News18TamilNadu_3ManiSeithigal_460846.jpg" />
-    <desc>Get the latest political, social, and sports news from India and globally.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20261015</date>
-  </programme>
-  <programme channel="1715605" start="20261015153000 +0530" stop="20261015160000 +0530">
-    <title>Super 30</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/14102026/bc422f16-0cb4-4719-a61b-e9859140f8f5_News18TamilNadu_Super30_1544002.jpg" />
-    <desc>A rapid news bulletin covering 30 important headlines of the day.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20261015</date>
-  </programme>
-  <programme channel="1715605" start="20261015160000 +0530" stop="20261015163000 +0530">
-    <title>4 Mani Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/14102026/0e9d580e-f39a-4be4-9ce5-95993e1cf334_News18TamilNadu_4ManiSeithigal_460847.jpg" />
-    <desc>Get the latest political, social, and sports news from India and globally.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20261015</date>
-  </programme>
-  <programme channel="1715605" start="20261015163000 +0530" stop="20261015170000 +0530">
-    <title>Crime Time</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/14102026/6f808872-9965-4086-a4da-e419e4d588bb_News18TamilNadu_CrimeTime_533372.jpg" />
-    <desc>A deep dive into recent crimes, investigations, and law enforcement updates.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20261015</date>
-  </programme>
-  <programme channel="1715605" start="20261015170000 +0530" stop="20261015180000 +0530">
-    <title>5 Mani Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/14102026/eb715833-d00e-4f57-bb9a-b891028a4d82_News18TamilNadu_5ManiSeithigal_460848.jpg" />
-    <desc>Get the latest political, social, and sports news from India and globally.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20261015</date>
-  </programme>
-  <programme channel="1715605" start="20261015180000 +0530" stop="20261015183000 +0530">
-    <title>Super 30</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/14102026/e3b1447a-7ed5-4524-a0a1-e27f8f693732_News18TamilNadu_Super30_1544002.jpg" />
-    <desc>A rapid news bulletin covering 30 important headlines of the day.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20261015</date>
-  </programme>
-  <programme channel="1715605" start="20261015183000 +0530" stop="20261015190000 +0530">
-    <title>Kadhai Alla Varalaru</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/14102026/afdfb17b-5632-4936-b0d8-f50262313c56_News18TamilNadu_KadhaiAllaVaralaru_1026957.jpg" />
-    <desc>Exploring untold historical events and their impact on present times.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20261015</date>
-  </programme>
-  <programme channel="1715605" start="20261015190000 +0530" stop="20261015193000 +0530">
-    <title>30 Minute - Headlines</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/14102026/111ef94e-b0f3-4247-8f4b-1811dd0b4b32_News18TamilNadu_30Minute-Headlines_1716790.jpg" />
-    <desc>Catch the latest live updates on politics, economics, and social stories nationwide!</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20261015</date>
-  </programme>
-  <programme channel="1715605" start="20261015193000 +0530" stop="20261015200000 +0530">
-    <title>Crime Time</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/14102026/a936ddfe-ff1c-4e69-b321-d0940b1bea0c_News18TamilNadu_CrimeTime_533372.jpg" />
-    <desc>A deep dive into recent crimes, investigations, and law enforcement updates.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20261015</date>
-  </programme>
-  <programme channel="1715605" start="20261015200000 +0530" stop="20261015210000 +0530">
-    <title>Solladhigaram</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/14102026/7a938b3b-defa-4690-9fc6-85e894012381_News18TamilNadu_Solladhigaram_1358236.jpg" />
-    <desc>Unspoken issues and controversies discussed and debated.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20261015</date>
-  </programme>
-  <programme channel="1715605" start="20261015210000 +0530" stop="20261015213000 +0530">
-    <title>Oru Nimida Seithigal</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/14102026/a6264abe-c7b7-4d2b-824f-7fe2fa779c4f_News18TamilNadu_OruNimidaSeithigal_1403336.jpg" />
-    <desc>Breaking news and headlines delivered in a minute.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20261015</date>
-  </programme>
-  <programme channel="1715605" start="20261015213000 +0530" stop="20261015220000 +0530">
-    <title>Kadhai Alla Varalaru</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/14102026/adbc3cf6-aa81-421c-82a4-0efe095a50b8_News18TamilNadu_KadhaiAllaVaralaru_1026957.jpg" />
-    <desc>Exploring untold historical events and their impact on present times.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20261015</date>
-  </programme>
-  <programme channel="1715605" start="20261015220000 +0530" stop="20261015223000 +0530">
-    <title>Crime Time</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/14102026/ee18f4c6-80a4-4776-baef-9dcc7603d189_News18TamilNadu_CrimeTime_533372.jpg" />
-    <desc>A deep dive into recent crimes, investigations, and law enforcement updates.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20261015</date>
-  </programme>
-  <programme channel="1715605" start="20261015223000 +0530" stop="20261015230000 +0530">
-    <title>18 Dharbar</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/14102026/bef72c0f-311f-4969-97c3-acdb13ca8985_News18TamilNadu_18Dharbar_1654115.jpg" />
-    <desc>In-depth discussions on the latest political issues and government policies.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20261015</date>
-  </programme>
-  <programme channel="1715605" start="20261015230000 +0530" stop="20261016000000 +0530">
-    <title>Solladhigaram</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/14102026/ff488815-4c20-49cc-9c05-61331afb4e25_News18TamilNadu_Solladhigaram_1358236.jpg" />
-    <desc>Unspoken issues and controversies discussed and debated.</desc>
-    <language>Tamil</language>
-    <category>News</category>
-    <category>Tamil</category>
-    <date>20261015</date>
-  </programme>
   <programme channel="1707770" start="20261015000000 +0530" stop="20261015060000 +0530">
     <title>Super 30</title>
     <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/74cf7c0f-6849-4d31-862e-404dd2c73608_News18TamilNadu_Super30_1544002.jpg" />
@@ -11428,7 +11172,7 @@
   </programme>
   <programme channel="442392" start="20261015000000 +0530" stop="20261015010000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/a4eeb20e-2aaa-4298-93d9-26e6d67dbd30_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/095806c1-1bd4-477c-af34-793375b37f9c_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -11438,7 +11182,7 @@
   </programme>
   <programme channel="442392" start="20261015010000 +0530" stop="20261015020000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/6e13e035-1eb0-41e1-b1df-5a4e4cc62d4b_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/744e2d66-9f4c-4c44-b3f2-7d5a4a545f59_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -11448,7 +11192,7 @@
   </programme>
   <programme channel="442392" start="20261015020000 +0530" stop="20261015030000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/6c2cadbd-25ab-45fd-a442-8537426426c0_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/3f3df19d-2488-4982-bfbb-647a2ee43487_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -11458,7 +11202,7 @@
   </programme>
   <programme channel="442392" start="20261015030000 +0530" stop="20261015040000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/1b62df2a-ad9b-4ca1-8db3-af407fecd01e_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/f48c10b4-4a4d-44b5-a9b3-c36e93626f97_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -11468,7 +11212,7 @@
   </programme>
   <programme channel="442392" start="20261015040000 +0530" stop="20261015050000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/092fed5c-87cd-43c0-ad0f-68b66371a409_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/ea5b4e1e-08c4-41b3-8abc-6116ca8ffcd8_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -11478,7 +11222,7 @@
   </programme>
   <programme channel="442392" start="20261015050000 +0530" stop="20261015060000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/b84963fd-3067-4fc8-a50c-0dcb2cee2e20_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/80545fd1-cfd3-441b-a5a6-934eeedb2a0c_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -11488,7 +11232,7 @@
   </programme>
   <programme channel="442392" start="20261015060000 +0530" stop="20261015070000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/78f01f99-e18f-4de4-b87e-501da983ec5e_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/e7b62ccd-5556-4447-a015-9c0e36f87881_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -11498,7 +11242,7 @@
   </programme>
   <programme channel="442392" start="20261015070000 +0530" stop="20261015080000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/b6a8ed7a-42a7-4b7f-bdd6-9167f151ebb7_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/32743f1c-1e20-4c0e-a88b-6cba13e9a275_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -11508,7 +11252,7 @@
   </programme>
   <programme channel="442392" start="20261015080000 +0530" stop="20261015090000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/2a91a98f-dcc1-48a6-9da8-750d619555cc_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/d09f49f3-b104-45ab-9d75-4d1c37b18a7d_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -11518,7 +11262,7 @@
   </programme>
   <programme channel="442392" start="20261015090000 +0530" stop="20261015100000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/926f56c0-a8fe-4a3b-972f-5807481b0c19_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/2ef32c9c-9971-4740-ae55-51f57673760c_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -11528,7 +11272,7 @@
   </programme>
   <programme channel="442392" start="20261015100000 +0530" stop="20261015110000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/adda56c9-fec1-4591-92c7-92dfab3d2b3b_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/b9133824-d4f8-4455-b81e-db84de08ae6e_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -11538,7 +11282,7 @@
   </programme>
   <programme channel="442392" start="20261015110000 +0530" stop="20261015120000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/45cb7970-4a66-45e5-a5b8-2aa965b7a527_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/f128edc3-6b0a-4982-afb5-52792ef36a37_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -11548,7 +11292,7 @@
   </programme>
   <programme channel="442392" start="20261015120000 +0530" stop="20261015130000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/46f54242-d402-4d3e-811c-9ce7c7959271_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/f9ccda96-9d15-4cc4-9307-24b8747ea342_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -11558,7 +11302,7 @@
   </programme>
   <programme channel="442392" start="20261015130000 +0530" stop="20261015140000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/6cfa05ee-2ed7-4375-af00-c5932c3294c3_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/050fc383-9179-4f25-afce-db1f9aad7023_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -11568,7 +11312,7 @@
   </programme>
   <programme channel="442392" start="20261015140000 +0530" stop="20261015150000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/0c5836c9-ef0b-4d57-8299-fd832061f36d_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/30057bef-5249-4153-911a-197b278c59db_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -11578,7 +11322,7 @@
   </programme>
   <programme channel="442392" start="20261015150000 +0530" stop="20261015160000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/56ee570e-0c29-4e5b-aa4a-f0d119dedd3e_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/aa7fd086-24fd-472d-b03e-e8796363d14f_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -11588,7 +11332,7 @@
   </programme>
   <programme channel="442392" start="20261015160000 +0530" stop="20261015170000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/535eaed1-ca87-4086-98d0-91f0ec590b84_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/284d5027-e8f4-4f77-9b65-b0a2c1a4b53a_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -11598,7 +11342,7 @@
   </programme>
   <programme channel="442392" start="20261015170000 +0530" stop="20261015180000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/c0c32f9b-72c8-4eb5-9fed-f169508088a5_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/8f34eedb-4f67-4d5e-8312-5450151614a5_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -11608,7 +11352,7 @@
   </programme>
   <programme channel="442392" start="20261015180000 +0530" stop="20261015190000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/a6823401-b4f2-41f1-93eb-bb4de6dbda7d_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/ec560904-96a7-4938-87b7-5ed0a1579e63_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -11618,7 +11362,7 @@
   </programme>
   <programme channel="442392" start="20261015190000 +0530" stop="20261015200000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/a468eca7-1ec2-4359-97bc-fcd808d6a543_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/f94032d3-e507-46b7-96be-2727082198d3_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -11628,7 +11372,7 @@
   </programme>
   <programme channel="442392" start="20261015200000 +0530" stop="20261015210000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/b375ab2e-a623-4590-bdae-6c3560952123_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/0909a059-7037-4a4f-9f3a-3c243dc8b39e_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -11638,7 +11382,7 @@
   </programme>
   <programme channel="442392" start="20261015210000 +0530" stop="20261015220000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/0fd924e9-ef36-40f6-bbae-3c24e33d0464_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/88acfb12-6ff4-46cf-a2e5-2f31908681ff_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -11648,7 +11392,7 @@
   </programme>
   <programme channel="442392" start="20261015220000 +0530" stop="20261015230000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/189303b4-085c-4b16-996d-fc689fe9bd74_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/095062e6-192a-4039-bdc6-96463b7ddabd_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -11658,7 +11402,7 @@
   </programme>
   <programme channel="442392" start="20261015230000 +0530" stop="20261016000000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/f8fabf4f-9cd8-45f3-9332-658d54bd6281_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/e21cafaa-b4e1-47b9-b8ed-1fc456ee8ba0_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -138135,7 +137879,7 @@
   </programme>
   <programme channel="442392" start="20261016000000 +0530" stop="20261016010000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/1bf61a7b-b281-43ac-a97c-e6f6ab78cefa_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/623ed8fe-8049-4020-8a59-71a3ef8aa219_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -138145,7 +137889,7 @@
   </programme>
   <programme channel="442392" start="20261016010000 +0530" stop="20261016020000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/67cb3726-41e4-48cc-8c5a-8795ac66b884_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/b03cb829-2ea6-4a9f-9c9e-7d6f4dbbfa84_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -138155,7 +137899,7 @@
   </programme>
   <programme channel="442392" start="20261016020000 +0530" stop="20261016030000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/42928ac2-e772-4446-a2c5-c5dc09059c9a_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/f9813970-5562-4b34-b515-07034bb19aee_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -138165,7 +137909,7 @@
   </programme>
   <programme channel="442392" start="20261016030000 +0530" stop="20261016040000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/6e25f2f3-e806-4754-b7dd-68f56d7f901e_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/18533c58-05c4-408d-ae96-0c6b64340591_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -138175,7 +137919,7 @@
   </programme>
   <programme channel="442392" start="20261016040000 +0530" stop="20261016050000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/aa4f45ea-dee9-42af-b660-2feb88b7b404_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/ac499b5b-8788-4eec-b82c-229fe5d5ec76_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -138185,7 +137929,7 @@
   </programme>
   <programme channel="442392" start="20261016050000 +0530" stop="20261016060000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/12f09c59-7708-4f5d-97a5-a8aa6d33069a_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/369e4466-2026-49c8-83b6-c8ea09d2b2cf_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -138195,7 +137939,7 @@
   </programme>
   <programme channel="442392" start="20261016060000 +0530" stop="20261016070000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/320af139-28fd-4554-8874-df68392cc45e_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/4cf545f8-c58c-4cf9-91aa-2fb11d724fe3_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -138205,7 +137949,7 @@
   </programme>
   <programme channel="442392" start="20261016070000 +0530" stop="20261016080000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/f3181597-fade-4a86-ba67-abb1780141b2_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/ca1e7708-99d8-411b-8b94-df91c70b1114_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -138215,7 +137959,7 @@
   </programme>
   <programme channel="442392" start="20261016080000 +0530" stop="20261016090000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/575981f5-67d0-47b2-9a5b-c9f5ed577807_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/dfe7d377-8fac-46df-b3ee-8d714ce128ca_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -138225,7 +137969,7 @@
   </programme>
   <programme channel="442392" start="20261016090000 +0530" stop="20261016100000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/03c82cfd-d2e5-42bd-8db1-776d689f2723_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/71888a40-ebee-44e2-9991-0ade392b0217_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -138235,7 +137979,7 @@
   </programme>
   <programme channel="442392" start="20261016100000 +0530" stop="20261016110000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/4417007d-2f25-4e39-9724-fedc5cbd2e34_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/c6db97f9-625d-4713-b5a1-a8bead3e63d4_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -138245,7 +137989,7 @@
   </programme>
   <programme channel="442392" start="20261016110000 +0530" stop="20261016120000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/b07f8cf1-f71e-40c1-80b1-d169e21c0ae3_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/4daad08a-6fc3-4b03-9338-7d37d30a23cc_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -138255,7 +137999,7 @@
   </programme>
   <programme channel="442392" start="20261016120000 +0530" stop="20261016130000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/c02ccad7-c6a8-41e7-ac4c-1bec4c8d1bd9_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/60ebde44-3c10-4d80-8ca7-1a844afe9773_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -138265,7 +138009,7 @@
   </programme>
   <programme channel="442392" start="20261016130000 +0530" stop="20261016140000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/45da34d5-3723-483a-af9f-660a05d8f68e_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/c6bc8623-30d1-4538-b532-e0ebac8d8641_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -138275,7 +138019,7 @@
   </programme>
   <programme channel="442392" start="20261016140000 +0530" stop="20261016150000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/a270352b-bff0-496f-be30-6c4c79467e1e_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/537918e2-e7a7-49f8-b896-44a8437ef448_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -138285,7 +138029,7 @@
   </programme>
   <programme channel="442392" start="20261016150000 +0530" stop="20261016160000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/11511751-428f-4a11-82a5-f981a1ad244b_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/d7e96641-bf1e-4b1d-be9d-0ba32df8729e_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -138295,7 +138039,7 @@
   </programme>
   <programme channel="442392" start="20261016160000 +0530" stop="20261016170000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/b5ba92bc-8c4d-4851-ba8e-558257b6a2e9_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/c77fc944-cb1a-4a0b-bb9b-07abca234157_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -138305,7 +138049,7 @@
   </programme>
   <programme channel="442392" start="20261016170000 +0530" stop="20261016180000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/6f26f82e-0f22-4745-9bc9-d1efa152a418_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/949a9bfe-b4d5-4679-a876-30e4c6db25c3_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -138315,7 +138059,7 @@
   </programme>
   <programme channel="442392" start="20261016180000 +0530" stop="20261016190000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/bf968f40-bc59-4555-8b0a-701030fa2dda_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/5d93159f-9169-4b2b-807f-d2c767cdeb00_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -138325,7 +138069,7 @@
   </programme>
   <programme channel="442392" start="20261016190000 +0530" stop="20261016200000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/f3b2e2cf-02b0-4817-8c99-2014c121c289_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/38d57bf3-2afe-47de-8548-6ac7a122c921_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -138335,7 +138079,7 @@
   </programme>
   <programme channel="442392" start="20261016200000 +0530" stop="20261016210000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/a79ce470-ff8d-48cc-b6b8-d8f77d704aab_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/e2a41ab8-1b59-4978-8fef-605c9b51aefb_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -138345,7 +138089,7 @@
   </programme>
   <programme channel="442392" start="20261016210000 +0530" stop="20261016220000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/7ad414d4-d738-48d4-a24f-1b9f5511a182_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/2c0f0611-9b1a-4cb1-b172-fbc3f8841650_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -138355,7 +138099,7 @@
   </programme>
   <programme channel="442392" start="20261016220000 +0530" stop="20261016230000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/5b7e05f4-2858-4160-9a49-1be8417b3b27_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/aa09ce79-1e39-4b7c-ac04-ae20cb4e9180_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
@@ -138365,7 +138109,7 @@
   </programme>
   <programme channel="442392" start="20261016230000 +0530" stop="20261017000000 +0530">
     <title>News</title>
-    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/2556b149-8f93-4d3c-bbdc-099be4d7e0b9_DDPuducherry_News_1652924.jpg" />
+    <icon src="https://metaimg.sundirectgo.in/epg-images/15102026/c588503c-e94e-4b69-a9b4-a9d71669e1f3_DDPuducherry_News_1652924.jpg" />
     <desc>Catch up on today's top political, social, economic, and sports highlights!</desc>
     <language>Tamil</language>
     <category>Entertainment</category>
