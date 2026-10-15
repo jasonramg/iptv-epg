@@ -38478,22 +38478,22 @@
     <episode-num system="onscreen">465</episode-num>
     <rating><value>U</value></rating>
   </programme>
-  <programme start="20261015080400 +0530" stop="20261015090200 +0530" channel="jtv1146">
+  <programme start="20261015075900 +0530" stop="20261015085900 +0530" channel="jtv1146">
     <title>Maharashtrachi Hasya Jatra Special</title>
     <desc>A special edition featuring extended performances by Marathi comedians and actors, blending humour and charm to deliver a dose of laughter with unforgettable skits.</desc>
     <category>Entertainment</category>
     <language>Marathi</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/6e563040cdef4fc7efbc10106286ab6c.jpg?width=700"/>
-    <episode-num system="onscreen">377</episode-num>
+    <episode-num system="onscreen">213</episode-num>
     <rating><value>U</value></rating>
   </programme>
-  <programme start="20261015080400 +0530" stop="20261015090200 +0530" channel="Sony.Marathi.in">
+  <programme start="20261015075900 +0530" stop="20261015085900 +0530" channel="Sony.Marathi.in">
     <title>Maharashtrachi Hasya Jatra Special</title>
     <desc>A special edition featuring extended performances by Marathi comedians and actors, blending humour and charm to deliver a dose of laughter with unforgettable skits.</desc>
     <category>Entertainment</category>
     <language>Marathi</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/6e563040cdef4fc7efbc10106286ab6c.jpg?width=700"/>
-    <episode-num system="onscreen">377</episode-num>
+    <episode-num system="onscreen">213</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015090200 +0530" stop="20261015100200 +0530" channel="jtv1146">
@@ -82011,10 +82011,13 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015090000 +0530" stop="20261015093000 +0530" channel="jtv1356">
-    <title>Zee Tamil HD</title>
-    <desc>Zee Tamil HD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5ca9a22516a1b0fca8eb86c513299dab.jpg?width=700"/>
+    <title>Parijadam</title>
+    <desc>After a tragic accident leaves Isai orphaned, her aunt Rukmini fakes her horoscope to satisfy Subadra's rigid astrological demands and secure a marriage to Vishal.</desc>
+    <category>Drama</category>
+    <language>Tamil</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/299552fd4a9844ddaf48238b87af53fd.jpg?width=700"/>
+    <credits><actor>Rakshit</actor><actor>Swathi</actor><actor>Alya Manasa</actor></credits>
+    <episode-num system="onscreen">332</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015093000 +0530" stop="20261015100000 +0530" channel="jtv1356">
@@ -82097,10 +82100,13 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015133000 +0530" stop="20261015140000 +0530" channel="jtv1356">
-    <title>Zee Tamil HD</title>
-    <desc>Zee Tamil HD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5ca9a22516a1b0fca8eb86c513299dab.jpg?width=700"/>
+    <title>Varisu</title>
+    <desc>Savvy businesswoman Janakambal enlists Tamil to reform her wayward grandson Cibi, hoping he'll prove worthy of inheriting her empire.</desc>
+    <category>Drama</category>
+    <language>Tamil</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/0370d9b502fb8b8c2e33b0243c3f0717.jpg?width=700"/>
+    <credits><director>Siva Sekar</director><actor>Haritha Thota</actor><actor>Jay Srinivas</actor><actor>Sonia Bose</actor><actor>Madhumitha Ilaiyaraaja</actor><actor>Swetha Dorathi</actor><actor>Thidiyanas</actor></credits>
+    <episode-num system="onscreen">409</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015140000 +0530" stop="20261015143000 +0530" channel="jtv1356">
@@ -82172,10 +82178,13 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015172800 +0530" stop="20261015180000 +0530" channel="jtv1356">
-    <title>Zee Tamil HD</title>
-    <desc>Zee Tamil HD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5ca9a22516a1b0fca8eb86c513299dab.jpg?width=700"/>
+    <title>Varisu</title>
+    <desc>Savvy businesswoman Janakambal enlists Tamil to reform her wayward grandson Cibi, hoping he'll prove worthy of inheriting her empire.</desc>
+    <category>Drama</category>
+    <language>Tamil</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/0370d9b502fb8b8c2e33b0243c3f0717.jpg?width=700"/>
+    <credits><director>Siva Sekar</director><actor>Haritha Thota</actor><actor>Jay Srinivas</actor><actor>Sonia Bose</actor><actor>Madhumitha Ilaiyaraaja</actor><actor>Swetha Dorathi</actor><actor>Thidiyanas</actor></credits>
+    <episode-num system="onscreen">409</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015180000 +0530" stop="20261015183000 +0530" channel="jtv1356">
@@ -82268,10 +82277,13 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015222900 +0530" stop="20261015230000 +0530" channel="jtv1356">
-    <title>Zee Tamil HD</title>
-    <desc>Zee Tamil HD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5ca9a22516a1b0fca8eb86c513299dab.jpg?width=700"/>
+    <title>Varisu</title>
+    <desc>Savvy businesswoman Janakambal enlists Tamil to reform her wayward grandson Cibi, hoping he'll prove worthy of inheriting her empire.</desc>
+    <category>Drama</category>
+    <language>Tamil</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/0370d9b502fb8b8c2e33b0243c3f0717.jpg?width=700"/>
+    <credits><director>Siva Sekar</director><actor>Haritha Thota</actor><actor>Jay Srinivas</actor><actor>Sonia Bose</actor><actor>Madhumitha Ilaiyaraaja</actor><actor>Swetha Dorathi</actor><actor>Thidiyanas</actor></credits>
+    <episode-num system="onscreen">409</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015230000 +0530" stop="20261015233000 +0530" channel="jtv1356">
@@ -87126,18 +87138,24 @@
     <rating><value>U/A-12</value></rating>
   </programme>
   <programme start="20261015133100 +0530" stop="20261015135100 +0530" channel="jtv1368">
-    <title>Colors SD</title>
-    <desc>Colors SD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/645236c4a5fa9c44c9a5bca43ebaa5e1.jpg?width=700"/>
-    <rating><value>U</value></rating>
+    <title>Balika Vadhu</title>
+    <desc>Married into an affluent family at a tender age, a child bride, Anandi, initially struggles to cope with the traditions but overcomes multiple personal struggles to emerge as an example for rural women.</desc>
+    <category>Drama</category>
+    <language>Hindi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/8a0ea193b5e0f8670c8b985342189ecf.jpg?width=700"/>
+    <credits><director>Sidharth Sengupta</director><director>Pradeep Yadhav</director><actor>Shivangi Joshi (Anandi Rawal)</actor><actor>Randeep Rai (Anand Rawal)</actor><actor>Samridh Bawa (Jigar Anjariya)</actor><actor>Manasi Salvi (Bhairavi Rawal)</actor><actor>Vimarsh Roshan (Mehul Rawal)</actor><actor>Ankita Bahuguna (Diya Rawal)</actor><actor>Ketki Dave (Gomati Devi Anjariya)</actor><actor>Vikas Grover (Vikrant)</actor><actor>Avika Gor (Chlid Anandi)</actor><actor>Avinash Mukherjee (Chlid Jagdish Singh)</actor><actor>Chetanya Adib (Khajaan Singh)</actor><actor>Bhairavi Raichura (Bhagwati)</actor><actor>Surekha Sikri (Kalyani Devi Singh)</actor><actor>Anup Soni (Bhairon Singh)</actor><actor>Smita Bansal (Sumitra Bhairon Singh)</actor><actor>Veebha Anand (Sugna Shyam Singh)</actor><actor>Toral Rasputra (Anandi Shivraj Shekhar)</actor><actor>Shashank Vyas (Jagdish Singh)</actor><actor>Aasiya Kazi (Ganga Singh)</actor><actor>Sparsh Shrivastav (Teenage Kundan Singh)</actor><actor>Rudrakshi Gupta (Harki)</actor><actor>Gracy Goswami (Child Nandini Shekhar)</actor><actor>Hiten Tejwani (Dr Anant)</actor><actor>Siddharth Shukla (Shivraj 'Shiv' Shekhar)</actor><actor>Sadiya Siddiqui (Sandhya)</actor><actor>Pratyusha Banerjee (Anandi Shekhar)</actor></credits>
+    <episode-num system="onscreen">78</episode-num>
+    <rating><value>U/A-13</value></rating>
   </programme>
   <programme start="20261015133100 +0530" stop="20261015135100 +0530" channel="Colors.in">
-    <title>Colors SD</title>
-    <desc>Colors SD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/645236c4a5fa9c44c9a5bca43ebaa5e1.jpg?width=700"/>
-    <rating><value>U</value></rating>
+    <title>Balika Vadhu</title>
+    <desc>Married into an affluent family at a tender age, a child bride, Anandi, initially struggles to cope with the traditions but overcomes multiple personal struggles to emerge as an example for rural women.</desc>
+    <category>Drama</category>
+    <language>Hindi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/8a0ea193b5e0f8670c8b985342189ecf.jpg?width=700"/>
+    <credits><director>Sidharth Sengupta</director><director>Pradeep Yadhav</director><actor>Shivangi Joshi (Anandi Rawal)</actor><actor>Randeep Rai (Anand Rawal)</actor><actor>Samridh Bawa (Jigar Anjariya)</actor><actor>Manasi Salvi (Bhairavi Rawal)</actor><actor>Vimarsh Roshan (Mehul Rawal)</actor><actor>Ankita Bahuguna (Diya Rawal)</actor><actor>Ketki Dave (Gomati Devi Anjariya)</actor><actor>Vikas Grover (Vikrant)</actor><actor>Avika Gor (Chlid Anandi)</actor><actor>Avinash Mukherjee (Chlid Jagdish Singh)</actor><actor>Chetanya Adib (Khajaan Singh)</actor><actor>Bhairavi Raichura (Bhagwati)</actor><actor>Surekha Sikri (Kalyani Devi Singh)</actor><actor>Anup Soni (Bhairon Singh)</actor><actor>Smita Bansal (Sumitra Bhairon Singh)</actor><actor>Veebha Anand (Sugna Shyam Singh)</actor><actor>Toral Rasputra (Anandi Shivraj Shekhar)</actor><actor>Shashank Vyas (Jagdish Singh)</actor><actor>Aasiya Kazi (Ganga Singh)</actor><actor>Sparsh Shrivastav (Teenage Kundan Singh)</actor><actor>Rudrakshi Gupta (Harki)</actor><actor>Gracy Goswami (Child Nandini Shekhar)</actor><actor>Hiten Tejwani (Dr Anant)</actor><actor>Siddharth Shukla (Shivraj 'Shiv' Shekhar)</actor><actor>Sadiya Siddiqui (Sandhya)</actor><actor>Pratyusha Banerjee (Anandi Shekhar)</actor></credits>
+    <episode-num system="onscreen">78</episode-num>
+    <rating><value>U/A-13</value></rating>
   </programme>
   <programme start="20261015135100 +0530" stop="20261015141100 +0530" channel="jtv1368">
     <title>Balika Vadhu - Kacchi Umar Ke Pakke Rishte</title>
@@ -165372,8 +165390,8 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015073000 +0530" stop="20261015080000 +0530" channel="jtv1772">
-    <title>2026 Asian Games Highlights</title>
-    <desc>2026 Asian Games Highlights</desc>
+    <title>Zimbabwe Tour of England 2025</title>
+    <desc>Day 2 saw 16 wickets as England declared at 565/6 and bowled Zimbabwe out for 265 to enforce a follow-on.</desc>
     <category>Multi-sport event</category>
     <language>Tamil</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg?width=700"/>
@@ -165388,8 +165406,8 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015083000 +0530" stop="20261015093000 +0530" channel="jtv1772">
-    <title>UFC Fight O'Clock</title>
-    <desc>Conor McGregor's rise is highlighted, including his first-round KOs of Diego Brandao and Dustin Poirier, in UFC Fight O'Clock on Sony LIV.</desc>
+    <title>UFC - Fight O'Clock</title>
+    <desc>UFC - Fight O'Clock</desc>
     <category>Sports non-event</category>
     <language>Tamil</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/b4600df81ab98f8e704f05b7ef4f1a8b.jpg?width=700"/>
@@ -165740,8 +165758,8 @@
     <rating><value>G</value></rating>
   </programme>
   <programme start="20261015073000 +0530" stop="20261015080000 +0530" channel="jtv1773">
-    <title>2026 Asian Games Highlights</title>
-    <desc>2026 Asian Games Highlights</desc>
+    <title>West Indies Tour Of England 2025</title>
+    <desc>England beat West Indies by 21 runs in the 1st T20 as Jos Buttler made 96 and Liam Dawson took 4 wickets.</desc>
     <category>Multi-sport event</category>
     <language>Tamil</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg?width=700"/>
@@ -165756,8 +165774,8 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015083000 +0530" stop="20261015093000 +0530" channel="jtv1773">
-    <title>UFC Fight O'Clock</title>
-    <desc>Conor McGregor's rise is highlighted, including his first-round KOs of Diego Brandao and Dustin Poirier, in UFC Fight O'Clock on Sony LIV.</desc>
+    <title>UFC - Fight O'Clock</title>
+    <desc>UFC - Fight O'Clock</desc>
     <category>Sports non-event</category>
     <language>Tamil</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/b4600df81ab98f8e704f05b7ef4f1a8b.jpg?width=700"/>
@@ -166108,8 +166126,8 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015073000 +0530" stop="20261015080000 +0530" channel="jtv1774">
-    <title>2026 Asian Games Highlights</title>
-    <desc>2026 Asian Games Highlights</desc>
+    <title>West Indies Tour Of England 2025</title>
+    <desc>West Indies' 308 was not enough as England chased it down, with Joe Root's 166* sealing the series in the 2nd ODI.</desc>
     <category>Multi-sport event</category>
     <language>Tamil</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg?width=700"/>
@@ -166124,8 +166142,8 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015083000 +0530" stop="20261015093000 +0530" channel="jtv1774">
-    <title>UFC Fight O'Clock</title>
-    <desc>Conor McGregor's rise is highlighted, including his first-round KOs of Diego Brandao and Dustin Poirier, in UFC Fight O'Clock on Sony LIV.</desc>
+    <title>UFC - Fight O'Clock</title>
+    <desc>UFC - Fight O'Clock</desc>
     <category>Sports non-event</category>
     <language>Tamil</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/b4600df81ab98f8e704f05b7ef4f1a8b.jpg?width=700"/>
@@ -166516,8 +166534,8 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015073000 +0530" stop="20261015080000 +0530" channel="jtv1775">
-    <title>2026 Asian Games Highlights</title>
-    <desc>2026 Asian Games Highlights</desc>
+    <title>Bharat Tum Chale Chalo - Kahani 2021-22 Ki</title>
+    <desc>Bharat Tum Chale Chalo looks at India's first Test on the 2021 England tour and how Virat Kohli's pace attack led the bowling.</desc>
     <category>Multi-sport event</category>
     <language>Telugu</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg?width=700"/>
@@ -166532,8 +166550,8 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015083000 +0530" stop="20261015093000 +0530" channel="jtv1775">
-    <title>UFC Fight O'Clock</title>
-    <desc>Conor McGregor's rise is highlighted, including his first-round KOs of Diego Brandao and Dustin Poirier, in UFC Fight O'Clock on Sony LIV.</desc>
+    <title>UFC - Fight O'Clock</title>
+    <desc>UFC - Fight O'Clock</desc>
     <category>Sports non-event</category>
     <language>Telugu</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/b4600df81ab98f8e704f05b7ef4f1a8b.jpg?width=700"/>
@@ -179720,75 +179738,106 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016060000 +0530" stop="20261016063000 +0530" channel="jtv1858">
-    <title>Stotramala</title>
-    <desc>Religious leaders offer their sincere prayers by chanting sacred hymns to appease the Almighty and seek divine blessings.</desc>
+    <title>Sri Chakrapuje, Ganapathi Sachidananda Swamiji</title>
+    <desc>Sri Chakrapuje, Ganapathi Sachidananda Swamiji</desc>
     <category>Religious</category>
     <language>Kannada</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/41a247173da11a36850f50533fb370b0.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/3177b124e2709d712f97f6cace395251.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016063000 +0530" stop="20261016070000 +0530" channel="jtv1858">
-    <title>Bhakthi Yatre</title>
-    <desc>The host talks about various temples and pilgrimage locations across the country and discusses the history of these places.</desc>
-    <category>Documentary</category>
+    <title>Vishnu Sahasra Nama Stothram Subba Lakshmi</title>
+    <desc>A religious leader recites the Vishnu Sahasranama, a Sanskrit hymn that includes the list of thousand names of Lord Vishnu.</desc>
+    <category>Religious</category>
     <language>Kannada</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/383eda472105e09a75718551e4986d07.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/7e74a47ccf0aeed710ae987a379c5184.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016070000 +0530" stop="20261016073000 +0530" channel="jtv1858">
-    <title>Sreevari Sevalu</title>
-    <desc>Priests and devotees gather together to chant hymns and perform sacred rituals to show their devotion and seek blessings from the deity.</desc>
+    <title>Srivari Sevalu - Abisekham</title>
+    <desc>Hindu religious leaders and devotees participate in sacred rituals by chanting holy hymns and seeking blessings from the Almighty.</desc>
     <category>Religious</category>
     <language>Kannada</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/99329acef13654eab3a77ae1e07389ea.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/418840f2fa87280bc6fe87e8302ec8bc.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016073000 +0530" stop="20261016080000 +0530" channel="jtv1858">
-    <title>Vishnu Purana</title>
-    <desc>A religious leader presents teachings from the Vishnu Purana, revealing stories of divine avatars, creation and the significance of devotion in one's journey toward liberation.</desc>
-    <category>Documentary</category>
-    <language>Kannada</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/a1fdf46eb0dc525c4b01d3b867b4cc72.jpg?width=700"/>
-    <rating><value>U</value></rating>
-  </programme>
-  <programme start="20261016080000 +0530" stop="20261016090000 +0530" channel="jtv1858">
-    <title>Sri Kalyana Venkateswara Swamy Brahmotsavalu Live</title>
-    <desc>Hindu religious leaders come together to recite various spiritual verses and perform sacred rituals in praise of the Almighty, live.</desc>
-    <category>Documentary</category>
-    <language>Kannada</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c7b0a2238eae0af877af047f9c28c07f.jpg?width=700"/>
-    <rating><value>U</value></rating>
-  </programme>
-  <programme start="20261016090000 +0530" stop="20261016100000 +0530" channel="jtv1858">
-    <title>Ashtotthara Satha Kalasabhishekam</title>
-    <desc>Religious scholars perform the sacred ritual 'Ashtothara Shata', of bathing the processional deity with holy water from 108 different vessels to invoke blessings.</desc>
-    <category>Documentary</category>
-    <language>Kannada</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/4e0ebc60ff5d58805392060f8e701dd6.jpg?width=700"/>
-    <rating><value>U</value></rating>
-  </programme>
-  <programme start="20261016100000 +0530" stop="20261016110000 +0530" channel="jtv1858">
-    <title>Sri Padmavathi Ammavari Kalyanam Live</title>
-    <desc>Priests perform the ceremony commemorating the divine marriage of Goddess Padmavati to a Hindu deity at a sacred shrine, live.</desc>
+    <title>Suladi Parayana</title>
+    <desc>Hindu religious scholars and a group of devotees of Lord Venkateswara gather and sing sacred songs while worshipping and revering the deity.</desc>
     <category>Religious</category>
     <language>Kannada</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/db35108b741fedaf141d8b1c2ddbc030.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/466af73e3be9842ee3afbc12c96809f2.jpg?width=700"/>
+    <episode-num system="onscreen">5</episode-num>
     <rating><value>U</value></rating>
   </programme>
-  <programme start="20261016110000 +0530" stop="20261016120000 +0530" channel="jtv1858">
+  <programme start="20261016080000 +0530" stop="20261016083000 +0530" channel="jtv1858">
+    <title>SVBC3</title>
+    <desc>SVBC3</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/466af73e3be9842ee3afbc12c96809f2.jpg?width=700"/>
+    <rating><value>U</value></rating>
+  </programme>
+  <programme start="20261016083000 +0530" stop="20261016090000 +0530" channel="jtv1858">
+    <title>SVBC3</title>
+    <desc>SVBC3</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/466af73e3be9842ee3afbc12c96809f2.jpg?width=700"/>
+    <rating><value>U</value></rating>
+  </programme>
+  <programme start="20261016090000 +0530" stop="20261016093000 +0530" channel="jtv1858">
+    <title>SVBC3</title>
+    <desc>SVBC3</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/466af73e3be9842ee3afbc12c96809f2.jpg?width=700"/>
+    <rating><value>U</value></rating>
+  </programme>
+  <programme start="20261016093000 +0530" stop="20261016100000 +0530" channel="jtv1858">
+    <title>SVBC3</title>
+    <desc>SVBC3</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/466af73e3be9842ee3afbc12c96809f2.jpg?width=700"/>
+    <rating><value>U</value></rating>
+  </programme>
+  <programme start="20261016100000 +0530" stop="20261016103000 +0530" channel="jtv1858">
+    <title>Bhajana</title>
+    <desc>Hindu priests and a group of devotees of Lord Venkateswara gather and sing sacred hymns while worshipping and revering the deity.</desc>
+    <category>Musical</category>
+    <language>Kannada</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/466af73e3be9842ee3afbc12c96809f2.jpg?width=700"/>
+    <episode-num system="onscreen">97</episode-num>
+    <rating><value>U</value></rating>
+  </programme>
+  <programme start="20261016103000 +0530" stop="20261016110000 +0530" channel="jtv1858">
+    <title>Akhanda Bhagavatham</title>
+    <desc>A religious leader delivers a discourse about the righteous path shown by the Almighty and inspires devotees to lead a peaceful life.</desc>
+    <category>Religious</category>
+    <language>Kannada</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/aabcb68e74a9b22153df13a3bbf1a1ac.jpg?width=700"/>
+    <episode-num system="onscreen">32</episode-num>
+    <rating><value>U</value></rating>
+  </programme>
+  <programme start="20261016110000 +0530" stop="20261016113000 +0530" channel="jtv1858">
+    <title>SVBC3</title>
+    <desc>SVBC3</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/466af73e3be9842ee3afbc12c96809f2.jpg?width=700"/>
+    <rating><value>U</value></rating>
+  </programme>
+  <programme start="20261016113000 +0530" stop="20261016120000 +0530" channel="jtv1858">
+    <title>Bhakti Sangeetha Bangalore Studio</title>
+    <desc>Various skilled music artists and singers perform soul-stirring and rhythmic songs and compositions to evoke a sense of devotion in the viewers.</desc>
+    <category>Religious</category>
+    <language>Kannada</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/72d915bebfd925e4edfd5cb56b63372d.jpg?width=700"/>
+    <episode-num system="onscreen">5</episode-num>
+    <rating><value>U</value></rating>
+  </programme>
+  <programme start="20261016120000 +0530" stop="20261016130000 +0530" channel="jtv1858">
     <title>Vedaparayanam Live</title>
     <desc>A Hindu priest provides deeper into the verses mentioned in the Vedas as a group of Vedic scholars recite them in unison, live.</desc>
     <category>Religious</category>
     <language>Kannada</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/1e262bae5d8ecbab643de012fbe74cda.jpg?width=700"/>
-    <rating><value>U</value></rating>
-  </programme>
-  <programme start="20261016120000 +0530" stop="20261016130000 +0530" channel="jtv1858">
-    <title>Srinivasa Kalyanotsava Live</title>
-    <desc>Witness the live sacred wedding of Lord Srinivasa and Goddess Padavathi, performed with devotion, Vedic rituals and traditional hymns at the revered Tirumala temple.</desc>
-    <category>Documentary</category>
-    <language>Kannada</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/96248901fd452f55b2545fe6840de306.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016130000 +0530" stop="20261016133000 +0530" channel="jtv1858">
@@ -179800,116 +179849,183 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016133000 +0530" stop="20261016140000 +0530" channel="jtv1858">
-    <title>Dolotsavam Live / Fillers</title>
-    <desc>Priests and devotees gather for a ceremonial ritual to worship Lord Venkateshwara and seek His blessings, live; people pray to God.</desc>
-    <category>Documentary</category>
-    <language>Kannada</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/96b4b97a5bf8b2438d1feb7ae5708b0f.jpg?width=700"/>
-    <rating><value>U</value></rating>
-  </programme>
-  <programme start="20261016140000 +0530" stop="20261016150000 +0530" channel="jtv1858">
-    <title>Nadaneerajanam Live / Arjita Brahmotsavam Live</title>
-    <desc>Devotees perform songs and dance in praise of Lord Venkateswara, a revered Hindu deity and followers offer their respects, live.</desc>
-    <category>Documentary</category>
-    <language>Kannada</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/430ffebb9af8517062100f0842dab710.jpg?width=700"/>
-    <rating><value>U</value></rating>
-  </programme>
-  <programme start="20261016150000 +0530" stop="20261016160000 +0530" channel="jtv1858">
-    <title>Sri Padmavati Ammavari Abhishekam Live</title>
-    <desc>Priests and devotees come together and perform elaborate rituals, offering prayers and seeking blessings from the Almighty, live.</desc>
-    <category>Community</category>
-    <language>Kannada</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/b2f9b3120810c73cd4e374f0b352d2c6.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
-  </programme>
-  <programme start="20261016160000 +0530" stop="20261016163000 +0530" channel="jtv1858">
-    <title>Sri Lalitasahasranamastotram</title>
-    <desc>Religious leaders and devotees offer their sincere prayers by chanting a sacred hymn to appease a powerful Hindu goddess and seek her blessings.</desc>
+    <title>Filler</title>
+    <desc>Bringing the best in television.</desc>
     <category>Religious</category>
     <language>Kannada</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f461ac2d9ad0a7ea4c7ece542267221f.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/eed69a9e575747dd10130614d4d168d4.jpg?width=700"/>
+    <rating><value>U</value></rating>
+  </programme>
+  <programme start="20261016140000 +0530" stop="20261016143000 +0530" channel="jtv1858">
+    <title>Kala Neerajanam</title>
+    <desc>At a devotional Carnatic classical concert, organized by Tirumala Tirupati Devasthanams, upcoming local artists demonstrate their musical abilities and classical dancing skills.</desc>
+    <category>Entertainment</category>
+    <language>Kannada</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/7b09c641bae14e24fb171db7bdac8743.jpg?width=700"/>
+    <episode-num system="onscreen">5</episode-num>
+    <rating><value>U</value></rating>
+  </programme>
+  <programme start="20261016143000 +0530" stop="20261016145000 +0530" channel="jtv1858">
+    <title>Vishnu Sahasra Nama Stothra Pravachanam</title>
+    <desc>Vishnu Sahasra Nama Stothra Pravachanam</desc>
+    <category>Entertainment</category>
+    <language>Kannada</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/466af73e3be9842ee3afbc12c96809f2.jpg?width=700"/>
+    <rating><value>U</value></rating>
+  </programme>
+  <programme start="20261016145000 +0530" stop="20261016150000 +0530" channel="jtv1858">
+    <title>Filler</title>
+    <desc>Bringing the best in television.</desc>
+    <category>Religious</category>
+    <language>Kannada</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/eed69a9e575747dd10130614d4d168d4.jpg?width=700"/>
+    <rating><value>U</value></rating>
+  </programme>
+  <programme start="20261016150000 +0530" stop="20261016153000 +0530" channel="jtv1858">
+    <title>Sri Padmavati Ammavari Snapana Tirumanjanam Live</title>
+    <desc>The priests offer a holy bath to the deity of Goddess Sri Padmavathi Devi amid sacred chants, and perform puja in a temple, live.</desc>
+    <category>Religious</category>
+    <language>Kannada</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/bc424c4d2f35ec1f973cca1bff304d6b.jpg?width=700"/>
+    <rating><value>U</value></rating>
+  </programme>
+  <programme start="20261016153000 +0530" stop="20261016160000 +0530" channel="jtv1858">
+    <title>Sri Padmavati Ammavari Snapana Tirumanjanam Live</title>
+    <desc>The priests offer a holy bath to the deity of Goddess Sri Padmavathi Devi amid sacred chants, and perform puja in a temple, live.</desc>
+    <category>Religious</category>
+    <language>Kannada</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/bc424c4d2f35ec1f973cca1bff304d6b.jpg?width=700"/>
+    <rating><value>U</value></rating>
+  </programme>
+  <programme start="20261016160000 +0530" stop="20261016163000 +0530" channel="jtv1858">
+    <title>Durga Saptasathi Parayanam</title>
+    <desc>Durga Saptasathi Parayanam</desc>
+    <category>Religious</category>
+    <language>Kannada</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/bbe5fa2e9f1e69ff68f57653828e71d2.jpg?width=700"/>
+    <episode-num system="onscreen">5</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016163000 +0530" stop="20261016170000 +0530" channel="jtv1858">
-    <title>Sri Kapileswara Swamy Brahmotsavalu</title>
-    <desc>Religious leaders perform sacred rituals to seek divine blessings during the 'Brahmotsavam' festival at the Kapila Teertham temple.</desc>
+    <title>Suladi Parayana</title>
+    <desc>Hindu religious scholars and a group of devotees of Lord Venkateswara gather and sing sacred songs while worshipping and revering the deity.</desc>
     <category>Religious</category>
     <language>Kannada</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/8a465ebd460880cddd326f32312d64da.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/466af73e3be9842ee3afbc12c96809f2.jpg?width=700"/>
+    <episode-num system="onscreen">5</episode-num>
     <rating><value>U</value></rating>
   </programme>
-  <programme start="20261016170000 +0530" stop="20261016180000 +0530" channel="jtv1858">
-    <title>S. D Seva Live</title>
-    <desc>Priests and devotees participate in a live telecast of the 'Sahasra Deepalankara Seva' performed outside a temple in Tiruchanur, in which Lord Malayappa Swami and his consorts arrive, live.</desc>
+  <programme start="20261016170000 +0530" stop="20261016173000 +0530" channel="jtv1858">
+    <title>SVBC3</title>
+    <desc>SVBC3</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/466af73e3be9842ee3afbc12c96809f2.jpg?width=700"/>
+    <rating><value>U</value></rating>
+  </programme>
+  <programme start="20261016173000 +0530" stop="20261016180000 +0530" channel="jtv1858">
+    <title>Bhakti Sangeetha Bangalore Studio</title>
+    <desc>Various skilled music artists and singers perform soul-stirring and rhythmic songs and compositions to evoke a sense of devotion in the viewers.</desc>
     <category>Religious</category>
     <language>Kannada</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ab924dc34514a46dd99c00aad698eba2.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/72d915bebfd925e4edfd5cb56b63372d.jpg?width=700"/>
+    <episode-num system="onscreen">5</episode-num>
     <rating><value>U</value></rating>
   </programme>
-  <programme start="20261016180000 +0530" stop="20261016190000 +0530" channel="jtv1858">
-    <title>Srimad Bhagavad Geeta Parayana</title>
-    <desc>A religious leader delivers a discourse on the teachings of the Bhagavad Gita, encouraging devotees to embrace spirituality.</desc>
+  <programme start="20261016180000 +0530" stop="20261016183000 +0530" channel="jtv1858">
+    <title>Sri Devi Navaratri By Ganapati Sachidananda</title>
+    <desc>Sri Devi Navaratri By Ganapati Sachidananda</desc>
     <category>Religious</category>
     <language>Kannada</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ec2205f03bd7e983e68559942a8d6cca.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/466af73e3be9842ee3afbc12c96809f2.jpg?width=700"/>
+    <episode-num system="onscreen">5</episode-num>
     <rating><value>U</value></rating>
   </programme>
-  <programme start="20261016190000 +0530" stop="20261016200000 +0530" channel="jtv1858">
-    <title>Sri Kalyana Venkateswara Swamy Brahmotsavalu Live</title>
-    <desc>Hindu religious leaders come together to recite various spiritual verses and perform sacred rituals in praise of the Almighty, live.</desc>
-    <category>Documentary</category>
-    <language>Kannada</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c7b0a2238eae0af877af047f9c28c07f.jpg?width=700"/>
+  <programme start="20261016183000 +0530" stop="20261016190000 +0530" channel="jtv1858">
+    <title>SVBC3</title>
+    <desc>SVBC3</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/466af73e3be9842ee3afbc12c96809f2.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
-  <programme start="20261016200000 +0530" stop="20261016210000 +0530" channel="jtv1858">
-    <title>Srisaila Mallikarjuna Swami Brahmotsavalu Live</title>
-    <desc>Religious leaders and devotees gather in a pious shrine to perform a holy ritual in order to worship a Hindu deity and seek divine blessings, live.</desc>
-    <category>Religious</category>
-    <language>Kannada</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/619631fc5f839d719101c692f7bf2013.jpg?width=700"/>
-    <rating><value>U</value></rating>
-  </programme>
-  <programme start="20261016210000 +0530" stop="20261016213000 +0530" channel="jtv1858">
-    <title>Shivathatva</title>
-    <desc>A religious leader leads discussions on Lord Shiva's teachings, focusing on sacred rituals and spiritual wisdom to inspire deeper devotion and understanding.</desc>
-    <category>Documentary</category>
-    <language>Kannada</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/e251c6e9a1ea44b2b820bc606aad0b9a.jpg?width=700"/>
-    <rating><value>U</value></rating>
-  </programme>
-  <programme start="20261016213000 +0530" stop="20261016220000 +0530" channel="jtv1858">
-    <title>Bhakthi Sangeetham</title>
-    <desc>Professional singers and Hindu devotees perform a rendition of various devotional songs and holy hymns in praise of the Almighty.</desc>
-    <category>Documentary</category>
-    <language>Kannada</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/d9ddeedf8c5cff8679a6fadb34b0beef.jpg?width=700"/>
-    <rating><value>U</value></rating>
-  </programme>
-  <programme start="20261016220000 +0530" stop="20261016223000 +0530" channel="jtv1858">
-    <title>A.V News</title>
-    <desc>The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the state and the nation.</desc>
-    <category>News</category>
-    <language>Kannada</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/22026045420f62bd9209d5afe3c3494c.jpg?width=700"/>
-    <rating><value>U</value></rating>
-  </programme>
-  <programme start="20261016223000 +0530" stop="20261016233000 +0530" channel="jtv1858">
-    <title>Sri Padmavathi Ammavari Kalyanam</title>
-    <desc>Devotees visit the Padmavathi Temple in Tiruchanur, Andhra Pradesh, and partake in the rituals associated with the celestial wedding of Goddess Padmavathi.</desc>
+  <programme start="20261016190000 +0530" stop="20261016193000 +0530" channel="jtv1858">
+    <title>Garudavahanam Live</title>
+    <desc>Garudavahanam Live</desc>
     <category>Community</category>
     <language>Kannada</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/d8246c046ed45c1eb8e23ca5dcfe8e6c.jpg?width=700"/>
-    <rating><value>U</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/57dcb067465a802a3b1fbab92f07d239.jpg?width=700"/>
+    <rating><value>TVG</value></rating>
+  </programme>
+  <programme start="20261016193000 +0530" stop="20261016200000 +0530" channel="jtv1858">
+    <title>Garudavahanam Live</title>
+    <desc>Garudavahanam Live</desc>
+    <category>Community</category>
+    <language>Kannada</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/57dcb067465a802a3b1fbab92f07d239.jpg?width=700"/>
+    <rating><value>TVG</value></rating>
+  </programme>
+  <programme start="20261016200000 +0530" stop="20261016203000 +0530" channel="jtv1858">
+    <title>Garudavahanam Live</title>
+    <desc>Garudavahanam Live</desc>
+    <category>Community</category>
+    <language>Kannada</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/57dcb067465a802a3b1fbab92f07d239.jpg?width=700"/>
+    <rating><value>TVG</value></rating>
+  </programme>
+  <programme start="20261016203000 +0530" stop="20261016210000 +0530" channel="jtv1858">
+    <title>Garudavahanam Live</title>
+    <desc>Garudavahanam Live</desc>
+    <category>Community</category>
+    <language>Kannada</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/57dcb067465a802a3b1fbab92f07d239.jpg?width=700"/>
+    <rating><value>TVG</value></rating>
+  </programme>
+  <programme start="20261016210000 +0530" stop="20261016213000 +0530" channel="jtv1858">
+    <title>Garudavahanam Live</title>
+    <desc>Garudavahanam Live</desc>
+    <category>Community</category>
+    <language>Kannada</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/57dcb067465a802a3b1fbab92f07d239.jpg?width=700"/>
+    <rating><value>TVG</value></rating>
+  </programme>
+  <programme start="20261016213000 +0530" stop="20261016220000 +0530" channel="jtv1858">
+    <title>Garudavahanam Live</title>
+    <desc>Garudavahanam Live</desc>
+    <category>Community</category>
+    <language>Kannada</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/57dcb067465a802a3b1fbab92f07d239.jpg?width=700"/>
+    <rating><value>TVG</value></rating>
+  </programme>
+  <programme start="20261016220000 +0530" stop="20261016223000 +0530" channel="jtv1858">
+    <title>Garudavahanam Live</title>
+    <desc>Garudavahanam Live</desc>
+    <category>Community</category>
+    <language>Kannada</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/57dcb067465a802a3b1fbab92f07d239.jpg?width=700"/>
+    <rating><value>TVG</value></rating>
+  </programme>
+  <programme start="20261016223000 +0530" stop="20261016230000 +0530" channel="jtv1858">
+    <title>Garudavahanam Live</title>
+    <desc>Garudavahanam Live</desc>
+    <category>Community</category>
+    <language>Kannada</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/57dcb067465a802a3b1fbab92f07d239.jpg?width=700"/>
+    <rating><value>TVG</value></rating>
+  </programme>
+  <programme start="20261016230000 +0530" stop="20261016233000 +0530" channel="jtv1858">
+    <title>Garudavahanam Live</title>
+    <desc>Garudavahanam Live</desc>
+    <category>Community</category>
+    <language>Kannada</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/57dcb067465a802a3b1fbab92f07d239.jpg?width=700"/>
+    <rating><value>TVG</value></rating>
   </programme>
   <programme start="20261016233000 +0530" stop="20261016235959 +0530" channel="jtv1858">
-    <title>Srinivasa Kalyanotsava</title>
-    <desc>Several religious leaders perform traditional ceremonies marking the celestial union of Lord Venkateswara with his consorts, filled with devotion and spiritual significance.</desc>
-    <category>Religious</category>
+    <title>Garudavahanam Live</title>
+    <desc>Garudavahanam Live</desc>
+    <category>Community</category>
     <language>Kannada</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/bb7533736f8577de6316aea73dffe60d.jpg?width=700"/>
-    <rating><value>U</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/57dcb067465a802a3b1fbab92f07d239.jpg?width=700"/>
+    <rating><value>TVG</value></rating>
   </programme>
   <programme start="20261015000000 +0530" stop="20261015003000 +0530" channel="jtv1859">
     <title>Dhanurmasostav - Tiruppavai</title>
@@ -448097,7 +448213,7 @@
   </programme>
   <programme start="20261015080000 +0530" stop="20261015093000 +0530" channel="jtv3509">
     <title>Kaun Banega Crorepati</title>
-    <desc>ashodhara Kisan Rangari takes the hotseat and begins an inspiring KBC journey, facing crucial questions with confidence and determination.</desc>
+    <desc>Host Amitabh Bachchan asks a series of questions to several contestants to test their general knowledge and give them a chance to win a cash prize.</desc>
     <category>Game show</category>
     <language>Hindi</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/742f021866e4d708672b606b3ed01b6d.jpg?width=700"/>
@@ -552078,40 +552194,40 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015000000 +0530" stop="20261015001500 +0530" channel="jtv514">
-    <title>UEFA Champions League 2026-27</title>
-    <desc>UEFA Champions League 2026-27 - UEFA Champions League 2026-27 - Half Time</desc>
+    <title>UEFA Champions League Soccer</title>
+    <desc>Professional football clubs from around Europe compete against each other in the UEFA Champions League to win the prestigious trophy.</desc>
     <category>Soccer</category>
     <language>English</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/d7471057f1a1c3d2dda2636fea8a80c9.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015001500 +0530" stop="20261015003000 +0530" channel="jtv514">
-    <title>UEFA Champions League 2025/26</title>
-    <desc>First Half Recap - PSG vs Chelsea</desc>
+    <title>Snippet</title>
+    <desc>Bringing the best in television.</desc>
     <category>Sports non-event</category>
     <language>English</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/d842d379fcfd33c8abefeba980d1c7bd.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015003000 +0530" stop="20261015023000 +0530" channel="jtv514">
-    <title>UEFA Champions League 2026-27</title>
-    <desc>UEFA Champions League 2026-27 - UEFA Champions League 2026-27 - Half Time</desc>
+    <title>UEFA Champions League Soccer</title>
+    <desc>Professional football clubs from around Europe compete against each other in the UEFA Champions League to win the prestigious trophy.</desc>
     <category>Soccer</category>
     <language>English</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/d7471057f1a1c3d2dda2636fea8a80c9.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015023000 +0530" stop="20261015030000 +0530" channel="jtv514">
-    <title>20th Asian Games Aichi-Nagoya 2026</title>
-    <desc>Watch the full replay of the Women’s Hockey Gold Medal Match between India and China at the Asian Games 2026, only on Sony LIV.</desc>
+    <title>2026 Asian Games Highlights</title>
+    <desc>2026 Asian Games Highlights</desc>
     <category>Multi-sport event</category>
     <language>English</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015030000 +0530" stop="20261015040000 +0530" channel="jtv514">
-    <title>Asia Cup 2025</title>
-    <desc>Powerplay Recap - Pakistan vs Bangladesh - Super Four - 1st Innings</desc>
+    <title>Asia Cup Highlights</title>
+    <desc>Highlights of matches from the Asia Cup tournament, where professional cricket teams compete against each other to emerge victorious.</desc>
     <category>Cricket</category>
     <language>English</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/8c51b7ea5b521bacdbec09a3e10270f2.jpg?width=700"/>
@@ -552158,8 +552274,8 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015083000 +0530" stop="20261015090000 +0530" channel="jtv514">
-    <title>20th Asian Games Aichi-Nagoya 2026</title>
-    <desc>Watch the full replay of the Women’s Hockey Gold Medal Match between India and China at the Asian Games 2026, only on Sony LIV.</desc>
+    <title>2026 Asian Games Highlights</title>
+    <desc>2026 Asian Games Highlights</desc>
     <category>Multi-sport event</category>
     <language>English</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg?width=700"/>
@@ -552190,8 +552306,8 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015113000 +0530" stop="20261015120000 +0530" channel="jtv514">
-    <title>20th Asian Games Aichi-Nagoya 2026</title>
-    <desc>Watch the full replay of the Women’s Hockey Gold Medal Match between India and China at the Asian Games 2026, only on Sony LIV.</desc>
+    <title>2026 Asian Games Highlights</title>
+    <desc>2026 Asian Games Highlights</desc>
     <category>Multi-sport event</category>
     <language>English</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg?width=700"/>
@@ -616452,7 +616568,7 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <language>Bengali</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ccc81ffc812ca964ab9b43c7f47fa97e.jpg?width=700"/>
     <credits><director>Susanta Das</director><director>Babu Banik</director><actor>Sampita Pramanik (Mahua)</actor><actor>Siddharth Sen (Yuvraj)</actor><actor>Sudipta Bakshi (Apala)</actor><actor>Rudrani (Bini)</actor></credits>
-    <episode-num system="onscreen">51</episode-num>
+    <episode-num system="onscreen">52</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015213200 +0530" stop="20261015220200 +0530" channel="jtv625">
@@ -616671,7 +616787,7 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <language>Bengali</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ccc81ffc812ca964ab9b43c7f47fa97e.jpg?width=700"/>
     <credits><director>Susanta Das</director><director>Babu Banik</director><actor>Sampita Pramanik (Mahua)</actor><actor>Siddharth Sen (Yuvraj)</actor><actor>Sudipta Bakshi (Apala)</actor><actor>Rudrani (Bini)</actor></credits>
-    <episode-num system="onscreen">51</episode-num>
+    <episode-num system="onscreen">52</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016100000 +0530" stop="20261016103000 +0530" channel="jtv625">
@@ -616738,7 +616854,7 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <language>Bengali</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ccc81ffc812ca964ab9b43c7f47fa97e.jpg?width=700"/>
     <credits><director>Susanta Das</director><director>Babu Banik</director><actor>Sampita Pramanik (Mahua)</actor><actor>Siddharth Sen (Yuvraj)</actor><actor>Sudipta Bakshi (Apala)</actor><actor>Rudrani (Bini)</actor></credits>
-    <episode-num system="onscreen">51</episode-num>
+    <episode-num system="onscreen">52</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016133000 +0530" stop="20261016140000 +0530" channel="jtv625">
@@ -616796,7 +616912,7 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <language>Bengali</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ccc81ffc812ca964ab9b43c7f47fa97e.jpg?width=700"/>
     <credits><director>Susanta Das</director><director>Babu Banik</director><actor>Sampita Pramanik (Mahua)</actor><actor>Siddharth Sen (Yuvraj)</actor><actor>Sudipta Bakshi (Apala)</actor><actor>Rudrani (Bini)</actor></credits>
-    <episode-num system="onscreen">51</episode-num>
+    <episode-num system="onscreen">52</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016163000 +0530" stop="20261016170000 +0530" channel="jtv625">
@@ -618507,10 +618623,13 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015085600 +0530" stop="20261015093000 +0530" channel="jtv628">
-    <title>Zee Tamil</title>
-    <desc>Zee Tamil</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/75ce5b56110c1fd09b1217039d899bcb.jpg?width=700"/>
+    <title>Parijadam</title>
+    <desc>After a tragic accident leaves Isai orphaned, her aunt Rukmini fakes her horoscope to satisfy Subadra's rigid astrological demands and secure a marriage to Vishal.</desc>
+    <category>Drama</category>
+    <language>Tamil</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/299552fd4a9844ddaf48238b87af53fd.jpg?width=700"/>
+    <credits><actor>Rakshit</actor><actor>Swathi</actor><actor>Alya Manasa</actor></credits>
+    <episode-num system="onscreen">332</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015093000 +0530" stop="20261015100000 +0530" channel="jtv628">
@@ -618593,10 +618712,13 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015133000 +0530" stop="20261015140000 +0530" channel="jtv628">
-    <title>Zee Tamil</title>
-    <desc>Zee Tamil</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/75ce5b56110c1fd09b1217039d899bcb.jpg?width=700"/>
+    <title>Varisu</title>
+    <desc>Savvy businesswoman Janakambal enlists Tamil to reform her wayward grandson Cibi, hoping he'll prove worthy of inheriting her empire.</desc>
+    <category>Drama</category>
+    <language>Tamil</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/0370d9b502fb8b8c2e33b0243c3f0717.jpg?width=700"/>
+    <credits><director>Siva Sekar</director><actor>Haritha Thota</actor><actor>Jay Srinivas</actor><actor>Sonia Bose</actor><actor>Madhumitha Ilaiyaraaja</actor><actor>Swetha Dorathi</actor><actor>Thidiyanas</actor></credits>
+    <episode-num system="onscreen">409</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015140000 +0530" stop="20261015143000 +0530" channel="jtv628">
@@ -618668,10 +618790,13 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015172800 +0530" stop="20261015175700 +0530" channel="jtv628">
-    <title>Zee Tamil</title>
-    <desc>Zee Tamil</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/75ce5b56110c1fd09b1217039d899bcb.jpg?width=700"/>
+    <title>Varisu</title>
+    <desc>Savvy businesswoman Janakambal enlists Tamil to reform her wayward grandson Cibi, hoping he'll prove worthy of inheriting her empire.</desc>
+    <category>Drama</category>
+    <language>Tamil</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/0370d9b502fb8b8c2e33b0243c3f0717.jpg?width=700"/>
+    <credits><director>Siva Sekar</director><actor>Haritha Thota</actor><actor>Jay Srinivas</actor><actor>Sonia Bose</actor><actor>Madhumitha Ilaiyaraaja</actor><actor>Swetha Dorathi</actor><actor>Thidiyanas</actor></credits>
+    <episode-num system="onscreen">409</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015175700 +0530" stop="20261015182700 +0530" channel="jtv628">
@@ -618764,10 +618889,13 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015222900 +0530" stop="20261015230000 +0530" channel="jtv628">
-    <title>Zee Tamil</title>
-    <desc>Zee Tamil</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/75ce5b56110c1fd09b1217039d899bcb.jpg?width=700"/>
+    <title>Varisu</title>
+    <desc>Savvy businesswoman Janakambal enlists Tamil to reform her wayward grandson Cibi, hoping he'll prove worthy of inheriting her empire.</desc>
+    <category>Drama</category>
+    <language>Tamil</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/0370d9b502fb8b8c2e33b0243c3f0717.jpg?width=700"/>
+    <credits><director>Siva Sekar</director><actor>Haritha Thota</actor><actor>Jay Srinivas</actor><actor>Sonia Bose</actor><actor>Madhumitha Ilaiyaraaja</actor><actor>Swetha Dorathi</actor><actor>Thidiyanas</actor></credits>
+    <episode-num system="onscreen">409</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015230000 +0530" stop="20261015233000 +0530" channel="jtv628">
@@ -672286,11 +672414,10 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016061500 +0530" stop="20261016063000 +0530" channel="jtv726">
-    <title>Thirumandhiram</title>
-    <desc>A religious speaker delivers a discourse on sacred incantations from holy scriptures, guiding listeners on deepening their connection with the almighty and seeking divine blessings.</desc>
-    <category>Religious</category>
-    <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/85dd7f0d2bbfc86fe298b3d53af0f617.jpg?width=700"/>
+    <title>DD Tamil</title>
+    <desc>DD Tamil</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/24b666373e0d31908ae3d71cf72a511c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016063000 +0530" stop="20261016064500 +0530" channel="jtv726">
@@ -672302,11 +672429,12 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016064500 +0530" stop="20261016070000 +0530" channel="jtv726">
-    <title>Aran Naamam Aayiram</title>
-    <desc>A religious leader delivers a discourse on stories from sacred scriptures and urges the devotees to follow the path of righteousness.</desc>
+    <title>Eththikkum Thithikkum Muruga</title>
+    <desc>The host sheds light on the religious significance of different temples, situated across the region, dedicated to Lord Kartikeya.</desc>
     <category>Religious</category>
     <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/6338a00fbbe279989976824187c4c39f.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/892a3ec5a371cbf0b5e47e5d4c315383.jpg?width=700"/>
+    <episode-num system="onscreen">282</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016070000 +0530" stop="20261016070100 +0530" channel="jtv726">
@@ -672318,44 +672446,43 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016070100 +0530" stop="20261016071500 +0530" channel="jtv726">
-    <title>Dhinam Oru Kadhai</title>
-    <desc>A spiritual leader narrates several stories and highlights the importance of the glory, power, presence and wisdom of God to lead a blissful life.</desc>
-    <category>Religious</category>
-    <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/09310d1c4b19a1e4fb7a1daf1f83cad0.jpg?width=700"/>
+    <title>DD Tamil</title>
+    <desc>DD Tamil</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/24b666373e0d31908ae3d71cf72a511c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016071500 +0530" stop="20261016072000 +0530" channel="jtv726">
-    <title>Unavae Uyir</title>
-    <desc>A healthcare professional provides insightful dietary instructions and various effective tips to maintain a healthy lifestyle.</desc>
+    <title>Ayurvedha Sigichai Muraigal</title>
+    <desc>A medical professional sheds light on a range of treatments offered by a reputed ayurvedic healthcare centre that specialises in healing specific ailments.</desc>
     <category>Health</category>
     <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/a6309b48f734a8ad64dbc0e546ab542f.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/0a33d094dfc50d6979378a7890ccded3.jpg?width=700"/>
+    <episode-num system="onscreen">18</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016072000 +0530" stop="20261016072500 +0530" channel="jtv726">
-    <title>Valikku Vazhi</title>
-    <desc>A medical practitioner shares insightful information on pain management and highlights solutions for mitigating several health concerns.</desc>
+    <title>Siddhar Vazhi Maruthuvam</title>
+    <desc>The host explores and discusses various elements of Siddha medicine while also offering brilliant expert insights on different health issues.</desc>
     <category>Health</category>
     <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/50ccf08e038cbf79e78f524e8ee0a461.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/31755abd45d206d0118c0a1b48010211.jpg?width=700"/>
+    <episode-num system="onscreen">23</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016072500 +0530" stop="20261016073000 +0530" channel="jtv726">
-    <title>Arokkiya Vaazhvirkku Yoga</title>
-    <desc>A fitness expert demonstrates various yoga poses and breathing techniques to provide insights to lead a healthy, fit life.</desc>
-    <category>Health</category>
-    <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/51e2be078d76ef615431f094591a6c8e.jpg?width=700"/>
+    <title>DD Tamil</title>
+    <desc>DD Tamil</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/24b666373e0d31908ae3d71cf72a511c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016073000 +0530" stop="20261016080000 +0530" channel="jtv726">
-    <title>Oliyum Oliyum</title>
-    <desc>A comprehensive collection of highly popular and entertaining hit songs from various blockbuster Tamil movies to engage the audience.</desc>
-    <category>Music</category>
-    <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5d741533f910108891a19939e185640c.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <title>DD Tamil</title>
+    <desc>DD Tamil</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/24b666373e0d31908ae3d71cf72a511c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016080000 +0530" stop="20261016083000 +0530" channel="jtv726">
     <title>Seidhigal</title>
@@ -672371,6 +672498,7 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <category>Health</category>
     <language>Tamil</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/59c949f6b5b805e73c37747701bb782c.jpg?width=700"/>
+    <episode-num system="onscreen">749</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016090000 +0530" stop="20261016090500 +0530" channel="jtv726">
@@ -672381,20 +672509,30 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ee7507eb98258e40570b12759f667fa5.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
-  <programme start="20261016090500 +0530" stop="20261016093000 +0530" channel="jtv726">
-    <title>Kanaga Sabhai</title>
-    <desc>Gifted singers and musicians deliver mesmerising performances of harmonious songs, beautifully composed to honour the Almighty.</desc>
-    <category>Religious</category>
+  <programme start="20261016090500 +0530" stop="20261016092000 +0530" channel="jtv726">
+    <title>Naveena Maruthuvam</title>
+    <desc>Naveena Maruthuvam</desc>
+    <category>Entertainment</category>
     <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/934d684d3482345e502e7655ebda6fed.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/b6ee8b38fd7dba26c7be6e08efdbbf38.jpg?width=700"/>
+    <episode-num system="onscreen">108</episode-num>
+    <rating><value>U</value></rating>
+  </programme>
+  <programme start="20261016092000 +0530" stop="20261016093000 +0530" channel="jtv726">
+    <title>Isaiyum Iraiarulum</title>
+    <desc>The host sheds light on the grand celebration of the Panguni festival comprising sixty-three ceremonial rituals and a grand procession.</desc>
+    <category>Entertainment</category>
+    <language>Tamil</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/3ce9599d6fcfd943919a634651df0731.jpg?width=700"/>
+    <episode-num system="onscreen">78</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016093000 +0530" stop="20261016100000 +0530" channel="jtv726">
-    <title>Shree Ganesh</title>
-    <desc>Lord Ganesha, the son of Lord Shiva and Goddess Parvati, fights evil forces to save the world and protect innocent disciples.</desc>
-    <category>Religious</category>
+    <title>Chef's Kitchen</title>
+    <desc>Notable chefs prepare their favourite delicious recipes and share various cooking secrets to help make the cooking process efficient.</desc>
+    <category>Cooking</category>
     <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/805cf58eb41396e19b3e1d560a36e753.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/6c5d1a94cc79f40b7f8361298fd6a735.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016100000 +0530" stop="20261016100500 +0530" channel="jtv726">
@@ -672405,12 +672543,22 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ee7507eb98258e40570b12759f667fa5.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
-  <programme start="20261016100500 +0530" stop="20261016110000 +0530" channel="jtv726">
-    <title>Velaan Kalam</title>
-    <desc>The host interacts with experts who provide a comprehensive insight into various importance matters related to agriculture and fisheries.</desc>
-    <category>Agriculture</category>
+  <programme start="20261016100500 +0530" stop="20261016103000 +0530" channel="jtv726">
+    <title>Bhoomiyin Kadhai</title>
+    <desc>The host presents in-depth information about the various plant species, the conditions in which they thrive and the continuity in their life form.</desc>
+    <category>Science</category>
     <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f0711f53ccbd9e8cf37cf71972aeb838.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5b3d6fe39c8824fc79b81520accb8150.jpg?width=700"/>
+    <episode-num system="onscreen">25</episode-num>
+    <rating><value>U</value></rating>
+  </programme>
+  <programme start="20261016103000 +0530" stop="20261016110000 +0530" channel="jtv726">
+    <title>Shakthi IPS</title>
+    <desc>A shy, small-town girl overcomes love, challenges and societal barriers in order to achieve her dream of becoming an IPS officer.</desc>
+    <category>Drama</category>
+    <language>Tamil</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/63f767b8f94c40c960d5dc5269d0c22f.jpg?width=700"/>
+    <episode-num system="onscreen">343</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016110000 +0530" stop="20261016113000 +0530" channel="jtv726">
@@ -672422,12 +672570,13 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016113000 +0530" stop="20261016120000 +0530" channel="jtv726">
-    <title>Budget Kudumbam</title>
-    <desc>A woman hailing from a middle-class background dreams of owning a house. However, her aspirations are constantly thwarted by familial responsibilities and financial constraints.</desc>
-    <category>Drama</category>
+    <title>Thaayammaa Kudumbathar</title>
+    <desc>Thayamma takes care of her family and caters to her husband, who has a physical disability. Meanwhile, a woman who blames Thayamma and her family for her husband's death, vows revenge against them.</desc>
+    <category>Soap</category>
     <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ac3934a1283dd98c0eeb2396c3b9693d.jpg?width=700"/>
-    <credits><director>S.N. Shakthivel</director><actor>Sushma Sunil Nair</actor><actor>Kurinji Nathan</actor><actor>Sharvesh</actor></credits>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/26a0c697a929106e5b270b8c572c4d7a.jpg?width=700"/>
+    <credits><director>E. Vikkiramathithan</director><actor>Radhika Sarath Kumar</actor><actor>Venu Arvind</actor><actor>Mahalakshmi</actor><actor>Arjun</actor><actor>Praharshitha</actor><actor>Vittal</actor><actor>Harshini</actor></credits>
+    <episode-num system="onscreen">414</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016120000 +0530" stop="20261016120500 +0530" channel="jtv726">
@@ -672438,21 +672587,12 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ee7507eb98258e40570b12759f667fa5.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
-  <programme start="20261016120500 +0530" stop="20261016123000 +0530" channel="jtv726">
-    <title>Thaayammaa Kudumbathar</title>
-    <desc>Thayamma takes care of her family and caters to her husband, who has a physical disability. Meanwhile, a woman who blames Thayamma and her family for her husband's death, vows revenge against them.</desc>
-    <category>Soap</category>
+  <programme start="20261016120500 +0530" stop="20261016130000 +0530" channel="jtv726">
+    <title>Velaan Kalam</title>
+    <desc>The host interacts with experts who provide a comprehensive insight into various importance matters related to agriculture and fisheries.</desc>
+    <category>Agriculture</category>
     <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/26a0c697a929106e5b270b8c572c4d7a.jpg?width=700"/>
-    <credits><director>E. Vikkiramathithan</director><actor>Radhika Sarath Kumar</actor><actor>Venu Arvind</actor><actor>Mahalakshmi</actor><actor>Arjun</actor><actor>Praharshitha</actor><actor>Vittal</actor><actor>Harshini</actor></credits>
-    <rating><value>U</value></rating>
-  </programme>
-  <programme start="20261016123000 +0530" stop="20261016130000 +0530" channel="jtv726">
-    <title>Shakthi IPS</title>
-    <desc>A shy, small-town girl overcomes love, challenges and societal barriers in order to achieve her dream of becoming an IPS officer.</desc>
-    <category>Drama</category>
-    <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/63f767b8f94c40c960d5dc5269d0c22f.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f0711f53ccbd9e8cf37cf71972aeb838.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016130000 +0530" stop="20261016133000 +0530" channel="jtv726">
@@ -672479,13 +672619,42 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ee7507eb98258e40570b12759f667fa5.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
-  <programme start="20261016140500 +0530" stop="20261016170000 +0530" channel="jtv726">
-    <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+  <programme start="20261016140500 +0530" stop="20261016150000 +0530" channel="jtv726">
+    <title>DD Tamil</title>
+    <desc>DD Tamil</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/24b666373e0d31908ae3d71cf72a511c.jpg?width=700"/>
+    <rating><value>U</value></rating>
+  </programme>
+  <programme start="20261016150000 +0530" stop="20261016150500 +0530" channel="jtv726">
+    <title>Express News</title>
+    <desc>The host presents a rapid update of the top news headlines, latest happenings and significant updates from different parts of the country.</desc>
+    <category>News</category>
     <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ee7507eb98258e40570b12759f667fa5.jpg?width=700"/>
+    <rating><value>U</value></rating>
+  </programme>
+  <programme start="20261016150500 +0530" stop="20261016160000 +0530" channel="jtv726">
+    <title>DD Tamil</title>
+    <desc>DD Tamil</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/24b666373e0d31908ae3d71cf72a511c.jpg?width=700"/>
+    <rating><value>U</value></rating>
+  </programme>
+  <programme start="20261016160000 +0530" stop="20261016160500 +0530" channel="jtv726">
+    <title>Express News</title>
+    <desc>The host presents a rapid update of the top news headlines, latest happenings and significant updates from different parts of the country.</desc>
+    <category>News</category>
+    <language>Tamil</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ee7507eb98258e40570b12759f667fa5.jpg?width=700"/>
+    <rating><value>U</value></rating>
+  </programme>
+  <programme start="20261016160500 +0530" stop="20261016170000 +0530" channel="jtv726">
+    <title>DD Tamil</title>
+    <desc>DD Tamil</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/24b666373e0d31908ae3d71cf72a511c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016170000 +0530" stop="20261016173000 +0530" channel="jtv726">
     <title>Seidhigal</title>
@@ -672496,11 +672665,11 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016173000 +0530" stop="20261016180000 +0530" channel="jtv726">
-    <title>Pon Vilaiyum Bhoomi</title>
-    <desc>The host provides a comprehensive coverage of various success stories from the field of agriculture and fisheries from across the region.</desc>
-    <category>Religious</category>
+    <title>Velaan Paarvai</title>
+    <desc>Agricultural experts share valuable insights into modern farming techniques, crop management and sustainable agricultural practices to help farmers enhance productivity.</desc>
+    <category>Agriculture</category>
     <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/51c44acc7020a5f45e7a0f46aeb73769.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/24b666373e0d31908ae3d71cf72a511c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016180000 +0530" stop="20261016180500 +0530" channel="jtv726">
@@ -672512,19 +672681,20 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016180500 +0530" stop="20261016183000 +0530" channel="jtv726">
-    <title>Shree Ganesh</title>
-    <desc>Lord Ganesha, the son of Lord Shiva and Goddess Parvati, fights evil forces to save the world and protect innocent disciples.</desc>
-    <category>Religious</category>
+    <title>Kutties Galatta</title>
+    <desc>Young participants dress as various popular personalities and characters, showcasing their talents in singing, dancing and poetry.</desc>
+    <category>Entertainment</category>
     <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/805cf58eb41396e19b3e1d560a36e753.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/1baf5a41a1e9c653d1319562b053331d.jpg?width=700"/>
+    <episode-num system="onscreen">57</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016183000 +0530" stop="20261016190000 +0530" channel="jtv726">
-    <title>Shakthi IPS</title>
-    <desc>A shy, small-town girl overcomes love, challenges and societal barriers in order to achieve her dream of becoming an IPS officer.</desc>
-    <category>Drama</category>
+    <title>Abirami Anthadhiyin Magimai</title>
+    <desc>Abirami Anthadhiyin Magimai</desc>
+    <category>Religious</category>
     <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/63f767b8f94c40c960d5dc5269d0c22f.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/24b666373e0d31908ae3d71cf72a511c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016190000 +0530" stop="20261016193000 +0530" channel="jtv726">
@@ -672536,29 +672706,25 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016193000 +0530" stop="20261016200000 +0530" channel="jtv726">
-    <title>Edhirum Pudhirum</title>
-    <desc>The host invites a panel of experts to discuss and analyse various key matters of national and international importance.</desc>
+    <title>Pesum Neram</title>
+    <desc>The host engages in lively discussions on current affairs, social issues and cultural topics with guests, providing insights on matters of public interest.</desc>
     <category>News</category>
     <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/9928eba7d447ac8c459374a13f26bbc9.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/2c93ca6f9bf3714bb48dee5972a9a868.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016200000 +0530" stop="20261016203000 +0530" channel="jtv726">
-    <title>Budget Kudumbam</title>
-    <desc>A woman hailing from a middle-class background dreams of owning a house. However, her aspirations are constantly thwarted by familial responsibilities and financial constraints.</desc>
-    <category>Drama</category>
-    <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ac3934a1283dd98c0eeb2396c3b9693d.jpg?width=700"/>
-    <credits><director>S.N. Shakthivel</director><actor>Sushma Sunil Nair</actor><actor>Kurinji Nathan</actor><actor>Sharvesh</actor></credits>
+    <title>DD Tamil</title>
+    <desc>DD Tamil</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/24b666373e0d31908ae3d71cf72a511c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016203000 +0530" stop="20261016210000 +0530" channel="jtv726">
-    <title>Thaayammaa Kudumbathar</title>
-    <desc>Thayamma takes care of her family and caters to her husband, who has a physical disability. Meanwhile, a woman who blames Thayamma and her family for her husband's death, vows revenge against them.</desc>
-    <category>Soap</category>
-    <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/26a0c697a929106e5b270b8c572c4d7a.jpg?width=700"/>
-    <credits><director>E. Vikkiramathithan</director><actor>Radhika Sarath Kumar</actor><actor>Venu Arvind</actor><actor>Mahalakshmi</actor><actor>Arjun</actor><actor>Praharshitha</actor><actor>Vittal</actor><actor>Harshini</actor></credits>
+    <title>DD Tamil</title>
+    <desc>DD Tamil</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/24b666373e0d31908ae3d71cf72a511c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016210000 +0530" stop="20261016210500 +0530" channel="jtv726">
@@ -672569,20 +672735,12 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ee7507eb98258e40570b12759f667fa5.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
-  <programme start="20261016210500 +0530" stop="20261016213000 +0530" channel="jtv726">
-    <title>Comedy Galatta</title>
-    <desc>Talented and renowned comedians take the stage to perform hilarious skits that leave the audience in splits of laughter.</desc>
-    <category>Comedy</category>
-    <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/046033e134131f2c6d42a07d8bae1ef7.jpg?width=700"/>
-    <rating><value>U</value></rating>
-  </programme>
-  <programme start="20261016213000 +0530" stop="20261016220000 +0530" channel="jtv726">
-    <title>Naangu Killaadigal</title>
-    <desc>A group of youngsters faces hilarious situations when they decide to help a couple who elopes despite their parents' objection to their union.</desc>
+  <programme start="20261016210500 +0530" stop="20261016220000 +0530" channel="jtv726">
+    <title>Tirumala Tirupathi Sri Venkateswara Swamy Brahmotsavam</title>
+    <desc>Tirumala Tirupathi Sri Venkateswara Swamy Brahmotsavam</desc>
     <category>Religious</category>
     <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ce6c8306b47c248a7061aeabf5134abd.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/4e79e296aaecb2de50949d4e7ea9a190.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016220000 +0530" stop="20261016223000 +0530" channel="jtv726">
@@ -672594,12 +672752,11 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016223000 +0530" stop="20261016235959 +0530" channel="jtv726">
-    <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
-    <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <title>DD Tamil</title>
+    <desc>DD Tamil</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/24b666373e0d31908ae3d71cf72a511c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261015000000 +0530" stop="20261015003000 +0530" channel="jtv727">
     <title>Ragasiya Kelvigal</title>
@@ -732661,83 +732818,83 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015080000 +0530" stop="20261015081400 +0530" channel="jtv872">
-    <title>Guru Aur Bhole</title>
-    <desc>Guru accidentally eats a bullet instead of a tablet and he later gains magnetic powers.</desc>
+    <title>Paap-O-Meter</title>
+    <desc>Thakela and Pakela are on their way to teach a lesson to the man who is cheating children for money at the fare.</desc>
     <category>Anime</category>
     <language>Hindi</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/92bd32aaf1cff4bcc7740e3a9a74e44f.jpg?width=700"/>
     <credits><director>Mitsuru Hongo</director><actor>Tanja Geke</actor><actor>Bernhard Völger</actor><actor>Bernd Schramm</actor><actor>Cathlen Gawlich</actor><actor>Christin Marquitan</actor><actor>Detlef Bierstedt</actor><actor>Susanne Geier</actor><actor>Anja Rybiczka</actor><actor>Arianne Borbach</actor><actor>Eva-Maria Werth</actor></credits>
-    <episode-num system="onscreen">20</episode-num>
+    <episode-num system="onscreen">70</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015080000 +0530" stop="20261015081400 +0530" channel="Sony.YAY!.in">
-    <title>Guru Aur Bhole</title>
-    <desc>Guru accidentally eats a bullet instead of a tablet and he later gains magnetic powers.</desc>
+    <title>Paap-O-Meter</title>
+    <desc>Thakela and Pakela are on their way to teach a lesson to the man who is cheating children for money at the fare.</desc>
     <category>Anime</category>
     <language>Hindi</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/92bd32aaf1cff4bcc7740e3a9a74e44f.jpg?width=700"/>
     <credits><director>Mitsuru Hongo</director><actor>Tanja Geke</actor><actor>Bernhard Völger</actor><actor>Bernd Schramm</actor><actor>Cathlen Gawlich</actor><actor>Christin Marquitan</actor><actor>Detlef Bierstedt</actor><actor>Susanne Geier</actor><actor>Anja Rybiczka</actor><actor>Arianne Borbach</actor><actor>Eva-Maria Werth</actor></credits>
-    <episode-num system="onscreen">20</episode-num>
+    <episode-num system="onscreen">70</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015081400 +0530" stop="20261015082200 +0530" channel="jtv872">
-    <title>Paap-O-Meter</title>
-    <desc>A kid complains about the bad omen of Jalkukda uncle. How will this mystery be solved?</desc>
+    <title>Honey Bunny Ka Jholmaal</title>
+    <desc>Katkar receives a termination letter from her boss.</desc>
     <category>Anime</category>
     <language>Hindi</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/92bd32aaf1cff4bcc7740e3a9a74e44f.jpg?width=700"/>
     <credits><director>Mitsuru Hongo</director><actor>Tanja Geke</actor><actor>Bernhard Völger</actor><actor>Bernd Schramm</actor><actor>Cathlen Gawlich</actor><actor>Christin Marquitan</actor><actor>Detlef Bierstedt</actor><actor>Susanne Geier</actor><actor>Anja Rybiczka</actor><actor>Arianne Borbach</actor><actor>Eva-Maria Werth</actor></credits>
-    <episode-num system="onscreen">237</episode-num>
+    <episode-num system="onscreen">570</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015081400 +0530" stop="20261015082200 +0530" channel="Sony.YAY!.in">
-    <title>Paap-O-Meter</title>
-    <desc>A kid complains about the bad omen of Jalkukda uncle. How will this mystery be solved?</desc>
+    <title>Honey Bunny Ka Jholmaal</title>
+    <desc>Katkar receives a termination letter from her boss.</desc>
     <category>Anime</category>
     <language>Hindi</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/92bd32aaf1cff4bcc7740e3a9a74e44f.jpg?width=700"/>
     <credits><director>Mitsuru Hongo</director><actor>Tanja Geke</actor><actor>Bernhard Völger</actor><actor>Bernd Schramm</actor><actor>Cathlen Gawlich</actor><actor>Christin Marquitan</actor><actor>Detlef Bierstedt</actor><actor>Susanne Geier</actor><actor>Anja Rybiczka</actor><actor>Arianne Borbach</actor><actor>Eva-Maria Werth</actor></credits>
-    <episode-num system="onscreen">237</episode-num>
+    <episode-num system="onscreen">570</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015082200 +0530" stop="20261015083000 +0530" channel="jtv872">
-    <title>Paap-O-Meter</title>
-    <desc>The ghosts play pranks on each other on April's Fool day.</desc>
+    <title>Sudha Murty's Stories of Wit &amp; Magic</title>
+    <desc>A tale of a fisherman who comes across a golden fish and encounters a demon.</desc>
     <category>Anime</category>
     <language>Hindi</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/92bd32aaf1cff4bcc7740e3a9a74e44f.jpg?width=700"/>
     <credits><director>Mitsuru Hongo</director><actor>Tanja Geke</actor><actor>Bernhard Völger</actor><actor>Bernd Schramm</actor><actor>Cathlen Gawlich</actor><actor>Christin Marquitan</actor><actor>Detlef Bierstedt</actor><actor>Susanne Geier</actor><actor>Anja Rybiczka</actor><actor>Arianne Borbach</actor><actor>Eva-Maria Werth</actor></credits>
-    <episode-num system="onscreen">197</episode-num>
+    <episode-num system="onscreen">1</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015082200 +0530" stop="20261015083000 +0530" channel="Sony.YAY!.in">
-    <title>Paap-O-Meter</title>
-    <desc>The ghosts play pranks on each other on April's Fool day.</desc>
+    <title>Sudha Murty's Stories of Wit &amp; Magic</title>
+    <desc>A tale of a fisherman who comes across a golden fish and encounters a demon.</desc>
     <category>Anime</category>
     <language>Hindi</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/92bd32aaf1cff4bcc7740e3a9a74e44f.jpg?width=700"/>
     <credits><director>Mitsuru Hongo</director><actor>Tanja Geke</actor><actor>Bernhard Völger</actor><actor>Bernd Schramm</actor><actor>Cathlen Gawlich</actor><actor>Christin Marquitan</actor><actor>Detlef Bierstedt</actor><actor>Susanne Geier</actor><actor>Anja Rybiczka</actor><actor>Arianne Borbach</actor><actor>Eva-Maria Werth</actor></credits>
-    <episode-num system="onscreen">197</episode-num>
+    <episode-num system="onscreen">1</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015083000 +0530" stop="20261015084700 +0530" channel="jtv872">
-    <title>Guru Aur Bhole</title>
-    <desc>Watch the adventures of Guru Aur Bhole as they sing and dance their way through life.</desc>
+    <title>Honey Bunny Ka Jholmaal</title>
+    <desc>Honey, Bunny and the gang are practising for the National Camp. How will they perform?</desc>
     <category>Anime</category>
     <language>Hindi</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/92bd32aaf1cff4bcc7740e3a9a74e44f.jpg?width=700"/>
     <credits><director>Mitsuru Hongo</director><actor>Tanja Geke</actor><actor>Bernhard Völger</actor><actor>Bernd Schramm</actor><actor>Cathlen Gawlich</actor><actor>Christin Marquitan</actor><actor>Detlef Bierstedt</actor><actor>Susanne Geier</actor><actor>Anja Rybiczka</actor><actor>Arianne Borbach</actor><actor>Eva-Maria Werth</actor></credits>
-    <episode-num system="onscreen">149</episode-num>
+    <episode-num system="onscreen">245</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015083000 +0530" stop="20261015084700 +0530" channel="Sony.YAY!.in">
-    <title>Guru Aur Bhole</title>
-    <desc>Watch the adventures of Guru Aur Bhole as they sing and dance their way through life.</desc>
+    <title>Honey Bunny Ka Jholmaal</title>
+    <desc>Honey, Bunny and the gang are practising for the National Camp. How will they perform?</desc>
     <category>Anime</category>
     <language>Hindi</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/92bd32aaf1cff4bcc7740e3a9a74e44f.jpg?width=700"/>
     <credits><director>Mitsuru Hongo</director><actor>Tanja Geke</actor><actor>Bernhard Völger</actor><actor>Bernd Schramm</actor><actor>Cathlen Gawlich</actor><actor>Christin Marquitan</actor><actor>Detlef Bierstedt</actor><actor>Susanne Geier</actor><actor>Anja Rybiczka</actor><actor>Arianne Borbach</actor><actor>Eva-Maria Werth</actor></credits>
-    <episode-num system="onscreen">149</episode-num>
+    <episode-num system="onscreen">245</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015084700 +0530" stop="20261015085400 +0530" channel="jtv872">
@@ -732747,7 +732904,7 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <language>Hindi</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/92bd32aaf1cff4bcc7740e3a9a74e44f.jpg?width=700"/>
     <credits><director>Mitsuru Hongo</director><actor>Tanja Geke</actor><actor>Bernhard Völger</actor><actor>Bernd Schramm</actor><actor>Cathlen Gawlich</actor><actor>Christin Marquitan</actor><actor>Detlef Bierstedt</actor><actor>Susanne Geier</actor><actor>Anja Rybiczka</actor><actor>Arianne Borbach</actor><actor>Eva-Maria Werth</actor></credits>
-    <episode-num system="onscreen">60</episode-num>
+    <episode-num system="onscreen">67</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015084700 +0530" stop="20261015085400 +0530" channel="Sony.YAY!.in">
@@ -732757,27 +732914,27 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <language>Hindi</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/92bd32aaf1cff4bcc7740e3a9a74e44f.jpg?width=700"/>
     <credits><director>Mitsuru Hongo</director><actor>Tanja Geke</actor><actor>Bernhard Völger</actor><actor>Bernd Schramm</actor><actor>Cathlen Gawlich</actor><actor>Christin Marquitan</actor><actor>Detlef Bierstedt</actor><actor>Susanne Geier</actor><actor>Anja Rybiczka</actor><actor>Arianne Borbach</actor><actor>Eva-Maria Werth</actor></credits>
-    <episode-num system="onscreen">60</episode-num>
+    <episode-num system="onscreen">67</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015085400 +0530" stop="20261015090200 +0530" channel="jtv872">
     <title>Sudha Murty's Stories of Wit &amp; Magic</title>
-    <desc>Karan and Arjun, lifelong friends, get lost in a forest on the way home. Can they find their way back safely?</desc>
+    <desc>Once upon a time, the water from the sea would taste sweet. What could have happened that turned the sea water salty?</desc>
     <category>Anime</category>
     <language>Hindi</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/92bd32aaf1cff4bcc7740e3a9a74e44f.jpg?width=700"/>
     <credits><director>Mitsuru Hongo</director><actor>Tanja Geke</actor><actor>Bernhard Völger</actor><actor>Bernd Schramm</actor><actor>Cathlen Gawlich</actor><actor>Christin Marquitan</actor><actor>Detlef Bierstedt</actor><actor>Susanne Geier</actor><actor>Anja Rybiczka</actor><actor>Arianne Borbach</actor><actor>Eva-Maria Werth</actor></credits>
-    <episode-num system="onscreen">16</episode-num>
+    <episode-num system="onscreen">13</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015085400 +0530" stop="20261015090200 +0530" channel="Sony.YAY!.in">
     <title>Sudha Murty's Stories of Wit &amp; Magic</title>
-    <desc>Karan and Arjun, lifelong friends, get lost in a forest on the way home. Can they find their way back safely?</desc>
+    <desc>Once upon a time, the water from the sea would taste sweet. What could have happened that turned the sea water salty?</desc>
     <category>Anime</category>
     <language>Hindi</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/92bd32aaf1cff4bcc7740e3a9a74e44f.jpg?width=700"/>
     <credits><director>Mitsuru Hongo</director><actor>Tanja Geke</actor><actor>Bernhard Völger</actor><actor>Bernd Schramm</actor><actor>Cathlen Gawlich</actor><actor>Christin Marquitan</actor><actor>Detlef Bierstedt</actor><actor>Susanne Geier</actor><actor>Anja Rybiczka</actor><actor>Arianne Borbach</actor><actor>Eva-Maria Werth</actor></credits>
-    <episode-num system="onscreen">16</episode-num>
+    <episode-num system="onscreen">13</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015090200 +0530" stop="20261015092000 +0530" channel="jtv872">
@@ -737452,62 +737609,62 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
   </programme>
   <programme start="20261015080000 +0530" stop="20261015081400 +0530" channel="jtv873">
     <title>Honey Bunny Ka Jholmaal</title>
-    <desc>A man tricks Dr Bhalu for his money and the police chase the criminal.</desc>
+    <desc>Honey Bunny and friends get into trouble. Who will come to their rescue?</desc>
     <category>Anime</category>
     <language>Tamil</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/92bd32aaf1cff4bcc7740e3a9a74e44f.jpg?width=700"/>
     <credits><director>Mitsuru Hongo</director><actor>Tanja Geke</actor><actor>Bernhard Völger</actor><actor>Bernd Schramm</actor><actor>Cathlen Gawlich</actor><actor>Christin Marquitan</actor><actor>Detlef Bierstedt</actor><actor>Susanne Geier</actor><actor>Anja Rybiczka</actor><actor>Arianne Borbach</actor><actor>Eva-Maria Werth</actor></credits>
-    <episode-num system="onscreen">575</episode-num>
+    <episode-num system="onscreen">199</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015081400 +0530" stop="20261015082200 +0530" channel="jtv873">
-    <title>Honey Bunny Ka Jholmaal</title>
-    <desc>Honey Bunny and Popat get Zordaar to visit the Fun Fair, but with no money they play a game to earn some.</desc>
+    <title>Paap-O-Meter</title>
+    <desc>Bhoot Boss, Thakela and Pakela get caught up in a crazy adventure. Watch to find out.</desc>
     <category>Anime</category>
     <language>Tamil</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/92bd32aaf1cff4bcc7740e3a9a74e44f.jpg?width=700"/>
     <credits><director>Mitsuru Hongo</director><actor>Tanja Geke</actor><actor>Bernhard Völger</actor><actor>Bernd Schramm</actor><actor>Cathlen Gawlich</actor><actor>Christin Marquitan</actor><actor>Detlef Bierstedt</actor><actor>Susanne Geier</actor><actor>Anja Rybiczka</actor><actor>Arianne Borbach</actor><actor>Eva-Maria Werth</actor></credits>
-    <episode-num system="onscreen">2</episode-num>
+    <episode-num system="onscreen">294</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015082200 +0530" stop="20261015083000 +0530" channel="jtv873">
     <title>Paap-O-Meter</title>
-    <desc>A man steals a few ladies' chain and runs. Will Thakela and Pakela and thier boss be able to catch him?</desc>
+    <desc>Bhoot Boss, Thakela and Pakela get caught up in a crazy adventure. Watch to find out.</desc>
     <category>Anime</category>
     <language>Tamil</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/92bd32aaf1cff4bcc7740e3a9a74e44f.jpg?width=700"/>
     <credits><director>Mitsuru Hongo</director><actor>Tanja Geke</actor><actor>Bernhard Völger</actor><actor>Bernd Schramm</actor><actor>Cathlen Gawlich</actor><actor>Christin Marquitan</actor><actor>Detlef Bierstedt</actor><actor>Susanne Geier</actor><actor>Anja Rybiczka</actor><actor>Arianne Borbach</actor><actor>Eva-Maria Werth</actor></credits>
-    <episode-num system="onscreen">38</episode-num>
+    <episode-num system="onscreen">303</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015083000 +0530" stop="20261015084700 +0530" channel="jtv873">
-    <title>Guru Aur Bhole</title>
-    <desc>Guru and Bhole break Major's remote control plane. Major tells Buru and Bhole to learn paragliding before using it again.</desc>
+    <title>Honey Bunny Ka Jholmaal</title>
+    <desc>Honey becomes the leader of the donkeys. What will he do?</desc>
     <category>Anime</category>
     <language>Tamil</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/92bd32aaf1cff4bcc7740e3a9a74e44f.jpg?width=700"/>
     <credits><director>Mitsuru Hongo</director><actor>Tanja Geke</actor><actor>Bernhard Völger</actor><actor>Bernd Schramm</actor><actor>Cathlen Gawlich</actor><actor>Christin Marquitan</actor><actor>Detlef Bierstedt</actor><actor>Susanne Geier</actor><actor>Anja Rybiczka</actor><actor>Arianne Borbach</actor><actor>Eva-Maria Werth</actor></credits>
-    <episode-num system="onscreen">72</episode-num>
+    <episode-num system="onscreen">590</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015084700 +0530" stop="20261015085400 +0530" channel="jtv873">
-    <title>Kicko And Super Speedo</title>
-    <desc>Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?</desc>
+    <title>Sudha Murty's Stories of Wit &amp; Magic</title>
+    <desc>A tale of a fisherman who comes across a golden fish and encounters a demon.</desc>
     <category>Anime</category>
     <language>Tamil</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/92bd32aaf1cff4bcc7740e3a9a74e44f.jpg?width=700"/>
     <credits><director>Mitsuru Hongo</director><actor>Tanja Geke</actor><actor>Bernhard Völger</actor><actor>Bernd Schramm</actor><actor>Cathlen Gawlich</actor><actor>Christin Marquitan</actor><actor>Detlef Bierstedt</actor><actor>Susanne Geier</actor><actor>Anja Rybiczka</actor><actor>Arianne Borbach</actor><actor>Eva-Maria Werth</actor></credits>
-    <episode-num system="onscreen">34</episode-num>
+    <episode-num system="onscreen">1</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015085400 +0530" stop="20261015090200 +0530" channel="jtv873">
-    <title>Kicko And Super Speedo</title>
-    <desc>Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?</desc>
+    <title>Honey Bunny Ka Jholmaal</title>
+    <desc>Honey and his friends decide to visit the docks. What happens at the dockyard?</desc>
     <category>Anime</category>
     <language>Tamil</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/92bd32aaf1cff4bcc7740e3a9a74e44f.jpg?width=700"/>
     <credits><director>Mitsuru Hongo</director><actor>Tanja Geke</actor><actor>Bernhard Völger</actor><actor>Bernd Schramm</actor><actor>Cathlen Gawlich</actor><actor>Christin Marquitan</actor><actor>Detlef Bierstedt</actor><actor>Susanne Geier</actor><actor>Anja Rybiczka</actor><actor>Arianne Borbach</actor><actor>Eva-Maria Werth</actor></credits>
-    <episode-num system="onscreen">48</episode-num>
+    <episode-num system="onscreen">514</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015090200 +0530" stop="20261015092000 +0530" channel="jtv873">
@@ -740111,63 +740268,63 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015080000 +0530" stop="20261015081400 +0530" channel="jtv874">
-    <title>Honey Bunny Ka Jholmaal</title>
-    <desc>Watch Honey, Bunny and his friends embark upon myriad adventures as they cruise through life.</desc>
+    <title>Paap-O-Meter</title>
+    <desc>Thakela and Pakela meet a talking tree who shares his fear towards humans as they are rampantly killing trees.</desc>
     <category>Anime</category>
     <language>Telugu</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/92bd32aaf1cff4bcc7740e3a9a74e44f.jpg?width=700"/>
     <credits><director>Mitsuru Hongo</director><actor>Tanja Geke</actor><actor>Bernhard Völger</actor><actor>Bernd Schramm</actor><actor>Cathlen Gawlich</actor><actor>Christin Marquitan</actor><actor>Detlef Bierstedt</actor><actor>Susanne Geier</actor><actor>Anja Rybiczka</actor><actor>Arianne Borbach</actor><actor>Eva-Maria Werth</actor></credits>
-    <episode-num system="onscreen">647</episode-num>
+    <episode-num system="onscreen">158</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015081400 +0530" stop="20261015082200 +0530" channel="jtv874">
-    <title>Honey Bunny Ka Jholmaal</title>
-    <desc>Watch Honey, Bunny and his friends embark upon myriad adventures as they cruise through life.</desc>
-    <category>Anime</category>
-    <language>Telugu</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/92bd32aaf1cff4bcc7740e3a9a74e44f.jpg?width=700"/>
-    <credits><director>Mitsuru Hongo</director><actor>Tanja Geke</actor><actor>Bernhard Völger</actor><actor>Bernd Schramm</actor><actor>Cathlen Gawlich</actor><actor>Christin Marquitan</actor><actor>Detlef Bierstedt</actor><actor>Susanne Geier</actor><actor>Anja Rybiczka</actor><actor>Arianne Borbach</actor><actor>Eva-Maria Werth</actor></credits>
-    <episode-num system="onscreen">633</episode-num>
-    <rating><value>U</value></rating>
-  </programme>
-  <programme start="20261015082200 +0530" stop="20261015083000 +0530" channel="jtv874">
     <title>Kicko And Super Speedo</title>
     <desc>Sun City is continuously under attack from villains. Will Kicko and his best friend Super Speedo be able to defend the city?</desc>
     <category>Anime</category>
     <language>Telugu</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/92bd32aaf1cff4bcc7740e3a9a74e44f.jpg?width=700"/>
     <credits><director>Mitsuru Hongo</director><actor>Tanja Geke</actor><actor>Bernhard Völger</actor><actor>Bernd Schramm</actor><actor>Cathlen Gawlich</actor><actor>Christin Marquitan</actor><actor>Detlef Bierstedt</actor><actor>Susanne Geier</actor><actor>Anja Rybiczka</actor><actor>Arianne Borbach</actor><actor>Eva-Maria Werth</actor></credits>
-    <episode-num system="onscreen">103</episode-num>
+    <episode-num system="onscreen">80</episode-num>
+    <rating><value>U</value></rating>
+  </programme>
+  <programme start="20261015082200 +0530" stop="20261015083000 +0530" channel="jtv874">
+    <title>Paap-O-Meter</title>
+    <desc>The ghosts enter a bird house.</desc>
+    <category>Anime</category>
+    <language>Telugu</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/92bd32aaf1cff4bcc7740e3a9a74e44f.jpg?width=700"/>
+    <credits><director>Mitsuru Hongo</director><actor>Tanja Geke</actor><actor>Bernhard Völger</actor><actor>Bernd Schramm</actor><actor>Cathlen Gawlich</actor><actor>Christin Marquitan</actor><actor>Detlef Bierstedt</actor><actor>Susanne Geier</actor><actor>Anja Rybiczka</actor><actor>Arianne Borbach</actor><actor>Eva-Maria Werth</actor></credits>
+    <episode-num system="onscreen">192</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015083000 +0530" stop="20261015084700 +0530" channel="jtv874">
-    <title>Honey Bunny Ka Jholmaal</title>
-    <desc>Mr Khanna gets a promotion that requires him to relocate with Kitty. Hence, Honey and his friends throw Kitty a farewell party.</desc>
+    <title>Sudha Murty's Stories of Wit &amp; Magic</title>
+    <desc>Vineet and Vidur live next to each other, but their worlds are wide apart. How will they coexist?</desc>
     <category>Anime</category>
     <language>Telugu</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/92bd32aaf1cff4bcc7740e3a9a74e44f.jpg?width=700"/>
     <credits><director>Mitsuru Hongo</director><actor>Tanja Geke</actor><actor>Bernhard Völger</actor><actor>Bernd Schramm</actor><actor>Cathlen Gawlich</actor><actor>Christin Marquitan</actor><actor>Detlef Bierstedt</actor><actor>Susanne Geier</actor><actor>Anja Rybiczka</actor><actor>Arianne Borbach</actor><actor>Eva-Maria Werth</actor></credits>
-    <episode-num system="onscreen">625</episode-num>
+    <episode-num system="onscreen">4</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015084700 +0530" stop="20261015085400 +0530" channel="jtv874">
-    <title>Paap-O-Meter</title>
-    <desc>Thakela and Pakela end their friendship on the day of friendship day. How will they get back together?</desc>
+    <title>Honey Bunny Ka Jholmaal</title>
+    <desc>Honey Bunny's owner gets a notice from the builder to vacate the building.</desc>
     <category>Anime</category>
     <language>Telugu</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/92bd32aaf1cff4bcc7740e3a9a74e44f.jpg?width=700"/>
     <credits><director>Mitsuru Hongo</director><actor>Tanja Geke</actor><actor>Bernhard Völger</actor><actor>Bernd Schramm</actor><actor>Cathlen Gawlich</actor><actor>Christin Marquitan</actor><actor>Detlef Bierstedt</actor><actor>Susanne Geier</actor><actor>Anja Rybiczka</actor><actor>Arianne Borbach</actor><actor>Eva-Maria Werth</actor></credits>
-    <episode-num system="onscreen">136</episode-num>
+    <episode-num system="onscreen">104</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015085400 +0530" stop="20261015090200 +0530" channel="jtv874">
-    <title>Honey Bunny Ka Jholmaal</title>
-    <desc>Honey Bunny and friends get an opportunity to get into a film set.</desc>
+    <title>Paap-O-Meter</title>
+    <desc>A tailor scams little kids and refuses to fix their costumes.</desc>
     <category>Anime</category>
     <language>Telugu</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/92bd32aaf1cff4bcc7740e3a9a74e44f.jpg?width=700"/>
     <credits><director>Mitsuru Hongo</director><actor>Tanja Geke</actor><actor>Bernhard Völger</actor><actor>Bernd Schramm</actor><actor>Cathlen Gawlich</actor><actor>Christin Marquitan</actor><actor>Detlef Bierstedt</actor><actor>Susanne Geier</actor><actor>Anja Rybiczka</actor><actor>Arianne Borbach</actor><actor>Eva-Maria Werth</actor></credits>
-    <episode-num system="onscreen">154</episode-num>
+    <episode-num system="onscreen">178</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015090200 +0530" stop="20261015092000 +0530" channel="jtv874">
