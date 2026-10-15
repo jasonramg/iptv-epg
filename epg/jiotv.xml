@@ -17747,50 +17747,50 @@
   </programme>
   <programme start="20261016060000 +0530" stop="20261016090000 +0530" channel="jtv1104">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016090000 +0530" stop="20261016120000 +0530" channel="jtv1104">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016120000 +0530" stop="20261016150000 +0530" channel="jtv1104">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016150000 +0530" stop="20261016180000 +0530" channel="jtv1104">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016180000 +0530" stop="20261016210000 +0530" channel="jtv1104">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016210000 +0530" stop="20261016235959 +0530" channel="jtv1104">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015000000 +0530" stop="20261015003000 +0530" channel="jtv1106">
@@ -18439,10 +18439,12 @@
     <rating><value>G</value></rating>
   </programme>
   <programme start="20261016090000 +0530" stop="20261016091500 +0530" channel="jtv1106">
-    <title>Star Sports HD1</title>
-    <desc>Star Sports HD1</desc>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/6e4da7f0f475fdd9be6b79f42751a19b.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016091500 +0530" stop="20261016093000 +0530" channel="jtv1106">
@@ -18502,10 +18504,12 @@
     <rating><value>G</value></rating>
   </programme>
   <programme start="20261016120000 +0530" stop="20261016121500 +0530" channel="jtv1106">
-    <title>Star Sports HD1</title>
-    <desc>Star Sports HD1</desc>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/6e4da7f0f475fdd9be6b79f42751a19b.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016121500 +0530" stop="20261016123000 +0530" channel="jtv1106">
@@ -18573,10 +18577,12 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016150000 +0530" stop="20261016151500 +0530" channel="jtv1106">
-    <title>Star Sports HD1</title>
-    <desc>Star Sports HD1</desc>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/6e4da7f0f475fdd9be6b79f42751a19b.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016151500 +0530" stop="20261016153000 +0530" channel="jtv1106">
@@ -18612,10 +18618,12 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016170000 +0530" stop="20261016171500 +0530" channel="jtv1106">
-    <title>Star Sports HD1</title>
-    <desc>Star Sports HD1</desc>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/6e4da7f0f475fdd9be6b79f42751a19b.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016171500 +0530" stop="20261016173000 +0530" channel="jtv1106">
@@ -19353,10 +19361,12 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016090000 +0530" stop="20261016091500 +0530" channel="jtv1108">
-    <title>Star Sports HD1 Hindi</title>
-    <desc>Star Sports HD1 Hindi</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ed9bdf644dee386a17525bbd350ee85e.jpg?width=700"/>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
+    <language>Hindi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016091500 +0530" stop="20261016093000 +0530" channel="jtv1108">
@@ -19400,10 +19410,12 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016120000 +0530" stop="20261016121500 +0530" channel="jtv1108">
-    <title>Star Sports HD1 Hindi</title>
-    <desc>Star Sports HD1 Hindi</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ed9bdf644dee386a17525bbd350ee85e.jpg?width=700"/>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
+    <language>Hindi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016121500 +0530" stop="20261016123000 +0530" channel="jtv1108">
@@ -19471,10 +19483,12 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016150000 +0530" stop="20261016151500 +0530" channel="jtv1108">
-    <title>Star Sports HD1 Hindi</title>
-    <desc>Star Sports HD1 Hindi</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ed9bdf644dee386a17525bbd350ee85e.jpg?width=700"/>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
+    <language>Hindi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016151500 +0530" stop="20261016153000 +0530" channel="jtv1108">
@@ -19502,10 +19516,12 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016170000 +0530" stop="20261016171500 +0530" channel="jtv1108">
-    <title>Star Sports HD1 Hindi</title>
-    <desc>Star Sports HD1 Hindi</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ed9bdf644dee386a17525bbd350ee85e.jpg?width=700"/>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
+    <language>Hindi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016171500 +0530" stop="20261016173000 +0530" channel="jtv1108">
@@ -20189,10 +20205,12 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016080000 +0530" stop="20261016081500 +0530" channel="jtv1109">
-    <title>Star Sports HD2</title>
-    <desc>Star Sports HD2</desc>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c88a12d7352d7138ba178f773e926a88.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016081500 +0530" stop="20261016083000 +0530" channel="jtv1109">
@@ -20244,10 +20262,12 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016110000 +0530" stop="20261016111500 +0530" channel="jtv1109">
-    <title>Star Sports HD2</title>
-    <desc>Star Sports HD2</desc>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c88a12d7352d7138ba178f773e926a88.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016111500 +0530" stop="20261016113000 +0530" channel="jtv1109">
@@ -20299,10 +20319,12 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016140000 +0530" stop="20261016141500 +0530" channel="jtv1109">
-    <title>Star Sports HD2</title>
-    <desc>Star Sports HD2</desc>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c88a12d7352d7138ba178f773e926a88.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016141500 +0530" stop="20261016143000 +0530" channel="jtv1109">
@@ -20597,58 +20619,58 @@
   </programme>
   <programme start="20261016030000 +0530" stop="20261016060000 +0530" channel="jtv1110">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016060000 +0530" stop="20261016090000 +0530" channel="jtv1110">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016090000 +0530" stop="20261016120000 +0530" channel="jtv1110">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016120000 +0530" stop="20261016150000 +0530" channel="jtv1110">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016150000 +0530" stop="20261016180000 +0530" channel="jtv1110">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016180000 +0530" stop="20261016210000 +0530" channel="jtv1110">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016210000 +0530" stop="20261016235959 +0530" channel="jtv1110">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015000000 +0530" stop="20261015030000 +0530" channel="jtv1111">
@@ -23256,50 +23278,50 @@
   </programme>
   <programme start="20261016060000 +0530" stop="20261016090000 +0530" channel="jtv1115">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016090000 +0530" stop="20261016120000 +0530" channel="jtv1115">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016120000 +0530" stop="20261016150000 +0530" channel="jtv1115">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016150000 +0530" stop="20261016180000 +0530" channel="jtv1115">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016180000 +0530" stop="20261016210000 +0530" channel="jtv1115">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016210000 +0530" stop="20261016235959 +0530" channel="jtv1115">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015000000 +0530" stop="20261015010000 +0530" channel="jtv1116">
@@ -34389,50 +34411,50 @@
   </programme>
   <programme start="20261016060000 +0530" stop="20261016090000 +0530" channel="jtv1136">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016090000 +0530" stop="20261016120000 +0530" channel="jtv1136">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016120000 +0530" stop="20261016150000 +0530" channel="jtv1136">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016150000 +0530" stop="20261016180000 +0530" channel="jtv1136">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016180000 +0530" stop="20261016210000 +0530" channel="jtv1136">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016210000 +0530" stop="20261016235959 +0530" channel="jtv1136">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015000000 +0530" stop="20261015020000 +0530" channel="jtv1137">
@@ -37363,10 +37385,12 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016090000 +0530" stop="20261016091500 +0530" channel="jtv1142">
-    <title>Star Sports1</title>
-    <desc>Star Sports1</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/d1001ad2aa2802bcf9cf8e1c3e757b79.jpg?width=700"/>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
+    <language>Hindi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016091500 +0530" stop="20261016093000 +0530" channel="jtv1142">
@@ -37426,10 +37450,12 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016120000 +0530" stop="20261016121500 +0530" channel="jtv1142">
-    <title>Star Sports1</title>
-    <desc>Star Sports1</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/d1001ad2aa2802bcf9cf8e1c3e757b79.jpg?width=700"/>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
+    <language>Hindi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016121500 +0530" stop="20261016123000 +0530" channel="jtv1142">
@@ -37497,10 +37523,12 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016150000 +0530" stop="20261016151500 +0530" channel="jtv1142">
-    <title>Star Sports1</title>
-    <desc>Star Sports1</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/d1001ad2aa2802bcf9cf8e1c3e757b79.jpg?width=700"/>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
+    <language>Hindi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016151500 +0530" stop="20261016153000 +0530" channel="jtv1142">
@@ -37536,10 +37564,12 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016170000 +0530" stop="20261016171500 +0530" channel="jtv1142">
-    <title>Star Sports1</title>
-    <desc>Star Sports1</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/d1001ad2aa2802bcf9cf8e1c3e757b79.jpg?width=700"/>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
+    <language>Hindi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016171500 +0530" stop="20261016173000 +0530" channel="jtv1142">
@@ -40409,50 +40439,50 @@
   </programme>
   <programme start="20261016060000 +0530" stop="20261016090000 +0530" channel="jtv1154">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016090000 +0530" stop="20261016120000 +0530" channel="jtv1154">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016120000 +0530" stop="20261016150000 +0530" channel="jtv1154">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016150000 +0530" stop="20261016180000 +0530" channel="jtv1154">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016180000 +0530" stop="20261016210000 +0530" channel="jtv1154">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016210000 +0530" stop="20261016235959 +0530" channel="jtv1154">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015000000 +0530" stop="20261015001000 +0530" channel="jtv1158">
@@ -63814,10 +63844,10 @@
   </programme>
   <programme start="20261015030000 +0530" stop="20261015060000 +0530" channel="jtv1274">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Telugu</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/45c5e9a15327b3c9416e00293516c18b.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015060000 +0530" stop="20261015063000 +0530" channel="jtv1274">
@@ -64070,10 +64100,10 @@
   </programme>
   <programme start="20261016030000 +0530" stop="20261016060000 +0530" channel="jtv1274">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Telugu</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/45c5e9a15327b3c9416e00293516c18b.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016060000 +0530" stop="20261016063000 +0530" channel="jtv1274">
@@ -68402,51 +68432,51 @@
   </programme>
   <programme start="20261016060000 +0530" stop="20261016090000 +0530" channel="jtv1296">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016090000 +0530" stop="20261016120000 +0530" channel="jtv1296">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016120000 +0530" stop="20261016150000 +0530" channel="jtv1296">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016150000 +0530" stop="20261016180000 +0530" channel="jtv1296">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016180000 +0530" stop="20261016210000 +0530" channel="jtv1296">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016210000 +0530" stop="20261016235959 +0530" channel="jtv1296">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261015000000 +0530" stop="20261015010000 +0530" channel="jtv1315">
     <title>HHDL</title>
@@ -93232,10 +93262,12 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016100000 +0530" stop="20261016101500 +0530" channel="jtv1389">
-    <title>Star Sports 3</title>
-    <desc>Star Sports 3</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/541bfbbc9aca867ba7789db26b50656b.jpg?width=700"/>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
+    <language>Hindi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016101500 +0530" stop="20261016103000 +0530" channel="jtv1389">
@@ -93303,10 +93335,12 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016130000 +0530" stop="20261016131500 +0530" channel="jtv1389">
-    <title>Star Sports 3</title>
-    <desc>Star Sports 3</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/541bfbbc9aca867ba7789db26b50656b.jpg?width=700"/>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
+    <language>Hindi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016131500 +0530" stop="20261016133000 +0530" channel="jtv1389">
@@ -93374,10 +93408,12 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016160000 +0530" stop="20261016161500 +0530" channel="jtv1389">
-    <title>Star Sports 3</title>
-    <desc>Star Sports 3</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/541bfbbc9aca867ba7789db26b50656b.jpg?width=700"/>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
+    <language>Hindi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016161500 +0530" stop="20261016163000 +0530" channel="jtv1389">
@@ -93421,10 +93457,12 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016180000 +0530" stop="20261016181500 +0530" channel="jtv1389">
-    <title>Star Sports 3</title>
-    <desc>Star Sports 3</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/541bfbbc9aca867ba7789db26b50656b.jpg?width=700"/>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
+    <language>Hindi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016181500 +0530" stop="20261016183000 +0530" channel="jtv1389">
@@ -93476,10 +93514,12 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016200000 +0530" stop="20261016201500 +0530" channel="jtv1389">
-    <title>Star Sports 3</title>
-    <desc>Star Sports 3</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/541bfbbc9aca867ba7789db26b50656b.jpg?width=700"/>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
+    <language>Hindi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016201500 +0530" stop="20261016203000 +0530" channel="jtv1389">
@@ -94100,8 +94140,8 @@
     <category>Crime drama</category>
     <language>Hindi</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/d94f7fcf02fa2e62e9cd073280adf801.jpg?width=700"/>
-    <credits><director>Suleman Quadri</director><director>Udayan Pradeep Shukla</director><director>Siba Mishra</director><director>Salil Singh</director><actor>Shivaji Satam (ACP Pradyuman)</actor><actor>Aditya Srivastava (Senior Inspector Abhijeet)</actor><actor>Dayanand Shetty (Senior Inspector Daya)</actor><actor>Dinesh Phadnis (Inspector Fredricks)</actor><actor>Narendra Gupta (Dr. Salunkhe)</actor><actor>Shraddha Musale (Dr. Tarika)</actor></credits>
-    <episode-num system="onscreen">2909</episode-num>
+    <credits><director>Christabelle D'souza</director><director>Suleman Quadri</director><director>Udayan Pradeep Shukla</director><director>Santosh Shetty</director><director>Siba Mishra</director><director>Salil Singh</director><director>Nandu Kale</director><actor>Shivaji Satam (ACP Pradyuman)</actor><actor>Aditya Srivastava (Senior Inspector Abhijeet)</actor><actor>Dayanand Shetty (Senior Inspector Daya)</actor><actor>Dinesh Phadnis (Inspector Fredricks)</actor><actor>Narendra Gupta (Dr. Salunkhe)</actor><actor>Shraddha Musale (Dr. Tarika)</actor></credits>
+    <episode-num system="onscreen">416</episode-num>
     <rating><value>U/A-12</value></rating>
   </programme>
   <programme start="20261015193300 +0530" stop="20261015203300 +0530" channel="jtv1393">
@@ -94110,8 +94150,8 @@
     <category>Crime drama</category>
     <language>Hindi</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/d94f7fcf02fa2e62e9cd073280adf801.jpg?width=700"/>
-    <credits><director>Suleman Quadri</director><director>Udayan Pradeep Shukla</director><director>Siba Mishra</director><director>Salil Singh</director><actor>Shivaji Satam (ACP Pradyuman)</actor><actor>Aditya Srivastava (Senior Inspector Abhijeet)</actor><actor>Dayanand Shetty (Senior Inspector Daya)</actor><actor>Dinesh Phadnis (Inspector Fredricks)</actor><actor>Narendra Gupta (Dr. Salunkhe)</actor><actor>Shraddha Musale (Dr. Tarika)</actor></credits>
-    <episode-num system="onscreen">2909</episode-num>
+    <credits><director>Christabelle D'souza</director><director>Suleman Quadri</director><director>Udayan Pradeep Shukla</director><director>Santosh Shetty</director><director>Siba Mishra</director><director>Salil Singh</director><director>Nandu Kale</director><actor>Shivaji Satam (ACP Pradyuman)</actor><actor>Aditya Srivastava (Senior Inspector Abhijeet)</actor><actor>Dayanand Shetty (Senior Inspector Daya)</actor><actor>Dinesh Phadnis (Inspector Fredricks)</actor><actor>Narendra Gupta (Dr. Salunkhe)</actor><actor>Shraddha Musale (Dr. Tarika)</actor></credits>
+    <episode-num system="onscreen">416</episode-num>
     <rating><value>U/A-12</value></rating>
   </programme>
   <programme start="20261015203300 +0530" stop="20261015213500 +0530" channel="jtv1393">
@@ -94120,8 +94160,8 @@
     <category>Crime drama</category>
     <language>Hindi</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/d94f7fcf02fa2e62e9cd073280adf801.jpg?width=700"/>
-    <credits><director>Suleman Quadri</director><director>Udayan Pradeep Shukla</director><director>Siba Mishra</director><director>Salil Singh</director><actor>Shivaji Satam (ACP Pradyuman)</actor><actor>Aditya Srivastava (Senior Inspector Abhijeet)</actor><actor>Dayanand Shetty (Senior Inspector Daya)</actor><actor>Dinesh Phadnis (Inspector Fredricks)</actor><actor>Narendra Gupta (Dr. Salunkhe)</actor><actor>Shraddha Musale (Dr. Tarika)</actor></credits>
-    <episode-num system="onscreen">2909</episode-num>
+    <credits><director>Christabelle D'souza</director><director>Suleman Quadri</director><director>Udayan Pradeep Shukla</director><director>Santosh Shetty</director><director>Siba Mishra</director><director>Salil Singh</director><director>Nandu Kale</director><actor>Shivaji Satam (ACP Pradyuman)</actor><actor>Aditya Srivastava (Senior Inspector Abhijeet)</actor><actor>Dayanand Shetty (Senior Inspector Daya)</actor><actor>Dinesh Phadnis (Inspector Fredricks)</actor><actor>Narendra Gupta (Dr. Salunkhe)</actor><actor>Shraddha Musale (Dr. Tarika)</actor></credits>
+    <episode-num system="onscreen">416</episode-num>
     <rating><value>U/A-12</value></rating>
   </programme>
   <programme start="20261015213500 +0530" stop="20261015224300 +0530" channel="jtv1393">
@@ -94130,8 +94170,8 @@
     <category>Crime drama</category>
     <language>Hindi</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/d94f7fcf02fa2e62e9cd073280adf801.jpg?width=700"/>
-    <credits><director>Suleman Quadri</director><director>Udayan Pradeep Shukla</director><director>Siba Mishra</director><director>Salil Singh</director><actor>Shivaji Satam (ACP Pradyuman)</actor><actor>Aditya Srivastava (Senior Inspector Abhijeet)</actor><actor>Dayanand Shetty (Senior Inspector Daya)</actor><actor>Dinesh Phadnis (Inspector Fredricks)</actor><actor>Narendra Gupta (Dr. Salunkhe)</actor><actor>Shraddha Musale (Dr. Tarika)</actor></credits>
-    <episode-num system="onscreen">2909</episode-num>
+    <credits><director>Christabelle D'souza</director><director>Suleman Quadri</director><director>Udayan Pradeep Shukla</director><director>Santosh Shetty</director><director>Siba Mishra</director><director>Salil Singh</director><director>Nandu Kale</director><actor>Shivaji Satam (ACP Pradyuman)</actor><actor>Aditya Srivastava (Senior Inspector Abhijeet)</actor><actor>Dayanand Shetty (Senior Inspector Daya)</actor><actor>Dinesh Phadnis (Inspector Fredricks)</actor><actor>Narendra Gupta (Dr. Salunkhe)</actor><actor>Shraddha Musale (Dr. Tarika)</actor></credits>
+    <episode-num system="onscreen">416</episode-num>
     <rating><value>U/A-12</value></rating>
   </programme>
   <programme start="20261015224300 +0530" stop="20261015235400 +0530" channel="jtv1393">
@@ -94140,8 +94180,8 @@
     <category>Crime drama</category>
     <language>Hindi</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/d94f7fcf02fa2e62e9cd073280adf801.jpg?width=700"/>
-    <credits><director>Suleman Quadri</director><director>Udayan Pradeep Shukla</director><director>Siba Mishra</director><director>Salil Singh</director><actor>Shivaji Satam (ACP Pradyuman)</actor><actor>Aditya Srivastava (Senior Inspector Abhijeet)</actor><actor>Dayanand Shetty (Senior Inspector Daya)</actor><actor>Dinesh Phadnis (Inspector Fredricks)</actor><actor>Narendra Gupta (Dr. Salunkhe)</actor><actor>Shraddha Musale (Dr. Tarika)</actor></credits>
-    <episode-num system="onscreen">2909</episode-num>
+    <credits><director>Christabelle D'souza</director><director>Suleman Quadri</director><director>Udayan Pradeep Shukla</director><director>Santosh Shetty</director><director>Siba Mishra</director><director>Salil Singh</director><director>Nandu Kale</director><actor>Shivaji Satam (ACP Pradyuman)</actor><actor>Aditya Srivastava (Senior Inspector Abhijeet)</actor><actor>Dayanand Shetty (Senior Inspector Daya)</actor><actor>Dinesh Phadnis (Inspector Fredricks)</actor><actor>Narendra Gupta (Dr. Salunkhe)</actor><actor>Shraddha Musale (Dr. Tarika)</actor></credits>
+    <episode-num system="onscreen">416</episode-num>
     <rating><value>U/A-12</value></rating>
   </programme>
   <programme start="20261015235400 +0530" stop="20261015235959 +0530" channel="jtv1393">
@@ -94167,64 +94207,64 @@
     <desc>A woman stumbles upon her husband's old diary and learns that he is in love with another woman. As a result, she decides to reunite them in order to make him happy.</desc>
     <category>Romance</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/7ff0ca7d25981717ca43f7e738aa1f33.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/d0a5a885d4ea20c5d6686453c7a95ffa.jpg?width=700"/>
     <credits><director>Obeli N. Krishna</director><actor>Bhumika Chawla</actor><actor>Suriya</actor><actor>Jyothika</actor><actor>Sukanya</actor><actor>Vadivelu</actor><actor>Santhanam</actor><actor>Costumes Krishna</actor><actor>Thambi Ramaiah</actor><actor>Shriya Sharma</actor><actor>Sudha</actor></credits>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016030000 +0530" stop="20261016060000 +0530" channel="jtv1393">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016060000 +0530" stop="20261016090000 +0530" channel="jtv1393">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016090000 +0530" stop="20261016120000 +0530" channel="jtv1393">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016120000 +0530" stop="20261016150000 +0530" channel="jtv1393">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016150000 +0530" stop="20261016180000 +0530" channel="jtv1393">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016180000 +0530" stop="20261016210000 +0530" channel="jtv1393">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016210000 +0530" stop="20261016235959 +0530" channel="jtv1393">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015000000 +0530" stop="20261015002800 +0530" channel="jtv1394">
@@ -130611,58 +130651,58 @@
   </programme>
   <programme start="20261016030000 +0530" stop="20261016060000 +0530" channel="jtv156">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016060000 +0530" stop="20261016090000 +0530" channel="jtv156">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016090000 +0530" stop="20261016120000 +0530" channel="jtv156">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016120000 +0530" stop="20261016150000 +0530" channel="jtv156">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016150000 +0530" stop="20261016180000 +0530" channel="jtv156">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016180000 +0530" stop="20261016210000 +0530" channel="jtv156">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016210000 +0530" stop="20261016235959 +0530" channel="jtv156">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015000000 +0530" stop="20261015010000 +0530" channel="jtv1560">
@@ -157081,51 +157121,51 @@
   </programme>
   <programme start="20261016082100 +0530" stop="20261016105500 +0530" channel="jtv1745">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016105500 +0530" stop="20261016133900 +0530" channel="jtv1745">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016133900 +0530" stop="20261016161500 +0530" channel="jtv1745">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016161500 +0530" stop="20261016190000 +0530" channel="jtv1745">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016190000 +0530" stop="20261016212600 +0530" channel="jtv1745">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016212600 +0530" stop="20261016235959 +0530" channel="jtv1745">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261015000000 +0530" stop="20261015014400 +0530" channel="jtv1746">
     <title>Grahana</title>
@@ -165405,8 +165445,8 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015183000 +0530" stop="20261015193000 +0530" channel="jtv1772">
-    <title>Asia Cup Highlights</title>
-    <desc>Highlights of matches from the Asia Cup tournament, where professional cricket teams compete against each other to emerge victorious.</desc>
+    <title>India Tour of Sri Lanka 2026</title>
+    <desc>Watch Best Of The Test: Sri Lanka vs India, only on Sony LIV.</desc>
     <category>Cricket</category>
     <language>Tamil</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5ccda127a466c37a3a1ae3996834a26c.jpg?width=700"/>
@@ -165773,8 +165813,8 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015183000 +0530" stop="20261015193000 +0530" channel="jtv1773">
-    <title>Asia Cup Highlights</title>
-    <desc>Highlights of matches from the Asia Cup tournament, where professional cricket teams compete against each other to emerge victorious.</desc>
+    <title>India Tour of Sri Lanka 2026</title>
+    <desc>Watch Best Of The Test: Sri Lanka vs India, only on Sony LIV.</desc>
     <category>Cricket</category>
     <language>Tamil</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5ccda127a466c37a3a1ae3996834a26c.jpg?width=700"/>
@@ -166141,8 +166181,8 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015183000 +0530" stop="20261015193000 +0530" channel="jtv1774">
-    <title>Asia Cup Highlights</title>
-    <desc>Highlights of matches from the Asia Cup tournament, where professional cricket teams compete against each other to emerge victorious.</desc>
+    <title>India Tour of Sri Lanka 2026</title>
+    <desc>Watch Best Of The Test: Sri Lanka vs India, only on Sony LIV.</desc>
     <category>Cricket</category>
     <language>Tamil</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5ccda127a466c37a3a1ae3996834a26c.jpg?width=700"/>
@@ -166549,8 +166589,8 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015183000 +0530" stop="20261015193000 +0530" channel="jtv1775">
-    <title>Asia Cup Highlights</title>
-    <desc>Highlights of matches from the Asia Cup tournament, where professional cricket teams compete against each other to emerge victorious.</desc>
+    <title>India Tour of Sri Lanka 2026</title>
+    <desc>Watch Best Of The Test: Sri Lanka vs India, only on Sony LIV.</desc>
     <category>Cricket</category>
     <language>Telugu</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/a58391cbf6630bed1c6f33f4b452fc7d.jpg?width=700"/>
@@ -171505,11 +171545,11 @@
   </programme>
   <programme start="20261015030000 +0530" stop="20261015053000 +0530" channel="jtv1799">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Telugu</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/45c5e9a15327b3c9416e00293516c18b.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261015053000 +0530" stop="20261015060000 +0530" channel="jtv1799">
     <title>Suprabatha Seva</title>
@@ -171748,11 +171788,11 @@
   </programme>
   <programme start="20261016030000 +0530" stop="20261016053000 +0530" channel="jtv1799">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Telugu</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/45c5e9a15327b3c9416e00293516c18b.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016053000 +0530" stop="20261016060000 +0530" channel="jtv1799">
     <title>Suprabatha Seva</title>
@@ -188387,11 +188427,11 @@
   </programme>
   <programme start="20261015140000 +0530" stop="20261015170000 +0530" channel="jtv1956">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261015170000 +0530" stop="20261015180000 +0530" channel="jtv1956">
     <title>Tike Dance Tike Acting</title>
@@ -188701,11 +188741,11 @@
   </programme>
   <programme start="20261016140000 +0530" stop="20261016170000 +0530" channel="jtv1956">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016170000 +0530" stop="20261016180000 +0530" channel="jtv1956">
     <title>Odisara Nua Swora</title>
@@ -188935,19 +188975,19 @@
   </programme>
   <programme start="20261015080000 +0530" stop="20261015110000 +0530" channel="jtv1957">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261015110000 +0530" stop="20261015140000 +0530" channel="jtv1957">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261015140000 +0530" stop="20261015143000 +0530" channel="jtv1957">
     <title>Jatra Express</title>
@@ -189239,19 +189279,19 @@
   </programme>
   <programme start="20261016080000 +0530" stop="20261016110000 +0530" channel="jtv1957">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016110000 +0530" stop="20261016140000 +0530" channel="jtv1957">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016140000 +0530" stop="20261016143000 +0530" channel="jtv1957">
     <title>Jatra Express</title>
@@ -190224,7 +190264,7 @@
     <language>Gujarati</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/edd6ecdb07f5ba979276bce317996a3b.jpg?width=700"/>
     <credits><director>Sachin Ambre</director><director>Dipesh Shah</director><actor>Darshit Jani</actor><actor>Urvi Gor</actor><actor>Navya</actor><actor>Vikee Shah</actor><actor>Vimal Upadhyay</actor><actor>Chandan Rathod</actor></credits>
-    <episode-num system="onscreen">218</episode-num>
+    <episode-num system="onscreen">217</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015003000 +0530" stop="20261015010000 +0530" channel="jtv196">
@@ -190333,7 +190373,7 @@
     <language>Gujarati</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/edd6ecdb07f5ba979276bce317996a3b.jpg?width=700"/>
     <credits><director>Sachin Ambre</director><director>Dipesh Shah</director><actor>Darshit Jani</actor><actor>Urvi Gor</actor><actor>Navya</actor><actor>Vikee Shah</actor><actor>Vimal Upadhyay</actor><actor>Chandan Rathod</actor></credits>
-    <episode-num system="onscreen">218</episode-num>
+    <episode-num system="onscreen">217</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015070000 +0530" stop="20261015080000 +0530" channel="jtv196">
@@ -190472,7 +190512,7 @@
     <language>Gujarati</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/edd6ecdb07f5ba979276bce317996a3b.jpg?width=700"/>
     <credits><director>Sachin Ambre</director><director>Dipesh Shah</director><actor>Darshit Jani</actor><actor>Urvi Gor</actor><actor>Navya</actor><actor>Vikee Shah</actor><actor>Vimal Upadhyay</actor><actor>Chandan Rathod</actor></credits>
-    <episode-num system="onscreen">218</episode-num>
+    <episode-num system="onscreen">217</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015163000 +0530" stop="20261015170000 +0530" channel="jtv196">
@@ -198926,10 +198966,12 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016080000 +0530" stop="20261016081500 +0530" channel="jtv1984">
-    <title>Star Sports 2 Hindi HD</title>
-    <desc>Star Sports 2 Hindi HD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5b4d4ed56465a64cff9b0bb60dfe4b87.jpg?width=700"/>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
+    <language>Hindi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016081500 +0530" stop="20261016083000 +0530" channel="jtv1984">
@@ -198981,10 +199023,12 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016110000 +0530" stop="20261016111500 +0530" channel="jtv1984">
-    <title>Star Sports 2 Hindi HD</title>
-    <desc>Star Sports 2 Hindi HD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5b4d4ed56465a64cff9b0bb60dfe4b87.jpg?width=700"/>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
+    <language>Hindi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016111500 +0530" stop="20261016113000 +0530" channel="jtv1984">
@@ -199028,10 +199072,12 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016140000 +0530" stop="20261016141500 +0530" channel="jtv1984">
-    <title>Star Sports 2 Hindi HD</title>
-    <desc>Star Sports 2 Hindi HD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5b4d4ed56465a64cff9b0bb60dfe4b87.jpg?width=700"/>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
+    <language>Hindi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016141500 +0530" stop="20261016143000 +0530" channel="jtv1984">
@@ -199714,10 +199760,12 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016080000 +0530" stop="20261016081500 +0530" channel="jtv1985">
-    <title>Star Sports 2 Hindi</title>
-    <desc>Star Sports 2 Hindi</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/43c4a9dfe65e8fc99f21e3620623db1c.jpg?width=700"/>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
+    <language>Hindi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016081500 +0530" stop="20261016083000 +0530" channel="jtv1985">
@@ -199769,10 +199817,12 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016110000 +0530" stop="20261016111500 +0530" channel="jtv1985">
-    <title>Star Sports 2 Hindi</title>
-    <desc>Star Sports 2 Hindi</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/43c4a9dfe65e8fc99f21e3620623db1c.jpg?width=700"/>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
+    <language>Hindi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016111500 +0530" stop="20261016113000 +0530" channel="jtv1985">
@@ -199816,10 +199866,12 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016140000 +0530" stop="20261016141500 +0530" channel="jtv1985">
-    <title>Star Sports 2 Hindi</title>
-    <desc>Star Sports 2 Hindi</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/43c4a9dfe65e8fc99f21e3620623db1c.jpg?width=700"/>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
+    <language>Hindi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016141500 +0530" stop="20261016143000 +0530" channel="jtv1985">
@@ -200469,10 +200521,12 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016083000 +0530" stop="20261016084500 +0530" channel="jtv1998">
-    <title>Star Sports Khel</title>
-    <desc>Star Sports Khel</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/becb8a36a92d34a19b6b72097f29fffa.jpg?width=700"/>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
+    <language>Hindi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016084500 +0530" stop="20261016090000 +0530" channel="jtv1998">
@@ -200516,10 +200570,12 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016113000 +0530" stop="20261016114500 +0530" channel="jtv1998">
-    <title>Star Sports Khel</title>
-    <desc>Star Sports Khel</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/becb8a36a92d34a19b6b72097f29fffa.jpg?width=700"/>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
+    <language>Hindi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016114500 +0530" stop="20261016120000 +0530" channel="jtv1998">
@@ -248122,50 +248178,50 @@
   </programme>
   <programme start="20261016060000 +0530" stop="20261016090000 +0530" channel="jtv2832">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016090000 +0530" stop="20261016120000 +0530" channel="jtv2832">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016120000 +0530" stop="20261016150000 +0530" channel="jtv2832">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016150000 +0530" stop="20261016180000 +0530" channel="jtv2832">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016180000 +0530" stop="20261016210000 +0530" channel="jtv2832">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016210000 +0530" stop="20261016235959 +0530" channel="jtv2832">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015000000 +0530" stop="20261015010900 +0530" channel="jtv2834">
@@ -248447,8 +248503,8 @@
     <category>Crime drama</category>
     <language>Hindi</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/d94f7fcf02fa2e62e9cd073280adf801.jpg?width=700"/>
-    <credits><director>Suleman Quadri</director><director>Udayan Pradeep Shukla</director><director>Siba Mishra</director><director>Salil Singh</director><actor>Shivaji Satam (ACP Pradyuman)</actor><actor>Aditya Srivastava (Senior Inspector Abhijeet)</actor><actor>Dayanand Shetty (Senior Inspector Daya)</actor><actor>Dinesh Phadnis (Inspector Fredricks)</actor><actor>Narendra Gupta (Dr. Salunkhe)</actor><actor>Shraddha Musale (Dr. Tarika)</actor></credits>
-    <episode-num system="onscreen">2909</episode-num>
+    <credits><director>Christabelle D'souza</director><director>Suleman Quadri</director><director>Udayan Pradeep Shukla</director><director>Santosh Shetty</director><director>Siba Mishra</director><director>Salil Singh</director><director>Nandu Kale</director><actor>Shivaji Satam (ACP Pradyuman)</actor><actor>Aditya Srivastava (Senior Inspector Abhijeet)</actor><actor>Dayanand Shetty (Senior Inspector Daya)</actor><actor>Dinesh Phadnis (Inspector Fredricks)</actor><actor>Narendra Gupta (Dr. Salunkhe)</actor><actor>Shraddha Musale (Dr. Tarika)</actor></credits>
+    <episode-num system="onscreen">416</episode-num>
     <rating><value>U/A-12</value></rating>
   </programme>
   <programme start="20261015193300 +0530" stop="20261015203300 +0530" channel="jtv2835">
@@ -248457,8 +248513,8 @@
     <category>Crime drama</category>
     <language>Hindi</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/d94f7fcf02fa2e62e9cd073280adf801.jpg?width=700"/>
-    <credits><director>Suleman Quadri</director><director>Udayan Pradeep Shukla</director><director>Siba Mishra</director><director>Salil Singh</director><actor>Shivaji Satam (ACP Pradyuman)</actor><actor>Aditya Srivastava (Senior Inspector Abhijeet)</actor><actor>Dayanand Shetty (Senior Inspector Daya)</actor><actor>Dinesh Phadnis (Inspector Fredricks)</actor><actor>Narendra Gupta (Dr. Salunkhe)</actor><actor>Shraddha Musale (Dr. Tarika)</actor></credits>
-    <episode-num system="onscreen">2909</episode-num>
+    <credits><director>Christabelle D'souza</director><director>Suleman Quadri</director><director>Udayan Pradeep Shukla</director><director>Santosh Shetty</director><director>Siba Mishra</director><director>Salil Singh</director><director>Nandu Kale</director><actor>Shivaji Satam (ACP Pradyuman)</actor><actor>Aditya Srivastava (Senior Inspector Abhijeet)</actor><actor>Dayanand Shetty (Senior Inspector Daya)</actor><actor>Dinesh Phadnis (Inspector Fredricks)</actor><actor>Narendra Gupta (Dr. Salunkhe)</actor><actor>Shraddha Musale (Dr. Tarika)</actor></credits>
+    <episode-num system="onscreen">416</episode-num>
     <rating><value>U/A-12</value></rating>
   </programme>
   <programme start="20261015203300 +0530" stop="20261015213500 +0530" channel="jtv2835">
@@ -248467,8 +248523,8 @@
     <category>Crime drama</category>
     <language>Hindi</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/d94f7fcf02fa2e62e9cd073280adf801.jpg?width=700"/>
-    <credits><director>Suleman Quadri</director><director>Udayan Pradeep Shukla</director><director>Siba Mishra</director><director>Salil Singh</director><actor>Shivaji Satam (ACP Pradyuman)</actor><actor>Aditya Srivastava (Senior Inspector Abhijeet)</actor><actor>Dayanand Shetty (Senior Inspector Daya)</actor><actor>Dinesh Phadnis (Inspector Fredricks)</actor><actor>Narendra Gupta (Dr. Salunkhe)</actor><actor>Shraddha Musale (Dr. Tarika)</actor></credits>
-    <episode-num system="onscreen">2909</episode-num>
+    <credits><director>Christabelle D'souza</director><director>Suleman Quadri</director><director>Udayan Pradeep Shukla</director><director>Santosh Shetty</director><director>Siba Mishra</director><director>Salil Singh</director><director>Nandu Kale</director><actor>Shivaji Satam (ACP Pradyuman)</actor><actor>Aditya Srivastava (Senior Inspector Abhijeet)</actor><actor>Dayanand Shetty (Senior Inspector Daya)</actor><actor>Dinesh Phadnis (Inspector Fredricks)</actor><actor>Narendra Gupta (Dr. Salunkhe)</actor><actor>Shraddha Musale (Dr. Tarika)</actor></credits>
+    <episode-num system="onscreen">416</episode-num>
     <rating><value>U/A-12</value></rating>
   </programme>
   <programme start="20261015213500 +0530" stop="20261015224300 +0530" channel="jtv2835">
@@ -248477,8 +248533,8 @@
     <category>Crime drama</category>
     <language>Hindi</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/d94f7fcf02fa2e62e9cd073280adf801.jpg?width=700"/>
-    <credits><director>Suleman Quadri</director><director>Udayan Pradeep Shukla</director><director>Siba Mishra</director><director>Salil Singh</director><actor>Shivaji Satam (ACP Pradyuman)</actor><actor>Aditya Srivastava (Senior Inspector Abhijeet)</actor><actor>Dayanand Shetty (Senior Inspector Daya)</actor><actor>Dinesh Phadnis (Inspector Fredricks)</actor><actor>Narendra Gupta (Dr. Salunkhe)</actor><actor>Shraddha Musale (Dr. Tarika)</actor></credits>
-    <episode-num system="onscreen">2909</episode-num>
+    <credits><director>Christabelle D'souza</director><director>Suleman Quadri</director><director>Udayan Pradeep Shukla</director><director>Santosh Shetty</director><director>Siba Mishra</director><director>Salil Singh</director><director>Nandu Kale</director><actor>Shivaji Satam (ACP Pradyuman)</actor><actor>Aditya Srivastava (Senior Inspector Abhijeet)</actor><actor>Dayanand Shetty (Senior Inspector Daya)</actor><actor>Dinesh Phadnis (Inspector Fredricks)</actor><actor>Narendra Gupta (Dr. Salunkhe)</actor><actor>Shraddha Musale (Dr. Tarika)</actor></credits>
+    <episode-num system="onscreen">416</episode-num>
     <rating><value>U/A-12</value></rating>
   </programme>
   <programme start="20261015224300 +0530" stop="20261015235400 +0530" channel="jtv2835">
@@ -248487,8 +248543,8 @@
     <category>Crime drama</category>
     <language>Hindi</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/d94f7fcf02fa2e62e9cd073280adf801.jpg?width=700"/>
-    <credits><director>Suleman Quadri</director><director>Udayan Pradeep Shukla</director><director>Siba Mishra</director><director>Salil Singh</director><actor>Shivaji Satam (ACP Pradyuman)</actor><actor>Aditya Srivastava (Senior Inspector Abhijeet)</actor><actor>Dayanand Shetty (Senior Inspector Daya)</actor><actor>Dinesh Phadnis (Inspector Fredricks)</actor><actor>Narendra Gupta (Dr. Salunkhe)</actor><actor>Shraddha Musale (Dr. Tarika)</actor></credits>
-    <episode-num system="onscreen">2909</episode-num>
+    <credits><director>Christabelle D'souza</director><director>Suleman Quadri</director><director>Udayan Pradeep Shukla</director><director>Santosh Shetty</director><director>Siba Mishra</director><director>Salil Singh</director><director>Nandu Kale</director><actor>Shivaji Satam (ACP Pradyuman)</actor><actor>Aditya Srivastava (Senior Inspector Abhijeet)</actor><actor>Dayanand Shetty (Senior Inspector Daya)</actor><actor>Dinesh Phadnis (Inspector Fredricks)</actor><actor>Narendra Gupta (Dr. Salunkhe)</actor><actor>Shraddha Musale (Dr. Tarika)</actor></credits>
+    <episode-num system="onscreen">416</episode-num>
     <rating><value>U/A-12</value></rating>
   </programme>
   <programme start="20261015235400 +0530" stop="20261015235959 +0530" channel="jtv2835">
@@ -248514,64 +248570,64 @@
     <desc>A woman stumbles upon her husband's old diary and learns that he is in love with another woman. As a result, she decides to reunite them in order to make him happy.</desc>
     <category>Romance</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/7ff0ca7d25981717ca43f7e738aa1f33.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/d0a5a885d4ea20c5d6686453c7a95ffa.jpg?width=700"/>
     <credits><director>Obeli N. Krishna</director><actor>Bhumika Chawla</actor><actor>Suriya</actor><actor>Jyothika</actor><actor>Sukanya</actor><actor>Vadivelu</actor><actor>Santhanam</actor><actor>Costumes Krishna</actor><actor>Thambi Ramaiah</actor><actor>Shriya Sharma</actor><actor>Sudha</actor></credits>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016030000 +0530" stop="20261016060000 +0530" channel="jtv2835">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016060000 +0530" stop="20261016090000 +0530" channel="jtv2835">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016090000 +0530" stop="20261016120000 +0530" channel="jtv2835">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016120000 +0530" stop="20261016150000 +0530" channel="jtv2835">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016150000 +0530" stop="20261016180000 +0530" channel="jtv2835">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016180000 +0530" stop="20261016210000 +0530" channel="jtv2835">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016210000 +0530" stop="20261016235959 +0530" channel="jtv2835">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015000000 +0530" stop="20261015010000 +0530" channel="jtv2851">
@@ -309812,50 +309868,50 @@
   </programme>
   <programme start="20261016060000 +0530" stop="20261016090000 +0530" channel="jtv3096">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016090000 +0530" stop="20261016120000 +0530" channel="jtv3096">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016120000 +0530" stop="20261016150000 +0530" channel="jtv3096">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016150000 +0530" stop="20261016180000 +0530" channel="jtv3096">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016180000 +0530" stop="20261016210000 +0530" channel="jtv3096">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016210000 +0530" stop="20261016235959 +0530" channel="jtv3096">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015000000 +0530" stop="20261015000200 +0530" channel="jtv3097">
@@ -310687,43 +310743,31 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015175300 +0530" stop="20261015182400 +0530" channel="jtv3099">
-    <title>Sukh Mhanje Nakki Kay Asta</title>
-    <desc>Gauri, a young woman, is mistreated by the Shirke Patil family. However, when their NRI son witnesses her humiliation, he befriends her.</desc>
-    <category>Drama</category>
-    <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/51ecbce1f88b4e98deb50c7f78919a51.jpg?width=700"/>
-    <credits><director>Chandrakant Kanse</director><actor>Girija Prabhu</actor><actor>Mandar Jadhav</actor><actor>Mrunmayee Gondhalekar</actor><actor>Varsha Usgaonkar</actor><actor>Sunil Godse</actor><actor>Kapil Honrao</actor><actor>Madhavi Nimkar</actor><actor>Vikas Patil</actor></credits>
-    <episode-num system="onscreen">44</episode-num>
+    <title>Star Pravah Picture</title>
+    <desc>Star Pravah Picture</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5e3c2f071a4ba44febc29bdd5c08ba9e.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015175300 +0530" stop="20261015182400 +0530" channel="Star.Pravah.Pictures.in">
-    <title>Sukh Mhanje Nakki Kay Asta</title>
-    <desc>Gauri, a young woman, is mistreated by the Shirke Patil family. However, when their NRI son witnesses her humiliation, he befriends her.</desc>
-    <category>Drama</category>
-    <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/51ecbce1f88b4e98deb50c7f78919a51.jpg?width=700"/>
-    <credits><director>Chandrakant Kanse</director><actor>Girija Prabhu</actor><actor>Mandar Jadhav</actor><actor>Mrunmayee Gondhalekar</actor><actor>Varsha Usgaonkar</actor><actor>Sunil Godse</actor><actor>Kapil Honrao</actor><actor>Madhavi Nimkar</actor><actor>Vikas Patil</actor></credits>
-    <episode-num system="onscreen">44</episode-num>
+    <title>Star Pravah Picture</title>
+    <desc>Star Pravah Picture</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5e3c2f071a4ba44febc29bdd5c08ba9e.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015175300 +0530" stop="20261015182400 +0530" channel="Pravah.Pictures.in">
-    <title>Sukh Mhanje Nakki Kay Asta</title>
-    <desc>Gauri, a young woman, is mistreated by the Shirke Patil family. However, when their NRI son witnesses her humiliation, he befriends her.</desc>
-    <category>Drama</category>
-    <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/51ecbce1f88b4e98deb50c7f78919a51.jpg?width=700"/>
-    <credits><director>Chandrakant Kanse</director><actor>Girija Prabhu</actor><actor>Mandar Jadhav</actor><actor>Mrunmayee Gondhalekar</actor><actor>Varsha Usgaonkar</actor><actor>Sunil Godse</actor><actor>Kapil Honrao</actor><actor>Madhavi Nimkar</actor><actor>Vikas Patil</actor></credits>
-    <episode-num system="onscreen">44</episode-num>
+    <title>Star Pravah Picture</title>
+    <desc>Star Pravah Picture</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5e3c2f071a4ba44febc29bdd5c08ba9e.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015175300 +0530" stop="20261015182400 +0530" channel="Pravah.Picture.in">
-    <title>Sukh Mhanje Nakki Kay Asta</title>
-    <desc>Gauri, a young woman, is mistreated by the Shirke Patil family. However, when their NRI son witnesses her humiliation, he befriends her.</desc>
-    <category>Drama</category>
-    <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/51ecbce1f88b4e98deb50c7f78919a51.jpg?width=700"/>
-    <credits><director>Chandrakant Kanse</director><actor>Girija Prabhu</actor><actor>Mandar Jadhav</actor><actor>Mrunmayee Gondhalekar</actor><actor>Varsha Usgaonkar</actor><actor>Sunil Godse</actor><actor>Kapil Honrao</actor><actor>Madhavi Nimkar</actor><actor>Vikas Patil</actor></credits>
-    <episode-num system="onscreen">44</episode-num>
+    <title>Star Pravah Picture</title>
+    <desc>Star Pravah Picture</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5e3c2f071a4ba44febc29bdd5c08ba9e.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015182400 +0530" stop="20261015185300 +0530" channel="jtv3099">
@@ -311116,194 +311160,194 @@
   </programme>
   <programme start="20261016060000 +0530" stop="20261016090000 +0530" channel="jtv3099">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016060000 +0530" stop="20261016090000 +0530" channel="Star.Pravah.Pictures.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016060000 +0530" stop="20261016090000 +0530" channel="Pravah.Pictures.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016060000 +0530" stop="20261016090000 +0530" channel="Pravah.Picture.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016090000 +0530" stop="20261016120000 +0530" channel="jtv3099">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016090000 +0530" stop="20261016120000 +0530" channel="Star.Pravah.Pictures.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016090000 +0530" stop="20261016120000 +0530" channel="Pravah.Pictures.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016090000 +0530" stop="20261016120000 +0530" channel="Pravah.Picture.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016120000 +0530" stop="20261016150000 +0530" channel="jtv3099">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016120000 +0530" stop="20261016150000 +0530" channel="Star.Pravah.Pictures.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016120000 +0530" stop="20261016150000 +0530" channel="Pravah.Pictures.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016120000 +0530" stop="20261016150000 +0530" channel="Pravah.Picture.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016150000 +0530" stop="20261016180000 +0530" channel="jtv3099">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016150000 +0530" stop="20261016180000 +0530" channel="Star.Pravah.Pictures.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016150000 +0530" stop="20261016180000 +0530" channel="Pravah.Pictures.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016150000 +0530" stop="20261016180000 +0530" channel="Pravah.Picture.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016180000 +0530" stop="20261016210000 +0530" channel="jtv3099">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016180000 +0530" stop="20261016210000 +0530" channel="Star.Pravah.Pictures.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016180000 +0530" stop="20261016210000 +0530" channel="Pravah.Pictures.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016180000 +0530" stop="20261016210000 +0530" channel="Pravah.Picture.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016210000 +0530" stop="20261016235959 +0530" channel="jtv3099">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016210000 +0530" stop="20261016235959 +0530" channel="Star.Pravah.Pictures.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016210000 +0530" stop="20261016235959 +0530" channel="Pravah.Pictures.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016210000 +0530" stop="20261016235959 +0530" channel="Pravah.Picture.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015000000 +0530" stop="20261015012900 +0530" channel="jtv3100">
@@ -311763,43 +311807,31 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015175300 +0530" stop="20261015182300 +0530" channel="jtv3100">
-    <title>Sukh Mhanje Nakki Kay Asta</title>
-    <desc>Gauri, a young woman, is mistreated by the Shirke Patil family. However, when their NRI son witnesses her humiliation, he befriends her.</desc>
-    <category>Drama</category>
-    <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/51ecbce1f88b4e98deb50c7f78919a51.jpg?width=700"/>
-    <credits><director>Chandrakant Kanse</director><actor>Girija Prabhu</actor><actor>Mandar Jadhav</actor><actor>Mrunmayee Gondhalekar</actor><actor>Varsha Usgaonkar</actor><actor>Sunil Godse</actor><actor>Kapil Honrao</actor><actor>Madhavi Nimkar</actor><actor>Vikas Patil</actor></credits>
-    <episode-num system="onscreen">44</episode-num>
+    <title>Star Pravah Picture HD</title>
+    <desc>Star Pravah Picture HD</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/fe7ae052ecb7e68fec22c3db6b352e15.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015175300 +0530" stop="20261015182300 +0530" channel="Star.Pravah.Pictures.HD.in">
-    <title>Sukh Mhanje Nakki Kay Asta</title>
-    <desc>Gauri, a young woman, is mistreated by the Shirke Patil family. However, when their NRI son witnesses her humiliation, he befriends her.</desc>
-    <category>Drama</category>
-    <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/51ecbce1f88b4e98deb50c7f78919a51.jpg?width=700"/>
-    <credits><director>Chandrakant Kanse</director><actor>Girija Prabhu</actor><actor>Mandar Jadhav</actor><actor>Mrunmayee Gondhalekar</actor><actor>Varsha Usgaonkar</actor><actor>Sunil Godse</actor><actor>Kapil Honrao</actor><actor>Madhavi Nimkar</actor><actor>Vikas Patil</actor></credits>
-    <episode-num system="onscreen">44</episode-num>
+    <title>Star Pravah Picture HD</title>
+    <desc>Star Pravah Picture HD</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/fe7ae052ecb7e68fec22c3db6b352e15.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015175300 +0530" stop="20261015182300 +0530" channel="Pravah.Pictures.HD.in">
-    <title>Sukh Mhanje Nakki Kay Asta</title>
-    <desc>Gauri, a young woman, is mistreated by the Shirke Patil family. However, when their NRI son witnesses her humiliation, he befriends her.</desc>
-    <category>Drama</category>
-    <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/51ecbce1f88b4e98deb50c7f78919a51.jpg?width=700"/>
-    <credits><director>Chandrakant Kanse</director><actor>Girija Prabhu</actor><actor>Mandar Jadhav</actor><actor>Mrunmayee Gondhalekar</actor><actor>Varsha Usgaonkar</actor><actor>Sunil Godse</actor><actor>Kapil Honrao</actor><actor>Madhavi Nimkar</actor><actor>Vikas Patil</actor></credits>
-    <episode-num system="onscreen">44</episode-num>
+    <title>Star Pravah Picture HD</title>
+    <desc>Star Pravah Picture HD</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/fe7ae052ecb7e68fec22c3db6b352e15.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015175300 +0530" stop="20261015182300 +0530" channel="Pravah.Picture.HD.in">
-    <title>Sukh Mhanje Nakki Kay Asta</title>
-    <desc>Gauri, a young woman, is mistreated by the Shirke Patil family. However, when their NRI son witnesses her humiliation, he befriends her.</desc>
-    <category>Drama</category>
-    <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/51ecbce1f88b4e98deb50c7f78919a51.jpg?width=700"/>
-    <credits><director>Chandrakant Kanse</director><actor>Girija Prabhu</actor><actor>Mandar Jadhav</actor><actor>Mrunmayee Gondhalekar</actor><actor>Varsha Usgaonkar</actor><actor>Sunil Godse</actor><actor>Kapil Honrao</actor><actor>Madhavi Nimkar</actor><actor>Vikas Patil</actor></credits>
-    <episode-num system="onscreen">44</episode-num>
+    <title>Star Pravah Picture HD</title>
+    <desc>Star Pravah Picture HD</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/fe7ae052ecb7e68fec22c3db6b352e15.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015182300 +0530" stop="20261015185300 +0530" channel="jtv3100">
@@ -312268,34 +312300,34 @@
   </programme>
   <programme start="20261016050000 +0530" stop="20261016073000 +0530" channel="jtv3100">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016050000 +0530" stop="20261016073000 +0530" channel="Star.Pravah.Pictures.HD.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016050000 +0530" stop="20261016073000 +0530" channel="Pravah.Pictures.HD.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016050000 +0530" stop="20261016073000 +0530" channel="Pravah.Picture.HD.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016073000 +0530" stop="20261016083000 +0530" channel="jtv3100">
@@ -312372,66 +312404,66 @@
   </programme>
   <programme start="20261016093000 +0530" stop="20261016130000 +0530" channel="jtv3100">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016093000 +0530" stop="20261016130000 +0530" channel="Star.Pravah.Pictures.HD.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016093000 +0530" stop="20261016130000 +0530" channel="Pravah.Pictures.HD.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016093000 +0530" stop="20261016130000 +0530" channel="Pravah.Picture.HD.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016130000 +0530" stop="20261016151000 +0530" channel="jtv3100">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016130000 +0530" stop="20261016151000 +0530" channel="Star.Pravah.Pictures.HD.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016130000 +0530" stop="20261016151000 +0530" channel="Pravah.Pictures.HD.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016130000 +0530" stop="20261016151000 +0530" channel="Pravah.Picture.HD.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016151000 +0530" stop="20261016161000 +0530" channel="jtv3100">
@@ -312556,66 +312588,66 @@
   </programme>
   <programme start="20261016181000 +0530" stop="20261016184000 +0530" channel="jtv3100">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016181000 +0530" stop="20261016184000 +0530" channel="Star.Pravah.Pictures.HD.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016181000 +0530" stop="20261016184000 +0530" channel="Pravah.Pictures.HD.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016181000 +0530" stop="20261016184000 +0530" channel="Pravah.Picture.HD.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016184000 +0530" stop="20261016191000 +0530" channel="jtv3100">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016184000 +0530" stop="20261016191000 +0530" channel="Star.Pravah.Pictures.HD.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016184000 +0530" stop="20261016191000 +0530" channel="Pravah.Pictures.HD.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016184000 +0530" stop="20261016191000 +0530" channel="Pravah.Picture.HD.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016191000 +0530" stop="20261016194000 +0530" channel="jtv3100">
@@ -312852,34 +312884,34 @@
   </programme>
   <programme start="20261016231000 +0530" stop="20261016235959 +0530" channel="jtv3100">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016231000 +0530" stop="20261016235959 +0530" channel="Star.Pravah.Pictures.HD.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016231000 +0530" stop="20261016235959 +0530" channel="Pravah.Pictures.HD.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016231000 +0530" stop="20261016235959 +0530" channel="Pravah.Picture.HD.in">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Marathi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015000000 +0530" stop="20261015003000 +0530" channel="jtv3103">
@@ -329846,7 +329878,15 @@
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/881f8da87078db95366207ace4503a84.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
-  <programme start="20261015152700 +0530" stop="20261015170400 +0530" channel="jtv3146">
+  <programme start="20261015152700 +0530" stop="20261015163900 +0530" channel="jtv3146">
+    <title>Women's American Football</title>
+    <desc>Women's American Football</desc>
+    <category>Football</category>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/7d922514fdd4899304a3ec0766ce982e.jpg?width=700"/>
+    <rating><value>U</value></rating>
+  </programme>
+  <programme start="20261015163900 +0530" stop="20261015170400 +0530" channel="jtv3146">
     <title>Women's American Football</title>
     <desc>Women's American Football</desc>
     <category>Football</category>
@@ -373145,50 +373185,50 @@
   </programme>
   <programme start="20261016060000 +0530" stop="20261016090000 +0530" channel="jtv3276">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016090000 +0530" stop="20261016120000 +0530" channel="jtv3276">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016120000 +0530" stop="20261016150000 +0530" channel="jtv3276">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016150000 +0530" stop="20261016180000 +0530" channel="jtv3276">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016180000 +0530" stop="20261016210000 +0530" channel="jtv3276">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016210000 +0530" stop="20261016235959 +0530" channel="jtv3276">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015000000 +0530" stop="20261015003000 +0530" channel="jtv3277">
@@ -451280,13 +451320,21 @@
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/086af2aae3c72f1760dba7016efe801b.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
-  <programme start="20261015083000 +0530" stop="20261015111600 +0530" channel="jtv3518">
-    <title>Puja</title>
-    <desc>A maidservant witnesses the horrific tortures subjected to her employer's daughter by her in-laws. Eventually, she hatches a plot to infiltrate the house and rescue her mistress.</desc>
+  <programme start="20261015083000 +0530" stop="20261015104500 +0530" channel="jtv3518">
+    <title>Dhakee</title>
+    <desc>Dhakee</desc>
     <category>Drama</category>
     <language>Bengali</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f3b6287850b8ca3a59e05555830f48ac.jpg?width=700"/>
-    <credits><director>Subhash Sen</director><actor>Sreela Majumdar</actor><actor>Anil Chatterjee</actor><actor>Manoj Mitra</actor><actor>Haradhan Bannerjee</actor><actor>Rita Koiral</actor><actor>Smita Sinha</actor><actor>Tapan Chatterjee</actor><actor>Sambhu Chakraborty</actor></credits>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/27d40eb33d052f2db932af9d4828cf9c.jpg?width=700"/>
+    <credits><actor>Satabdi Roy</actor><actor>Tapas Paul</actor><actor>Kharaj Mukherjee</actor></credits>
+    <rating><value>U</value></rating>
+  </programme>
+  <programme start="20261015104500 +0530" stop="20261015111600 +0530" channel="jtv3518">
+    <title>Kishore Kumar Hits</title>
+    <desc>Kishore Kumar Hits</desc>
+    <category>Entertainment</category>
+    <language>Bengali</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5d93c57ca1e48dfb31fd8724fb555791.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015111600 +0530" stop="20261015120000 +0530" channel="jtv3518">
@@ -481694,11 +481742,11 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
   </programme>
   <programme start="20261015000000 +0530" stop="20261015013000 +0530" channel="jtv3565">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Malayalam</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261015013000 +0530" stop="20261015020000 +0530" channel="jtv3565">
     <title>Songs</title>
@@ -481806,11 +481854,11 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
   </programme>
   <programme start="20261015080000 +0530" stop="20261015113000 +0530" channel="jtv3565">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Malayalam</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261015113000 +0530" stop="20261015120000 +0530" channel="jtv3565">
     <title>Korean Songs</title>
@@ -481870,11 +481918,11 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
   </programme>
   <programme start="20261015143000 +0530" stop="20261015173000 +0530" channel="jtv3565">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Malayalam</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261015173000 +0530" stop="20261015180000 +0530" channel="jtv3565">
     <title>English Songs</title>
@@ -481966,19 +482014,19 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
   </programme>
   <programme start="20261015223000 +0530" stop="20261015235959 +0530" channel="jtv3565">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Malayalam</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016000000 +0530" stop="20261016013000 +0530" channel="jtv3565">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Malayalam</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016013000 +0530" stop="20261016020000 +0530" channel="jtv3565">
     <title>Songs</title>
@@ -482086,11 +482134,11 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
   </programme>
   <programme start="20261016080000 +0530" stop="20261016113000 +0530" channel="jtv3565">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Malayalam</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016113000 +0530" stop="20261016120000 +0530" channel="jtv3565">
     <title>Korean Songs</title>
@@ -482150,11 +482198,11 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
   </programme>
   <programme start="20261016143000 +0530" stop="20261016173000 +0530" channel="jtv3565">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Malayalam</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016173000 +0530" stop="20261016180000 +0530" channel="jtv3565">
     <title>English Songs</title>
@@ -482246,11 +482294,11 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
   </programme>
   <programme start="20261016223000 +0530" stop="20261016235959 +0530" channel="jtv3565">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Malayalam</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261015000000 +0530" stop="20261015003000 +0530" channel="jtv3566">
     <title>Bhajan Amrit</title>
@@ -491457,7 +491505,7 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <episode-num system="onscreen">3</episode-num>
     <rating><value>U</value></rating>
   </programme>
-  <programme start="20261015051300 +0530" stop="20261015111400 +0530" channel="jtv3587">
+  <programme start="20261015051300 +0530" stop="20261015120000 +0530" channel="jtv3587">
     <title>Aadat</title>
     <desc>As debts pile up and Salim Bhai's pressure mounts, the group rethinks their choices. After paying off most dues, they plan a trip, hoping to escape the chaos of recent weeks.</desc>
     <category>Drama</category>
@@ -491466,16 +491514,7 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <episode-num system="onscreen">4</episode-num>
     <rating><value>U</value></rating>
   </programme>
-  <programme start="20261015111400 +0530" stop="20261015115100 +0530" channel="jtv3587">
-    <title>Aadat</title>
-    <desc>As debts pile up and Salim Bhai's pressure mounts, the group rethinks their choices. After paying off most dues, they plan a trip, hoping to escape the chaos of recent weeks.</desc>
-    <category>Drama</category>
-    <language>Gujarati</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/1f5fe6a19db12cdebc48cdf4c689455c.jpg?width=700"/>
-    <episode-num system="onscreen">4</episode-num>
-    <rating><value>U</value></rating>
-  </programme>
-  <programme start="20261015115100 +0530" stop="20261015121800 +0530" channel="jtv3587">
+  <programme start="20261015120000 +0530" stop="20261015121800 +0530" channel="jtv3587">
     <title>Aadat</title>
     <desc>The friends must understand soon that the challenging task will destroy their lives.</desc>
     <category>Drama</category>
@@ -491777,12 +491816,22 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <episode-num system="onscreen">2</episode-num>
     <rating><value>U</value></rating>
   </programme>
-  <programme start="20261016110200 +0530" stop="20261016155100 +0530" channel="jtv3587">
-    <title>Har Ghadi Mauj</title>
-    <desc>Har Ghadi Mauj</desc>
+  <programme start="20261016110200 +0530" stop="20261016113000 +0530" channel="jtv3587">
+    <title>Yuddh</title>
+    <desc>Yuddh</desc>
+    <category>Crime drama</category>
+    <language>Gujarati</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/7a70c77588581c78b34bbcf3b0490fb1.jpg?width=700"/>
+    <episode-num system="onscreen">5</episode-num>
+    <rating><value>U</value></rating>
+  </programme>
+  <programme start="20261016113000 +0530" stop="20261016155100 +0530" channel="jtv3587">
+    <title>Kal Aaj Kal</title>
+    <desc>Kal Aaj Kal</desc>
     <category>Entertainment</category>
     <language>Gujarati</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/95a6fc14b09e2772d17cd40a1e6fbc95.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/6a74a5ff93479215e8d733a5221c3654.jpg?width=700"/>
+    <episode-num system="onscreen">1</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016155100 +0530" stop="20261016163400 +0530" channel="jtv3587">
@@ -507924,10 +507973,12 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016090000 +0530" stop="20261016091500 +0530" channel="jtv362">
-    <title>Star Sports Hindi 1</title>
-    <desc>Star Sports Hindi 1</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f2e79db73d3914e253ac6bfb074aac23.jpg?width=700"/>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
+    <language>Hindi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016091500 +0530" stop="20261016093000 +0530" channel="jtv362">
@@ -507971,10 +508022,12 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016120000 +0530" stop="20261016121500 +0530" channel="jtv362">
-    <title>Star Sports Hindi 1</title>
-    <desc>Star Sports Hindi 1</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f2e79db73d3914e253ac6bfb074aac23.jpg?width=700"/>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
+    <language>Hindi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016121500 +0530" stop="20261016123000 +0530" channel="jtv362">
@@ -508042,10 +508095,12 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016150000 +0530" stop="20261016151500 +0530" channel="jtv362">
-    <title>Star Sports Hindi 1</title>
-    <desc>Star Sports Hindi 1</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f2e79db73d3914e253ac6bfb074aac23.jpg?width=700"/>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
+    <language>Hindi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016151500 +0530" stop="20261016153000 +0530" channel="jtv362">
@@ -508073,10 +508128,12 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016170000 +0530" stop="20261016171500 +0530" channel="jtv362">
-    <title>Star Sports Hindi 1</title>
-    <desc>Star Sports Hindi 1</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f2e79db73d3914e253ac6bfb074aac23.jpg?width=700"/>
+    <title>Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <category>Cricket</category>
+    <language>Hindi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17c8cdd0c978e86175d50f8e98693996.jpg?width=700"/>
+    <episode-num system="onscreen">138</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016171500 +0530" stop="20261016173000 +0530" channel="jtv362">
@@ -536371,50 +536428,50 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
   </programme>
   <programme start="20261016060000 +0530" stop="20261016090000 +0530" channel="jtv476">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016090000 +0530" stop="20261016120000 +0530" channel="jtv476">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016120000 +0530" stop="20261016150000 +0530" channel="jtv476">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016150000 +0530" stop="20261016180000 +0530" channel="jtv476">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016180000 +0530" stop="20261016210000 +0530" channel="jtv476">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016210000 +0530" stop="20261016235959 +0530" channel="jtv476">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015000000 +0530" stop="20261015010600 +0530" channel="jtv477">
@@ -552704,7 +552761,7 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
   </programme>
   <programme start="20261015150000 +0530" stop="20261015160000 +0530" channel="jtv514">
     <title>Asia Cup 2025</title>
-    <desc>Powerplay Recap - Pakistan vs Bangladesh - Super Four - 1st Innings</desc>
+    <desc>Powerplay Recap - India vs Pakistan - Super Four - 2nd Innings</desc>
     <category>Cricket</category>
     <language>English</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/8c51b7ea5b521bacdbec09a3e10270f2.jpg?width=700"/>
@@ -552735,8 +552792,8 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015180000 +0530" stop="20261015190000 +0530" channel="jtv514">
-    <title>Asia Cup Highlights</title>
-    <desc>Highlights of matches from the Asia Cup tournament, where professional cricket teams compete against each other to emerge victorious.</desc>
+    <title>Asia Cup 2025</title>
+    <desc>Powerplay Recap - India vs Pakistan - Super Four - 2nd Innings</desc>
     <category>Cricket</category>
     <language>English</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/8c51b7ea5b521bacdbec09a3e10270f2.jpg?width=700"/>
@@ -616640,11 +616697,11 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015063000 +0530" stop="20261015070000 +0530" channel="jtv625">
-    <title>Calvary Swar</title>
-    <desc>A renowned religious scholar delivers a discourse describing Jesus's crucifixion and encourages followers to lead a pious life.</desc>
-    <category>Religious</category>
+    <title>The Soumi's - Swapno Holo Satti</title>
+    <desc>The founder of an Ayurvedic skincare company explains and demonstrates how using her products can help one get healthy and glowing skin.</desc>
+    <category>Consumer</category>
     <language>Bengali</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/bb896b291118a446fbf644d066f5d641.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/63e2a1dd3690bbac400be31c2ac0f39d.jpg?width=700"/>
     <episode-num system="onscreen">586</episode-num>
     <rating><value>U/A-12</value></rating>
   </programme>
@@ -630284,10 +630341,10 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
   </programme>
   <programme start="20261015130000 +0530" stop="20261015143000 +0530" channel="jtv647">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261015143000 +0530" stop="20261015150000 +0530" channel="jtv647">
@@ -630508,10 +630565,10 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
   </programme>
   <programme start="20261016130000 +0530" stop="20261016143000 +0530" channel="jtv647">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016143000 +0530" stop="20261016150000 +0530" channel="jtv647">
@@ -659984,11 +660041,11 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
   </programme>
   <programme start="20261015150000 +0530" stop="20261015180000 +0530" channel="jtv703">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261015180000 +0530" stop="20261015183000 +0530" channel="jtv703">
     <title>Sasu Bohu Food Express</title>
@@ -660353,11 +660410,11 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
   </programme>
   <programme start="20261016150000 +0530" stop="20261016180000 +0530" channel="jtv703">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016180000 +0530" stop="20261016183000 +0530" channel="jtv703">
     <title>Sasu Bohu Food Express</title>
@@ -685665,27 +685722,27 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
   </programme>
   <programme start="20261015140000 +0530" stop="20261015143000 +0530" channel="jtv765">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261015143000 +0530" stop="20261015150000 +0530" channel="jtv765">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261015150000 +0530" stop="20261015153000 +0530" channel="jtv765">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261015153000 +0530" stop="20261015160000 +0530" channel="jtv765">
     <title>Raagini</title>
@@ -686072,27 +686129,27 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
   </programme>
   <programme start="20261016140000 +0530" stop="20261016143000 +0530" channel="jtv765">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016143000 +0530" stop="20261016150000 +0530" channel="jtv765">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016150000 +0530" stop="20261016153000 +0530" channel="jtv765">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016153000 +0530" stop="20261016160000 +0530" channel="jtv765">
     <title>Raagini</title>
@@ -730525,11 +730582,11 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
   </programme>
   <programme start="20261015000000 +0530" stop="20261015023000 +0530" channel="jtv857">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261015023000 +0530" stop="20261015040000 +0530" channel="jtv857">
     <title>Nilavu Thoongum Neram</title>
@@ -730685,11 +730742,11 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
   </programme>
   <programme start="20261015133000 +0530" stop="20261015160000 +0530" channel="jtv857">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261015160000 +0530" stop="20261015163000 +0530" channel="jtv857">
     <title>4 Mani Seithigal</title>
@@ -730765,19 +730822,19 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
   </programme>
   <programme start="20261015223000 +0530" stop="20261015235959 +0530" channel="jtv857">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016000000 +0530" stop="20261016023000 +0530" channel="jtv857">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016023000 +0530" stop="20261016040000 +0530" channel="jtv857">
     <title>Nilavu Thoongum Neram</title>
@@ -730933,11 +730990,11 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
   </programme>
   <programme start="20261016133000 +0530" stop="20261016160000 +0530" channel="jtv857">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016160000 +0530" stop="20261016163000 +0530" channel="jtv857">
     <title>4 Mani Seithigal</title>
@@ -731013,11 +731070,11 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
   </programme>
   <programme start="20261016223000 +0530" stop="20261016235959 +0530" channel="jtv857">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261015000000 +0530" stop="20261015003000 +0530" channel="jtv858">
     <title>R News</title>
@@ -751252,7 +751309,7 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <desc>Tirupati Navaratri Brahmotsavam</desc>
     <category>Religious</category>
     <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/26b3a432c1ce032f6e5300fb6265e648.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/2e9f285c8084c0043b74b1f7ebea54e9.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016063000 +0530" stop="20261016064500 +0530" channel="jtv896">
@@ -751391,11 +751448,11 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
   </programme>
   <programme start="20261016153000 +0530" stop="20261016180000 +0530" channel="jtv896">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>Tamil</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/8b420b6e3cac44832b4063d9e5252b19.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016180000 +0530" stop="20261016183000 +0530" channel="jtv896">
     <title>News</title>
@@ -755901,35 +755958,35 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
   </programme>
   <programme start="20261015140000 +0530" stop="20261015143000 +0530" channel="jtv907">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261015143000 +0530" stop="20261015150000 +0530" channel="jtv907">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261015150000 +0530" stop="20261015153000 +0530" channel="jtv907">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261015153000 +0530" stop="20261015160000 +0530" channel="jtv907">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
-    <category>Entertainment</category>
+    <desc>Movie</desc>
+    <category>Feature Film</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg?width=700"/>
-    <rating><value>TVG</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/c5de25a952069a98d2058f6d7ba2803c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261015160000 +0530" stop="20261015163000 +0530" channel="jtv907">
     <title>Natural Hymns</title>
