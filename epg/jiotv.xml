@@ -6427,7 +6427,8 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016120000 +0530" stop="20261016130000 +0530" channel="jtv1061">
-    <title>DAY-4 Live Lakme Fashion Week OCT 2026</title>
+    <title>Wagle Ki Duniya</title>
+    <desc>Manoj tells Vadnana Vidya missed her doctor appointment. At checkup, a male gynecologist replaces her usual doctor; later, Vidya has news.</desc>
     <language>English</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/8c4469e341373e8f4b2e13f1ef6931c1.jpg?width=700"/>
     <episode-num system="onscreen">13</episode-num>
@@ -39777,11 +39778,14 @@
     <rating><value>TV14</value></rating>
   </programme>
   <programme start="20261016211000 +0530" stop="20261016220000 +0530" channel="jtv1158">
-    <title>Colors Infinity HD</title>
-    <desc>Colors Infinity HD</desc>
+    <title>Mayor of Kingstown</title>
+    <desc>The McLusky family are power brokers in Kingstown, Michigan, where the business of incarceration is the only thriving industry.</desc>
+    <category>Crime drama</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/e0b91534d74f2d0fb146f96aeae1a3fd.jpg?width=700"/>
-    <rating><value>U</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/b8ac38a23959760986c7262d0387382f.jpg?width=700"/>
+    <credits><director>Stephen Kay</director><actor>Jeremy Renner (Mike McLusky)</actor><actor>Hugh Dillon (Ian)</actor><actor>Taylor Handley (Kyle McLusky)</actor><actor>Tobi Bamtefa (Deverin "Bunny" Washington)</actor><actor>Derek Webster (Stevie)</actor><actor>Hamish Allan-Headley (Robert)</actor><actor>Aidan Gillen (Milo Sunter)</actor><actor>Nishi Munshi (Tracy McLusky)</actor><actor>Michael Beach (Kareem)</actor><actor>Edie Falco</actor><actor>Emma Laird (Iris)</actor><actor>Dianne Wiest (Miriam McLusky)</actor><actor>Pha'rez Lass (P-Dog)</actor><actor>Kyle Chandler (Mitch McLusky)</actor></credits>
+    <episode-num system="onscreen">9</episode-num>
+    <rating><value>TVMA</value></rating>
   </programme>
   <programme start="20261016220000 +0530" stop="20261016230000 +0530" channel="jtv1158">
     <title>Billions</title>
@@ -71292,18 +71296,24 @@
     <rating><value>U/A-12</value></rating>
   </programme>
   <programme start="20261016211000 +0530" stop="20261016220000 +0530" channel="jtv1325">
-    <title>Colors Infinity SD</title>
-    <desc>Colors Infinity SD</desc>
+    <title>Mayor of Kingstown</title>
+    <desc>The McLusky family are power brokers in Kingstown, Michigan, where the business of incarceration is the only thriving industry.</desc>
+    <category>Crime drama</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/2814e61c0cd0c1b5a30a4b7f64f89a34.jpg?width=700"/>
-    <rating><value>U</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/b8ac38a23959760986c7262d0387382f.jpg?width=700"/>
+    <credits><director>Stephen Kay</director><actor>Jeremy Renner (Mike McLusky)</actor><actor>Hugh Dillon (Ian)</actor><actor>Taylor Handley (Kyle McLusky)</actor><actor>Tobi Bamtefa (Deverin "Bunny" Washington)</actor><actor>Derek Webster (Stevie)</actor><actor>Hamish Allan-Headley (Robert)</actor><actor>Aidan Gillen (Milo Sunter)</actor><actor>Nishi Munshi (Tracy McLusky)</actor><actor>Michael Beach (Kareem)</actor><actor>Edie Falco</actor><actor>Emma Laird (Iris)</actor><actor>Dianne Wiest (Miriam McLusky)</actor><actor>Pha'rez Lass (P-Dog)</actor><actor>Kyle Chandler (Mitch McLusky)</actor></credits>
+    <episode-num system="onscreen">9</episode-num>
+    <rating><value>A</value></rating>
   </programme>
   <programme start="20261016211000 +0530" stop="20261016220000 +0530" channel="Colors.Infinity.in">
-    <title>Colors Infinity SD</title>
-    <desc>Colors Infinity SD</desc>
+    <title>Mayor of Kingstown</title>
+    <desc>The McLusky family are power brokers in Kingstown, Michigan, where the business of incarceration is the only thriving industry.</desc>
+    <category>Crime drama</category>
     <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/2814e61c0cd0c1b5a30a4b7f64f89a34.jpg?width=700"/>
-    <rating><value>U</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/b8ac38a23959760986c7262d0387382f.jpg?width=700"/>
+    <credits><director>Stephen Kay</director><actor>Jeremy Renner (Mike McLusky)</actor><actor>Hugh Dillon (Ian)</actor><actor>Taylor Handley (Kyle McLusky)</actor><actor>Tobi Bamtefa (Deverin "Bunny" Washington)</actor><actor>Derek Webster (Stevie)</actor><actor>Hamish Allan-Headley (Robert)</actor><actor>Aidan Gillen (Milo Sunter)</actor><actor>Nishi Munshi (Tracy McLusky)</actor><actor>Michael Beach (Kareem)</actor><actor>Edie Falco</actor><actor>Emma Laird (Iris)</actor><actor>Dianne Wiest (Miriam McLusky)</actor><actor>Pha'rez Lass (P-Dog)</actor><actor>Kyle Chandler (Mitch McLusky)</actor></credits>
+    <episode-num system="onscreen">9</episode-num>
+    <rating><value>A</value></rating>
   </programme>
   <programme start="20261016220000 +0530" stop="20261016230000 +0530" channel="jtv1325">
     <title>Billions</title>
@@ -305809,115 +305819,163 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016185300 +0530" stop="20261016192300 +0530" channel="jtv3099">
-    <title>Star Pravah Picture</title>
-    <desc>Star Pravah Picture</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5e3c2f071a4ba44febc29bdd5c08ba9e.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1008</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016185300 +0530" stop="20261016192300 +0530" channel="Star.Pravah.Pictures.in">
-    <title>Star Pravah Picture</title>
-    <desc>Star Pravah Picture</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5e3c2f071a4ba44febc29bdd5c08ba9e.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1008</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016185300 +0530" stop="20261016192300 +0530" channel="Pravah.Pictures.in">
-    <title>Star Pravah Picture</title>
-    <desc>Star Pravah Picture</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5e3c2f071a4ba44febc29bdd5c08ba9e.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1008</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016185300 +0530" stop="20261016192300 +0530" channel="Pravah.Picture.in">
-    <title>Star Pravah Picture</title>
-    <desc>Star Pravah Picture</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5e3c2f071a4ba44febc29bdd5c08ba9e.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1008</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016192300 +0530" stop="20261016195300 +0530" channel="jtv3099">
-    <title>Star Pravah Picture</title>
-    <desc>Star Pravah Picture</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5e3c2f071a4ba44febc29bdd5c08ba9e.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1009</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016192300 +0530" stop="20261016195300 +0530" channel="Star.Pravah.Pictures.in">
-    <title>Star Pravah Picture</title>
-    <desc>Star Pravah Picture</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5e3c2f071a4ba44febc29bdd5c08ba9e.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1009</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016192300 +0530" stop="20261016195300 +0530" channel="Pravah.Pictures.in">
-    <title>Star Pravah Picture</title>
-    <desc>Star Pravah Picture</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5e3c2f071a4ba44febc29bdd5c08ba9e.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1009</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016192300 +0530" stop="20261016195300 +0530" channel="Pravah.Picture.in">
-    <title>Star Pravah Picture</title>
-    <desc>Star Pravah Picture</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5e3c2f071a4ba44febc29bdd5c08ba9e.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1009</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016195300 +0530" stop="20261016202300 +0530" channel="jtv3099">
-    <title>Star Pravah Picture</title>
-    <desc>Star Pravah Picture</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5e3c2f071a4ba44febc29bdd5c08ba9e.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1010</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016195300 +0530" stop="20261016202300 +0530" channel="Star.Pravah.Pictures.in">
-    <title>Star Pravah Picture</title>
-    <desc>Star Pravah Picture</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5e3c2f071a4ba44febc29bdd5c08ba9e.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1010</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016195300 +0530" stop="20261016202300 +0530" channel="Pravah.Pictures.in">
-    <title>Star Pravah Picture</title>
-    <desc>Star Pravah Picture</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5e3c2f071a4ba44febc29bdd5c08ba9e.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1010</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016195300 +0530" stop="20261016202300 +0530" channel="Pravah.Picture.in">
-    <title>Star Pravah Picture</title>
-    <desc>Star Pravah Picture</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5e3c2f071a4ba44febc29bdd5c08ba9e.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1010</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016202300 +0530" stop="20261016205300 +0530" channel="jtv3099">
-    <title>Star Pravah Picture</title>
-    <desc>Star Pravah Picture</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5e3c2f071a4ba44febc29bdd5c08ba9e.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1011</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016202300 +0530" stop="20261016205300 +0530" channel="Star.Pravah.Pictures.in">
-    <title>Star Pravah Picture</title>
-    <desc>Star Pravah Picture</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5e3c2f071a4ba44febc29bdd5c08ba9e.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1011</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016202300 +0530" stop="20261016205300 +0530" channel="Pravah.Pictures.in">
-    <title>Star Pravah Picture</title>
-    <desc>Star Pravah Picture</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5e3c2f071a4ba44febc29bdd5c08ba9e.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1011</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016202300 +0530" stop="20261016205300 +0530" channel="Pravah.Picture.in">
-    <title>Star Pravah Picture</title>
-    <desc>Star Pravah Picture</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5e3c2f071a4ba44febc29bdd5c08ba9e.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1011</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016205300 +0530" stop="20261016215300 +0530" channel="jtv3099">
@@ -306101,31 +306159,43 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261017033800 +0530" stop="20261017060000 +0530" channel="jtv3099">
-    <title>Star Pravah Picture</title>
-    <desc>Star Pravah Picture</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5e3c2f071a4ba44febc29bdd5c08ba9e.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1008</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261017033800 +0530" stop="20261017060000 +0530" channel="Star.Pravah.Pictures.in">
-    <title>Star Pravah Picture</title>
-    <desc>Star Pravah Picture</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5e3c2f071a4ba44febc29bdd5c08ba9e.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1008</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261017033800 +0530" stop="20261017060000 +0530" channel="Pravah.Pictures.in">
-    <title>Star Pravah Picture</title>
-    <desc>Star Pravah Picture</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5e3c2f071a4ba44febc29bdd5c08ba9e.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1008</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261017033800 +0530" stop="20261017060000 +0530" channel="Pravah.Picture.in">
-    <title>Star Pravah Picture</title>
-    <desc>Star Pravah Picture</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/5e3c2f071a4ba44febc29bdd5c08ba9e.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1008</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261017060000 +0530" stop="20261017090000 +0530" channel="jtv3099">
@@ -306817,115 +306887,163 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016185300 +0530" stop="20261016192300 +0530" channel="jtv3100">
-    <title>Star Pravah Picture HD</title>
-    <desc>Star Pravah Picture HD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/fe7ae052ecb7e68fec22c3db6b352e15.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1008</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016185300 +0530" stop="20261016192300 +0530" channel="Star.Pravah.Pictures.HD.in">
-    <title>Star Pravah Picture HD</title>
-    <desc>Star Pravah Picture HD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/fe7ae052ecb7e68fec22c3db6b352e15.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1008</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016185300 +0530" stop="20261016192300 +0530" channel="Pravah.Pictures.HD.in">
-    <title>Star Pravah Picture HD</title>
-    <desc>Star Pravah Picture HD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/fe7ae052ecb7e68fec22c3db6b352e15.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1008</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016185300 +0530" stop="20261016192300 +0530" channel="Pravah.Picture.HD.in">
-    <title>Star Pravah Picture HD</title>
-    <desc>Star Pravah Picture HD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/fe7ae052ecb7e68fec22c3db6b352e15.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1008</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016192300 +0530" stop="20261016195300 +0530" channel="jtv3100">
-    <title>Star Pravah Picture HD</title>
-    <desc>Star Pravah Picture HD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/fe7ae052ecb7e68fec22c3db6b352e15.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1009</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016192300 +0530" stop="20261016195300 +0530" channel="Star.Pravah.Pictures.HD.in">
-    <title>Star Pravah Picture HD</title>
-    <desc>Star Pravah Picture HD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/fe7ae052ecb7e68fec22c3db6b352e15.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1009</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016192300 +0530" stop="20261016195300 +0530" channel="Pravah.Pictures.HD.in">
-    <title>Star Pravah Picture HD</title>
-    <desc>Star Pravah Picture HD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/fe7ae052ecb7e68fec22c3db6b352e15.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1009</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016192300 +0530" stop="20261016195300 +0530" channel="Pravah.Picture.HD.in">
-    <title>Star Pravah Picture HD</title>
-    <desc>Star Pravah Picture HD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/fe7ae052ecb7e68fec22c3db6b352e15.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1009</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016195300 +0530" stop="20261016202300 +0530" channel="jtv3100">
-    <title>Star Pravah Picture HD</title>
-    <desc>Star Pravah Picture HD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/fe7ae052ecb7e68fec22c3db6b352e15.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1010</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016195300 +0530" stop="20261016202300 +0530" channel="Star.Pravah.Pictures.HD.in">
-    <title>Star Pravah Picture HD</title>
-    <desc>Star Pravah Picture HD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/fe7ae052ecb7e68fec22c3db6b352e15.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1010</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016195300 +0530" stop="20261016202300 +0530" channel="Pravah.Pictures.HD.in">
-    <title>Star Pravah Picture HD</title>
-    <desc>Star Pravah Picture HD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/fe7ae052ecb7e68fec22c3db6b352e15.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1010</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016195300 +0530" stop="20261016202300 +0530" channel="Pravah.Picture.HD.in">
-    <title>Star Pravah Picture HD</title>
-    <desc>Star Pravah Picture HD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/fe7ae052ecb7e68fec22c3db6b352e15.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1010</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016202300 +0530" stop="20261016205300 +0530" channel="jtv3100">
-    <title>Star Pravah Picture HD</title>
-    <desc>Star Pravah Picture HD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/fe7ae052ecb7e68fec22c3db6b352e15.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1011</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016202300 +0530" stop="20261016205300 +0530" channel="Star.Pravah.Pictures.HD.in">
-    <title>Star Pravah Picture HD</title>
-    <desc>Star Pravah Picture HD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/fe7ae052ecb7e68fec22c3db6b352e15.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1011</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016202300 +0530" stop="20261016205300 +0530" channel="Pravah.Pictures.HD.in">
-    <title>Star Pravah Picture HD</title>
-    <desc>Star Pravah Picture HD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/fe7ae052ecb7e68fec22c3db6b352e15.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1011</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016202300 +0530" stop="20261016205300 +0530" channel="Pravah.Picture.HD.in">
-    <title>Star Pravah Picture HD</title>
-    <desc>Star Pravah Picture HD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/fe7ae052ecb7e68fec22c3db6b352e15.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1011</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016205300 +0530" stop="20261016215300 +0530" channel="jtv3100">
@@ -307109,31 +307227,43 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261017033800 +0530" stop="20261017050000 +0530" channel="jtv3100">
-    <title>Star Pravah Picture HD</title>
-    <desc>Star Pravah Picture HD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/fe7ae052ecb7e68fec22c3db6b352e15.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1008</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261017033800 +0530" stop="20261017050000 +0530" channel="Star.Pravah.Pictures.HD.in">
-    <title>Star Pravah Picture HD</title>
-    <desc>Star Pravah Picture HD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/fe7ae052ecb7e68fec22c3db6b352e15.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1008</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261017033800 +0530" stop="20261017050000 +0530" channel="Pravah.Pictures.HD.in">
-    <title>Star Pravah Picture HD</title>
-    <desc>Star Pravah Picture HD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/fe7ae052ecb7e68fec22c3db6b352e15.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1008</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261017033800 +0530" stop="20261017050000 +0530" channel="Pravah.Picture.HD.in">
-    <title>Star Pravah Picture HD</title>
-    <desc>Star Pravah Picture HD</desc>
-    <language>English</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/fe7ae052ecb7e68fec22c3db6b352e15.jpg?width=700"/>
+    <title>Aai Kuthe Kaay Karte</title>
+    <desc>Arundhati selflessly dedicates her life to her family, but when she realizes her sacrifices are unappreciated, she embarks on a journey of self-discovery to reclaim her identity and independence.</desc>
+    <category>Drama</category>
+    <language>Marathi</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/54c5ead1dca9754d9525cff221f6d509.jpg?width=700"/>
+    <credits><director>Ravindra Karmakar</director><actor>Omkar Govardhan (Ashutosh Kelkar)</actor><actor>Milind Gawali (Aniruddha Vinayak Deshmukh)</actor><actor>Deepali Pansare (Sanjana Shekhar Dixit / Sanjana Aniruddha Deshmukh)</actor><actor>Madhurani Gokhale Prabhulkar (Arundhati Joglekar / Arundhati Aniruddha Deshmukh / Arundhati Ashutosh Kelkar)</actor><actor>Abhishek Deshmukh (Yash Aniruddha Deshmukh)</actor><actor>Apoorva Gore (Isha Aniruddha Deshmukh / Isha Anish Kelkar)</actor><actor>Niranjan Kulkarni (Abhishek Aniruddha Deshmukh)</actor><actor>Ashwini Mahangade (Anagha Mahajan / Anagha Abhishek Deshmukh)</actor></credits>
+    <episode-num system="onscreen">1008</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261017050000 +0530" stop="20261017073000 +0530" channel="jtv3100">
@@ -442204,8 +442334,8 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016131000 +0530" stop="20261016140000 +0530" channel="jtv3509">
-    <title>Crime Patrol Satark</title>
-    <desc>Natasha accuses Kartik of adultery as police find a body too damaged to identify.</desc>
+    <title>Best of Crime Patrol</title>
+    <desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
     <category>Crime</category>
     <language>Hindi</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/0932d8744a6edf76be3e7a83bbd25e5f.jpg?width=700"/>
@@ -442234,8 +442364,8 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016163000 +0530" stop="20261016172000 +0530" channel="jtv3509">
-    <title>Crime Patrol Dial 100</title>
-    <desc>Police investigate a man's murder in Panvel, Maharashtra, and the case leads them to three missing girls last seen with him.</desc>
+    <title>Best of Crime Patrol</title>
+    <desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
     <category>Crime</category>
     <language>Hindi</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/0932d8744a6edf76be3e7a83bbd25e5f.jpg?width=700"/>
@@ -442244,8 +442374,8 @@
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016172000 +0530" stop="20261016181000 +0530" channel="jtv3509">
-    <title>Crime Patrol Dial 100</title>
-    <desc>In the previous episode, the cops find a corpse of a young man in Navi Mumbai. It leads them to a case involving the disappearance of three girls.</desc>
+    <title>Best of Crime Patrol</title>
+    <desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
     <category>Crime</category>
     <language>Hindi</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/0932d8744a6edf76be3e7a83bbd25e5f.jpg?width=700"/>
@@ -466564,7 +466694,7 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f31bbe589d5ef1338381fb7acd157018.jpg?width=700"/>
     <rating><value>TVG</value></rating>
   </programme>
-  <programme start="20261016000000 +0530" stop="20261016022000 +0530" channel="jtv3544">
+  <programme start="20261016000000 +0530" stop="20261016040600 +0530" channel="jtv3544">
     <title>Koyelaanchal</title>
     <desc>An honest IAS officer rises against the atrocities of a brutal mafioso. In retaliation, the mafioso sends a deadly human weapon to kill the officer, who instead ends up abducting his child.</desc>
     <category>Action</category>
@@ -466573,14 +466703,14 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <credits><actor>Vinod Khanna</actor><actor>Sunil Shetty</actor><actor>Vipinno</actor><actor>Roopali Krishnarao</actor><actor>Purva Parag</actor><actor>Deep Raj Rana</actor><actor>Brij Gopal</actor><actor>Kannan Arunachalam</actor><actor>Biswanath Basu</actor><actor>Himayat Ali</actor><actor>Manjeet Singh</actor></credits>
     <rating><value>U</value></rating>
   </programme>
-  <programme start="20261016022000 +0530" stop="20261016062900 +0530" channel="jtv3544">
-    <title>Bhoot Returns</title>
-    <desc>Tarun and Namrata move into a luxurious bungalow with Taman and Nimmi, their son and daughter respectively. However, strange occurrences start taking place and they must escape in order to survive.</desc>
-    <category>Horror</category>
+  <programme start="20261016040600 +0530" stop="20261016062900 +0530" channel="jtv3544">
+    <title>Hota Hai Dil Pyaar Mein Paagal</title>
+    <desc>Rohit develops feelings for a beautiful girl named Riya, who is dating Vicky. In order to claim her love, Rohit makes a fool out of Vicky but Riya finds out about it.</desc>
+    <category>Romance</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/b4556d631cbfc2475cd2dd71309782de.jpg?width=700"/>
-    <credits><director>Ram Gopal Varma</director><director>Ravi Shankar</director><actor>Manisha Koirala (Namrata Awasthi)</actor><actor>J.D. Chakravarthy (Tarun Awasthi)</actor><actor>Madhu Shalini (Pooja)</actor><actor>Alayana Sharma (Nimmi)</actor><actor>Bharat Ganeshpure (Police Inspector)</actor><actor>Nitin Jadhav (Laxman)</actor><actor>Kushank Thacker (Taman)</actor></credits>
-    <rating><value>U</value></rating>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/d2288bd8fb733760f25851f8c05ccdaa.jpg?width=700"/>
+    <credits><director>Mahesh Kapoor</director><actor>Gaurav Kakkar (Rohit)</actor><actor>Divyaman Singh (Shekhar)</actor><actor>Abhay Vaidya (Vishal)</actor><actor>Trissha (Riyya)</actor><actor>Anokhi Srivastav (Sanjana)</actor><actor>Saurabh Arya (Vicky)</actor><actor>Manoj Joshi (Boss)</actor><actor>Asrani</actor><actor>Upasana Singh</actor></credits>
+    <rating><value>U/A-16</value></rating>
   </programme>
   <programme start="20261016062900 +0530" stop="20261016085300 +0530" channel="jtv3544">
     <title>Kiss Kis Ko</title>
@@ -481849,7 +481979,7 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <language>English</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/669d178e33ff850c29d9c4a0b80e9640.jpg?width=700"/>
     <credits><actor>Wayne Allwine (Mickey Mouse)</actor><actor>Russi Taylor (Minnie Mouse)</actor><actor>Bill Farmer (Goofy)</actor><actor>Tony Anselmo (Donald Duck)</actor><actor>Tress MacNeille (Daisy Duck)</actor><actor>Bret Iwan (Mickey Mouse)</actor></credits>
-    <rating><value>U</value></rating>
+    <rating><value>TVY</value></rating>
   </programme>
   <programme start="20261016110000 +0530" stop="20261016113000 +0530" channel="jtv3578">
     <title>Doraemon</title>
@@ -481878,7 +482008,7 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <language>English</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/447cfed522e0d0a3a4881af2c63bab43.jpg?width=700"/>
     <credits><actor>Cristina Vee</actor><actor>Bryce Papenbrook</actor></credits>
-    <rating><value>U</value></rating>
+    <rating><value>TVY7</value></rating>
   </programme>
   <programme start="20261016140000 +0530" stop="20261016143000 +0530" channel="jtv3578">
     <title>Jungle Tales with Mowgli</title>
@@ -481895,7 +482025,7 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <language>English</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/447cfed522e0d0a3a4881af2c63bab43.jpg?width=700"/>
     <credits><actor>Cristina Vee</actor><actor>Bryce Papenbrook</actor></credits>
-    <rating><value>U</value></rating>
+    <rating><value>TVY7</value></rating>
   </programme>
   <programme start="20261016153000 +0530" stop="20261016163000 +0530" channel="jtv3578">
     <title>PJ Masks</title>
@@ -481914,7 +482044,7 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <language>English</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/669d178e33ff850c29d9c4a0b80e9640.jpg?width=700"/>
     <credits><actor>Wayne Allwine (Mickey Mouse)</actor><actor>Russi Taylor (Minnie Mouse)</actor><actor>Bill Farmer (Goofy)</actor><actor>Tony Anselmo (Donald Duck)</actor><actor>Tress MacNeille (Daisy Duck)</actor><actor>Bret Iwan (Mickey Mouse)</actor></credits>
-    <rating><value>U</value></rating>
+    <rating><value>TVY</value></rating>
   </programme>
   <programme start="20261016170000 +0530" stop="20261016183000 +0530" channel="jtv3578">
     <title>Mickey Mouse Clubhouse</title>
@@ -481923,7 +482053,7 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <language>English</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/669d178e33ff850c29d9c4a0b80e9640.jpg?width=700"/>
     <credits><actor>Wayne Allwine (Mickey Mouse)</actor><actor>Russi Taylor (Minnie Mouse)</actor><actor>Bill Farmer (Goofy)</actor><actor>Tony Anselmo (Donald Duck)</actor><actor>Tress MacNeille (Daisy Duck)</actor><actor>Bret Iwan (Mickey Mouse)</actor></credits>
-    <rating><value>U</value></rating>
+    <rating><value>TVY</value></rating>
   </programme>
   <programme start="20261016183000 +0530" stop="20261016193000 +0530" channel="jtv3578">
     <title>Doraemon</title>
@@ -482030,7 +482160,7 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <language>English</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/669d178e33ff850c29d9c4a0b80e9640.jpg?width=700"/>
     <credits><actor>Wayne Allwine (Mickey Mouse)</actor><actor>Russi Taylor (Minnie Mouse)</actor><actor>Bill Farmer (Goofy)</actor><actor>Tony Anselmo (Donald Duck)</actor><actor>Tress MacNeille (Daisy Duck)</actor><actor>Bret Iwan (Mickey Mouse)</actor></credits>
-    <rating><value>U</value></rating>
+    <rating><value>TVY</value></rating>
   </programme>
   <programme start="20261017110000 +0530" stop="20261017113000 +0530" channel="jtv3578">
     <title>Doraemon</title>
@@ -482067,7 +482197,7 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <language>English</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/447cfed522e0d0a3a4881af2c63bab43.jpg?width=700"/>
     <credits><actor>Cristina Vee</actor><actor>Bryce Papenbrook</actor></credits>
-    <rating><value>U</value></rating>
+    <rating><value>TVY7</value></rating>
   </programme>
   <programme start="20261017140000 +0530" stop="20261017143000 +0530" channel="jtv3578">
     <title>Jungle Tales with Mowgli</title>
@@ -482084,7 +482214,7 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <language>English</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/447cfed522e0d0a3a4881af2c63bab43.jpg?width=700"/>
     <credits><actor>Cristina Vee</actor><actor>Bryce Papenbrook</actor></credits>
-    <rating><value>U</value></rating>
+    <rating><value>TVY7</value></rating>
   </programme>
   <programme start="20261017153000 +0530" stop="20261017163000 +0530" channel="jtv3578">
     <title>PJ Masks</title>
@@ -482103,7 +482233,7 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <language>English</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/669d178e33ff850c29d9c4a0b80e9640.jpg?width=700"/>
     <credits><actor>Wayne Allwine (Mickey Mouse)</actor><actor>Russi Taylor (Minnie Mouse)</actor><actor>Bill Farmer (Goofy)</actor><actor>Tony Anselmo (Donald Duck)</actor><actor>Tress MacNeille (Daisy Duck)</actor><actor>Bret Iwan (Mickey Mouse)</actor></credits>
-    <rating><value>U</value></rating>
+    <rating><value>TVY</value></rating>
   </programme>
   <programme start="20261017170000 +0530" stop="20261017183000 +0530" channel="jtv3578">
     <title>Mickey Mouse Clubhouse</title>
@@ -482112,7 +482242,7 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <language>English</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/669d178e33ff850c29d9c4a0b80e9640.jpg?width=700"/>
     <credits><actor>Wayne Allwine (Mickey Mouse)</actor><actor>Russi Taylor (Minnie Mouse)</actor><actor>Bill Farmer (Goofy)</actor><actor>Tony Anselmo (Donald Duck)</actor><actor>Tress MacNeille (Daisy Duck)</actor><actor>Bret Iwan (Mickey Mouse)</actor></credits>
-    <rating><value>U</value></rating>
+    <rating><value>TVY</value></rating>
   </programme>
   <programme start="20261017183000 +0530" stop="20261017193000 +0530" channel="jtv3578">
     <title>Doraemon</title>
@@ -485109,7 +485239,7 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/57d0f94cb4f76b8ee80f2015dfb00254.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
-  <programme start="20261016000000 +0530" stop="20261016045700 +0530" channel="jtv3587">
+  <programme start="20261016000000 +0530" stop="20261016051300 +0530" channel="jtv3587">
     <title>Aadat</title>
     <desc>As debts pile up and Salim Bhai's pressure mounts, the group rethinks their choices. After paying off most dues, they plan a trip, hoping to escape the chaos of recent weeks.</desc>
     <category>Drama</category>
@@ -485118,7 +485248,16 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <episode-num system="onscreen">4</episode-num>
     <rating><value>U</value></rating>
   </programme>
-  <programme start="20261016045700 +0530" stop="20261016062200 +0530" channel="jtv3587">
+  <programme start="20261016051300 +0530" stop="20261016055000 +0530" channel="jtv3587">
+    <title>Aadat</title>
+    <desc>As debts pile up and Salim Bhai's pressure mounts, the group rethinks their choices. After paying off most dues, they plan a trip, hoping to escape the chaos of recent weeks.</desc>
+    <category>Drama</category>
+    <language>Gujarati</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/1f5fe6a19db12cdebc48cdf4c689455c.jpg?width=700"/>
+    <episode-num system="onscreen">4</episode-num>
+    <rating><value>U</value></rating>
+  </programme>
+  <programme start="20261016055000 +0530" stop="20261016062200 +0530" channel="jtv3587">
     <title>Narsinh Mehta</title>
     <desc>Narsinh Mehta is a poet and saint of Gujarat, who is just like any other person facing several hardships and struggles in his life.</desc>
     <category>Drama</category>
@@ -485427,13 +485566,31 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <episode-num system="onscreen">3</episode-num>
     <rating><value>U</value></rating>
   </programme>
-  <programme start="20261017043600 +0530" stop="20261017071100 +0530" channel="jtv3587">
+  <programme start="20261017043600 +0530" stop="20261017050800 +0530" channel="jtv3587">
     <title>Yuddh</title>
     <desc>Yuddh</desc>
     <category>Crime drama</category>
     <language>Gujarati</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/7a70c77588581c78b34bbcf3b0490fb1.jpg?width=700"/>
     <episode-num system="onscreen">4</episode-num>
+    <rating><value>U</value></rating>
+  </programme>
+  <programme start="20261017050800 +0530" stop="20261017053700 +0530" channel="jtv3587">
+    <title>Yuddh</title>
+    <desc>Yuddh</desc>
+    <category>Crime drama</category>
+    <language>Gujarati</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/7a70c77588581c78b34bbcf3b0490fb1.jpg?width=700"/>
+    <episode-num system="onscreen">2</episode-num>
+    <rating><value>U</value></rating>
+  </programme>
+  <programme start="20261017053700 +0530" stop="20261017071100 +0530" channel="jtv3587">
+    <title>Yuddh</title>
+    <desc>Yuddh</desc>
+    <category>Crime drama</category>
+    <language>Gujarati</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/7a70c77588581c78b34bbcf3b0490fb1.jpg?width=700"/>
+    <episode-num system="onscreen">5</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261017071100 +0530" stop="20261017080500 +0530" channel="jtv3587">
@@ -547415,16 +547572,16 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016120000 +0530" stop="20261016123000 +0530" channel="jtv514">
-    <title>2026 Asian Games Highlights</title>
-    <desc>2026 Asian Games Highlights</desc>
+    <title>20th Asian Games Aichi-Nagoya 2026</title>
+    <desc>Watch the full replay of the Women’s Hockey Gold Medal Match between India and China at the Asian Games 2026, only on Sony LIV.</desc>
     <category>Multi-sport event</category>
     <language>English</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016123000 +0530" stop="20261016130000 +0530" channel="jtv514">
-    <title>ACC Men's U19 Asia Cup</title>
-    <desc>Amateur cricket teams compete against each other to emerge victorious and win the coveted title of the ACC Under-19 Asia Cup.</desc>
+    <title>DP World Men's U19 Asia Cup 2025</title>
+    <desc>Pakistan Crowned U-19 Asia Cup Champions</desc>
     <category>Cricket</category>
     <language>English</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/117d8ae19721dca9c383f8f1924c1ac8.jpg?width=700"/>
@@ -620670,13 +620827,10 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016070000 +0530" stop="20261016073000 +0530" channel="jtv638">
-    <title>Mukku Pudaka</title>
-    <desc>Avani, who works as a tour guide, does not wear a nose ring according to her lineage, but her future mother-in-law wants her to hold a fair, vow to the village deity and wear it on that day.</desc>
-    <category>Drama</category>
-    <language>Telugu</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/88cf44a67220ba2fb3879aa73ab0cc5d.jpg?width=700"/>
-    <credits><actor>Aishwarya Pisse</actor><actor>Sumit Roy King</actor><actor>Navya Rao</actor><actor>Raki Gowda</actor><actor>Sravan</actor><actor>Boddu Prabhakar</actor></credits>
-    <episode-num system="onscreen">1325</episode-num>
+    <title>Zee Telugu</title>
+    <desc>Zee Telugu</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/b98dbed47fbb524d2ddce61a99d5631c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016073000 +0530" stop="20261016080000 +0530" channel="jtv638">
@@ -620689,23 +620843,18 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016080000 +0530" stop="20261016083000 +0530" channel="jtv638">
-    <title>Omkaram</title>
-    <desc>A renowned astrologer predicts the future of the people and offers remedies to viewers suffering from problems in their personal and professional lives.</desc>
-    <category>Astrological Guidance</category>
-    <language>Telugu</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f41a39232249102c6a73df8c33cf0072.jpg?width=700"/>
-    <credits><actor>Devishree Guruji</actor></credits>
-    <episode-num system="onscreen">3885</episode-num>
-    <rating><value>U/A-12</value></rating>
+    <title>Zee Telugu</title>
+    <desc>Zee Telugu</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/b98dbed47fbb524d2ddce61a99d5631c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016083000 +0530" stop="20261016090000 +0530" channel="jtv638">
-    <title>Aarogyame Mahayogam</title>
-    <desc>The host interacts with an expert who shares insightful tips and suggestions with viewers on maintaining a healthy lifestyle using traditional Indian techniques.</desc>
-    <category>Health</category>
-    <language>Telugu</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/faf363728f3774009a093b4c9069e82e.jpg?width=700"/>
-    <episode-num system="onscreen">1813</episode-num>
-    <rating><value>U/A-12</value></rating>
+    <title>Zee Telugu</title>
+    <desc>Zee Telugu</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/b98dbed47fbb524d2ddce61a99d5631c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016090000 +0530" stop="20261016120000 +0530" channel="jtv638">
     <title>Robinhood</title>
@@ -620717,13 +620866,10 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016120000 +0530" stop="20261016123000 +0530" channel="jtv638">
-    <title>Mukku Pudaka</title>
-    <desc>Avani, who works as a tour guide, does not wear a nose ring according to her lineage, but her future mother-in-law wants her to hold a fair, vow to the village deity and wear it on that day.</desc>
-    <category>Drama</category>
-    <language>Telugu</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/88cf44a67220ba2fb3879aa73ab0cc5d.jpg?width=700"/>
-    <credits><actor>Aishwarya Pisse</actor><actor>Sumit Roy King</actor><actor>Navya Rao</actor><actor>Raki Gowda</actor><actor>Sravan</actor><actor>Boddu Prabhakar</actor></credits>
-    <episode-num system="onscreen">1334</episode-num>
+    <title>Zee Telugu</title>
+    <desc>Zee Telugu</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/b98dbed47fbb524d2ddce61a99d5631c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016123000 +0530" stop="20261016130000 +0530" channel="jtv638">
@@ -620744,33 +620890,24 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016133000 +0530" stop="20261016140000 +0530" channel="jtv638">
-    <title>Gundamma Katha</title>
-    <desc>Geetha, constantly ridiculed for being overweight, is compelled to marry Ram due to unfortunate events, and strives to win his heart.</desc>
-    <category>Family</category>
-    <language>Telugu</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ff8a508b6258bf64017ee0dd415af756.jpg?width=700"/>
-    <credits><director>P.V. Krishna</director><actor>Kalki Raja</actor><actor>Munna</actor><actor>Mounika Guntuka</actor><actor>Nata Kumari</actor><actor>Harshala Honey</actor><actor>Devisri</actor><actor>Pooja Murthy</actor><actor>Pooja</actor><actor>Kalki</actor></credits>
-    <episode-num system="onscreen">2546</episode-num>
-    <rating><value>U/A-12</value></rating>
+    <title>Zee Telugu</title>
+    <desc>Zee Telugu</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/b98dbed47fbb524d2ddce61a99d5631c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261016140000 +0530" stop="20261016143000 +0530" channel="jtv638">
-    <title>Kalavari Kodalu Kanaka Mahalakshmi</title>
-    <desc>A loving father seeks a marriage alliance for his beloved daughter but is rejected by his relatives. Soon, her wedding is fixed with a man who does not approve of her, leading her to face some issues.</desc>
-    <category>Drama</category>
-    <language>Telugu</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/6276517a3481819411dd3680e10b41a8.jpg?width=700"/>
-    <credits><director>Vardhan Reddy</director><actor>Jai Dhanush</actor><actor>Yuktha Malnad</actor><actor>Nikitha</actor><actor>Priya</actor><actor>Vishwamohan</actor><actor>Koteswara Rao</actor><actor>Swarna Khan</actor><actor>Arti Kulkarni</actor></credits>
-    <episode-num system="onscreen">688</episode-num>
+    <title>Zee Telugu</title>
+    <desc>Zee Telugu</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/b98dbed47fbb524d2ddce61a99d5631c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016143000 +0530" stop="20261016150000 +0530" channel="jtv638">
-    <title>Ennallo Vechina Hrudayam</title>
-    <desc>Tripura, a kind-hearted teacher, steps into the life of Bala, a former businessman left with brain damage after an accident, forming a bond that transforms their lives.</desc>
-    <category>Drama</category>
-    <language>Telugu</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/17551db3b2f52e129e95050bb13668af.jpg?width=700"/>
-    <credits><director>Jayanth Raghavan</director><actor>Chandu B Gowda (Balakrishna)</actor><actor>Tanvi Balraj (Tripura)</actor><actor>Mumtaj (Yashoda)</actor><actor>Lakshman</actor><actor>Uma</actor><actor>Khushal</actor><actor>Karate Kalyani</actor><actor>Viswa</actor></credits>
-    <episode-num system="onscreen">539</episode-num>
+    <title>Zee Telugu</title>
+    <desc>Zee Telugu</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/b98dbed47fbb524d2ddce61a99d5631c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016150000 +0530" stop="20261016153000 +0530" channel="jtv638">
@@ -620793,13 +620930,10 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016160000 +0530" stop="20261016163000 +0530" channel="jtv638">
-    <title>Premabhishekam</title>
-    <desc>Vasudha, an amiable and endearing girl from a village, starts working at an affluent household as a maid, where she butts heads with Chandrika, the strict matriarch.</desc>
-    <category>Drama</category>
-    <language>Telugu</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/0b144b93fe91adcedca620f9c706c2ea.jpg?width=700"/>
-    <credits><actor>Priya Thakur (Vasudha)</actor><actor>Abhishek Sharma (Devansh Chowdary)</actor><actor>Nausheen Ali Sardar (Chandrika Devi Chowdary)</actor><actor>Sachin Parikh (Prabhakar Chowdary)</actor><actor>Pratiksha Rai (Kalpana)</actor><actor>Arvind Choudhary (Mohan Chowdary)</actor></credits>
-    <episode-num system="onscreen">33</episode-num>
+    <title>Zee Telugu</title>
+    <desc>Zee Telugu</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/b98dbed47fbb524d2ddce61a99d5631c.jpg?width=700"/>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016163000 +0530" stop="20261016170000 +0530" channel="jtv638">
@@ -620809,7 +620943,7 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <language>Telugu</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/367a1b5ff45ea2b4f5f13c5814cb4edc.jpg?width=700"/>
     <credits><director>Uttam Ahlawat</director><director>Devender Kumar Pandey</director><actor>Bharat Alhawat</actor><actor>Ayushi Khurana</actor></credits>
-    <episode-num system="onscreen">286</episode-num>
+    <episode-num system="onscreen">31</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016170000 +0530" stop="20261016180000 +0530" channel="jtv638">
@@ -620828,7 +620962,7 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <language>Telugu</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/0c3bfb21c65de8538d756c983d1a39b6.jpg?width=700"/>
     <credits><actor>Richard Jose</actor><actor>Pallavi Gowda</actor><actor>Nisarga</actor></credits>
-    <episode-num system="onscreen">1018</episode-num>
+    <episode-num system="onscreen">17</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016183000 +0530" stop="20261016190000 +0530" channel="jtv638">
@@ -620858,7 +620992,7 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <language>Telugu</language>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/f2eca87e36fb905f741edcbfb1458f57.jpg?width=700"/>
     <credits><actor>Bhoomika Ramesh</actor><actor>Abhinav Vishwanathan</actor><actor>Koushik</actor><actor>Sujitha</actor><actor>Mithun Tejasvi</actor></credits>
-    <episode-num system="onscreen">4</episode-num>
+    <episode-num system="onscreen">9</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016200000 +0530" stop="20261016203000 +0530" channel="jtv638">
@@ -620920,14 +621054,11 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261016232500 +0530" stop="20261016235959 +0530" channel="jtv638">
-    <title>Gundamma Katha</title>
-    <desc>Geetha, constantly ridiculed for being overweight, is compelled to marry Ram due to unfortunate events, and strives to win his heart.</desc>
-    <category>Family</category>
-    <language>Telugu</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ff8a508b6258bf64017ee0dd415af756.jpg?width=700"/>
-    <credits><director>P.V. Krishna</director><actor>Kalki Raja</actor><actor>Munna</actor><actor>Mounika Guntuka</actor><actor>Nata Kumari</actor><actor>Harshala Honey</actor><actor>Devisri</actor><actor>Pooja Murthy</actor><actor>Pooja</actor><actor>Kalki</actor></credits>
-    <episode-num system="onscreen">2546</episode-num>
-    <rating><value>U/A-12</value></rating>
+    <title>Zee Telugu</title>
+    <desc>Zee Telugu</desc>
+    <language>English</language>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/b98dbed47fbb524d2ddce61a99d5631c.jpg?width=700"/>
+    <rating><value>U</value></rating>
   </programme>
   <programme start="20261017000000 +0530" stop="20261017021300 +0530" channel="jtv638">
     <title>Robinhood</title>
