@@ -24,570 +24,6 @@
         <display-name lang="en">YRF Music</display-name>
         <icon src="http://p-img.movetv.com/1280x720/196a15781456a01e024336fc52320df8.png" />
     </channel>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261016083300 +0000" stop="20261016093000 +0000">
-        <title lang="en">Crime Patrol Dial 100</title>
-        <desc lang="en">A re-enactment of real-life heinous crimes inflicted upon innocent individuals, including murder, kidnapping, theft and forgery.</desc>
-        <category lang="en">Crime</category>
-        <category lang="en">Documentary</category>
-        <rating>
-            <value>TV-G</value>
-        </rating>
-        <credits>
-            <actor>Satyajeet Rajput</actor>
-            <actor>Sameer Deshpande</actor>
-            <actor>Rose Laskar</actor>
-            <actor>Manav Soneji</actor>
-            <actor>Saheem Khan</actor>
-            <actor>Anup Soni</actor>
-            <actor>Satish Shukla</actor>
-            <actor>Shailendra Tomar</actor>
-            <actor>Kevin Couto</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/1920x1080/9eb2cde352104fa7bdcf3a61da7d4bb4.jpeg" />
-        <live />
-    </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261016093000 +0000" stop="20261016100000 +0000">
-        <title lang="en">Baal Veer</title>
-        <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
-        <category lang="en">Fantasy</category>
-        <rating>
-            <value>TV-G</value>
-        </rating>
-        <credits>
-            <actor>Dev Joshi</actor>
-            <actor>Anushka Sen</actor>
-            <actor>Rudra Soni</actor>
-            <actor>Kaivalya Chheda</actor>
-            <actor>Gaurav Walia</actor>
-            <actor>Purvesh Pimple</actor>
-            <actor>Karishma Tanna</actor>
-            <actor>Shweta Katra</actor>
-            <actor>Aditi Sajwan</actor>
-            <actor>Shama Sikander</actor>
-            <actor>Sanjay Satvase</actor>
-            <actor>Kushal Awasthi</actor>
-            <actor>Ambare Sachin</actor>
-            <actor>Amarpreet Chhabra</actor>
-            <actor>Vijay Saini</actor>
-            <actor>Nilesh Ambekar</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
-    </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261016100000 +0000" stop="20261016103000 +0000">
-        <title lang="en">Punyashlok Ahilya Bai</title>
-        <desc lang="en">A period drama set in the 18th century, based on the life of Ahilyabai Holkar, who, alongside her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.</desc>
-        <date>2026</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/cc122269e5b042b75b04d9befc82eb25.jpeg" />
-    </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261016103000 +0000" stop="20261016105500 +0000">
-        <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-        <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
-        <category lang="en">Comedy</category>
-        <date>2011</date>
-        <rating>
-            <value>TV-G</value>
-        </rating>
-        <credits>
-            <actor>Dilip Joshi</actor>
-            <actor>Nitish Bhaluni</actor>
-            <actor>Amit Bhatt</actor>
-            <actor>Sachin Shroff</actor>
-            <actor>Sunayana Fozdar</actor>
-            <actor>Tanuj Mahashabde</actor>
-            <actor>Munmun Dutta</actor>
-            <actor>Mandar Chandwadkar</actor>
-            <actor>Sonalika Joshi</actor>
-            <actor>Palak Sindhwani</actor>
-            <actor>Nirmal Soni</actor>
-            <actor>Ambika Ranjankar</actor>
-            <actor>Kush Shah</actor>
-            <actor>Balwinder Suri</actor>
-            <actor>Monaz Mevawalla</actor>
-            <actor>Samay Shah</actor>
-            <actor>Azhar Shaikh</actor>
-            <actor>Shyam Pathak</actor>
-            <actor>Navina Wadekar</actor>
-            <actor>Sharad Sankla</actor>
-            <actor>Tanmay Vekaria</actor>
-            <actor>Daya Shankar Pandey</actor>
-            <actor>Jennifer Bansiwal</actor>
-            <actor>Ghanshyam Nayak</actor>
-            <actor>Kavi Azad</actor>
-            <actor>Nidhi Bhanushali</actor>
-            <actor>Jheel Mehta</actor>
-            <actor>Bhavya Gandhi</actor>
-            <actor>Monika Bhadoriya</actor>
-            <actor>Gurcharan Singh</actor>
-            <actor>Disha Vakani</actor>
-            <actor>Shailesh Lodha</actor>
-            <actor>Neha Mehta</actor>
-            <actor>Dharmesh Mehta</actor>
-            <actor>Harshad Joshi</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/cms/images/84244aba604e7d2b3983e476ea2ba5da2adc7216.JPEG" />
-    </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261016105500 +0000" stop="20261016112200 +0000">
-        <title lang="en">Aladdin naam toh suna hoga</title>
-        <desc lang="en">Aladdin, a poor thief, stumbles upon a mysterious magical lamp which contains a Genie; however, he realizes that an evil sorcerer, Jafar, also covets the lamp in order to rule over Baghdad.</desc>
-        <category lang="en">Fantasy</category>
-        <category lang="en">Drama</category>
-        <date>2018</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <credits>
-            <actor>Siddharth Nigam</actor>
-            <actor>Aamir Dalvi</actor>
-            <actor>Smita Bansal</actor>
-            <actor>Avneet Kaur</actor>
-            <actor>Prakhar Saxena</actor>
-            <actor>Raashul Tandon</actor>
-            <actor>Praneet Bhat</actor>
-            <actor>Gireesh Sahdev</actor>
-            <actor>Divyangana Jain</actor>
-            <actor>Sonal Kaushal</actor>
-            <actor>Vikas Grover</actor>
-            <actor>Amit Raghuvanshi</actor>
-            <actor>Kushal Jhavri</actor>
-            <actor>Maan Singh</actor>
-            <actor>Amandeep Singh</actor>
-            <actor>Kushal Awasthi</actor>
-            <actor>Vighnesh Kamble</actor>
-            <actor>Pooja Hingorani</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/1920x1080/b531715be11198777b722b87c2a84332.jpeg" />
-    </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261016112200 +0000" stop="20261016114500 +0000">
-        <title lang="en">Baal Veer</title>
-        <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
-        <category lang="en">Fantasy</category>
-        <rating>
-            <value>TV-G</value>
-        </rating>
-        <credits>
-            <actor>Dev Joshi</actor>
-            <actor>Anushka Sen</actor>
-            <actor>Rudra Soni</actor>
-            <actor>Kaivalya Chheda</actor>
-            <actor>Gaurav Walia</actor>
-            <actor>Purvesh Pimple</actor>
-            <actor>Karishma Tanna</actor>
-            <actor>Shweta Katra</actor>
-            <actor>Aditi Sajwan</actor>
-            <actor>Shama Sikander</actor>
-            <actor>Sanjay Satvase</actor>
-            <actor>Kushal Awasthi</actor>
-            <actor>Ambare Sachin</actor>
-            <actor>Amarpreet Chhabra</actor>
-            <actor>Vijay Saini</actor>
-            <actor>Nilesh Ambekar</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
-    </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261016114500 +0000" stop="20261016121100 +0000">
-        <title lang="en">Baal Veer</title>
-        <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
-        <category lang="en">Fantasy</category>
-        <rating>
-            <value>TV-G</value>
-        </rating>
-        <credits>
-            <actor>Dev Joshi</actor>
-            <actor>Anushka Sen</actor>
-            <actor>Rudra Soni</actor>
-            <actor>Kaivalya Chheda</actor>
-            <actor>Gaurav Walia</actor>
-            <actor>Purvesh Pimple</actor>
-            <actor>Karishma Tanna</actor>
-            <actor>Shweta Katra</actor>
-            <actor>Aditi Sajwan</actor>
-            <actor>Shama Sikander</actor>
-            <actor>Sanjay Satvase</actor>
-            <actor>Kushal Awasthi</actor>
-            <actor>Ambare Sachin</actor>
-            <actor>Amarpreet Chhabra</actor>
-            <actor>Vijay Saini</actor>
-            <actor>Nilesh Ambekar</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
-    </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261016121100 +0000" stop="20261016123800 +0000">
-        <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
-        <desc lang="en">After witnessing the injustice due to religious and caste discrimination, Sai Baba faces several trials and tribulations on his journey to bring peace and love to society.</desc>
-        <category lang="en">Drama</category>
-        <category lang="en">Religious</category>
-        <date>2017</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <credits>
-            <actor>Vaibhav Mangle</actor>
-            <actor>Tushar Dalvi</actor>
-            <actor>Kishori Godbole</actor>
-            <actor>Tarun Khanna</actor>
-            <actor>Siddhant Karnick</actor>
-            <actor>Khushboo Tawde</actor>
-            <actor>Toral Rasputra</actor>
-            <actor>Abeer Soofi</actor>
-            <actor>Abhishek Nigam</actor>
-            <actor>Sachin Ambre</actor>
-            <actor>Harsh Agrawal</actor>
-            <actor>Mukesh Singh</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/cms/images/e29b0a792d6bcfdd41708dfbcc142ad1913958bc.JPEG" />
-    </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261016123800 +0000" stop="20261016133000 +0000">
-        <title lang="en">Crime Patrol Dial 100</title>
-        <desc lang="en">A re-enactment of real-life heinous crimes inflicted upon innocent individuals, including murder, kidnapping, theft and forgery.</desc>
-        <category lang="en">Crime</category>
-        <category lang="en">Documentary</category>
-        <rating>
-            <value>TV-G</value>
-        </rating>
-        <credits>
-            <actor>Satyajeet Rajput</actor>
-            <actor>Sameer Deshpande</actor>
-            <actor>Rose Laskar</actor>
-            <actor>Manav Soneji</actor>
-            <actor>Saheem Khan</actor>
-            <actor>Anup Soni</actor>
-            <actor>Satish Shukla</actor>
-            <actor>Shailendra Tomar</actor>
-            <actor>Kevin Couto</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/1920x1080/9eb2cde352104fa7bdcf3a61da7d4bb4.jpeg" />
-    </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261016133000 +0000" stop="20261016140000 +0000">
-        <title lang="en">Baal Veer</title>
-        <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
-        <category lang="en">Fantasy</category>
-        <rating>
-            <value>TV-G</value>
-        </rating>
-        <credits>
-            <actor>Dev Joshi</actor>
-            <actor>Anushka Sen</actor>
-            <actor>Rudra Soni</actor>
-            <actor>Kaivalya Chheda</actor>
-            <actor>Gaurav Walia</actor>
-            <actor>Purvesh Pimple</actor>
-            <actor>Karishma Tanna</actor>
-            <actor>Shweta Katra</actor>
-            <actor>Aditi Sajwan</actor>
-            <actor>Shama Sikander</actor>
-            <actor>Sanjay Satvase</actor>
-            <actor>Kushal Awasthi</actor>
-            <actor>Ambare Sachin</actor>
-            <actor>Amarpreet Chhabra</actor>
-            <actor>Vijay Saini</actor>
-            <actor>Nilesh Ambekar</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
-    </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261016140000 +0000" stop="20261016142500 +0000">
-        <title lang="en">Punyashlok Ahilya Bai</title>
-        <desc lang="en">A period drama set in the 18th century, based on the life of Ahilyabai Holkar, who, alongside her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.</desc>
-        <date>2026</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/cc122269e5b042b75b04d9befc82eb25.jpeg" />
-    </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261016142500 +0000" stop="20261016145000 +0000">
-        <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-        <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
-        <category lang="en">Comedy</category>
-        <date>2011</date>
-        <rating>
-            <value>TV-G</value>
-        </rating>
-        <credits>
-            <actor>Dilip Joshi</actor>
-            <actor>Nitish Bhaluni</actor>
-            <actor>Amit Bhatt</actor>
-            <actor>Sachin Shroff</actor>
-            <actor>Sunayana Fozdar</actor>
-            <actor>Tanuj Mahashabde</actor>
-            <actor>Munmun Dutta</actor>
-            <actor>Mandar Chandwadkar</actor>
-            <actor>Sonalika Joshi</actor>
-            <actor>Palak Sindhwani</actor>
-            <actor>Nirmal Soni</actor>
-            <actor>Ambika Ranjankar</actor>
-            <actor>Kush Shah</actor>
-            <actor>Balwinder Suri</actor>
-            <actor>Monaz Mevawalla</actor>
-            <actor>Samay Shah</actor>
-            <actor>Azhar Shaikh</actor>
-            <actor>Shyam Pathak</actor>
-            <actor>Navina Wadekar</actor>
-            <actor>Sharad Sankla</actor>
-            <actor>Tanmay Vekaria</actor>
-            <actor>Daya Shankar Pandey</actor>
-            <actor>Jennifer Bansiwal</actor>
-            <actor>Ghanshyam Nayak</actor>
-            <actor>Kavi Azad</actor>
-            <actor>Nidhi Bhanushali</actor>
-            <actor>Jheel Mehta</actor>
-            <actor>Bhavya Gandhi</actor>
-            <actor>Monika Bhadoriya</actor>
-            <actor>Gurcharan Singh</actor>
-            <actor>Disha Vakani</actor>
-            <actor>Shailesh Lodha</actor>
-            <actor>Neha Mehta</actor>
-            <actor>Dharmesh Mehta</actor>
-            <actor>Harshad Joshi</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/cms/images/84244aba604e7d2b3983e476ea2ba5da2adc7216.JPEG" />
-    </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261016145000 +0000" stop="20261016151300 +0000">
-        <title lang="en">Aladdin naam toh suna hoga</title>
-        <desc lang="en">Aladdin, a poor thief, stumbles upon a mysterious magical lamp which contains a Genie; however, he realizes that an evil sorcerer, Jafar, also covets the lamp in order to rule over Baghdad.</desc>
-        <category lang="en">Fantasy</category>
-        <category lang="en">Drama</category>
-        <date>2018</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <credits>
-            <actor>Siddharth Nigam</actor>
-            <actor>Aamir Dalvi</actor>
-            <actor>Smita Bansal</actor>
-            <actor>Avneet Kaur</actor>
-            <actor>Prakhar Saxena</actor>
-            <actor>Raashul Tandon</actor>
-            <actor>Praneet Bhat</actor>
-            <actor>Gireesh Sahdev</actor>
-            <actor>Divyangana Jain</actor>
-            <actor>Sonal Kaushal</actor>
-            <actor>Vikas Grover</actor>
-            <actor>Amit Raghuvanshi</actor>
-            <actor>Kushal Jhavri</actor>
-            <actor>Maan Singh</actor>
-            <actor>Amandeep Singh</actor>
-            <actor>Kushal Awasthi</actor>
-            <actor>Vighnesh Kamble</actor>
-            <actor>Pooja Hingorani</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/1920x1080/b531715be11198777b722b87c2a84332.jpeg" />
-    </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261016151300 +0000" stop="20261016153700 +0000">
-        <title lang="en">Baal Veer</title>
-        <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
-        <category lang="en">Fantasy</category>
-        <rating>
-            <value>TV-G</value>
-        </rating>
-        <credits>
-            <actor>Dev Joshi</actor>
-            <actor>Anushka Sen</actor>
-            <actor>Rudra Soni</actor>
-            <actor>Kaivalya Chheda</actor>
-            <actor>Gaurav Walia</actor>
-            <actor>Purvesh Pimple</actor>
-            <actor>Karishma Tanna</actor>
-            <actor>Shweta Katra</actor>
-            <actor>Aditi Sajwan</actor>
-            <actor>Shama Sikander</actor>
-            <actor>Sanjay Satvase</actor>
-            <actor>Kushal Awasthi</actor>
-            <actor>Ambare Sachin</actor>
-            <actor>Amarpreet Chhabra</actor>
-            <actor>Vijay Saini</actor>
-            <actor>Nilesh Ambekar</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
-    </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261016153700 +0000" stop="20261016160000 +0000">
-        <title lang="en">Baal Veer</title>
-        <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
-        <category lang="en">Fantasy</category>
-        <rating>
-            <value>TV-G</value>
-        </rating>
-        <credits>
-            <actor>Dev Joshi</actor>
-            <actor>Anushka Sen</actor>
-            <actor>Rudra Soni</actor>
-            <actor>Kaivalya Chheda</actor>
-            <actor>Gaurav Walia</actor>
-            <actor>Purvesh Pimple</actor>
-            <actor>Karishma Tanna</actor>
-            <actor>Shweta Katra</actor>
-            <actor>Aditi Sajwan</actor>
-            <actor>Shama Sikander</actor>
-            <actor>Sanjay Satvase</actor>
-            <actor>Kushal Awasthi</actor>
-            <actor>Ambare Sachin</actor>
-            <actor>Amarpreet Chhabra</actor>
-            <actor>Vijay Saini</actor>
-            <actor>Nilesh Ambekar</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
-    </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261016160000 +0000" stop="20261016163000 +0000">
-        <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
-        <desc lang="en">After witnessing the injustice due to religious and caste discrimination, Sai Baba faces several trials and tribulations on his journey to bring peace and love to society.</desc>
-        <category lang="en">Drama</category>
-        <category lang="en">Religious</category>
-        <date>2017</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <credits>
-            <actor>Vaibhav Mangle</actor>
-            <actor>Tushar Dalvi</actor>
-            <actor>Kishori Godbole</actor>
-            <actor>Tarun Khanna</actor>
-            <actor>Siddhant Karnick</actor>
-            <actor>Khushboo Tawde</actor>
-            <actor>Toral Rasputra</actor>
-            <actor>Abeer Soofi</actor>
-            <actor>Abhishek Nigam</actor>
-            <actor>Sachin Ambre</actor>
-            <actor>Harsh Agrawal</actor>
-            <actor>Mukesh Singh</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/cms/images/e29b0a792d6bcfdd41708dfbcc142ad1913958bc.JPEG" />
-    </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261016163000 +0000" stop="20261016173000 +0000">
-        <title lang="en">Crime Patrol Dial 100</title>
-        <desc lang="en">A re-enactment of real-life heinous crimes inflicted upon innocent individuals, including murder, kidnapping, theft and forgery.</desc>
-        <category lang="en">Crime</category>
-        <category lang="en">Documentary</category>
-        <rating>
-            <value>TV-G</value>
-        </rating>
-        <credits>
-            <actor>Satyajeet Rajput</actor>
-            <actor>Sameer Deshpande</actor>
-            <actor>Rose Laskar</actor>
-            <actor>Manav Soneji</actor>
-            <actor>Saheem Khan</actor>
-            <actor>Anup Soni</actor>
-            <actor>Satish Shukla</actor>
-            <actor>Shailendra Tomar</actor>
-            <actor>Kevin Couto</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/1920x1080/9eb2cde352104fa7bdcf3a61da7d4bb4.jpeg" />
-    </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261016173000 +0000" stop="20261016180000 +0000">
-        <title lang="en">Baal Veer</title>
-        <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
-        <category lang="en">Fantasy</category>
-        <rating>
-            <value>TV-G</value>
-        </rating>
-        <credits>
-            <actor>Dev Joshi</actor>
-            <actor>Anushka Sen</actor>
-            <actor>Rudra Soni</actor>
-            <actor>Kaivalya Chheda</actor>
-            <actor>Gaurav Walia</actor>
-            <actor>Purvesh Pimple</actor>
-            <actor>Karishma Tanna</actor>
-            <actor>Shweta Katra</actor>
-            <actor>Aditi Sajwan</actor>
-            <actor>Shama Sikander</actor>
-            <actor>Sanjay Satvase</actor>
-            <actor>Kushal Awasthi</actor>
-            <actor>Ambare Sachin</actor>
-            <actor>Amarpreet Chhabra</actor>
-            <actor>Vijay Saini</actor>
-            <actor>Nilesh Ambekar</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
-    </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261016180000 +0000" stop="20261016182500 +0000">
-        <title lang="en">Punyashlok Ahilya Bai</title>
-        <desc lang="en">A period drama set in the 18th century, based on the life of Ahilyabai Holkar, who, alongside her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.</desc>
-        <date>2026</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/cc122269e5b042b75b04d9befc82eb25.jpeg" />
-    </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261016182500 +0000" stop="20261016185000 +0000">
-        <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-        <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
-        <category lang="en">Comedy</category>
-        <date>2011</date>
-        <rating>
-            <value>TV-G</value>
-        </rating>
-        <credits>
-            <actor>Dilip Joshi</actor>
-            <actor>Nitish Bhaluni</actor>
-            <actor>Amit Bhatt</actor>
-            <actor>Sachin Shroff</actor>
-            <actor>Sunayana Fozdar</actor>
-            <actor>Tanuj Mahashabde</actor>
-            <actor>Munmun Dutta</actor>
-            <actor>Mandar Chandwadkar</actor>
-            <actor>Sonalika Joshi</actor>
-            <actor>Palak Sindhwani</actor>
-            <actor>Nirmal Soni</actor>
-            <actor>Ambika Ranjankar</actor>
-            <actor>Kush Shah</actor>
-            <actor>Balwinder Suri</actor>
-            <actor>Monaz Mevawalla</actor>
-            <actor>Samay Shah</actor>
-            <actor>Azhar Shaikh</actor>
-            <actor>Shyam Pathak</actor>
-            <actor>Navina Wadekar</actor>
-            <actor>Sharad Sankla</actor>
-            <actor>Tanmay Vekaria</actor>
-            <actor>Daya Shankar Pandey</actor>
-            <actor>Jennifer Bansiwal</actor>
-            <actor>Ghanshyam Nayak</actor>
-            <actor>Kavi Azad</actor>
-            <actor>Nidhi Bhanushali</actor>
-            <actor>Jheel Mehta</actor>
-            <actor>Bhavya Gandhi</actor>
-            <actor>Monika Bhadoriya</actor>
-            <actor>Gurcharan Singh</actor>
-            <actor>Disha Vakani</actor>
-            <actor>Shailesh Lodha</actor>
-            <actor>Neha Mehta</actor>
-            <actor>Dharmesh Mehta</actor>
-            <actor>Harshad Joshi</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/cms/images/84244aba604e7d2b3983e476ea2ba5da2adc7216.JPEG" />
-    </programme>
-    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261016185000 +0000" stop="20261016191300 +0000">
-        <title lang="en">Aladdin naam toh suna hoga</title>
-        <desc lang="en">Aladdin, a poor thief, stumbles upon a mysterious magical lamp which contains a Genie; however, he realizes that an evil sorcerer, Jafar, also covets the lamp in order to rule over Baghdad.</desc>
-        <category lang="en">Fantasy</category>
-        <category lang="en">Drama</category>
-        <date>2018</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <credits>
-            <actor>Siddharth Nigam</actor>
-            <actor>Aamir Dalvi</actor>
-            <actor>Smita Bansal</actor>
-            <actor>Avneet Kaur</actor>
-            <actor>Prakhar Saxena</actor>
-            <actor>Raashul Tandon</actor>
-            <actor>Praneet Bhat</actor>
-            <actor>Gireesh Sahdev</actor>
-            <actor>Divyangana Jain</actor>
-            <actor>Sonal Kaushal</actor>
-            <actor>Vikas Grover</actor>
-            <actor>Amit Raghuvanshi</actor>
-            <actor>Kushal Jhavri</actor>
-            <actor>Maan Singh</actor>
-            <actor>Amandeep Singh</actor>
-            <actor>Kushal Awasthi</actor>
-            <actor>Vighnesh Kamble</actor>
-            <actor>Pooja Hingorani</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/1920x1080/b531715be11198777b722b87c2a84332.jpeg" />
-    </programme>
     <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261016191300 +0000" stop="20261016193900 +0000">
         <title lang="en">Baal Veer</title>
         <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
@@ -614,6 +50,7 @@
             <actor>Nilesh Ambekar</actor>
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
+        <live />
     </programme>
     <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261016193900 +0000" stop="20261016200500 +0000">
         <title lang="en">Baal Veer</title>
@@ -1143,8 +580,602 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
     </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20261016090000 +0000" stop="20261016100000 +0000">
-        <title lang="en">The Hundred 2026: Phoenix vs. Leeds -- 24th Match</title>
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261017060000 +0000" stop="20261017062500 +0000">
+        <title lang="en">Punyashlok Ahilya Bai</title>
+        <desc lang="en">A period drama set in the 18th century, based on the life of Ahilyabai Holkar, who, alongside her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.</desc>
+        <date>2026</date>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/cc122269e5b042b75b04d9befc82eb25.jpeg" />
+    </programme>
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261017062500 +0000" stop="20261017065000 +0000">
+        <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+        <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+        <category lang="en">Comedy</category>
+        <date>2011</date>
+        <rating>
+            <value>TV-G</value>
+        </rating>
+        <credits>
+            <actor>Dilip Joshi</actor>
+            <actor>Nitish Bhaluni</actor>
+            <actor>Amit Bhatt</actor>
+            <actor>Sachin Shroff</actor>
+            <actor>Sunayana Fozdar</actor>
+            <actor>Tanuj Mahashabde</actor>
+            <actor>Munmun Dutta</actor>
+            <actor>Mandar Chandwadkar</actor>
+            <actor>Sonalika Joshi</actor>
+            <actor>Palak Sindhwani</actor>
+            <actor>Nirmal Soni</actor>
+            <actor>Ambika Ranjankar</actor>
+            <actor>Kush Shah</actor>
+            <actor>Balwinder Suri</actor>
+            <actor>Monaz Mevawalla</actor>
+            <actor>Samay Shah</actor>
+            <actor>Azhar Shaikh</actor>
+            <actor>Shyam Pathak</actor>
+            <actor>Navina Wadekar</actor>
+            <actor>Sharad Sankla</actor>
+            <actor>Tanmay Vekaria</actor>
+            <actor>Daya Shankar Pandey</actor>
+            <actor>Jennifer Bansiwal</actor>
+            <actor>Ghanshyam Nayak</actor>
+            <actor>Kavi Azad</actor>
+            <actor>Nidhi Bhanushali</actor>
+            <actor>Jheel Mehta</actor>
+            <actor>Bhavya Gandhi</actor>
+            <actor>Monika Bhadoriya</actor>
+            <actor>Gurcharan Singh</actor>
+            <actor>Disha Vakani</actor>
+            <actor>Shailesh Lodha</actor>
+            <actor>Neha Mehta</actor>
+            <actor>Dharmesh Mehta</actor>
+            <actor>Harshad Joshi</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/cms/images/84244aba604e7d2b3983e476ea2ba5da2adc7216.JPEG" />
+    </programme>
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261017065000 +0000" stop="20261017071600 +0000">
+        <title lang="en">Aladdin naam toh suna hoga</title>
+        <desc lang="en">Aladdin, a poor thief, stumbles upon a mysterious magical lamp which contains a Genie; however, he realizes that an evil sorcerer, Jafar, also covets the lamp in order to rule over Baghdad.</desc>
+        <category lang="en">Fantasy</category>
+        <category lang="en">Drama</category>
+        <date>2018</date>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <credits>
+            <actor>Siddharth Nigam</actor>
+            <actor>Aamir Dalvi</actor>
+            <actor>Smita Bansal</actor>
+            <actor>Avneet Kaur</actor>
+            <actor>Prakhar Saxena</actor>
+            <actor>Raashul Tandon</actor>
+            <actor>Praneet Bhat</actor>
+            <actor>Gireesh Sahdev</actor>
+            <actor>Divyangana Jain</actor>
+            <actor>Sonal Kaushal</actor>
+            <actor>Vikas Grover</actor>
+            <actor>Amit Raghuvanshi</actor>
+            <actor>Kushal Jhavri</actor>
+            <actor>Maan Singh</actor>
+            <actor>Amandeep Singh</actor>
+            <actor>Kushal Awasthi</actor>
+            <actor>Vighnesh Kamble</actor>
+            <actor>Pooja Hingorani</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/1920x1080/b531715be11198777b722b87c2a84332.jpeg" />
+    </programme>
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261017071600 +0000" stop="20261017074200 +0000">
+        <title lang="en">Baal Veer</title>
+        <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
+        <category lang="en">Fantasy</category>
+        <rating>
+            <value>TV-G</value>
+        </rating>
+        <credits>
+            <actor>Dev Joshi</actor>
+            <actor>Anushka Sen</actor>
+            <actor>Rudra Soni</actor>
+            <actor>Kaivalya Chheda</actor>
+            <actor>Gaurav Walia</actor>
+            <actor>Purvesh Pimple</actor>
+            <actor>Karishma Tanna</actor>
+            <actor>Shweta Katra</actor>
+            <actor>Aditi Sajwan</actor>
+            <actor>Shama Sikander</actor>
+            <actor>Sanjay Satvase</actor>
+            <actor>Kushal Awasthi</actor>
+            <actor>Ambare Sachin</actor>
+            <actor>Amarpreet Chhabra</actor>
+            <actor>Vijay Saini</actor>
+            <actor>Nilesh Ambekar</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
+    </programme>
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261017074200 +0000" stop="20261017080700 +0000">
+        <title lang="en">Baal Veer</title>
+        <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
+        <category lang="en">Fantasy</category>
+        <rating>
+            <value>TV-G</value>
+        </rating>
+        <credits>
+            <actor>Dev Joshi</actor>
+            <actor>Anushka Sen</actor>
+            <actor>Rudra Soni</actor>
+            <actor>Kaivalya Chheda</actor>
+            <actor>Gaurav Walia</actor>
+            <actor>Purvesh Pimple</actor>
+            <actor>Karishma Tanna</actor>
+            <actor>Shweta Katra</actor>
+            <actor>Aditi Sajwan</actor>
+            <actor>Shama Sikander</actor>
+            <actor>Sanjay Satvase</actor>
+            <actor>Kushal Awasthi</actor>
+            <actor>Ambare Sachin</actor>
+            <actor>Amarpreet Chhabra</actor>
+            <actor>Vijay Saini</actor>
+            <actor>Nilesh Ambekar</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
+    </programme>
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261017080700 +0000" stop="20261017083200 +0000">
+        <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
+        <desc lang="en">After witnessing the injustice due to religious and caste discrimination, Sai Baba faces several trials and tribulations on his journey to bring peace and love to society.</desc>
+        <category lang="en">Drama</category>
+        <category lang="en">Religious</category>
+        <date>2017</date>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <credits>
+            <actor>Vaibhav Mangle</actor>
+            <actor>Tushar Dalvi</actor>
+            <actor>Kishori Godbole</actor>
+            <actor>Tarun Khanna</actor>
+            <actor>Siddhant Karnick</actor>
+            <actor>Khushboo Tawde</actor>
+            <actor>Toral Rasputra</actor>
+            <actor>Abeer Soofi</actor>
+            <actor>Abhishek Nigam</actor>
+            <actor>Sachin Ambre</actor>
+            <actor>Harsh Agrawal</actor>
+            <actor>Mukesh Singh</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/cms/images/e29b0a792d6bcfdd41708dfbcc142ad1913958bc.JPEG" />
+    </programme>
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261017083200 +0000" stop="20261017093000 +0000">
+        <title lang="en">Crime Patrol Dial 100</title>
+        <desc lang="en">A re-enactment of real-life heinous crimes inflicted upon innocent individuals, including murder, kidnapping, theft and forgery.</desc>
+        <category lang="en">Crime</category>
+        <category lang="en">Documentary</category>
+        <rating>
+            <value>TV-G</value>
+        </rating>
+        <credits>
+            <actor>Satyajeet Rajput</actor>
+            <actor>Sameer Deshpande</actor>
+            <actor>Rose Laskar</actor>
+            <actor>Manav Soneji</actor>
+            <actor>Saheem Khan</actor>
+            <actor>Anup Soni</actor>
+            <actor>Satish Shukla</actor>
+            <actor>Shailendra Tomar</actor>
+            <actor>Kevin Couto</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/1920x1080/9eb2cde352104fa7bdcf3a61da7d4bb4.jpeg" />
+    </programme>
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261017093000 +0000" stop="20261017100000 +0000">
+        <title lang="en">Baal Veer</title>
+        <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
+        <category lang="en">Fantasy</category>
+        <rating>
+            <value>TV-G</value>
+        </rating>
+        <credits>
+            <actor>Dev Joshi</actor>
+            <actor>Anushka Sen</actor>
+            <actor>Rudra Soni</actor>
+            <actor>Kaivalya Chheda</actor>
+            <actor>Gaurav Walia</actor>
+            <actor>Purvesh Pimple</actor>
+            <actor>Karishma Tanna</actor>
+            <actor>Shweta Katra</actor>
+            <actor>Aditi Sajwan</actor>
+            <actor>Shama Sikander</actor>
+            <actor>Sanjay Satvase</actor>
+            <actor>Kushal Awasthi</actor>
+            <actor>Ambare Sachin</actor>
+            <actor>Amarpreet Chhabra</actor>
+            <actor>Vijay Saini</actor>
+            <actor>Nilesh Ambekar</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
+    </programme>
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261017100000 +0000" stop="20261017103000 +0000">
+        <title lang="en">Punyashlok Ahilya Bai</title>
+        <desc lang="en">A period drama set in the 18th century, based on the life of Ahilyabai Holkar, who, alongside her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.</desc>
+        <date>2026</date>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/cc122269e5b042b75b04d9befc82eb25.jpeg" />
+    </programme>
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261017103000 +0000" stop="20261017105400 +0000">
+        <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+        <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+        <category lang="en">Comedy</category>
+        <date>2011</date>
+        <rating>
+            <value>TV-G</value>
+        </rating>
+        <credits>
+            <actor>Dilip Joshi</actor>
+            <actor>Nitish Bhaluni</actor>
+            <actor>Amit Bhatt</actor>
+            <actor>Sachin Shroff</actor>
+            <actor>Sunayana Fozdar</actor>
+            <actor>Tanuj Mahashabde</actor>
+            <actor>Munmun Dutta</actor>
+            <actor>Mandar Chandwadkar</actor>
+            <actor>Sonalika Joshi</actor>
+            <actor>Palak Sindhwani</actor>
+            <actor>Nirmal Soni</actor>
+            <actor>Ambika Ranjankar</actor>
+            <actor>Kush Shah</actor>
+            <actor>Balwinder Suri</actor>
+            <actor>Monaz Mevawalla</actor>
+            <actor>Samay Shah</actor>
+            <actor>Azhar Shaikh</actor>
+            <actor>Shyam Pathak</actor>
+            <actor>Navina Wadekar</actor>
+            <actor>Sharad Sankla</actor>
+            <actor>Tanmay Vekaria</actor>
+            <actor>Daya Shankar Pandey</actor>
+            <actor>Jennifer Bansiwal</actor>
+            <actor>Ghanshyam Nayak</actor>
+            <actor>Kavi Azad</actor>
+            <actor>Nidhi Bhanushali</actor>
+            <actor>Jheel Mehta</actor>
+            <actor>Bhavya Gandhi</actor>
+            <actor>Monika Bhadoriya</actor>
+            <actor>Gurcharan Singh</actor>
+            <actor>Disha Vakani</actor>
+            <actor>Shailesh Lodha</actor>
+            <actor>Neha Mehta</actor>
+            <actor>Dharmesh Mehta</actor>
+            <actor>Harshad Joshi</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/cms/images/84244aba604e7d2b3983e476ea2ba5da2adc7216.JPEG" />
+    </programme>
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261017105400 +0000" stop="20261017111900 +0000">
+        <title lang="en">Aladdin naam toh suna hoga</title>
+        <desc lang="en">Aladdin, a poor thief, stumbles upon a mysterious magical lamp which contains a Genie; however, he realizes that an evil sorcerer, Jafar, also covets the lamp in order to rule over Baghdad.</desc>
+        <category lang="en">Fantasy</category>
+        <category lang="en">Drama</category>
+        <date>2018</date>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <credits>
+            <actor>Siddharth Nigam</actor>
+            <actor>Aamir Dalvi</actor>
+            <actor>Smita Bansal</actor>
+            <actor>Avneet Kaur</actor>
+            <actor>Prakhar Saxena</actor>
+            <actor>Raashul Tandon</actor>
+            <actor>Praneet Bhat</actor>
+            <actor>Gireesh Sahdev</actor>
+            <actor>Divyangana Jain</actor>
+            <actor>Sonal Kaushal</actor>
+            <actor>Vikas Grover</actor>
+            <actor>Amit Raghuvanshi</actor>
+            <actor>Kushal Jhavri</actor>
+            <actor>Maan Singh</actor>
+            <actor>Amandeep Singh</actor>
+            <actor>Kushal Awasthi</actor>
+            <actor>Vighnesh Kamble</actor>
+            <actor>Pooja Hingorani</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/1920x1080/b531715be11198777b722b87c2a84332.jpeg" />
+    </programme>
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261017111900 +0000" stop="20261017114300 +0000">
+        <title lang="en">Baal Veer</title>
+        <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
+        <category lang="en">Fantasy</category>
+        <rating>
+            <value>TV-G</value>
+        </rating>
+        <credits>
+            <actor>Dev Joshi</actor>
+            <actor>Anushka Sen</actor>
+            <actor>Rudra Soni</actor>
+            <actor>Kaivalya Chheda</actor>
+            <actor>Gaurav Walia</actor>
+            <actor>Purvesh Pimple</actor>
+            <actor>Karishma Tanna</actor>
+            <actor>Shweta Katra</actor>
+            <actor>Aditi Sajwan</actor>
+            <actor>Shama Sikander</actor>
+            <actor>Sanjay Satvase</actor>
+            <actor>Kushal Awasthi</actor>
+            <actor>Ambare Sachin</actor>
+            <actor>Amarpreet Chhabra</actor>
+            <actor>Vijay Saini</actor>
+            <actor>Nilesh Ambekar</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
+    </programme>
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261017114300 +0000" stop="20261017120800 +0000">
+        <title lang="en">Baal Veer</title>
+        <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
+        <category lang="en">Fantasy</category>
+        <rating>
+            <value>TV-G</value>
+        </rating>
+        <credits>
+            <actor>Dev Joshi</actor>
+            <actor>Anushka Sen</actor>
+            <actor>Rudra Soni</actor>
+            <actor>Kaivalya Chheda</actor>
+            <actor>Gaurav Walia</actor>
+            <actor>Purvesh Pimple</actor>
+            <actor>Karishma Tanna</actor>
+            <actor>Shweta Katra</actor>
+            <actor>Aditi Sajwan</actor>
+            <actor>Shama Sikander</actor>
+            <actor>Sanjay Satvase</actor>
+            <actor>Kushal Awasthi</actor>
+            <actor>Ambare Sachin</actor>
+            <actor>Amarpreet Chhabra</actor>
+            <actor>Vijay Saini</actor>
+            <actor>Nilesh Ambekar</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
+    </programme>
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261017120800 +0000" stop="20261017123600 +0000">
+        <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
+        <desc lang="en">After witnessing the injustice due to religious and caste discrimination, Sai Baba faces several trials and tribulations on his journey to bring peace and love to society.</desc>
+        <category lang="en">Drama</category>
+        <category lang="en">Religious</category>
+        <date>2017</date>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <credits>
+            <actor>Vaibhav Mangle</actor>
+            <actor>Tushar Dalvi</actor>
+            <actor>Kishori Godbole</actor>
+            <actor>Tarun Khanna</actor>
+            <actor>Siddhant Karnick</actor>
+            <actor>Khushboo Tawde</actor>
+            <actor>Toral Rasputra</actor>
+            <actor>Abeer Soofi</actor>
+            <actor>Abhishek Nigam</actor>
+            <actor>Sachin Ambre</actor>
+            <actor>Harsh Agrawal</actor>
+            <actor>Mukesh Singh</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/cms/images/e29b0a792d6bcfdd41708dfbcc142ad1913958bc.JPEG" />
+    </programme>
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261017123600 +0000" stop="20261017133000 +0000">
+        <title lang="en">Crime Patrol Dial 100</title>
+        <desc lang="en">A re-enactment of real-life heinous crimes inflicted upon innocent individuals, including murder, kidnapping, theft and forgery.</desc>
+        <category lang="en">Crime</category>
+        <category lang="en">Documentary</category>
+        <rating>
+            <value>TV-G</value>
+        </rating>
+        <credits>
+            <actor>Satyajeet Rajput</actor>
+            <actor>Sameer Deshpande</actor>
+            <actor>Rose Laskar</actor>
+            <actor>Manav Soneji</actor>
+            <actor>Saheem Khan</actor>
+            <actor>Anup Soni</actor>
+            <actor>Satish Shukla</actor>
+            <actor>Shailendra Tomar</actor>
+            <actor>Kevin Couto</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/1920x1080/9eb2cde352104fa7bdcf3a61da7d4bb4.jpeg" />
+    </programme>
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261017133000 +0000" stop="20261017140000 +0000">
+        <title lang="en">Baal Veer</title>
+        <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
+        <category lang="en">Fantasy</category>
+        <rating>
+            <value>TV-G</value>
+        </rating>
+        <credits>
+            <actor>Dev Joshi</actor>
+            <actor>Anushka Sen</actor>
+            <actor>Rudra Soni</actor>
+            <actor>Kaivalya Chheda</actor>
+            <actor>Gaurav Walia</actor>
+            <actor>Purvesh Pimple</actor>
+            <actor>Karishma Tanna</actor>
+            <actor>Shweta Katra</actor>
+            <actor>Aditi Sajwan</actor>
+            <actor>Shama Sikander</actor>
+            <actor>Sanjay Satvase</actor>
+            <actor>Kushal Awasthi</actor>
+            <actor>Ambare Sachin</actor>
+            <actor>Amarpreet Chhabra</actor>
+            <actor>Vijay Saini</actor>
+            <actor>Nilesh Ambekar</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
+    </programme>
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261017140000 +0000" stop="20261017142500 +0000">
+        <title lang="en">Punyashlok Ahilya Bai</title>
+        <desc lang="en">A period drama set in the 18th century, based on the life of Ahilyabai Holkar, who, alongside her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.</desc>
+        <date>2026</date>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/cc122269e5b042b75b04d9befc82eb25.jpeg" />
+    </programme>
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261017142500 +0000" stop="20261017144800 +0000">
+        <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+        <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+        <category lang="en">Comedy</category>
+        <date>2011</date>
+        <rating>
+            <value>TV-G</value>
+        </rating>
+        <credits>
+            <actor>Dilip Joshi</actor>
+            <actor>Nitish Bhaluni</actor>
+            <actor>Amit Bhatt</actor>
+            <actor>Sachin Shroff</actor>
+            <actor>Sunayana Fozdar</actor>
+            <actor>Tanuj Mahashabde</actor>
+            <actor>Munmun Dutta</actor>
+            <actor>Mandar Chandwadkar</actor>
+            <actor>Sonalika Joshi</actor>
+            <actor>Palak Sindhwani</actor>
+            <actor>Nirmal Soni</actor>
+            <actor>Ambika Ranjankar</actor>
+            <actor>Kush Shah</actor>
+            <actor>Balwinder Suri</actor>
+            <actor>Monaz Mevawalla</actor>
+            <actor>Samay Shah</actor>
+            <actor>Azhar Shaikh</actor>
+            <actor>Shyam Pathak</actor>
+            <actor>Navina Wadekar</actor>
+            <actor>Sharad Sankla</actor>
+            <actor>Tanmay Vekaria</actor>
+            <actor>Daya Shankar Pandey</actor>
+            <actor>Jennifer Bansiwal</actor>
+            <actor>Ghanshyam Nayak</actor>
+            <actor>Kavi Azad</actor>
+            <actor>Nidhi Bhanushali</actor>
+            <actor>Jheel Mehta</actor>
+            <actor>Bhavya Gandhi</actor>
+            <actor>Monika Bhadoriya</actor>
+            <actor>Gurcharan Singh</actor>
+            <actor>Disha Vakani</actor>
+            <actor>Shailesh Lodha</actor>
+            <actor>Neha Mehta</actor>
+            <actor>Dharmesh Mehta</actor>
+            <actor>Harshad Joshi</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/cms/images/84244aba604e7d2b3983e476ea2ba5da2adc7216.JPEG" />
+    </programme>
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261017144800 +0000" stop="20261017151300 +0000">
+        <title lang="en">Aladdin naam toh suna hoga</title>
+        <desc lang="en">Aladdin, a poor thief, stumbles upon a mysterious magical lamp which contains a Genie; however, he realizes that an evil sorcerer, Jafar, also covets the lamp in order to rule over Baghdad.</desc>
+        <category lang="en">Fantasy</category>
+        <category lang="en">Drama</category>
+        <date>2018</date>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <credits>
+            <actor>Siddharth Nigam</actor>
+            <actor>Aamir Dalvi</actor>
+            <actor>Smita Bansal</actor>
+            <actor>Avneet Kaur</actor>
+            <actor>Prakhar Saxena</actor>
+            <actor>Raashul Tandon</actor>
+            <actor>Praneet Bhat</actor>
+            <actor>Gireesh Sahdev</actor>
+            <actor>Divyangana Jain</actor>
+            <actor>Sonal Kaushal</actor>
+            <actor>Vikas Grover</actor>
+            <actor>Amit Raghuvanshi</actor>
+            <actor>Kushal Jhavri</actor>
+            <actor>Maan Singh</actor>
+            <actor>Amandeep Singh</actor>
+            <actor>Kushal Awasthi</actor>
+            <actor>Vighnesh Kamble</actor>
+            <actor>Pooja Hingorani</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/1920x1080/b531715be11198777b722b87c2a84332.jpeg" />
+    </programme>
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261017151300 +0000" stop="20261017153600 +0000">
+        <title lang="en">Baal Veer</title>
+        <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
+        <category lang="en">Fantasy</category>
+        <rating>
+            <value>TV-G</value>
+        </rating>
+        <credits>
+            <actor>Dev Joshi</actor>
+            <actor>Anushka Sen</actor>
+            <actor>Rudra Soni</actor>
+            <actor>Kaivalya Chheda</actor>
+            <actor>Gaurav Walia</actor>
+            <actor>Purvesh Pimple</actor>
+            <actor>Karishma Tanna</actor>
+            <actor>Shweta Katra</actor>
+            <actor>Aditi Sajwan</actor>
+            <actor>Shama Sikander</actor>
+            <actor>Sanjay Satvase</actor>
+            <actor>Kushal Awasthi</actor>
+            <actor>Ambare Sachin</actor>
+            <actor>Amarpreet Chhabra</actor>
+            <actor>Vijay Saini</actor>
+            <actor>Nilesh Ambekar</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
+    </programme>
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261017153600 +0000" stop="20261017160000 +0000">
+        <title lang="en">Baal Veer</title>
+        <desc lang="en">Following the magical adventures of Baal Veer in fairyland.</desc>
+        <category lang="en">Fantasy</category>
+        <rating>
+            <value>TV-G</value>
+        </rating>
+        <credits>
+            <actor>Dev Joshi</actor>
+            <actor>Anushka Sen</actor>
+            <actor>Rudra Soni</actor>
+            <actor>Kaivalya Chheda</actor>
+            <actor>Gaurav Walia</actor>
+            <actor>Purvesh Pimple</actor>
+            <actor>Karishma Tanna</actor>
+            <actor>Shweta Katra</actor>
+            <actor>Aditi Sajwan</actor>
+            <actor>Shama Sikander</actor>
+            <actor>Sanjay Satvase</actor>
+            <actor>Kushal Awasthi</actor>
+            <actor>Ambare Sachin</actor>
+            <actor>Amarpreet Chhabra</actor>
+            <actor>Vijay Saini</actor>
+            <actor>Nilesh Ambekar</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/cms/images/01288fd88a79c0321f582925fe3908bf86c00b24.JPEG" />
+    </programme>
+    <programme channel="843f6fa3cba14180b469fe198b73532f" start="20261017160000 +0000" stop="20261017163000 +0000">
+        <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
+        <desc lang="en">After witnessing the injustice due to religious and caste discrimination, Sai Baba faces several trials and tribulations on his journey to bring peace and love to society.</desc>
+        <category lang="en">Drama</category>
+        <category lang="en">Religious</category>
+        <date>2017</date>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <credits>
+            <actor>Vaibhav Mangle</actor>
+            <actor>Tushar Dalvi</actor>
+            <actor>Kishori Godbole</actor>
+            <actor>Tarun Khanna</actor>
+            <actor>Siddhant Karnick</actor>
+            <actor>Khushboo Tawde</actor>
+            <actor>Toral Rasputra</actor>
+            <actor>Abeer Soofi</actor>
+            <actor>Abhishek Nigam</actor>
+            <actor>Sachin Ambre</actor>
+            <actor>Harsh Agrawal</actor>
+            <actor>Mukesh Singh</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/cms/images/e29b0a792d6bcfdd41708dfbcc142ad1913958bc.JPEG" />
+    </programme>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20261016193000 +0000" stop="20261016200000 +0000">
+        <title lang="en">WCL 2026: Bangladesh vs. South Africa: 21st Match</title>
         <desc lang="en">Highlights of all the action from international cricket tournaments, where teams compete to win the title.</desc>
         <category lang="en">Cricket</category>
         <rating>
@@ -1153,8 +1184,8 @@
         <icon src="http://p-img.movetv.com/1920x1080/c565f7ebcaa2f25da24492852fafe58e.jpeg" />
         <live />
     </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20261016100000 +0000" stop="20261016110000 +0000">
-        <title lang="en">WCPL 2026: Tridents vs Knight Riders - 1st Match</title>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20261016200000 +0000" stop="20261016210000 +0000">
+        <title lang="en">WCPL 2026: Knight Riders vs Amazon Warriors - Final</title>
         <desc lang="en">Highlights of all the action from international cricket tournaments, where teams compete to win the title.</desc>
         <category lang="en">Cricket</category>
         <rating>
@@ -1162,80 +1193,7 @@
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/c565f7ebcaa2f25da24492852fafe58e.jpeg" />
     </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20261016110000 +0000" stop="20261016112000 +0000">
-        <title lang="en">Cricket Filler</title>
-        <desc lang="en">Filler cricket programming.</desc>
-        <category lang="en">Cricket</category>
-        <date>2011</date>
-        <rating>
-            <value>TV-G</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/cms/images/9c5cbcc65f018e6c130e7dc8974d99d76b566142.jpg" />
-    </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20261016112000 +0000" stop="20261016113000 +0000">
-        <title lang="en">WCL 2026: South Africa vs. England: 1st Semi Final</title>
-        <desc lang="en">A preview of a cricket match.</desc>
-        <category lang="en">Cricket</category>
-        <rating>
-            <value>TV-G</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/6265a98616f122789f1908bae5c5546f.jpeg" />
-    </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20261016113000 +0000" stop="20261016133000 +0000">
-        <title lang="en">First Semifinal: Teams TBA</title>
-        <desc lang="en">Coverage of cricket action from the legends tournament held in Edgbaston, Birmingham, England.</desc>
-        <category lang="en">Cricket</category>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/a5bbdf92c42b94af6701a16b70963c86.jpeg" />
-    </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20261016133000 +0000" stop="20261016164000 +0000">
-        <title lang="en">India Women vs Zimbabwe Women: 1st T20I</title>
-        <desc lang="en">Highlights of all the action from international cricket tournaments, where teams compete to win the title.</desc>
-        <category lang="en">Cricket</category>
-        <rating>
-            <value>TV-G</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/c565f7ebcaa2f25da24492852fafe58e.jpeg" />
-    </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20261016164000 +0000" stop="20261016184000 +0000">
-        <title lang="en">Second Semifinal: Teams TBA</title>
-        <desc lang="en">Coverage of cricket action from the legends tournament held in Edgbaston, Birmingham, England.</desc>
-        <category lang="en">Cricket</category>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/a5bbdf92c42b94af6701a16b70963c86.jpeg" />
-    </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20261016184000 +0000" stop="20261016213000 +0000">
-        <title lang="en">Quarterfinal: Teams TBA</title>
-        <desc lang="en">From Param Veers Sports Complex in Rydal, Ga.</desc>
-        <category lang="en">Cricket</category>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/e319d37a0f315c1c5636a0f6d934bc5b.jpeg" />
-    </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20261016213000 +0000" stop="20261016220000 +0000">
-        <title lang="en">Men's Atlanta Open T20: TBD vs TBD - 20th Match</title>
-        <desc lang="en">Action from cricket matches around the world.</desc>
-        <category lang="en">Cricket</category>
-        <rating>
-            <value>TV-G</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/8440f12bdae14ea6596bd3d90d6f95e3.jpeg" />
-    </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20261016220000 +0000" stop="20261016223000 +0000">
-        <title lang="en">India vs West Indies - 2nd ODI</title>
-        <desc lang="en">Highlights of all the action from international cricket tournaments, where teams compete to win the title.</desc>
-        <category lang="en">Cricket</category>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/c565f7ebcaa2f25da24492852fafe58e.jpeg" />
-    </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20261016223000 +0000" stop="20261016230000 +0000">
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20261016210000 +0000" stop="20261016220000 +0000">
         <title lang="en">WCL 2026: South Africa vs. England -- 1st Semi Final</title>
         <desc lang="en">Catch all the action from South Africa vs. England — first semi-final.</desc>
         <category lang="en">Cricket</category>
@@ -1244,9 +1202,18 @@
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/c565f7ebcaa2f25da24492852fafe58e.jpeg" />
     </programme>
-    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20261016230000 +0000" stop="20261017000000 +0000">
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20261016220000 +0000" stop="20261016230000 +0000">
         <title lang="en">India Women vs Zimbabwe Women: 1st T20I</title>
         <desc lang="en">Highlights of all the action from international cricket tournaments, where teams compete to win the title.</desc>
+        <category lang="en">Cricket</category>
+        <rating>
+            <value>TV-G</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/c565f7ebcaa2f25da24492852fafe58e.jpeg" />
+    </programme>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20261016230000 +0000" stop="20261017000000 +0000">
+        <title lang="en">WCL 2026: South Africa vs. England -- 1st Semi Final</title>
+        <desc lang="en">Catch all the action from South Africa vs. England — first semi-final.</desc>
         <category lang="en">Cricket</category>
         <rating>
             <value>TV-G</value>
@@ -1307,68 +1274,104 @@
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/c565f7ebcaa2f25da24492852fafe58e.jpeg" />
     </programme>
-    <programme channel="9089345df1fa4a1680b64fd695297e25" start="20261016090000 +0000" stop="20261016125300 +0000">
-        <title lang="en">Raja Hindustani</title>
-        <desc lang="en">Family tensions arise when the daughter (Karisma Kapoor) of a rich tycoon falls in love with a cabdriver (Aamir Khan).</desc>
-        <category lang="en">Drama</category>
-        <category lang="en">Romance</category>
-        <category lang="en">Action</category>
-        <date>1996</date>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20261017060000 +0000" stop="20261017070000 +0000">
+        <title lang="en">Australia vs West Indies - 2nd Semi Final, Highlights</title>
+        <desc lang="en">Catch all the action from Australia vs. West Indies second Semi Final.</desc>
+        <category lang="en">Cricket</category>
         <rating>
-            <value>Not Rated</value>
+            <value>TV-G</value>
         </rating>
-        <credits>
-            <actor>Aamir Khan</actor>
-            <actor>Karisma Kapoor</actor>
-            <actor>Suresh Oberoi</actor>
-            <actor>Archana Puran Singh</actor>
-            <actor>Johnny Lever</actor>
-            <actor>Veeru Krishnan</actor>
-            <actor>Kunal Khemu</actor>
-            <actor>Farida Jalal</actor>
-            <actor>Tiku Talsania</actor>
-            <actor>Mohnish Behl</actor>
-            <actor>Pramod Moutho</actor>
-            <actor>Kalpana Iyer</actor>
-            <actor>Pratibha Sinha</actor>
-            <actor>Dharmesh Darshan</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/cms/images/dc2d8ffd0bbf582ec7eee27ddaa0358eb242f485.JPEG" />
-        <live />
+        <icon src="http://p-img.movetv.com/1920x1080/c565f7ebcaa2f25da24492852fafe58e.jpeg" />
     </programme>
-    <programme channel="9089345df1fa4a1680b64fd695297e25" start="20261016125300 +0000" stop="20261016160000 +0000">
-        <title lang="en">Jhankaar Beats</title>
-        <desc lang="en">Two friends (Sanjay Suri, Rahul Bose) and the son (Shayan Munshi) of their employer enter a music competition.</desc>
-        <category lang="en">Romance-Comedy</category>
-        <category lang="en">Music</category>
-        <date>2003</date>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20261017070000 +0000" stop="20261017080000 +0000">
+        <title lang="en">England Women vs Ireland Women: 3rd ODI</title>
+        <desc lang="en">Highlights of all the action from international cricket tournaments, where teams compete to win the title.</desc>
+        <category lang="en">Cricket</category>
         <rating>
-            <value>Not Rated</value>
+            <value>TV-G</value>
         </rating>
-        <credits>
-            <actor>Juhi Chawla</actor>
-            <actor>Sanjay Suri</actor>
-            <actor>Rahul Bose</actor>
-            <actor>Rinkie Khanna</actor>
-            <actor>Shayan Munshi</actor>
-            <actor>Riya Sen</actor>
-            <actor>Shashikala</actor>
-            <actor>Vijayendra Ghatge</actor>
-            <actor>Parmeet Sethi</actor>
-            <actor>Dinyar Contractor</actor>
-            <actor>Raja Vaid</actor>
-            <actor>Sujoy Ghosh</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/1280x720/b6dea27237477017893388cb9f827427.jpeg" />
+        <icon src="http://p-img.movetv.com/1920x1080/c565f7ebcaa2f25da24492852fafe58e.jpeg" />
     </programme>
-    <programme channel="9089345df1fa4a1680b64fd695297e25" start="20261016160000 +0000" stop="20261016163000 +0000">
-        <title lang="en">Desi Tadka</title>
-        <category lang="en">Documentary</category>
-        <category lang="en">Entertainment</category>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20261017080000 +0000" stop="20261017090000 +0000">
+        <title lang="en">The Hundred 2026: MI London vs. Rockets -- 25th Match</title>
+        <desc lang="en">Highlights of all the action from international cricket tournaments, where teams compete to win the title.</desc>
+        <category lang="en">Cricket</category>
+        <rating>
+            <value>TV-G</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/c565f7ebcaa2f25da24492852fafe58e.jpeg" />
+    </programme>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20261017090000 +0000" stop="20261017100000 +0000">
+        <title lang="en">WCPL 2026: Empress vs Amazon - 2nd Match</title>
+        <desc lang="en">Highlights of all the action from international cricket tournaments, where teams compete to win the title.</desc>
+        <category lang="en">Cricket</category>
+        <rating>
+            <value>TV-G</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/c565f7ebcaa2f25da24492852fafe58e.jpeg" />
+    </programme>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20261017100000 +0000" stop="20261017110000 +0000">
+        <title lang="en">CPL 2026: Falcons vs. Knight Riders -- 14th Match</title>
+        <desc lang="en">Highlights of all the action from international cricket tournaments, where teams compete to win the title.</desc>
+        <category lang="en">Cricket</category>
+        <rating>
+            <value>TV-G</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/c565f7ebcaa2f25da24492852fafe58e.jpeg" />
+    </programme>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20261017110000 +0000" stop="20261017120000 +0000">
+        <title lang="en">The Hundred 2026: Brave vs. Super Giants -- 26th Match</title>
+        <desc lang="en">Highlights of all the action from international cricket tournaments, where teams compete to win the title.</desc>
+        <category lang="en">Cricket</category>
+        <rating>
+            <value>TV-G</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/c565f7ebcaa2f25da24492852fafe58e.jpeg" />
+    </programme>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20261017120000 +0000" stop="20261017130000 +0000">
+        <title lang="en">India Women vs Zimbabwe Women: 1st T20I</title>
+        <desc lang="en">Highlights of all the action from international cricket tournaments, where teams compete to win the title.</desc>
+        <category lang="en">Cricket</category>
+        <rating>
+            <value>TV-G</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/c565f7ebcaa2f25da24492852fafe58e.jpeg" />
+    </programme>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20261017130000 +0000" stop="20261017140000 +0000">
+        <title lang="en">WCL 2026: South Africa vs. England -- 1st Semi Final</title>
+        <desc lang="en">Catch all the action from South Africa vs. England — first semi-final.</desc>
+        <category lang="en">Cricket</category>
+        <rating>
+            <value>TV-G</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/c565f7ebcaa2f25da24492852fafe58e.jpeg" />
+    </programme>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20261017140000 +0000" stop="20261017150000 +0000">
+        <title lang="en">Australia vs West Indies - 2nd Semi Final, Highlights</title>
+        <desc lang="en">Catch all the action from Australia vs. West Indies second Semi Final.</desc>
+        <category lang="en">Cricket</category>
+        <rating>
+            <value>TV-G</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/c565f7ebcaa2f25da24492852fafe58e.jpeg" />
+    </programme>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20261017150000 +0000" stop="20261017160000 +0000">
+        <title lang="en">England vs. Sri Lanka: 3rd ODI</title>
+        <desc lang="en">Highlights of all the action from international cricket tournaments, where teams compete to win the title.</desc>
+        <category lang="en">Cricket</category>
+        <rating>
+            <value>TV-G</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/c565f7ebcaa2f25da24492852fafe58e.jpeg" />
+    </programme>
+    <programme channel="8591476c972f486e98a7c081bba74fd0" start="20261017160000 +0000" stop="20261017170000 +0000">
+        <title lang="en">India vs West Indies - 2nd ODI</title>
+        <desc lang="en">Highlights of all the action from international cricket tournaments, where teams compete to win the title.</desc>
+        <category lang="en">Cricket</category>
         <rating>
             <value>Not Rated</value>
         </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/a01d287d8267c200f1870f752dfbfe33.jpeg" />
+        <icon src="http://p-img.movetv.com/1920x1080/c565f7ebcaa2f25da24492852fafe58e.jpeg" />
     </programme>
     <programme channel="9089345df1fa4a1680b64fd695297e25" start="20261016163000 +0000" stop="20261016200800 +0000">
         <title lang="en">Aankhen</title>
@@ -1391,6 +1394,7 @@
             <actor>Vipul Shah</actor>
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/46eb5cfcb28e8f6112579f49dfba98a9bddbea6c.JPEG" />
+        <live />
     </programme>
     <programme channel="9089345df1fa4a1680b64fd695297e25" start="20261016200800 +0000" stop="20261016232500 +0000">
         <title lang="en">Welcome</title>
@@ -1461,146 +1465,60 @@
         </credits>
         <icon src="http://p-img.movetv.com/cms/images/6047266a61d27885fb39842d18affb710fe13fe9.JPEG" />
     </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20261016090000 +0000" stop="20261016093000 +0000">
-        <title lang="en">Bollywood Bang Bang</title>
-        <desc lang="en">Biggest hits of Bollywood stars.</desc>
-        <category lang="en">Music</category>
+    <programme channel="9089345df1fa4a1680b64fd695297e25" start="20261017090000 +0000" stop="20261017115500 +0000">
+        <title lang="en">Aap Aye Bahaar Ayee</title>
+        <desc lang="en">Kumar and Rohit, who are childhood friends, soon turn enemies when Kumar molests Rohit's fiancée out of jealousy. She feels unworthy of Rohit and calls off the wedding.</desc>
+        <category lang="en">Romance</category>
         <category lang="en">Drama</category>
-        <date>2010</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/cms/images/ada21bbad7e5bc7bf02b36f1ebf49551c9678c91.JPEG" />
-        <live />
-    </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20261016093000 +0000" stop="20261016100000 +0000">
-        <title lang="en">SOLID HITS</title>
-        <desc lang="en">Non-stop hits.</desc>
-        <category lang="en">Music</category>
-        <date>2009</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/cms/images/d6fc01cdc26065bbed519db6be5f75c2820aa65c.jpg" />
-    </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20261016100000 +0000" stop="20261016110000 +0000">
-        <title lang="en">Boom Box</title>
-        <desc lang="en">Boom Box is all about the foot-tapping, dance tracks, playing the very best of the club hits to be released out of Bollywood.</desc>
-        <category lang="en">Music</category>
-        <date>2014</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/6124723f44f1d754f70e2932d6f2d0c7.jpeg" />
-    </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20261016110000 +0000" stop="20261016123000 +0000">
-        <title lang="en">Morning Masala</title>
-        <desc lang="en">Wake up to the best of the contemporary Bollywood tracks.</desc>
-        <category lang="en">Music</category>
-        <date>2010</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/cms/images/7320805e90ce31ad4834e74834e86509e1f3a5d7.JPEG" />
-    </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20261016123000 +0000" stop="20261016130000 +0000">
-        <title lang="en">Morning Masala</title>
-        <desc lang="en">Wake up to the best of the contemporary Bollywood tracks.</desc>
-        <category lang="en">Music</category>
-        <date>2010</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/cms/images/7320805e90ce31ad4834e74834e86509e1f3a5d7.JPEG" />
-    </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20261016130000 +0000" stop="20261016140000 +0000">
-        <title lang="en">Aawaaz De Kahan Hai</title>
-        <desc lang="en">Compilation of classic hit Hindi film songs.</desc>
-        <category lang="en">Music</category>
-        <category lang="en">Entertainment</category>
-        <date>2009</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/cms/images/6666e639da0b0cdf5d9b6dd33a7677828c02a137.JPEG" />
-    </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20261016140000 +0000" stop="20261016160000 +0000">
-        <title lang="en">Beat Box</title>
-        <category lang="en">Music</category>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/c1c82c62cbd21d0eec0cec0b5042c50e.jpg" />
-    </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20261016160000 +0000" stop="20261016163000 +0000">
-        <title lang="en">Sooper Hits</title>
-        <desc lang="en">Enjoy the hottest chart busters of the season in Sooper Hits, your one-stop shop for all the hits.</desc>
-        <category lang="en">Music</category>
-        <category lang="en">Drama</category>
-        <date>2010</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/cms/images/3c6470bca8583439e22ed067c861b8b4f460545a.JPEG" />
-    </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20261016163000 +0000" stop="20261016170000 +0000">
-        <title lang="en">First Cut</title>
-        <desc lang="en">Upcoming movies.</desc>
-        <category lang="en">Entertainment</category>
-        <date>2002</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/ef6ccdd27f2453c6f1456772ee01dd4f.jpg" />
-    </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20261016170000 +0000" stop="20261016173000 +0000">
-        <title lang="en">Boom Box</title>
-        <desc lang="en">Boom Box is all about the foot-tapping, dance tracks, playing the very best of the club hits to be released out of Bollywood.</desc>
-        <category lang="en">Music</category>
-        <date>2014</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/6124723f44f1d754f70e2932d6f2d0c7.jpeg" />
-    </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20261016173000 +0000" stop="20261016180000 +0000">
-        <title lang="en">Boom Box</title>
-        <desc lang="en">Boom Box is all about the foot-tapping, dance tracks, playing the very best of the club hits to be released out of Bollywood.</desc>
-        <category lang="en">Music</category>
-        <date>2014</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/6124723f44f1d754f70e2932d6f2d0c7.jpeg" />
-    </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20261016180000 +0000" stop="20261016190000 +0000">
-        <title lang="en">Bajao</title>
-        <desc lang="en">The hottest Hindi chartbusters of the season are played uninterrupted.</desc>
-        <category lang="en">Music</category>
-        <date>2005</date>
-        <rating>
-            <value>Not Rated</value>
-        </rating>
-        <icon src="http://p-img.movetv.com/cms/images/a6ca520ba746f17e967631b558a5e496fae5a8e6.jpg" />
-    </programme>
-    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20261016190000 +0000" stop="20261016193000 +0000">
-        <title lang="en">Hitz</title>
-        <desc lang="en">Exclusive hit tunes.</desc>
-        <category lang="en">Comedy</category>
-        <date>1997</date>
+        <date>1971</date>
         <rating>
             <value>Not Rated</value>
         </rating>
         <credits>
-            <actor>Claude Brooks</actor>
-            <actor>Rick Gomez</actor>
-            <actor>Andrew "Dice" Clay</actor>
-            <actor>Rosa Blasi</actor>
-            <actor>Spencer Garrett</actor>
-            <actor>Reno Wilson</actor>
-            <actor>Kristin Dattilo</actor>
+            <actor>Rajendra Kumar</actor>
+            <actor>Sadhana</actor>
+            <actor>Prem Chopra</actor>
+            <actor>Rajendranath</actor>
+            <actor>Raj Mehra</actor>
+            <actor>Mumtaz Begum</actor>
+            <actor>Meena T.</actor>
+            <actor>Mohan Kumar</actor>
         </credits>
-        <icon src="http://p-img.movetv.com/cms/images/3ecd70f9339e6aafaccd96ae3ab4e47621983447.jpg" />
+        <icon src="http://p-img.movetv.com/1920x1080/22cc0f97a52801f0721a2ff10bedeee4.jpeg" />
+    </programme>
+    <programme channel="9089345df1fa4a1680b64fd695297e25" start="20261017115500 +0000" stop="20261017155900 +0000">
+        <title lang="en">Khuda Gawah</title>
+        <desc lang="en">An Afghan warrior (Amitabh Bachchan) seeks final reckoning with his enemies after spending time in an Indian prison.</desc>
+        <category lang="en">Action</category>
+        <category lang="en">Adventure</category>
+        <category lang="en">Drama</category>
+        <date>1992</date>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <credits>
+            <actor>Amitabh Bachchan</actor>
+            <actor>Sridevi</actor>
+            <actor>Nagarjuna</actor>
+            <actor>Shilpa Shirodkar</actor>
+            <actor>Danny Denzongpa</actor>
+            <actor>Kiran Kumar</actor>
+            <actor>Bharat Kapoor</actor>
+            <actor>Anjana Mumtaz</actor>
+            <actor>Vikram Gokhale</actor>
+            <actor>Beena Banerjee</actor>
+            <actor>Mukul Anand</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/cms/images/8db2b4c976a2050f80bba8a51cf4d99547d5ccac.JPEG" />
+    </programme>
+    <programme channel="9089345df1fa4a1680b64fd695297e25" start="20261017155900 +0000" stop="20261017163100 +0000">
+        <title lang="en">Desi Tadka</title>
+        <category lang="en">Documentary</category>
+        <category lang="en">Entertainment</category>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/a01d287d8267c200f1870f752dfbfe33.jpeg" />
     </programme>
     <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20261016193000 +0000" stop="20261016203000 +0000">
         <title lang="en">Aawaaz De Kahan Hai</title>
@@ -1612,6 +1530,7 @@
             <value>Not Rated</value>
         </rating>
         <icon src="http://p-img.movetv.com/cms/images/6666e639da0b0cdf5d9b6dd33a7677828c02a137.JPEG" />
+        <live />
     </programme>
     <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20261016203000 +0000" stop="20261016210000 +0000">
         <title lang="en">Kadak</title>
@@ -1787,105 +1706,128 @@
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/6124723f44f1d754f70e2932d6f2d0c7.jpeg" />
     </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20261016083000 +0000" stop="20261016093000 +0000">
-        <title lang="en">A.R. Rahman Rewind</title>
-        <desc lang="en">A comprehensive compilation of popular hit songs performed by a renowned musician, A.R. Rahman, is played in succession.</desc>
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20261017060000 +0000" stop="20261017070000 +0000">
+        <title lang="en">Bajao</title>
+        <desc lang="en">The hottest Hindi chartbusters of the season are played uninterrupted.</desc>
         <category lang="en">Music</category>
+        <date>2005</date>
         <rating>
             <value>Not Rated</value>
         </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/f37235ef5f2959ebdbc38ee92b14c42b.jpeg" />
-        <live />
+        <icon src="http://p-img.movetv.com/cms/images/a6ca520ba746f17e967631b558a5e496fae5a8e6.jpg" />
     </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20261016093000 +0000" stop="20261016103000 +0000">
-        <title lang="en">Trending Tunes</title>
-        <desc lang="en">A comprehensive compilation of trending songs and beats by renowned artists is played back to back, captivating the audience.</desc>
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20261017070000 +0000" stop="20261017073000 +0000">
+        <title lang="en">Sooper Hits</title>
+        <desc lang="en">Enjoy the hottest chart busters of the season in Sooper Hits, your one-stop shop for all the hits.</desc>
         <category lang="en">Music</category>
+        <category lang="en">Drama</category>
+        <date>2010</date>
         <rating>
             <value>Not Rated</value>
         </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/db025c864526712c65858ced9038f214.jpeg" />
+        <icon src="http://p-img.movetv.com/cms/images/3c6470bca8583439e22ed067c861b8b4f460545a.JPEG" />
     </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20261016103000 +0000" stop="20261016113000 +0000">
-        <title lang="en">Super Swag</title>
-        <desc lang="en">A comprehensive compilation of some of the latest and most popular songs that exude confidence and style is played in quick succession.</desc>
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20261017073000 +0000" stop="20261017083000 +0000">
+        <title lang="en">Aawaaz De Kahan Hai</title>
+        <desc lang="en">Compilation of classic hit Hindi film songs.</desc>
         <category lang="en">Music</category>
+        <category lang="en">Entertainment</category>
+        <date>2009</date>
         <rating>
             <value>Not Rated</value>
         </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/049549da17e52af5fcbb5b618c4a01cc.jpeg" />
+        <icon src="http://p-img.movetv.com/cms/images/6666e639da0b0cdf5d9b6dd33a7677828c02a137.JPEG" />
     </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20261016113000 +0000" stop="20261016123000 +0000">
-        <title lang="en">Sunidhi Chauhan Specials</title>
-        <desc lang="en">A curated compilation of some of the most popular and heartfelt songs performed by the famous music artist Sunidhi Chauhan is played back-to-back.</desc>
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20261017083000 +0000" stop="20261017090000 +0000">
+        <title lang="en">SOLID HITS</title>
+        <desc lang="en">Non-stop hits.</desc>
         <category lang="en">Music</category>
+        <date>2009</date>
         <rating>
             <value>Not Rated</value>
         </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/903f8b7f442a820492e29faacaa78675.jpeg" />
+        <icon src="http://p-img.movetv.com/cms/images/d6fc01cdc26065bbed519db6be5f75c2820aa65c.jpg" />
     </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20261016123000 +0000" stop="20261016133000 +0000">
-        <title lang="en">My Dil Goes Mmmm</title>
-        <desc lang="en">A comprehensive compilation of popular Bollywood songs composed by famous artists and musicians is played back to back to entertain the viewers.</desc>
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20261017090000 +0000" stop="20261017093000 +0000">
+        <title lang="en">Bollywood Bang Bang</title>
+        <desc lang="en">Biggest hits of Bollywood stars.</desc>
         <category lang="en">Music</category>
+        <category lang="en">Drama</category>
+        <date>2010</date>
         <rating>
             <value>Not Rated</value>
         </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/b21a7276faef4b69587a2f1c503c933a.jpeg" />
+        <icon src="http://p-img.movetv.com/cms/images/ada21bbad7e5bc7bf02b36f1ebf49551c9678c91.JPEG" />
     </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20261016133000 +0000" stop="20261016143000 +0000">
-        <title lang="en">Dance Till You Drop</title>
-        <desc lang="en">A compilation of some of the most popular dance tracks composed and performed by renowned artists is played back to back to entertain the audience.</desc>
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20261017093000 +0000" stop="20261017100000 +0000">
+        <title lang="en">SOLID HITS</title>
+        <desc lang="en">Non-stop hits.</desc>
         <category lang="en">Music</category>
+        <date>2009</date>
         <rating>
             <value>Not Rated</value>
         </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/54d346a41255eb2c3e94c2ecd18d7896.jpeg" />
+        <icon src="http://p-img.movetv.com/cms/images/d6fc01cdc26065bbed519db6be5f75c2820aa65c.jpg" />
     </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20261016143000 +0000" stop="20261016163000 +0000">
-        <title lang="en">Road Trippin'</title>
-        <desc lang="en">A comprehensive compilation of popular and energetic songs composed and performed by talented artists is played back-to-back.</desc>
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20261017100000 +0000" stop="20261017110000 +0000">
+        <title lang="en">Boom Box</title>
+        <desc lang="en">Boom Box is all about the foot-tapping, dance tracks, playing the very best of the club hits to be released out of Bollywood.</desc>
         <category lang="en">Music</category>
+        <date>2014</date>
         <rating>
             <value>Not Rated</value>
         </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/e21a728247a2cfcf4b76559123a05c3a.jpeg" />
+        <icon src="http://p-img.movetv.com/1920x1080/6124723f44f1d754f70e2932d6f2d0c7.jpeg" />
     </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20261016163000 +0000" stop="20261016170000 +0000">
-        <title lang="en">Hot Hits: Vaani Kapoor</title>
-        <desc lang="en">A comprehensive compilation of the greatest and most popular hit songs of Vaani Kapoor produced and composed by various artists.</desc>
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20261017110000 +0000" stop="20261017123000 +0000">
+        <title lang="en">Morning Masala</title>
+        <desc lang="en">Wake up to the best of the contemporary Bollywood tracks.</desc>
         <category lang="en">Music</category>
+        <date>2010</date>
         <rating>
             <value>Not Rated</value>
         </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/ec3b1a89be6e3705cfeac06f9c7ee31e.jpeg" />
+        <icon src="http://p-img.movetv.com/cms/images/7320805e90ce31ad4834e74834e86509e1f3a5d7.JPEG" />
     </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20261016170000 +0000" stop="20261016173000 +0000">
-        <title lang="en">Club Mix</title>
-        <desc lang="en">A curated compilation of some of the most popular and chart-topping club songs performed by famous music artists is played back-to-back.</desc>
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20261017123000 +0000" stop="20261017130000 +0000">
+        <title lang="en">Morning Masala</title>
+        <desc lang="en">Wake up to the best of the contemporary Bollywood tracks.</desc>
         <category lang="en">Music</category>
+        <date>2010</date>
         <rating>
             <value>Not Rated</value>
         </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/ceaea6f456a3aaa915fa3b953d5477a9.jpeg" />
+        <icon src="http://p-img.movetv.com/cms/images/7320805e90ce31ad4834e74834e86509e1f3a5d7.JPEG" />
     </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20261016173000 +0000" stop="20261016183000 +0000">
-        <title lang="en">Remix Hour</title>
-        <desc lang="en">A compilation of some of the most popular and groovy songs remixed by renowned disc jockeys is played back-to-back to entertain the audience.</desc>
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20261017130000 +0000" stop="20261017140000 +0000">
+        <title lang="en">Aawaaz De Kahan Hai</title>
+        <desc lang="en">Compilation of classic hit Hindi film songs.</desc>
         <category lang="en">Music</category>
+        <category lang="en">Entertainment</category>
+        <date>2009</date>
         <rating>
             <value>Not Rated</value>
         </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/be4b48cf4037bf3bc9367ffda87f9314.jpeg" />
+        <icon src="http://p-img.movetv.com/cms/images/6666e639da0b0cdf5d9b6dd33a7677828c02a137.JPEG" />
     </programme>
-    <programme channel="ae993e3f72e849aab121396cef98e450" start="20261016183000 +0000" stop="20261016193000 +0000">
-        <title lang="en">2000s Nostalgia</title>
-        <desc lang="en">A comprehensive compilation of some of the popular songs from the 2000s by various artists played back-to-back to entertain the audience.</desc>
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20261017140000 +0000" stop="20261017160000 +0000">
+        <title lang="en">Beat Box</title>
         <category lang="en">Music</category>
         <rating>
             <value>Not Rated</value>
         </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/be4b48cf4037bf3bc9367ffda87f9314.jpeg" />
+        <icon src="http://p-img.movetv.com/1920x1080/c1c82c62cbd21d0eec0cec0b5042c50e.jpg" />
+    </programme>
+    <programme channel="aa5117428194499e8bdbb8ee2a14297d" start="20261017160000 +0000" stop="20261017163000 +0000">
+        <title lang="en">Sooper Hits</title>
+        <desc lang="en">Enjoy the hottest chart busters of the season in Sooper Hits, your one-stop shop for all the hits.</desc>
+        <category lang="en">Music</category>
+        <category lang="en">Drama</category>
+        <date>2010</date>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/cms/images/3c6470bca8583439e22ed067c861b8b4f460545a.JPEG" />
     </programme>
     <programme channel="ae993e3f72e849aab121396cef98e450" start="20261016193000 +0000" stop="20261016203000 +0000">
         <title lang="en">Sad Hour Shuffle</title>
@@ -1895,6 +1837,7 @@
             <value>Not Rated</value>
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/63abe38297958fa80580cb0ea36c9b9d.jpeg" />
+        <live />
     </programme>
     <programme channel="ae993e3f72e849aab121396cef98e450" start="20261016203000 +0000" stop="20261016213000 +0000">
         <title lang="en">Ultimate Hits of KK</title>
@@ -1986,95 +1929,86 @@
         </rating>
         <icon src="http://p-img.movetv.com/1920x1080/a9303dc062524e42de8546bbb70c441c.jpeg" />
     </programme>
-    <programme channel="d8262178bab6464da998ab5577a616ae" start="20261016063000 +0000" stop="20261016100000 +0000">
-        <title lang="en">Aa Che Aadamkhor</title>
-        <desc lang="en">He is an amnesiac. He is suffering from memory loss due to an accident. Now the policemen are looking for him. They suspect him of having murdered a young woman. All he remembers is having quarrelled with his father-in-law and driving away from home.</desc>
-        <category lang="en">Thriller</category>
-        <date>2005</date>
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20261017063000 +0000" stop="20261017083000 +0000">
+        <title lang="en">Saturday Party Central</title>
+        <desc lang="en">A curated compilation of some of the most popular and chart-topping party songs performed by famous music artists is played back-to-back.</desc>
+        <category lang="en">Music</category>
         <rating>
             <value>Not Rated</value>
         </rating>
-        <credits>
-            <actor>Deepak Dave</actor>
-            <actor>Falguni Dave</actor>
-            <actor>Abhay Harpade</actor>
-            <actor>Naresh Shah</actor>
-            <actor>Hitesh Sampat</actor>
-            <actor>Hemant Jha</actor>
-            <actor>Kukul Tarmaster</actor>
-            <actor>Haneef Mohammad</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/1920x1080/88cb4fcf152b1513a24ffe2cbd0c2d24.jpeg" />
-        <live />
+        <icon src="http://p-img.movetv.com/1920x1080/c2dea80a2459a340ec7f07ba99da3e2b.jpeg" />
     </programme>
-    <programme channel="d8262178bab6464da998ab5577a616ae" start="20261016100000 +0000" stop="20261016130000 +0000">
-        <title lang="en">Gujarati 11</title>
-        <desc lang="en">Gujarat 11 is the story of an ex-football player, Divya, who takes up the challenge of training juvenile home boys for a state-level football tournament. She faces many problems but inspires them to work hard. Will she inspire the team to the finals?</desc>
-        <category lang="en">Drama</category>
-        <date>2019</date>
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20261017083000 +0000" stop="20261017093000 +0000">
+        <title lang="en">2000s Nostalgia</title>
+        <desc lang="en">A comprehensive compilation of some of the popular songs from the 2000s by various artists played back-to-back to entertain the audience.</desc>
+        <category lang="en">Music</category>
         <rating>
             <value>Not Rated</value>
         </rating>
-        <credits>
-            <actor>Daisy Shah</actor>
-            <actor>Pratik Gandhi</actor>
-            <actor>Kavin Dave</actor>
-            <actor>Chetan Daiya</actor>
-            <actor>Pradip Harsora</actor>
-            <actor>Kevin Mehta</actor>
-            <actor>Avadh Mehta</actor>
-            <actor>Mishika Kheni</actor>
-            <actor>Jayant Gilatar</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/1920x1080/481a7d79d48e4fba0f4eb97207efd058.jpeg" />
+        <icon src="http://p-img.movetv.com/1920x1080/be4b48cf4037bf3bc9367ffda87f9314.jpeg" />
     </programme>
-    <programme channel="d8262178bab6464da998ab5577a616ae" start="20261016130000 +0000" stop="20261016160000 +0000">
-        <title lang="en">Chor Bani Thangaat Kare</title>
-        <desc lang="en">Taxi-driver Rajkumar hopes to recover from kleptomania after falling for a female passenger, but things soon go sour between the two as she learns about his disorder. He invites more trouble into his life by stealing a bomb from a terrorist.</desc>
-        <category lang="en">Comedy</category>
-        <date>2017</date>
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20261017093000 +0000" stop="20261017103000 +0000">
+        <title lang="en">Sad Hour Shuffle</title>
+        <desc lang="en">A comprehensive compilation of some of the most popular emotional songs by various talented artists is played back-to-back.</desc>
+        <category lang="en">Music</category>
         <rating>
             <value>Not Rated</value>
         </rating>
-        <credits>
-            <actor>Amit Mistry</actor>
-            <actor>Bijal Joshi</actor>
-            <actor>Prem Gadhavi</actor>
-            <actor>Ojas Rawal</actor>
-            <actor>Manan Desai</actor>
-            <actor>Nirmit Vaishnav</actor>
-            <actor>Prashant Barot</actor>
-            <actor>Rahul Bhole</actor>
-        </credits>
-        <icon src="http://p-img.movetv.com/cms/images/8d7084a51455846e7ea368f7c0f9673fdf127540.JPEG" />
+        <icon src="http://p-img.movetv.com/1920x1080/63abe38297958fa80580cb0ea36c9b9d.jpeg" />
     </programme>
-    <programme channel="d8262178bab6464da998ab5577a616ae" start="20261016160000 +0000" stop="20261016163000 +0000">
-        <title lang="en">Kem Cho Kitchen</title>
-        <desc lang="en">The host invites influencer chefs and interacts with them to learn about the richness of Gujarati cuisine; the chefs demonstrate the cooking of some of the recipes.</desc>
-        <category lang="en">Cooking</category>
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20261017103000 +0000" stop="20261017113000 +0000">
+        <title lang="en">Ultimate Hits of KK</title>
+        <desc lang="en">A curated selection of songs and music composed by renowned Indian playback singer Krishnakumar Kunnath, popularly known as KK, is played back to back.</desc>
+        <category lang="en">Music</category>
         <rating>
             <value>Not Rated</value>
         </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/93f6368d5f9f9b972af0663208695f92.jpeg" />
+        <icon src="http://p-img.movetv.com/1920x1080/d951921ee1488b472a96522b5066ff47.jpeg" />
     </programme>
-    <programme channel="d8262178bab6464da998ab5577a616ae" start="20261016163000 +0000" stop="20261016190000 +0000">
-        <title lang="en">Vijaypath</title>
-        <desc lang="en">A policeman's professional obstacles and also the personal ones.</desc>
-        <category lang="en">Comedy</category>
-        <date>2019</date>
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20261017113000 +0000" stop="20261017123000 +0000">
+        <title lang="en">You and Me</title>
+        <desc lang="en">A comprehensive compilation of popular Bollywood songs composed by famous artists and musicians is played back-to-back to entertain the viewers.</desc>
+        <category lang="en">Music</category>
         <rating>
             <value>Not Rated</value>
         </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/c02822d50529a6b9869cc91b3395136b.jpeg" />
+        <icon src="http://p-img.movetv.com/1920x1080/a9303dc062524e42de8546bbb70c441c.jpeg" />
     </programme>
-    <programme channel="d8262178bab6464da998ab5577a616ae" start="20261016190000 +0000" stop="20261016193000 +0000">
-        <title lang="en">Kem Cho Kitchen</title>
-        <desc lang="en">The host invites influencer chefs and interacts with them to learn about the richness of Gujarati cuisine; the chefs demonstrate the cooking of some of the recipes.</desc>
-        <category lang="en">Cooking</category>
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20261017123000 +0000" stop="20261017133000 +0000">
+        <title lang="en">Gym Shim Kar Le</title>
+        <desc lang="en">Several high-energy tracks are curated for all workout needs, acting as a companion to your routine and boosting energy.</desc>
+        <category lang="en">Music</category>
         <rating>
             <value>Not Rated</value>
         </rating>
-        <icon src="http://p-img.movetv.com/1920x1080/93f6368d5f9f9b972af0663208695f92.jpeg" />
+        <icon src="http://p-img.movetv.com/1920x1080/ebea45cc80703a1e158fe2446384fe5b.jpeg" />
+    </programme>
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20261017133000 +0000" stop="20261017143000 +0000">
+        <title lang="en">Travel Tunes</title>
+        <desc lang="en">A comprehensive compilation of some of the most popular and energetic travel-themed songs composed by talented artists is played back-to-back.</desc>
+        <category lang="en">Music</category>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/38797b531206d7c53717d5fc30287cfb.jpeg" />
+    </programme>
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20261017143000 +0000" stop="20261017153000 +0000">
+        <title lang="en">Party Starters</title>
+        <desc lang="en">A comprehensive compilation of the most popular party songs produced by various famous musicians is played back-to-back to entertain the audience.</desc>
+        <category lang="en">Music</category>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/957ba3e3d5b06ebba9c9be0b3e072887.jpeg" />
+    </programme>
+    <programme channel="ae993e3f72e849aab121396cef98e450" start="20261017153000 +0000" stop="20261017163000 +0000">
+        <title lang="en">Dance Till You Drop</title>
+        <desc lang="en">A compilation of some of the most popular dance tracks composed and performed by renowned artists is played back to back to entertain the audience.</desc>
+        <category lang="en">Music</category>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/54d346a41255eb2c3e94c2ecd18d7896.jpeg" />
     </programme>
     <programme channel="d8262178bab6464da998ab5577a616ae" start="20261016193000 +0000" stop="20261016220000 +0000">
         <title lang="en">Satti Par Satto</title>
@@ -2098,6 +2032,7 @@
             <actor>Santram Verma</actor>
         </credits>
         <icon src="http://p-img.movetv.com/1920x1080/8a57d0d31a74ba603f9e0ff2f04f3f55.jpeg" />
+        <live />
     </programme>
     <programme channel="d8262178bab6464da998ab5577a616ae" start="20261016220000 +0000" stop="20261016223000 +0000">
         <title lang="en">Kem Cho Kitchen</title>
@@ -2163,5 +2098,77 @@
             <actor>Amit Soni</actor>
         </credits>
         <icon src="http://p-img.movetv.com/1920x1080/69bab20bda0529ecbc9348f9eed2266e.jpg" />
+    </programme>
+    <programme channel="d8262178bab6464da998ab5577a616ae" start="20261017063000 +0000" stop="20261017100000 +0000">
+        <title lang="en">Aav Taru Kari Nakhu</title>
+        <desc lang="en">Avni is pregnant with her husband Amar's child. She undergoes abortion due to financial reasons. Excited parents are unaware of Amar &amp; Avni's decision. See how this comedy drama unfolds when Amar &amp; Avni meet their parents.</desc>
+        <category lang="en">Comedy</category>
+        <category lang="en">Drama</category>
+        <date>2008</date>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <credits>
+            <actor>Surbhi Vyas</actor>
+            <actor>Ashish Bhatt</actor>
+            <actor>Pratima T.</actor>
+            <actor>Bimal Mangliya</actor>
+            <actor>Jitu Kotak</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/1920x1080/a7b984cc40a36ab8827d349e32ade323.jpeg" />
+    </programme>
+    <programme channel="d8262178bab6464da998ab5577a616ae" start="20261017100000 +0000" stop="20261017130000 +0000">
+        <title lang="en">Koi Ne Kehsho Nahi</title>
+        <category lang="en">Comedy</category>
+        <category lang="en">Drama</category>
+        <date>2014</date>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <credits>
+            <actor>Sohan</actor>
+            <actor>Aishwarya</actor>
+            <actor>Nayan Shukla</actor>
+            <actor>Abhijeet Chitre</actor>
+            <actor>Bhavini Gandhi</actor>
+            <actor>Tiku Talsania</actor>
+            <actor>Krishna Soni</actor>
+            <actor>Rajiv Mehta</actor>
+            <actor>Sohan Master</actor>
+            <actor>Kinjal Bhatt</actor>
+            <actor>Siddhi Idnani</actor>
+            <actor>Jeetu Pandya</actor>
+            <actor>Dinesh Awasthi</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/1920x1080/3c8b9df47c2e32d9eaece683a8a951df.jpeg" />
+    </programme>
+    <programme channel="d8262178bab6464da998ab5577a616ae" start="20261017130000 +0000" stop="20261017160000 +0000">
+        <title lang="en">Daav Thai Gayo Yaar</title>
+        <desc lang="en">Three friends get into a terrible mess while attempting to solve a personal problem.</desc>
+        <category lang="en">Comedy</category>
+        <date>2016</date>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <credits>
+            <actor>Mitra Gadhvi</actor>
+            <actor>Maulika Patel</actor>
+            <actor>Divyakant Verma</actor>
+            <actor>Sunil Vishrani</actor>
+            <actor>Mayur Chauhan</actor>
+            <actor>Mukesh Rao</actor>
+            <actor>Dharmesh Vyas</actor>
+            <actor>Dushyant Patel</actor>
+        </credits>
+        <icon src="http://p-img.movetv.com/1920x1080/8efb392247d95f2be890c4fc94530ec7.jpeg" />
+    </programme>
+    <programme channel="d8262178bab6464da998ab5577a616ae" start="20261017160000 +0000" stop="20261017163000 +0000">
+        <title lang="en">Kem Cho Kitchen</title>
+        <desc lang="en">The host invites influencer chefs and interacts with them to learn about the richness of Gujarati cuisine; the chefs demonstrate the cooking of some of the recipes.</desc>
+        <category lang="en">Cooking</category>
+        <rating>
+            <value>Not Rated</value>
+        </rating>
+        <icon src="http://p-img.movetv.com/1920x1080/93f6368d5f9f9b972af0663208695f92.jpeg" />
     </programme>
 </tv>
