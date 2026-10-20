@@ -396,10 +396,6 @@
     <display-name>Good News Today</display-name>
     <icon src="https://akamaividz2.zee5.com/image/upload/resources/0-9-255/channel_web/gnt17053dda8e03f8240248b4ab9d28ca69357.png" />
   </channel>
-  <channel id="0-9-9z5227140">
-    <display-name>Durga Puja Live 2026</display-name>
-    <icon src="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5227140/channel_web/170x12097be8f6a36cf4f13b17eb76a015e2bef62243cf73e0f49cfb67517a0d7947cfc.png" />
-  </channel>
   <channel id="0-9-9z5938345">
     <display-name>Dagdusheth Halwai Ganpati Mandir</display-name>
     <icon src="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5938345/channel_web/170x12094706ee92ed44732814b34f8e5c348db.png" />
@@ -31777,82 +31773,82 @@
     <language>Marathi</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-012341000-20261026210000/list/ZeeTalkiesHDComedychyaGudgulya1458138968fcc84fa614e3aa310822cf82f40c8.jpg" />
   </programme>
-  <programme channel="0-9-9z5383489" start="20261020003000 +0000" stop="20261020010000 +0000">
+  <programme channel="0-9-9z5383489" start="20261019210600 +0000" stop="20261019225700 +0000">
+    <title lang="en">De Dhakka</title>
+    <desc lang="en">A six member family has lots of issues amongst themselves. They all set out on a journey to Mumbai and come across many hurdles.</desc>
+    <category>Film</category>
+    <language>Marathi</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20261020023600/list/ZeeTalkiesDeDhakka25459abee1cf76774715b1d4ae5a1ce2eb46.jpg" />
+  </programme>
+  <programme channel="0-9-9z5383489" start="20261019225700 +0000" stop="20261019233000 +0000">
+    <title lang="en">Fillers</title>
+    <desc lang="en">Enjoy a light-hearted segment offering brief, engaging content that bridges program transitions with humor, intriguing snippets, and delightful unexpected moments for a seamless viewing experience.</desc>
+    <category>Film</category>
+    <language>Marathi</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20261020042700/list/ZeeTalkiesFillers75910897f9ff6d503d487d8eae3f25de35cd6d.jpg" />
+  </programme>
+  <programme channel="0-9-9z5383489" start="20261019233000 +0000" stop="20261020002600 +0000">
+    <title lang="en">Patanjali Yog -By Yog Rishi Swami Ramdev</title>
+    <desc lang="en">Baba Ramdev shows how yoga can help you. He explains different yoga poses. These poses can make your life healthier and less stressful. Learn yoga from Baba Ramdev!</desc>
+    <category>Film</category>
+    <language>Marathi</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20261020050000/list/ZeeTalkiesPatanjaliYogByYogRishiSwamiRamdev510740f24a0080bbc34b1cb8388e623e5961cf.jpg" />
+  </programme>
+  <programme channel="0-9-9z5383489" start="20261020002600 +0000" stop="20261020035500 +0000">
     <title lang="en">Gajar Kirtanacha Sohala Anandacha</title>
     <desc lang="en">People gather to sing and pray. They offer devotional songs and worship to God. Their kirtans show love and respect for the Almighty.</desc>
     <category>Film</category>
     <language>Marathi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20261020060000/list/ZeeTalkiesGajarKirtanachaSohalaAnandacha4415581ffee6f637454cc3bea2e15968c9d67c.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20261020055600/list/ZeeTalkiesGajarKirtanachaSohalaAnandacha441558b01316634ccf4ec4826967a5b75d5b58.jpg" />
   </programme>
-  <programme channel="0-9-9z5383489" start="20261020010000 +0000" stop="20261020020000 +0000">
-    <title lang="en">Gajar Kirtanacha Sohala Anandacha</title>
-    <desc lang="en">People gather to sing and pray. They offer devotional songs and worship to God. Their kirtans show love and respect for the Almighty.</desc>
+  <programme channel="0-9-9z5383489" start="20261020035500 +0000" stop="20261020045300 +0000">
+    <title lang="en">Mann Mandira - Season 2</title>
+    <desc lang="en">'Gajar Bhakticha' is a Marathi show for Ashadi Ekadashi. Devotees sing and pray to God through keertan. It's a spiritual show during the festive month, offering devotion and worship.</desc>
     <category>Film</category>
     <language>Marathi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20261020063000/list/ZeeTalkiesGajarKirtanachaSohalaAnandacha441558cf6bf2e858794bd386179f6166f1837a.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20261020092500/list/ZeeTalkiesMannMandiraSeason29393958d76af5c534d4556ac7c4c07bfd6bf6c.jpg" />
   </programme>
-  <programme channel="0-9-9z5383489" start="20261020020000 +0000" stop="20261020030000 +0000">
-    <title lang="en">Gajar Kirtanacha Sohala Anandacha</title>
-    <desc lang="en">People gather to sing and pray. They offer devotional songs and worship to God. Their kirtans show love and respect for the Almighty.</desc>
-    <category>Film</category>
-    <language>Marathi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20261020073000/list/ZeeTalkiesGajarKirtanachaSohalaAnandacha4415580a18f8e1e61e464fa52a52bb6f0b314f.jpg" />
-  </programme>
-  <programme channel="0-9-9z5383489" start="20261020030000 +0000" stop="20261020040000 +0000">
-    <title lang="en">Gajar Kirtanacha Sohala Anandacha</title>
-    <desc lang="en">People gather to sing and pray. They offer devotional songs and worship to God. Their kirtans show love and respect for the Almighty.</desc>
-    <category>Film</category>
-    <language>Marathi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20261020083000/list/ZeeTalkiesGajarKirtanachaSohalaAnandacha44155865bd090502184e7c95f63ab6b79c3ae1.jpg" />
-  </programme>
-  <programme channel="0-9-9z5383489" start="20261020040000 +0000" stop="20261020050000 +0000">
-    <title lang="en">Mann Mandira S02</title>
-    <desc lang="en">'Man Mandira - Gajar Bhakticha' is a Marathi devotional show, featuring keertan and worship during 'Ashadi Ekadashi.' Renowned Keertankars like Nivruti Maharaj offer a spiritual, festive experience.</desc>
-    <category>Film</category>
-    <language>Marathi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20261020093000/list/ZeeTalkiesMannMandiraS021487167a9876d0fcfe84cd7bb946b21652b0206.jpg" />
-  </programme>
-  <programme channel="0-9-9z5383489" start="20261020050000 +0000" stop="20261020070000 +0000">
+  <programme channel="0-9-9z5383489" start="20261020045300 +0000" stop="20261020065400 +0000">
     <title lang="en">Rubaab</title>
     <desc lang="en">A charming man falls for an independent woman, but their romance faces endless hurdles. Just when all hope seems lost, fate delivers a truly unexpected twist.</desc>
     <category>Film</category>
     <language>Marathi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20261020103000/list/ZeeTalkiesRubaab214061904677b641d014283a0c20b104e0c4b50.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20261020102300/list/ZeeTalkiesRubaab2140619decd734d5c3b46fca1b40c0d641c95fc.jpg" />
   </programme>
-  <programme channel="0-9-9z5383489" start="20261020070000 +0000" stop="20261020103000 +0000">
+  <programme channel="0-9-9z5383489" start="20261020065400 +0000" stop="20261020101900 +0000">
     <title lang="en">Punha Shivaji Raje Bhosle</title>
     <desc lang="en">Punha Shivaji Raje Bhosle</desc>
     <category>Film</category>
     <language>Marathi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20261020123000/list/ZeeTalkiesPunhaShivajiRajeBhosle2153487a8afb216d501427abf461d684fa51f4f.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20261020122400/list/ZeeTalkiesPunhaShivajiRajeBhosle2153487c4bb029c46a34c8686bb87cdf5f17a9e.jpg" />
   </programme>
-  <programme channel="0-9-9z5383489" start="20261020103000 +0000" stop="20261020123000 +0000">
+  <programme channel="0-9-9z5383489" start="20261020101900 +0000" stop="20261020122200 +0000">
     <title lang="en">Kranti Jyoti Vidyalay</title>
     <desc lang="en">Principal Dinkar turns to former students for help when a beloved Marathi-medium school faces demolition, hoping their shared memories and loyalty can save its future.</desc>
     <category>Film</category>
     <language>Marathi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20261020160000/list/ZeeTalkiesKrantiJyotiVidyalay21228275b9bf05f17424ea38a8295cb0892d9a4.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20261020154900/list/ZeeTalkiesKrantiJyotiVidyalay2122827a79f4706ee2d4d34bdeea33a7cb18e03.jpg" />
   </programme>
-  <programme channel="0-9-9z5383489" start="20261020123000 +0000" stop="20261020133000 +0000">
-    <title lang="en">Mann Mandira S02</title>
-    <desc lang="en">'Man Mandira - Gajar Bhakticha' is a Marathi devotional show, featuring keertan and worship during 'Ashadi Ekadashi.' Renowned Keertankars like Nivruti Maharaj offer a spiritual, festive experience.</desc>
+  <programme channel="0-9-9z5383489" start="20261020122200 +0000" stop="20261020132700 +0000">
+    <title lang="en">Mann Mandira - Season 2</title>
+    <desc lang="en">'Gajar Bhakticha' is a Marathi show for Ashadi Ekadashi. Devotees sing and pray to God through keertan. It's a spiritual show during the festive month, offering devotion and worship.</desc>
     <category>Film</category>
     <language>Marathi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20261020180000/list/ZeeTalkiesMannMandiraS0214871672bcce0c2c56541e8a627f6dbf0e35cee.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20261020175200/list/ZeeTalkiesMannMandiraSeason2939395890fccc97ec44b66ab8989eff3508d52.jpg" />
   </programme>
-  <programme channel="0-9-9z5383489" start="20261020133000 +0000" stop="20261020143000 +0000">
+  <programme channel="0-9-9z5383489" start="20261020132700 +0000" stop="20261020142900 +0000">
     <title lang="en">Jai Malhar</title>
     <desc lang="en">The reincarnation of Lord Shiva, Khandoba, rules over the hearts of his devotees who rever him dearly. He soon becomes famous for his magnanimity.</desc>
     <category>Film</category>
     <language>Marathi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20261020190000/list/ZeeTalkiesJaiMalhar9672137a6c7af74cec434c95003397cea0ea92.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20261020185700/list/ZeeTalkiesJaiMalhar9672138c559504b90144d4813727897e55ae8f.jpg" />
   </programme>
-  <programme channel="0-9-9z5383489" start="20261020143000 +0000" stop="20261020153000 +0000">
+  <programme channel="0-9-9z5383489" start="20261020142900 +0000" stop="20261020153000 +0000">
     <title lang="en">Mazya Navryachi Bayko</title>
     <desc lang="en">Hailing from Nagpur, Radhika grows obsessively protective of her marriage, suspecting that her husband's female colleague is secretly trying to attract him.</desc>
     <category>Film</category>
     <language>Marathi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20261020200000/list/ZeeTalkiesMazyaNavryachiBayko21208647d4a6755c3bf441abbd97974ace27bce.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-021100000-20261020195900/list/ZeeTalkiesMazyaNavryachiBayko2120864d1648eff9b674c238660eb944251692c.jpg" />
   </programme>
   <programme channel="0-9-9z5383489" start="20261020153000 +0000" stop="20261020185600 +0000">
     <title lang="en">Comedychya Gudgulya</title>
@@ -57376,40 +57372,40 @@
     <language>Marathi</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033900000-20261020203000/list/ZeeMarathiHDSanaiChaughade416232547dfd31e4da4b738e91395023b60095.jpg" />
   </programme>
-  <programme channel="0-9-zeemarathi" start="20261020153100 +0000" stop="20261020160100 +0000">
+  <programme channel="0-9-zeemarathi" start="20261020153000 +0000" stop="20261020160000 +0000">
     <title lang="en">Kamli</title>
     <desc lang="en">A bold kabaddi player from rural Maharashtra defies her family and moves to Mumbai to follow her dreams. She returns with knowledge to fight early marriage, staying rooted in her culture.</desc>
     <category>Entertainment</category>
     <language>Marathi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033900000-20261020210100/list/ZeeMarathiHDKamli19042293980f2ef371447a2a65461cd3e931581.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033900000-20261020210000/list/ZeeMarathiHDKamli1904229ee5590e242cd40ab97ff0f2bd49763ea.jpg" />
   </programme>
-  <programme channel="0-9-zeemarathi" start="20261020160100 +0000" stop="20261020163200 +0000">
+  <programme channel="0-9-zeemarathi" start="20261020160000 +0000" stop="20261020163000 +0000">
     <title lang="en">Taarini</title>
     <desc lang="en">Taarini is a quiet daughter at home and a brave undercover cop outside. As she searches for justice for her mother, tough truths force her to make hard choices.</desc>
     <category>Entertainment</category>
     <language>Marathi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033900000-20261020213100/list/ZeeMarathiHDTaarini1925636ec95dfc537924d0fb91521479386d82c.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033900000-20261020213000/list/ZeeMarathiHDTaarini1925636195b0e59f92d479e8721c2282ca21ab3.jpg" />
   </programme>
-  <programme channel="0-9-zeemarathi" start="20261020163200 +0000" stop="20261020170200 +0000">
+  <programme channel="0-9-zeemarathi" start="20261020163000 +0000" stop="20261020170000 +0000">
     <title lang="en">Devmanus Madhla Adhyay</title>
     <desc lang="en">Ajit Kumar, a killer on the run, hides in Banaras as Gopal, a missing tailor. He hopes to escape his past, but secrets unravel as old shadows start to creep in.</desc>
     <category>Entertainment</category>
     <language>Marathi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033900000-20261020220200/list/ZeeMarathiHDDevmanusMadhlaAdhyay1886287da76e97f1f0e4c1ea0d7e5a56621d4b8.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033900000-20261020220000/list/ZeeMarathiHDDevmanusMadhlaAdhyay18862875817e05f456841da8eaaa7cbbdc6eadb.jpg" />
   </programme>
-  <programme channel="0-9-zeemarathi" start="20261020170200 +0000" stop="20261020173100 +0000">
-    <title lang="en">Tula Japanaar Aahe</title>
-    <desc lang="en">Atharva and Veda are heartbroken by Ambika's death. Ambika's love for Veda is so strong that her spirit returns. She protects Veda from beyond.</desc>
+  <programme channel="0-9-zeemarathi" start="20261020170000 +0000" stop="20261020173000 +0000">
+    <title lang="en">Tula Japnar Aahe</title>
+    <desc lang="en">Ambika's death devastates Atharva and Veda. Her love for Veda brings her spirit back. She comforts and protects her daughter from beyond. Love transcends death.</desc>
     <category>Entertainment</category>
     <language>Marathi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033900000-20261020223200/list/ZeeMarathiHDTulaJapanaarAahe1903423b405b8dac7604909989073b47d37ff62.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033900000-20261020223000/list/ZeeMarathiHDTulaJapnarAahe181465493ae64075fa44eaf9f81b5dd7ad1f71d.jpg" />
   </programme>
-  <programme channel="0-9-zeemarathi" start="20261020173100 +0000" stop="20261020180000 +0000">
+  <programme channel="0-9-zeemarathi" start="20261020173000 +0000" stop="20261020180000 +0000">
     <title lang="en">Dhakti Sunbai</title>
     <desc lang="en">Dhakti Sunbai</desc>
     <category>Entertainment</category>
     <language>Marathi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033900000-20261020230100/list/ZeeMarathiHDDhaktiSunbai21447456d3968c7c84b485398554ff873179b2e.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-033900000-20261020230000/list/ZeeMarathiHDDhaktiSunbai2144745739c43f9b1b24b8ea4fa5850f5f30cd1.jpg" />
   </programme>
   <programme channel="0-9-zeemarathi" start="20261020180000 +0000" stop="20261020183000 +0000">
     <title lang="en">Sanai Chaughade</title>
@@ -59315,47 +59311,47 @@
     <language>Marathi</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015400000-20261020210000/list/ZEEMARATHIKamli19042283a588892cb654b7694fdf76257028a33.jpg" />
   </programme>
-  <programme channel="0-9-9z5383486" start="20261020160100 +0000" stop="20261020163200 +0000">
+  <programme channel="0-9-9z5383486" start="20261020160000 +0000" stop="20261020163000 +0000">
     <title lang="en">Taarini</title>
     <desc lang="en">Taarini is gentle at home but brave outside. She's an undercover cop seeking justice for her mother, facing danger and tough choices.</desc>
     <category>Entertainment</category>
     <language>Marathi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015400000-20261020213100/list/ZEEMARATHITaarini19256059ce9863e3d1d48bcbad084bbb992472d.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015400000-20261020213000/list/ZEEMARATHITaarini1925605fa534a6cbf4e42b487d87e382fbadd8e.jpg" />
   </programme>
-  <programme channel="0-9-9z5383486" start="20261020163200 +0000" stop="20261020170300 +0000">
+  <programme channel="0-9-9z5383486" start="20261020163000 +0000" stop="20261020170000 +0000">
     <title lang="en">Devmanus Madhla Adhyay</title>
     <desc lang="en">Ajit Kumar, a killer on the run, hides in Banaras as Gopal, a missing tailor. He hopes to escape his past, but secrets unravel as old shadows start to creep in.</desc>
     <category>Entertainment</category>
     <language>Marathi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015400000-20261020220200/list/ZEEMARATHIDevmanusMadhlaAdhyay188628436316193808c4817bbc00d3a4b99870f.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015400000-20261020220000/list/ZEEMARATHIDevmanusMadhlaAdhyay1886284f4e57c2874d74c5d9389623dc8d97b6c.jpg" />
   </programme>
-  <programme channel="0-9-9z5383486" start="20261020170300 +0000" stop="20261020173300 +0000">
-    <title lang="en">Tula Japanaar Aahe</title>
-    <desc lang="en">Atharva and Veda are heartbroken by Ambika's death. Ambika's love for Veda is so strong that her spirit returns. She protects Veda from beyond.</desc>
+  <programme channel="0-9-9z5383486" start="20261020170000 +0000" stop="20261020173000 +0000">
+    <title lang="en">Tula Japnar Aahe</title>
+    <desc lang="en">Ambika's death devastates Atharva and Veda. Her love for Veda brings her spirit back. She comforts and protects her daughter from beyond. Love transcends death.</desc>
     <category>Entertainment</category>
     <language>Marathi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015400000-20261020223300/list/ZEEMARATHITulaJapanaarAahe19034226b76c5becf36465a8a13eac2049cdec2.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015400000-20261020223000/list/ZEEMARATHITulaJapnarAahe1814658bfc5917c6f254666b68b7bb3e13d7682.jpg" />
   </programme>
-  <programme channel="0-9-9z5383486" start="20261020173300 +0000" stop="20261020180300 +0000">
+  <programme channel="0-9-9z5383486" start="20261020173000 +0000" stop="20261020180000 +0000">
     <title lang="en">Dhakti Sunbai</title>
-    <desc lang="en">Dhakti Sunbai</desc>
+    <desc lang="en">Guided by her unwavering faith, a young orphan girl navigates life's hurdles to find true love and become a cherished daughter-in-law.</desc>
     <category>Entertainment</category>
     <language>Marathi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015400000-20261020230300/list/ZEEMARATHIDhaktiSunbai2144736d87faec8afab45b7b6a3bd59fce77f86.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015400000-20261020230000/list/ZEEMARATHIDhaktiSunbai21447367b91ce95bd7e47cebb8d663a6d3ee14f.jpg" />
   </programme>
-  <programme channel="0-9-9z5383486" start="20261020180300 +0000" stop="20261020183100 +0000">
+  <programme channel="0-9-9z5383486" start="20261020180000 +0000" stop="20261020183000 +0000">
     <title lang="en">Sanai Chaughade</title>
     <desc lang="en">Jayraj locks his heart away to escape a painful past. But everything changes when he meets Sharvari. Can these two opposites overcome family drama and fear to find healing?</desc>
     <category>Entertainment</category>
     <language>Marathi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015400000-20261020233300/list/ZEEMARATHISanaiChaughade41614279f20a7f8ff246e382c5b13161c951a0.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015400000-20261020233000/list/ZEEMARATHISanaiChaughade416142da0e7b13d7464a0890c62790fd934185.jpg" />
   </programme>
-  <programme channel="0-9-9z5383486" start="20261020183100 +0000" stop="20261020190000 +0000">
+  <programme channel="0-9-9z5383486" start="20261020183000 +0000" stop="20261020190000 +0000">
     <title lang="en">Kamli</title>
     <desc lang="en">A bold kabaddi player from rural Maharashtra defies her family and moves to Mumbai to follow her dreams. She returns with knowledge to fight early marriage, staying rooted in her culture.</desc>
     <category>Entertainment</category>
     <language>Marathi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015400000-20261021000100/list/ZEEMARATHIKamli1904228a1e5b5c036874feb9389210241ca23dd.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015400000-20261021000000/list/ZEEMARATHIKamli1904228d8adbf96f41247118d6859c92d3f25d6.jpg" />
   </programme>
   <programme channel="0-9-9z5383486" start="20261020190000 +0000" stop="20261020193000 +0000">
     <title lang="en">Veen Doghantali Hi Tutena</title>
@@ -66903,40 +66899,40 @@
     <language>Kannada</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017500000-20261020203000/list/ZEEKANNADALakshmiNivasa1578839da571f5211b647fe8d67c84c06a4649c.jpg" />
   </programme>
-  <programme channel="0-9-9z5383466" start="20261020153100 +0000" stop="20261020160100 +0000">
+  <programme channel="0-9-9z5383466" start="20261020153000 +0000" stop="20261020160000 +0000">
     <title lang="en">Jagadhatri</title>
-    <desc lang="en">Jagadhatri</desc>
+    <desc lang="en">A daughter's fight for dignity and an intelligence officer's war for truth, Jagadhatri's dual life embodies strength, sacrifice and the relentless pursuit of justice.</desc>
     <category>Entertainment</category>
     <language>Kannada</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017500000-20261020210100/list/ZEEKANNADAJagadhatri214499543ee072cd6c04588a6cdfa50a754d9df.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017500000-20261020210000/list/ZEEKANNADAJagadhatri21449950765af0ddd3e4accae1189d48de8fdd4.jpg" />
   </programme>
-  <programme channel="0-9-9z5383466" start="20261020160100 +0000" stop="20261020170200 +0000">
+  <programme channel="0-9-9z5383466" start="20261020160000 +0000" stop="20261020170000 +0000">
     <title lang="en">Halli Power - Reloaded</title>
     <desc lang="en">Twelve urban girls step out of their comfort zones to experience village life, learning to navigate rugged challenges, local culture, and authentic everyday struggles.</desc>
     <category>Entertainment</category>
     <language>Kannada</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017500000-20261020213100/list/ZEEKANNADAHalliPowerReloaded212087312aaceadefdc4d78bd51eb996c54888f.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017500000-20261020213000/list/ZEEKANNADAHalliPowerReloaded21208730198f3a3280b4fa996fa87f76069360a.jpg" />
   </programme>
-  <programme channel="0-9-9z5383466" start="20261020170200 +0000" stop="20261020173200 +0000">
+  <programme channel="0-9-9z5383466" start="20261020170000 +0000" stop="20261020173000 +0000">
     <title lang="en">Naa Ninna Bidalarre</title>
     <desc lang="en">Desperate spirit Ambika seeks her sister, Durga, who can see her. Ambika needs Durga's help to save her daughter. Together, they face a powerful, unseen threat.</desc>
     <category>Entertainment</category>
     <language>Kannada</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017500000-20261020223200/list/ZEEKANNADANaaNinnaBidalarre18016477762dbe31d8f4035b828b9abf63662d7.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017500000-20261020223000/list/ZEEKANNADANaaNinnaBidalarre18016475dbb00c7977e4a34bdb0a0c74f4131d4.jpg" />
   </programme>
-  <programme channel="0-9-9z5383466" start="20261020173200 +0000" stop="20261020180100 +0000">
+  <programme channel="0-9-9z5383466" start="20261020173000 +0000" stop="20261020180000 +0000">
     <title lang="en">Krishna Rukku</title>
     <desc lang="en">Playful arguments between Krishna and Rukmini slowly transform into deep affection as love blossoms through humour and emotional moments.</desc>
     <category>Entertainment</category>
     <language>Kannada</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017500000-20261020230200/list/ZEEKANNADAKrishnaRukku2048123109ced789390486f88685ce3568cb3bc.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017500000-20261020230000/list/ZEEKANNADAKrishnaRukku20481233ade7c6ced044e69bae0c77c6b1a9e02.jpg" />
   </programme>
-  <programme channel="0-9-9z5383466" start="20261020180100 +0000" stop="20261020183000 +0000">
+  <programme channel="0-9-9z5383466" start="20261020180000 +0000" stop="20261020183000 +0000">
     <title lang="en">Karna</title>
     <desc lang="en">Suriya fans rejoice! The actor will star in a Hindi film directed by Rakeysh Omprakash Mehra. The movie is based on Karna, a powerful character from the Mahabharata.</desc>
     <category>Entertainment</category>
     <language>Kannada</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017500000-20261020233100/list/ZEEKANNADAKarna1896561485908fa4b3d4d37a778a55f287ef140.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017500000-20261020233000/list/ZEEKANNADAKarna189656142593351398a44a3b1094e3d91a90e22.jpg" />
   </programme>
   <programme channel="0-9-9z5383466" start="20261020183000 +0000" stop="20261020204800 +0000">
     <title lang="en">Johny Johny Yes Papa</title>
@@ -70459,68 +70455,89 @@
     <language>Hindi</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-042500000-20261026233000/list/ZeeDelhiNCRHaryanaApnaShaharApniKhabar2039456b8807fcd2c93440ea652b2ba5643bb2d.jpg" />
   </programme>
-  <programme channel="0-9-176" start="20261020003800 +0000" stop="20261020025100 +0000">
+  <programme channel="0-9-176" start="20261019193800 +0000" stop="20261019211700 +0000">
+    <title lang="en">Chitchor</title>
+    <desc lang="en">Gauri has to choose between two suitors who come to her village.</desc>
+    <category>Film</category>
+    <language>Hindi</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017600000-20261020010800/list/ZeeClassic1Chitchor7823773b75c45f04f04beda63a69be513a872f.jpg" />
+  </programme>
+  <programme channel="0-9-176" start="20261019211700 +0000" stop="20261020000300 +0000">
+    <title lang="en">Nazrana</title>
+    <desc lang="en">Nazrana</desc>
+    <category>Film</category>
+    <language>Hindi</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017600000-20261020024700/list/ZeeClassic1Nazrana2094580e4cd7f9938154e789e6ebc0d15d20d5b.jpg" />
+  </programme>
+  <programme channel="0-9-176" start="20261020000300 +0000" stop="20261020005200 +0000">
+    <title lang="en">My Life My Story</title>
+    <desc lang="en">RJ Anmol chats with Bollywood stars who share real stories, emotional memories, and funny moments from their lives. A candid and heartwarming glimpse into stardom.</desc>
+    <category>Film</category>
+    <language>Hindi</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017600000-20261020053300/list/ZeeClassic1MyLifeMyStory776089cf42758fc9d94018afb2c84e1b7034f7.jpg" />
+  </programme>
+  <programme channel="0-9-176" start="20261020005200 +0000" stop="20261020030600 +0000">
     <title lang="en">The Gold Medal</title>
     <desc lang="en">While exposing a dangerous gang, policeman Gopal is accused of killing a nightclub dancer. With an intent to clear his name and find the criminal mastermind, he joins the gang as a trusted member.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017600000-20261020060800/list/ZeeClassic1TheGoldMedal782498141acecb9ec84b479afa5b221a4eb49f.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017600000-20261020062200/list/ZeeClassic1TheGoldMedal782498418948148b5146b783ec923d9c768ffc.jpg" />
   </programme>
-  <programme channel="0-9-176" start="20261020025100 +0000" stop="20261020062600 +0000">
+  <programme channel="0-9-176" start="20261020030600 +0000" stop="20261020060800 +0000">
     <title lang="en">Kudrat</title>
     <desc lang="en">Choudry Janak Singh, a man she hasn't met before, is the face in Chandramukhi's nightmares. Can Naresh,a psychiatrist, help her?</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017600000-20261020082100/list/ZeeClassic1Kudrat1108353322d7d28299c492aa91aa5961cd14d56.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017600000-20261020083600/list/ZeeClassic1Kudrat11083538b7c3d6ec0224ed5b4c3219422a03505.jpg" />
   </programme>
-  <programme channel="0-9-176" start="20261020062600 +0000" stop="20261020095100 +0000">
+  <programme channel="0-9-176" start="20261020060800 +0000" stop="20261020093600 +0000">
     <title lang="en">Jeevan Mrityu</title>
     <desc lang="en">An honest bank manager is arrested for embezzlement. After his release, he takes revenge on his colleagues who falsely implicated him.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017600000-20261020115600/list/ZeeClassic1JeevanMrityu7766450a64a57bfc604d549f36a6f4c578e95e.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017600000-20261020113800/list/ZeeClassic1JeevanMrityu776645a4af67b50a90415bafd2c2936521ceda.jpg" />
   </programme>
-  <programme channel="0-9-176" start="20261020095100 +0000" stop="20261020133000 +0000">
+  <programme channel="0-9-176" start="20261020093600 +0000" stop="20261020132800 +0000">
     <title lang="en">Mera Naam Joker</title>
     <desc lang="en">This is the touching journey of a clown who rises from a struggling childhood to captivate audiences with his incredible circus acts, showcasing resilience and heart.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017600000-20261020152100/list/ZeeClassic1MeraNaamJoker7824621dbaabdd1014404494bc429fa5fadc19.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017600000-20261020150600/list/ZeeClassic1MeraNaamJoker7824628f6cad32694c42ad92c10fba7dc24605.jpg" />
   </programme>
-  <programme channel="0-9-176" start="20261020133000 +0000" stop="20261020172400 +0000">
+  <programme channel="0-9-176" start="20261020132800 +0000" stop="20261020172200 +0000">
     <title lang="en">Kranti</title>
     <desc lang="en">Two men join the fight for India's independence in the epic saga 'Kranti.' Sangha's loyalty is tested as he leads a revolution against the British rule to achieve freedom for India.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017600000-20261020190000/list/ZeeClassic1Kranti16688897abd28cdad7949268a66d55414213338.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017600000-20261020185800/list/ZeeClassic1Kranti16688890e94eed5b00c495da11df64025699300.jpg" />
   </programme>
-  <programme channel="0-9-176" start="20261020172400 +0000" stop="20261020193700 +0000">
+  <programme channel="0-9-176" start="20261020172200 +0000" stop="20261020201400 +0000">
     <title lang="en">Khatron Ke Khiladi</title>
     <desc lang="en">Balwant breaks free from prison, fueled by a desire for revenge against those who murdered his brother. He's on a mission to settle the score and find justice.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017600000-20261020225400/list/ZeeClassic1KhatronKeKhiladi191847016fbf46b4d1446d199ade6ecb04215c5.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017600000-20261020225200/list/ZeeClassic1KhatronKeKhiladi191847049714f94da3341d3805bf3756ffd9f4e.jpg" />
   </programme>
-  <programme channel="0-9-176" start="20261020193700 +0000" stop="20261020214900 +0000">
+  <programme channel="0-9-176" start="20261020201400 +0000" stop="20261020223100 +0000">
     <title lang="en">Deewaangee</title>
     <desc lang="en">The struggle of a woman to save his husband and family from the curse of wealth and a man thinking that wealth will bring him all the happiness.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017600000-20261021010700/list/ZeeClassic1Deewaangee11861071c4330354147447098ab0364d25306e0.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017600000-20261021014400/list/ZeeClassic1Deewaangee118610738b8b3730e574600934a042145957915.jpg" />
   </programme>
-  <programme channel="0-9-176" start="20261020214900 +0000" stop="20261021011700 +0000">
+  <programme channel="0-9-176" start="20261020223100 +0000" stop="20261021010400 +0000">
     <title lang="en">Hum Paanch</title>
     <desc lang="en">A tyrant rules over a small town and crushes the ones who disobey him. Finally, a few people decide to fight back and put an end to his atrocities.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017600000-20261021031900/list/ZeeClassic1HumPaanch782409b0bd6ef75d0c40d39efa8bfa58a7c31d.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017600000-20261021040100/list/ZeeClassic1HumPaanch7824093f071fc4d8c54ef6a7d0d5d381a3acf4.jpg" />
   </programme>
-  <programme channel="0-9-176" start="20261021011700 +0000" stop="20261021041000 +0000">
+  <programme channel="0-9-176" start="20261021010400 +0000" stop="20261021041000 +0000">
     <title lang="en">Garam Khoon</title>
     <desc lang="en">Industrialist Sood'S Manager Vishal Gets Expelled For Siphoning Off Money From The Company. To Seek Revenge, He Kidnaps Babloo, One Of Sood'S Twin Sons, And Inducts Him Into The Criminal World.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017600000-20261021064700/list/ZeeClassic1GaramKhoon2094579af60c7998dad42068f869b1e372285c8.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017600000-20261021063400/list/ZeeClassic1GaramKhoon2094579f02f6371617d47288b405f93529ae18c.jpg" />
   </programme>
   <programme channel="0-9-176" start="20261021041000 +0000" stop="20261021070800 +0000">
     <title lang="en">Neela Akash</title>
@@ -76661,68 +76678,96 @@
     <language>Hindi</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017800000-20261026233000/list/ZEEBUSINESSIndia36011030552524f4edc89744e29c69756856cea6fe.jpg" />
   </programme>
-  <programme channel="0-9-zeeclassic" start="20261019232600 +0000" stop="20261020021300 +0000">
+  <programme channel="0-9-zeeclassic" start="20261019193800 +0000" stop="20261019212000 +0000">
+    <title lang="en">Tamanchey-Pyar Mein Dil Pe Maar De Goli</title>
+    <desc lang="en">Munna falls for the gangster's girlfriend, complicating his escape.</desc>
+    <category>Film</category>
+    <language>Hindi</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-001790000-20261020010800/list/ZeeBollywoodTamancheyPyarMeinDilPeMaarDeGoli939338c2d78f8e7e664d94aee4032194c4509f.jpg" />
+  </programme>
+  <programme channel="0-9-zeeclassic" start="20261019212000 +0000" stop="20261020000200 +0000">
+    <title lang="en">Barsaat (1995)</title>
+    <desc lang="en">Badal and Tina's love faces major hurdles when her dad disapproves and unjustly locks Badal up for a crime he didn't commit. Can their love survive this tough situation?</desc>
+    <category>Film</category>
+    <language>Hindi</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-001790000-20261020025000/list/ZeeBollywoodBarsaat199573982054a39475fbad4cdfb9068766e569fe36.jpg" />
+  </programme>
+  <programme channel="0-9-zeeclassic" start="20261020000200 +0000" stop="20261020002800 +0000">
+    <title lang="en">Fillers</title>
+    <desc lang="en">Catch nonstop entertainment with back-to-back promos, music, and fun fillers from your favorite movies and shows. Perfect for binge-watching and keeping the excitement alive!</desc>
+    <category>Film</category>
+    <language>Hindi</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-001790000-20261020053200/list/ZeeBollywoodFillers821823e53ee79ccc4720baddd5983f1ef7f6.jpg" />
+  </programme>
+  <programme channel="0-9-zeeclassic" start="20261020002800 +0000" stop="20261020024500 +0000">
     <title lang="en">Uff Kya Jadoo Mohobbat Hai</title>
     <desc lang="en">In this gripping tale, a determined homeless woman battles to support her paralyzed husband while plotting revenge against those who take advantage of their vulnerable situation.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-001790000-20261020045600/list/ZeeBollywoodUffKyaJadooMohobbatHai132307099e8d27ab7554c1ca20bc71b71768785.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-001790000-20261020055800/list/ZeeBollywoodUffKyaJadooMohobbatHai1323070b57b6cf30cf240529e7602d563fb7e40.jpg" />
   </programme>
-  <programme channel="0-9-zeeclassic" start="20261020021300 +0000" stop="20261020050600 +0000">
+  <programme channel="0-9-zeeclassic" start="20261020024500 +0000" stop="20261020052800 +0000">
     <title lang="en">Aashiq</title>
     <desc lang="en">Pooja and Chander fall in love against wealth and pressure, face parental opposition, a police chase, Pooja's disappearance, and a dramatic escape as they fight for love.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-001790000-20261020074300/list/ZeeBollywoodAashiq93033999602ced518b496c86dafff10ed3fd58.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-001790000-20261020081500/list/ZeeBollywoodAashiq9303398222565fb32d4597a40390b21f7a7b34.jpg" />
   </programme>
-  <programme channel="0-9-zeeclassic" start="20261020050600 +0000" stop="20261020075800 +0000">
+  <programme channel="0-9-zeeclassic" start="20261020052800 +0000" stop="20261020080700 +0000">
     <title lang="en">Muqabla</title>
     <desc lang="en">Two brothers find themselves jobs in the police department, when difference arise between them personally and professionally.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-001790000-20261020103600/list/ZeeBollywoodMuqabla19916528dd9f805ec544eb9b9e7df6a82eed2f0.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-001790000-20261020105800/list/ZeeBollywoodMuqabla19916522c6d72b3af46470f8566b6e80cfdd95e.jpg" />
   </programme>
-  <programme channel="0-9-zeeclassic" start="20261020075800 +0000" stop="20261020115800 +0000">
+  <programme channel="0-9-zeeclassic" start="20261020080700 +0000" stop="20261020120400 +0000">
     <title lang="en">Maine Pyar Kiya</title>
     <desc lang="en">Prem and Suman's love faces tough challenges when family pressures and expectations come into play. Can their bond withstand the storms, or will love be overshadowed by family drama?</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-001790000-20261020132800/list/ZeeBollywoodMainePyarKiya2796735e16eaa4dee94e859f54031e232450a0.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-001790000-20261020133700/list/ZeeBollywoodMainePyarKiya279673cb31957d6fc34ff8b0e737ac6131097b.jpg" />
   </programme>
-  <programme channel="0-9-zeeclassic" start="20261020115800 +0000" stop="20261020143000 +0000">
+  <programme channel="0-9-zeeclassic" start="20261020120400 +0000" stop="20261020142500 +0000">
     <title lang="en">Hitler</title>
     <desc lang="en">Siddhanth Sharma, a strict disciplinarian, is forced to chase hi brother, Amar, after he is accused of murder. However, his wife, Sheila, a lawyer, decides to defend Amar.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-001790000-20261020172800/list/ZeeBollywoodHitler1707458aa6198fc529f4687bd05ec3b949b0d10.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-001790000-20261020173400/list/ZeeBollywoodHitler170745839fd6538eb31416d857a228b77fa2a69.jpg" />
   </programme>
-  <programme channel="0-9-zeeclassic" start="20261020143000 +0000" stop="20261020171900 +0000">
+  <programme channel="0-9-zeeclassic" start="20261020142500 +0000" stop="20261020171200 +0000">
     <title lang="en">Krantiveer</title>
     <desc lang="en">Disowned and aimless, a man lands in a corrupt village ruled by crime lords and politicians. A hopeful journalist inspires him to change.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-001790000-20261020200000/list/ZeeBollywoodKrantiveer27526407a18839b18447fabbae266fe1537f7f.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-001790000-20261020195500/list/ZeeBollywoodKrantiveer27526483d02f414cbf46b6b9dd3878c1ed4fdf.jpg" />
   </programme>
-  <programme channel="0-9-zeeclassic" start="20261020171900 +0000" stop="20261020203000 +0000">
+  <programme channel="0-9-zeeclassic" start="20261020171200 +0000" stop="20261020191700 +0000">
     <title lang="en">Kurukshetra</title>
     <desc lang="en">Prithviraj stands by justice, even when it means arresting Baburao's son. But the powerful Chief Minister won't forgive, launching a ruthless vendetta against the upright officer.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-001790000-20261020224900/list/ZeeBollywoodKurukshetra133689066a76f36972a43109aa152506339a4b0.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-001790000-20261020224200/list/ZeeBollywoodKurukshetra1336890a92a1eaa4e85484ab136b7ce14950d6c.jpg" />
   </programme>
-  <programme channel="0-9-zeeclassic" start="20261020203000 +0000" stop="20261020235600 +0000">
+  <programme channel="0-9-zeeclassic" start="20261020191700 +0000" stop="20261020210100 +0000">
+    <title lang="en">Paap</title>
+    <desc lang="en">Kaya seeks reincarnated boy and faces murder.</desc>
+    <category>Film</category>
+    <language>Hindi</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-001790000-20261021004700/list/ZeeBollywoodPaap1320176f57188dd27274a7089884416ea824e25.jpg" />
+  </programme>
+  <programme channel="0-9-zeeclassic" start="20261020210100 +0000" stop="20261021000600 +0000">
     <title lang="en">23 March 1931 Shaheed</title>
     <desc lang="en">After the brutal murder of his mentor Lala Lajpat Rai by British authorities, Bhagat Singh seeks vengeance, ultimately leading to his death sentence for killing a British official.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-001790000-20261021020000/list/ZeeBollywood23March1931Shaheed18149571dfb477c458948ce856d23e36b800567.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-001790000-20261021023100/list/ZeeBollywood23March1931Shaheed1814957a74df361d265467abf2628d3e242e311.jpg" />
   </programme>
-  <programme channel="0-9-zeeclassic" start="20261020235600 +0000" stop="20261021022900 +0000">
+  <programme channel="0-9-zeeclassic" start="20261021000600 +0000" stop="20261021022900 +0000">
     <title lang="en">Hum Bhi Insaan Hai</title>
     <desc lang="en">Rekha and Bhola fall in love, but Rekha's father strongly opposes their union. Their fight for love against family pressures leads to a tale of persistence, defiance, and hope for a happy ending.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-001790000-20261021052600/list/ZeeBollywoodHumBhiInsaanHai673075bec4fe39b24548d485328626df4e04bd.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-001790000-20261021053600/list/ZeeBollywoodHumBhiInsaanHai673075b36da6d175de4422ade9bc989a3178d6.jpg" />
   </programme>
   <programme channel="0-9-zeeclassic" start="20261021022900 +0000" stop="20261021053200 +0000">
     <title lang="en">Sabse Bada Khiladi - Akshay Kumar</title>
@@ -82660,103 +82705,82 @@
     <language>Hindi</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017800001-20261026233000/list/ZeeHindustanVandeMataram10001899d719f73773a4d329e280fda7413aeac.jpg" />
   </programme>
-  <programme channel="0-9-zeebanglacinema" start="20261019194600 +0000" stop="20261019212300 +0000">
-    <title lang="en">Utsav</title>
-    <desc lang="en">A woman Courtier Vasantsena is flattered by the King's brother-in-law, Sansthanak, though in vain, as she is not responsive to his advances.</desc>
-    <category>Film</category>
-    <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-029500000-20261020011600/list/ZeeBanglaCinemaUtsav2721577551aae1388473fa6914a0a5d5af524.jpg" />
-  </programme>
-  <programme channel="0-9-zeebanglacinema" start="20261019212300 +0000" stop="20261019233000 +0000">
-    <title lang="en">Prem Amar 2</title>
-    <desc lang="en">Apurba and Joy, college classmates, fall in love, but Apurba's family forces her into an arranged marriage with another man. The drama explores emotional turmoil and family conflicts.</desc>
-    <category>Film</category>
-    <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-029500000-20261020025300/list/ZeeBanglaCinemaPremAmar280043985d20525c58d4eccbbd44638410b554f.jpg" />
-  </programme>
-  <programme channel="0-9-zeebanglacinema" start="20261019233000 +0000" stop="20261020002600 +0000">
-    <title lang="en">Patanjali Yog - By Yog Rishi Swami Ramdev</title>
-    <desc lang="en">Baba Ramdev shows how yoga can help you. He explains different yoga poses. These poses can make your life healthier and less stressful. Learn yoga from Baba Ramdev!</desc>
-    <category>Film</category>
-    <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-029500000-20261020050000/list/ZBanglaSonarPatanjaliYogByYogRishiSwamiRamdev5107384f2347ff0ce94b21945c9cbe2fab2b0b.jpg" />
-  </programme>
-  <programme channel="0-9-zeebanglacinema" start="20261020002600 +0000" stop="20261020022100 +0000">
+  <programme channel="0-9-zeebanglacinema" start="20261020003000 +0000" stop="20261020023000 +0000">
     <title lang="en">Hirak Rajar Deshe</title>
     <desc lang="en">When Goopy and Bagha learn about Hirak Raja's tyranny, they try to set him right with the help of Udayan, a schoolteacher, and their magical powers.</desc>
     <category>Film</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-029500000-20261020055600/list/ZBanglaSonarHirakRajarDeshe3096760547b25c4f704ccf8357738e9d7ffcc3.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-029500000-20261020060000/list/ZBanglaSonarHirakRajarDeshe30967662f7cb9733c544708f513149dbed9539.jpg" />
   </programme>
-  <programme channel="0-9-zeebanglacinema" start="20261020022100 +0000" stop="20261020032500 +0000">
+  <programme channel="0-9-zeebanglacinema" start="20261020023000 +0000" stop="20261020033000 +0000">
     <title lang="en">Sakaler Sure</title>
     <desc lang="en">Bengali artists love devotional and folk songs. These songs inspire singers and audiences alike. They celebrate culture and faith, creating a shared experience.</desc>
     <category>Film</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-029500000-20261020075100/list/ZeeBanglaCinemaSakalerSure1448382e872a9561ea044818fb97b332674b2a4.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-029500000-20261020080000/list/ZeeBanglaCinemaSakalerSure144838288c0d7db6aff47ba9104119435035901.jpg" />
   </programme>
-  <programme channel="0-9-zeebanglacinema" start="20261020032500 +0000" stop="20261020060500 +0000">
+  <programme channel="0-9-zeebanglacinema" start="20261020033000 +0000" stop="20261020060000 +0000">
     <title lang="en">Baazi</title>
     <desc lang="en">An honest officer is framed for murder when he starts investigating a case. However, he manages to escape from prison and goes undercover as a woman to unravel the conspiracy.</desc>
     <category>Film</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-029500000-20261020085500/list/ZeeBanglaCinemaBaazi125548058a3c3183c964c54acd2121af635e0fc.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-029500000-20261020090000/list/ZeeBanglaCinemaBaazi1255480afa063f6a62d48c09dc0368ec535cb5e.jpg" />
   </programme>
-  <programme channel="0-9-zeebanglacinema" start="20261020060500 +0000" stop="20261020085300 +0000">
+  <programme channel="0-9-zeebanglacinema" start="20261020060000 +0000" stop="20261020090000 +0000">
     <title lang="en">Rakto Nodir Dhara</title>
     <desc lang="en">Jaga Gunda is an international terrorist. Rupen Roy arrests him and imprison him for 21 years. However, Jaga escapes from jail with the help of a corrupt cop Dibakar and kills Rupen Roy's family.</desc>
     <category>Film</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-029500000-20261020113500/list/ZeeBanglaCinemaRaktoNodirDhara1194309aacc1133d53e4ae3b558eac56dd7d491.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-029500000-20261020113000/list/ZeeBanglaCinemaRaktoNodirDhara119430915bb8e8c9333435b82581dd94c74feb5.jpg" />
   </programme>
-  <programme channel="0-9-zeebanglacinema" start="20261020085300 +0000" stop="20261020113500 +0000">
+  <programme channel="0-9-zeebanglacinema" start="20261020090000 +0000" stop="20261020113000 +0000">
     <title lang="en">Noyonmoni</title>
     <desc lang="en">Nayan's house catches fire after he is born, which makes people believe that he is a bad omen. His life changes drastically when his father is arrested.</desc>
     <category>Film</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-029500000-20261020142300/list/ZeeBanglaCinemaNoyonmoni1307910b007be5a9c3a4597b24d09106b2b4741.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-029500000-20261020143000/list/ZeeBanglaCinemaNoyonmoni1307910ac0cc6fca2b047f1b1f24418e0cc19b3.jpg" />
   </programme>
-  <programme channel="0-9-zeebanglacinema" start="20261020113500 +0000" stop="20261020142600 +0000">
+  <programme channel="0-9-zeebanglacinema" start="20261020113000 +0000" stop="20261020143000 +0000">
     <title lang="en">Ekai Ek Sau</title>
     <desc lang="en">Ratan, an honest autorickshaw driver, refuses to help a corrupt politician, Pradip Roy, which then leads to a local war. He also ends up falling in love with Jhilik, his daughter.</desc>
     <category>Film</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-029500000-20261020170500/list/ZBanglaSonarEkaiEkSau140566467babb3ab06f4e658ff8da6f09f34d99.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-029500000-20261020170000/list/ZBanglaSonarEkaiEkSau1405664d7607e3d5ce14527be81daf986e95d3c.jpg" />
   </programme>
-  <programme channel="0-9-zeebanglacinema" start="20261020142600 +0000" stop="20261020170400 +0000">
+  <programme channel="0-9-zeebanglacinema" start="20261020143000 +0000" stop="20261020170000 +0000">
     <title lang="en">Kali Aamar Maa</title>
     <desc lang="en">Kali Amar Ma depicts Lakshmi, who loses her mother at birth. Goddess Kali assumes a maternal role, safeguarding her from life's challenges.</desc>
     <category>Film</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-029500000-20261020195600/list/ZeeBanglaCinemaKaliAamarMaa1442307c64b3530e7904f4ea467a67e190043dd.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-029500000-20261020200000/list/ZeeBanglaCinemaKaliAamarMaa144230720c722815fc34ed59b35fde8a856f039.jpg" />
   </programme>
-  <programme channel="0-9-zeebanglacinema" start="20261020170400 +0000" stop="20261020193900 +0000">
+  <programme channel="0-9-zeebanglacinema" start="20261020170000 +0000" stop="20261020193000 +0000">
     <title lang="en">Mouchak</title>
     <desc lang="en">A man is flooded with marriage proposals after relocating for a job. The bad publicity intended to get him out of this predicament but when it he was to marry a woman he loves it becomes a hinderence.</desc>
     <category>Film</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-029500000-20261020223400/list/ZeeBanglaCinemaMouchak307485b77d45cf8c5442969761b3f3fcf44f6c.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-029500000-20261020223000/list/ZeeBanglaCinemaMouchak3074856dc1c52894834d2e873ebd9cfa8a5de7.jpg" />
   </programme>
-  <programme channel="0-9-zeebanglacinema" start="20261020193900 +0000" stop="20261020215800 +0000">
+  <programme channel="0-9-zeebanglacinema" start="20261020193000 +0000" stop="20261020220000 +0000">
     <title lang="en">Game</title>
     <desc lang="en">Kabir Malhotra, a billionaire, invites four different people to his island and accuses them of murdering his daughter. A twist of fate leads to him being found dead the next morning.</desc>
     <category>Film</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-029500000-20261021010900/list/ZeeBanglaCinemaGame125547832f0230aa1584af0ac54fda4bfd8fde2.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-029500000-20261021010000/list/ZeeBanglaCinemaGame12554787eb09c0cf65d4cd7a6499bc1c32ec11c.jpg" />
   </programme>
-  <programme channel="0-9-zeebanglacinema" start="20261020215800 +0000" stop="20261020233100 +0000">
+  <programme channel="0-9-zeebanglacinema" start="20261020220000 +0000" stop="20261020233000 +0000">
     <title lang="en">8/12 Binoy Badal Dinesh</title>
     <desc lang="en">A heroic trio of freedom fighters plans to break into the British India Secretariat of Bengal in order to assassinate the tyrannical Inspector General N S Simpson.</desc>
     <category>Film</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-029500000-20261021032800/list/ZeeBanglaCinema812BinoyBadalDinesh131786935053ec86b2e40fd8fa8b20cca22197c.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-029500000-20261021033000/list/ZeeBanglaCinema812BinoyBadalDinesh13178697310629ecd334ecd98d3216328687240.jpg" />
   </programme>
-  <programme channel="0-9-zeebanglacinema" start="20261020233100 +0000" stop="20261021003000 +0000">
+  <programme channel="0-9-zeebanglacinema" start="20261020233000 +0000" stop="20261021003000 +0000">
     <title lang="en">Patanjali Yog - By Yog Rishi Swami Ramdev</title>
     <desc lang="en">Baba Ramdev shows how yoga can help you. He explains different yoga poses. These poses can make your life healthier and less stressful. Learn yoga from Baba Ramdev!</desc>
     <category>Film</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-029500000-20261021050100/list/ZBanglaSonarPatanjaliYogByYogRishiSwamiRamdev510738289dcef11a1949b3b6943f8dde93c0bb.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-029500000-20261021050000/list/ZBanglaSonarPatanjaliYogByYogRishiSwamiRamdev510738feb36b00f04647219a93dc00e8c0c405.jpg" />
   </programme>
   <programme channel="0-9-zeebanglacinema" start="20261021003000 +0000" stop="20261021023000 +0000">
     <title lang="en">Basu Poribar</title>
@@ -85257,19 +85281,19 @@
     <language>Bengali</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002341200-20261020090000/list/ZeeBanglaHDSaatPakeBandha2036510144ebde02ac54937a0b356abfb39055b.jpg" />
   </programme>
-  <programme channel="0-9-zeebangla" start="20261020040000 +0000" stop="20261020043000 +0000">
+  <programme channel="0-9-zeebangla" start="20261020035900 +0000" stop="20261020042900 +0000">
     <title lang="en">Sundorboner Baghini</title>
-    <desc lang="en">Sundorboner Baghini</desc>
+    <desc lang="en">A brave woman from the Sundarban delta arrives at an estate with her child, asserting a deep past connection to the heir, who claims not to know her.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002341200-20261020093000/list/ZeeBanglaHDSundorbonerBaghini2130930a7a0f00911e840e7903082e84cb2f4a4.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002341200-20261020092900/list/ZeeBanglaHDSundorbonerBaghini21309309d3ebfc07b214b4e86acd61ac66a9741.jpg" />
   </programme>
-  <programme channel="0-9-zeebangla" start="20261020043000 +0000" stop="20261020050000 +0000">
-    <title lang="en">Joyar Bhata</title>
-    <desc lang="en">Sisters Uji and Nisha are close yet opposite. Uji is studious, Nisha turns to scams. After their father's death, revenge and Uji's marriage spark rising tensions.</desc>
+  <programme channel="0-9-zeebangla" start="20261020042900 +0000" stop="20261020050000 +0000">
+    <title lang="en">Jowar Bhata</title>
+    <desc lang="en">Sisters Uji and Nisha are tightly bonded yet opposite. Gentle Uji is studious, while fiery Nisha turns to scams. After their father's death, Nisha seeks revenge as Uji's marriage reveals tensions.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002341200-20261020100000/list/ZeeBanglaHDJoyarBhata1944434368d0c0d5df74477ba2f0ffddb0237cf.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002341200-20261020095900/list/ZeeBanglaHDJowarBhata194813446fd665665944e35a4ac851a06a5447a.jpg" />
   </programme>
   <programme channel="0-9-zeebangla" start="20261020050000 +0000" stop="20261020053000 +0000">
     <title lang="en">Annapurnar Lokkhira</title>
@@ -87392,194 +87416,194 @@
     <language>Bengali</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020070000/list/ZEEBANGLAKamalaNiwas206566105029eaa627a41f6b6b5a6b32d4a7549.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020020000 +0000" stop="20261020023000 +0000">
+  <programme channel="0-9-9z5383484" start="20261020015900 +0000" stop="20261020022800 +0000">
     <title lang="en">Kusum</title>
     <desc lang="en">Kusum Kusum Prem is about Kusum, a poor woman. The story shows her life and struggles. She faces challenges but keeps going, depicting her resilience.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020073000/list/ZEEBANGLAKusum1888882817080586bad4d6e8eca8021d3f2dde6.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020072900/list/ZEEBANGLAKusum188888262f6d5a3f2ef4775920d02200263fb1f.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020023000 +0000" stop="20261020030000 +0000">
+  <programme channel="0-9-9z5383484" start="20261020022800 +0000" stop="20261020025700 +0000">
     <title lang="en">Tare Dhori Dhori Mone Kori</title>
     <desc lang="en">In ancient Nabadwip, a devout ascetic seeking divinity meets a wealthy young woman longing for love and family, sparking a rare, unforgettable romance that changes lives.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020080000/list/ZEEBANGLATareDhoriDhoriMoneKori1998342aaa51fc4df4e4cb28606a4cf9f88f1d6.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020075800/list/ZEEBANGLATareDhoriDhoriMoneKori19983428d2f195b559f464ab5a0e0466c88f1ac.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020030000 +0000" stop="20261020033000 +0000">
+  <programme channel="0-9-9z5383484" start="20261020025700 +0000" stop="20261020032700 +0000">
     <title lang="en">Parineeta</title>
     <desc lang="en">Mehul falls in love with her tutor, Babai, who is an exceptional student. Her world turns upside down when she hears the news of his suicide.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020083000/list/ZEEBANGLAParineeta8810429a7dad5c46b24c37b1aefa69bdab2ced.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020082700/list/ZEEBANGLAParineeta881042fa5a5ba9a19141e8b75fd7e87be7794e.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020033000 +0000" stop="20261020040000 +0000">
+  <programme channel="0-9-9z5383484" start="20261020032700 +0000" stop="20261020035700 +0000">
     <title lang="en">Saat Pake Bandha</title>
     <desc lang="en">Dushtu is a very sweet girl who craves for a life full of joy. Will her life partner, her new family value the real Dushtu?</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020090000/list/ZEEBANGLASaatPakeBandha15701f056b5e12ba24213b536e4c40c62f515.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020085700/list/ZEEBANGLASaatPakeBandha15701e04150a0caf842e6b3a3b645bceb1ba7.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020040000 +0000" stop="20261020043000 +0000">
+  <programme channel="0-9-9z5383484" start="20261020035700 +0000" stop="20261020042700 +0000">
     <title lang="en">Sundorboner Baghini</title>
     <desc lang="en">A brave woman from the Sundarban delta arrives at an estate with her child, asserting a deep past connection to the heir, who claims not to know her.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020093000/list/ZEEBANGLASundorbonerBaghini2130928b09f0098139346609a1a8f70d65c72cd.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020092700/list/ZEEBANGLASundorbonerBaghini2130928e9ab29318afe4d7e9eda3ec3b73f77b5.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020043000 +0000" stop="20261020050000 +0000">
-    <title lang="en">Joyar Bhata</title>
-    <desc lang="en">Taijul finds a newlywed bride near a river, traveling to her in-laws. Bandits attack their boat; Taijul must decide if he can find her family.</desc>
+  <programme channel="0-9-9z5383484" start="20261020042700 +0000" stop="20261020045700 +0000">
+    <title lang="en">Jowar Bhata</title>
+    <desc lang="en">Sisters Uji and Nisha are tightly bonded yet opposite. Gentle Uji is studious, while fiery Nisha turns to scams. After their father's death, Nisha seeks revenge as Uji's marriage reveals tensions.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020100000/list/ZEEBANGLAJoyarBhata19444189d0418b8e0a24b43a2cd5ad043f609d2.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020095700/list/ZEEBANGLAJowarBhata194722839b980de74ea4030b6def6bd7156dba3.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020050000 +0000" stop="20261020053000 +0000">
+  <programme channel="0-9-9z5383484" start="20261020045700 +0000" stop="20261020052700 +0000">
     <title lang="en">Annapurnar Lokkhira</title>
     <desc lang="en">Facing tough challenges every day, a dedicated parent raises three kids alone, giving everything they have to build a brighter future for the whole family.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020103000/list/ZEEBANGLAAnnapurnarLokkhira2085285afead59037f94a2086b0e7f4ae13e453.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020102700/list/ZEEBANGLAAnnapurnarLokkhira208528562f1b0ad39084d0e9cfd262bca13ccda.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020053000 +0000" stop="20261020060000 +0000">
+  <programme channel="0-9-9z5383484" start="20261020052700 +0000" stop="20261020055700 +0000">
     <title lang="en">Satipith Kalighat</title>
     <desc lang="en">Driven by a sacred vision, two devout yogis embark on a spiritual journey that ultimately shapes the holy legacy of Kalighat and Kolkata's historic destiny.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020110000/list/ZEEBANGLASatipithKalighat2128717eda17224dc1a4ae0a9d2e709311d4157.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020105700/list/ZEEBANGLASatipithKalighat2128717f551edcd82874933bdded150fe2df25d.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020060000 +0000" stop="20261020063000 +0000">
+  <programme channel="0-9-9z5383484" start="20261020055700 +0000" stop="20261020062700 +0000">
     <title lang="en">Dulari</title>
     <desc lang="en">A simple village girl moves to Kolkata, completely unaware of her royal roots. Facing hostile foes, she must overcome conflict and reclaim her true identity.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020113000/list/ZEEBANGLADulari2101394f5dd4ba1a7f648449d145d57cf269ec5.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020112700/list/ZEEBANGLADulari210139476730e29fdf64ccfb313fa5e7243ea66.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020063000 +0000" stop="20261020070000 +0000">
-    <title lang="en">Joyar Bhata</title>
-    <desc lang="en">Taijul finds a newlywed bride near a river, traveling to her in-laws. Bandits attack their boat; Taijul must decide if he can find her family.</desc>
+  <programme channel="0-9-9z5383484" start="20261020062700 +0000" stop="20261020065700 +0000">
+    <title lang="en">Jowar Bhata</title>
+    <desc lang="en">Sisters Uji and Nisha are tightly bonded yet opposite. Gentle Uji is studious, while fiery Nisha turns to scams. After their father's death, Nisha seeks revenge as Uji's marriage reveals tensions.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020120000/list/ZEEBANGLAJoyarBhata194441899af85e8bdc24453ad0f416a4486dfb2.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020115700/list/ZEEBANGLAJowarBhata1947228166bbbcab3ac4401976662aa947bee3c.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020070000 +0000" stop="20261020073000 +0000">
+  <programme channel="0-9-9z5383484" start="20261020065700 +0000" stop="20261020072700 +0000">
     <title lang="en">Tare Dhori Dhori Mone Kori</title>
     <desc lang="en">In ancient Nabadwip, a devout ascetic seeking divinity meets a wealthy young woman longing for love and family, sparking a rare, unforgettable romance that changes lives.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020123000/list/ZEEBANGLATareDhoriDhoriMoneKori1998342e46ea0eac9b84c6f975a6e2857d5ff83.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020122700/list/ZEEBANGLATareDhoriDhoriMoneKori19983424a23e001bf084bc1807e3b8b1710feb5.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020073000 +0000" stop="20261020080000 +0000">
+  <programme channel="0-9-9z5383484" start="20261020072700 +0000" stop="20261020075800 +0000">
     <title lang="en">Sundorboner Baghini</title>
     <desc lang="en">A brave woman from the Sundarban delta arrives at an estate with her child, asserting a deep past connection to the heir, who claims not to know her.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020130000/list/ZEEBANGLASundorbonerBaghini21309284a21a7ae11bf489d86d10af844138beb.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020125700/list/ZEEBANGLASundorbonerBaghini2130928f1f531fea4e348dcae673ff3998f8f69.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020080000 +0000" stop="20261020083000 +0000">
+  <programme channel="0-9-9z5383484" start="20261020075800 +0000" stop="20261020082700 +0000">
     <title lang="en">Kamala Niwas</title>
     <desc lang="en">Kamala struggles to protect her family's legacy as secrets unravel within the Niwas, testing relationships, trust and her strength to hold everyone together.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020133000/list/ZEEBANGLAKamalaNiwas20656611d257a0e1f76461f8d329733965684fa.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020132800/list/ZEEBANGLAKamalaNiwas206566134dcb0410d5949a4bb3508a11d7db5b2.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020083000 +0000" stop="20261020090000 +0000">
+  <programme channel="0-9-9z5383484" start="20261020082700 +0000" stop="20261020085600 +0000">
     <title lang="en">Saat Pake Bandha</title>
     <desc lang="en">Dushtu is a very sweet girl who craves for a life full of joy. Will her life partner, her new family value the real Dushtu?</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020140000/list/ZEEBANGLASaatPakeBandha157010b8fea0f16fe46b3acd2d4c95da89c92.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020135700/list/ZEEBANGLASaatPakeBandha15701fd5f6ac532b04b84afb8c74ede25bdfe.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020090000 +0000" stop="20261020093000 +0000">
+  <programme channel="0-9-9z5383484" start="20261020085600 +0000" stop="20261020092600 +0000">
     <title lang="en">Parineeta</title>
     <desc lang="en">Mehul falls in love with her tutor, Babai, who is an exceptional student. Her world turns upside down when she hears the news of his suicide.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020143000/list/ZEEBANGLAParineeta88104248588f223d474842ba206ed5a9c12f97.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020142600/list/ZEEBANGLAParineeta88104206b9e6df653f46ba8f76c1ed81cce7c5.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020093000 +0000" stop="20261020100000 +0000">
-    <title lang="en">Joyar Bhata</title>
-    <desc lang="en">Taijul finds a newlywed bride near a river, traveling to her in-laws. Bandits attack their boat; Taijul must decide if he can find her family.</desc>
+  <programme channel="0-9-9z5383484" start="20261020092600 +0000" stop="20261020095600 +0000">
+    <title lang="en">Jowar Bhata</title>
+    <desc lang="en">Sisters Uji and Nisha are tightly bonded yet opposite. Gentle Uji is studious, while fiery Nisha turns to scams. After their father's death, Nisha seeks revenge as Uji's marriage reveals tensions.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020150000/list/ZEEBANGLAJoyarBhata19444189000602b1f7c4660a2728951cbd5e6c5.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020145600/list/ZEEBANGLAJowarBhata194722853a1be454e7b4076852864f4835c22c5.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020100000 +0000" stop="20261020103000 +0000">
+  <programme channel="0-9-9z5383484" start="20261020095600 +0000" stop="20261020102600 +0000">
     <title lang="en">Annapurnar Lokkhira</title>
     <desc lang="en">Facing tough challenges every day, a dedicated parent raises three kids alone, giving everything they have to build a brighter future for the whole family.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020153000/list/ZEEBANGLAAnnapurnarLokkhira20852858ade1a4e77d04ecd929194e764c83d4f.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020152600/list/ZEEBANGLAAnnapurnarLokkhira2085285bf718c64653245bcad42139e7d98f349.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020103000 +0000" stop="20261020110000 +0000">
+  <programme channel="0-9-9z5383484" start="20261020102600 +0000" stop="20261020105600 +0000">
     <title lang="en">Sundorboner Baghini</title>
     <desc lang="en">A brave woman from the Sundarban delta arrives at an estate with her child, asserting a deep past connection to the heir, who claims not to know her.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020160000/list/ZEEBANGLASundorbonerBaghini213092824dc29173d2349539b7f1656a8f9c4da.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020155600/list/ZEEBANGLASundorbonerBaghini21309285da03a2c84af4fbbad10404376303c3d.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020110000 +0000" stop="20261020113000 +0000">
+  <programme channel="0-9-9z5383484" start="20261020105600 +0000" stop="20261020112500 +0000">
     <title lang="en">Sasuri Boumar Rannaghar</title>
     <desc lang="en">A charming cooking show packed with delicious recipes and laughter, showcasing the special, heartfelt bond between a loving mother-in-law and her daughter-in-law.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020163000/list/ZEEBANGLASasuriBoumarRannaghar210139537a3672e2d624b9bb8c81ca9a7ae5f6b.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020162600/list/ZEEBANGLASasuriBoumarRannaghar210139588f191aee9184efc9d34a84a4058e4d0.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020113000 +0000" stop="20261020120000 +0000">
+  <programme channel="0-9-9z5383484" start="20261020112500 +0000" stop="20261020115500 +0000">
     <title lang="en">Saat Pake Bandha</title>
     <desc lang="en">Dushtu is a very sweet girl who craves for a life full of joy. Will her life partner, her new family value the real Dushtu?</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020170000/list/ZEEBANGLASaatPakeBandha15701b0938ae119ad4046bf7374799595f293.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020165500/list/ZEEBANGLASaatPakeBandha157013ade96c4465249648b9902f544ee7a1a.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020120000 +0000" stop="20261020123000 +0000">
+  <programme channel="0-9-9z5383484" start="20261020115500 +0000" stop="20261020122400 +0000">
     <title lang="en">Dulari</title>
     <desc lang="en">A simple village girl moves to Kolkata, completely unaware of her royal roots. Facing hostile foes, she must overcome conflict and reclaim her true identity.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020173000/list/ZEEBANGLADulari210139472a68081ba7d4a1ab36f439fd20dfb92.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020172500/list/ZEEBANGLADulari2101394caf10fcde3d54ced9f5d842a45c9ad08.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020123000 +0000" stop="20261020130000 +0000">
+  <programme channel="0-9-9z5383484" start="20261020122400 +0000" stop="20261020125500 +0000">
     <title lang="en">Kusum</title>
     <desc lang="en">Kusum Kusum Prem is about Kusum, a poor woman. The story shows her life and struggles. She faces challenges but keeps going, depicting her resilience.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020180000/list/ZEEBANGLAKusum18888825a5794d397784eb0b68d5e4055b18e93.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020175400/list/ZEEBANGLAKusum18888827cdd7654ebd44838b2f8aa62517bd4df.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020130000 +0000" stop="20261020133000 +0000">
+  <programme channel="0-9-9z5383484" start="20261020125500 +0000" stop="20261020132600 +0000">
     <title lang="en">Kamala Niwas</title>
     <desc lang="en">Kamala struggles to protect her family's legacy as secrets unravel within the Niwas, testing relationships, trust and her strength to hold everyone together.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020183000/list/ZEEBANGLAKamalaNiwas20656615d7fa39d0b22474080eea1c9b82402b7.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020182500/list/ZEEBANGLAKamalaNiwas2065661e53dca6457e8468abbd9b1f7b944d8f3.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020133000 +0000" stop="20261020140000 +0000">
+  <programme channel="0-9-9z5383484" start="20261020132600 +0000" stop="20261020135700 +0000">
     <title lang="en">Annapurnar Lokkhira</title>
     <desc lang="en">Facing tough challenges every day, a dedicated parent raises three kids alone, giving everything they have to build a brighter future for the whole family.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020190000/list/ZEEBANGLAAnnapurnarLokkhira208528591bf494ca55a4ce38dd2c930dc1043f6.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020185600/list/ZEEBANGLAAnnapurnarLokkhira20852852878c33fc2a14883a459ae9060576ee6.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020140000 +0000" stop="20261020143000 +0000">
+  <programme channel="0-9-9z5383484" start="20261020135700 +0000" stop="20261020142800 +0000">
     <title lang="en">Tare Dhori Dhori Mone Kori</title>
     <desc lang="en">In ancient Nabadwip, a devout ascetic seeking divinity meets a wealthy young woman longing for love and family, sparking a rare, unforgettable romance that changes lives.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020193000/list/ZEEBANGLATareDhoriDhoriMoneKori1998342e972f599a2ff4cb38254b095fda421c8.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020192700/list/ZEEBANGLATareDhoriDhoriMoneKori1998342faa159c02ad24a36b6aa20da1b76c00a.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020143000 +0000" stop="20261020150000 +0000">
+  <programme channel="0-9-9z5383484" start="20261020142800 +0000" stop="20261020145900 +0000">
     <title lang="en">Parineeta</title>
     <desc lang="en">Mehul falls in love with her tutor, Babai, who is an exceptional student. Her world turns upside down when she hears the news of his suicide.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020200000/list/ZEEBANGLAParineeta881042173466e0405e4e9dbe31f552e51e54bc.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020195800/list/ZEEBANGLAParineeta881042e64cad357657479097821d012f33180b.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020150000 +0000" stop="20261020153000 +0000">
-    <title lang="en">Joyar Bhata</title>
-    <desc lang="en">Taijul finds a newlywed bride near a river, traveling to her in-laws. Bandits attack their boat; Taijul must decide if he can find her family.</desc>
+  <programme channel="0-9-9z5383484" start="20261020145900 +0000" stop="20261020153000 +0000">
+    <title lang="en">Jowar Bhata</title>
+    <desc lang="en">Sisters Uji and Nisha are tightly bonded yet opposite. Gentle Uji is studious, while fiery Nisha turns to scams. After their father's death, Nisha seeks revenge as Uji's marriage reveals tensions.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020203000/list/ZEEBANGLAJoyarBhata1944418a8f46cd31e5e4790962307d5c2b008b5.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020202900/list/ZEEBANGLAJowarBhata1947228b7793635a8094da98ea684e42a226072.jpg" />
   </programme>
   <programme channel="0-9-9z5383484" start="20261020153000 +0000" stop="20261020160200 +0000">
     <title lang="en">Sundorboner Baghini</title>
@@ -87588,33 +87612,40 @@
     <language>Bengali</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020210000/list/ZEEBANGLASundorbonerBaghini2130928dccd73a846894a5ba99922836d8af47b.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020160200 +0000" stop="20261020163200 +0000">
+  <programme channel="0-9-9z5383484" start="20261020160000 +0000" stop="20261020163000 +0000">
     <title lang="en">Satipith Kalighat</title>
     <desc lang="en">Driven by a sacred vision, two devout yogis embark on a spiritual journey that ultimately shapes the holy legacy of Kalighat and Kolkata's historic destiny.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020213200/list/ZEEBANGLASatipithKalighat2128717c237036e2c3549e6a669f513a2ffb748.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020213000/list/ZEEBANGLASatipithKalighat21287174dd85eeac90e43e4a74c8327d33ff836.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020163200 +0000" stop="20261020174800 +0000">
+  <programme channel="0-9-9z5383484" start="20261020163000 +0000" stop="20261020174500 +0000">
     <title lang="en">Didi No 1 S10</title>
     <desc lang="en">Season 10 returns bigger than ever, celebrating incredible women, sharing their powerful real-life journeys, and offering life-changing opportunities to multiply their hard-earned rewards.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020220200/list/ZEEBANGLADidiNo1S1021013932253b4975a4045f396afc2d5b8f99b9b.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020220000/list/ZEEBANGLADidiNo1S102101393e416a09801a741c3bbdab2525aa3dbd3.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020174800 +0000" stop="20261020182800 +0000">
-    <title lang="en">Kormer Korta Shoni Deb</title>
+  <programme channel="0-9-9z5383484" start="20261020174500 +0000" stop="20261020182600 +0000">
+    <title lang="en">Korme Dhorme Shanidev</title>
     <desc lang="en">Shanidev observes devotees like Ravi, Meera and Gopal, rewarding good deeds and punishing sins while teaching karma's power through divine trials and moral dilemmas.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020231800/list/ZEEBANGLAKormerKortaShoniDeb20776751f18d888aeb94dbd9728761dbbfc4af6.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020231500/list/ZEEBANGLAKormeDhormeShanidev2073752fed515a2e4cb424ca87ab475db3c2b2d.jpg" />
   </programme>
-  <programme channel="0-9-9z5383484" start="20261020182800 +0000" stop="20261020190000 +0000">
+  <programme channel="0-9-9z5383484" start="20261020182600 +0000" stop="20261020183000 +0000">
     <title lang="en">Annapurnar Lokkhira</title>
     <desc lang="en">Facing tough challenges every day, a dedicated parent raises three kids alone, giving everything they have to build a brighter future for the whole family.</desc>
     <category>Entertainment</category>
     <language>Bengali</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020235800/list/ZEEBANGLAAnnapurnarLokkhira20852851c00eb8863084e2eb6c2af86358f27b8.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261020235600/list/ZEEBANGLAAnnapurnarLokkhira208528553166f38633d45ff8970450d9dceded8.jpg" />
+  </programme>
+  <programme channel="0-9-9z5383484" start="20261020183000 +0000" stop="20261020190000 +0000">
+    <title lang="en">Annapurnar Lokkhira</title>
+    <desc lang="en">Facing tough challenges every day, a dedicated parent raises three kids alone, giving everything they have to build a brighter future for the whole family.</desc>
+    <category>Entertainment</category>
+    <language>Bengali</language>
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-015800000-20261021000000/list/ZEEBANGLAAnnapurnarLokkhira2085285d206bd1b84fd4300bad57edb6c4a68d3.jpg" />
   </programme>
   <programme channel="0-9-9z5383484" start="20261020190000 +0000" stop="20261020192900 +0000">
     <title lang="en">Saat Pake Bandha</title>
@@ -96296,82 +96327,19 @@
     <language>Marathi</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002220000-20261026233000/list/ZEE24TAASStoryOfTheDay17911185245a3c1eaa14aa0b017ca9fb46641b5.jpg" />
   </programme>
-  <programme channel="0-9-zeeaction" start="20261019193000 +0000" stop="20261019203000 +0000">
-    <title lang="en">Tele Shopping</title>
-    <desc lang="en">Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.</desc>
-    <category>Film</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017200000-20261020010000/list/ActionCinemaTeleShopping17552226d36ebf142944f2fafde1b944ecc35c0.jpg" />
-  </programme>
-  <programme channel="0-9-zeeaction" start="20261019203000 +0000" stop="20261019225300 +0000">
-    <title lang="en">Ek Aur Mohra</title>
-    <desc lang="en">Before dying, Babu's father tells him that he has a second family. Babu tries to help them but a rift is created between them by an outsider.</desc>
-    <category>Film</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017200000-20261020020000/list/ActionCinemaEkAurMohra9436d655f6d8520740949debd60679592897.jpg" />
-  </programme>
-  <programme channel="0-9-zeeaction" start="20261019225300 +0000" stop="20261020010000 +0000">
-    <title lang="en">Ranam</title>
-    <desc lang="en">A hardened former police officer with a shadowy past is dragged back into the dark underworld to protect an innocent family from a vengeful crime boss.</desc>
-    <category>Film</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017200000-20261020042300/list/ActionCinemaRanam2149702dba99a450a7b47bea86d8653ad403c7a.jpg" />
-  </programme>
-  <programme channel="0-9-zeeaction" start="20261020010000 +0000" stop="20261020023000 +0000">
-    <title lang="en">Tele Shopping</title>
-    <desc lang="en">Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.</desc>
-    <category>Film</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017200000-20261020063000/list/ActionCinemaTeleShopping1755222ad60f1ba7ee84af5922875486807c5bf.jpg" />
-  </programme>
-  <programme channel="0-9-zeeaction" start="20261020023000 +0000" stop="20261020042700 +0000">
-    <title lang="en">Anokha Jaanwar</title>
-    <desc lang="en">A mentally unstable youngster takes on the behaviour of the animal he sights first whenever he is depressed.</desc>
-    <category>Film</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017200000-20261020080000/list/ActionCinemaAnokhaJaanwar114528d644fac77bbb49c0b24eaefdf2b71c6a.jpg" />
-  </programme>
-  <programme channel="0-9-zeeaction" start="20261020042700 +0000" stop="20261020065500 +0000">
-    <title lang="en">Butterfly</title>
-    <desc lang="en">A Kidnap Of Two Children Occurs And To Find Their Whereabouts ,Several Inter Cuts Of Operation Butterfly Takes Place.</desc>
-    <category>Film</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017200000-20261020095700/list/ActionCinemaButterfly207767442002215c52e4a06a5411c068d016ff0.jpg" />
-  </programme>
-  <programme channel="0-9-zeeaction" start="20261020065500 +0000" stop="20261020102700 +0000">
-    <title lang="en">Surya The Soldier</title>
-    <desc lang="en">Surya, a soldier, due to anger management issues gets court-martialled and needs an approval from India's top psychologist to get back on duty.</desc>
-    <category>Film</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017200000-20261020122500/list/ActionCinemaSuryaTheSoldier1660142b67497b6810849d39797b3ca9edeb0fb.jpg" />
-  </programme>
-  <programme channel="0-9-zeeaction" start="20261020102700 +0000" stop="20261020140000 +0000">
-    <title lang="en">Veera The Power</title>
-    <desc lang="en">When Neelakantam's daughter elopes with Babu, he kidnaps Babu's friends to punish them and bring back his daughter. Krishna, who is one of them, falls in love with Neelakantam's younger daughter.</desc>
-    <category>Film</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017200000-20261020155700/list/ActionCinemaVeeraThePower16665313e1d0808a9ac4b76aea5d3395b1213c5.jpg" />
-  </programme>
-  <programme channel="0-9-zeeaction" start="20261020140000 +0000" stop="20261020163800 +0000">
-    <title lang="en">Shanmukha</title>
-    <desc lang="en">Shanmukha</desc>
-    <category>Film</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017200000-20261020193000/list/ActionCinemaShanmukha21497039e0b1892332e40b0b8c91923489c3260.jpg" />
-  </programme>
-  <programme channel="0-9-zeeaction" start="20261020163800 +0000" stop="20261020193000 +0000">
+  <programme channel="0-9-zeeaction" start="20261020162400 +0000" stop="20261020193500 +0000">
     <title lang="en">Chatrapathi</title>
     <desc lang="en">A courageous young man rises against injustice and powerful enemies while protecting his loved ones through fearless action, emotional struggles and unforgettable confrontations.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017200000-20261020220800/list/ActionCinemaChatrapathi20782784ccdb838748e42c6ba82381709f2f2b1.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017200000-20261020215400/list/ActionCinemaChatrapathi2078278827e47747fd042a38b44f3c4fab16c05.jpg" />
   </programme>
-  <programme channel="0-9-zeeaction" start="20261020193000 +0000" stop="20261020203000 +0000">
+  <programme channel="0-9-zeeaction" start="20261020193500 +0000" stop="20261020203000 +0000">
     <title lang="en">Tele Shopping</title>
     <desc lang="en">Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017200000-20261021010000/list/ActionCinemaTeleShopping1755222c86c21a85e5345aea1ed6b8e126116b5.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-017200000-20261021010500/list/ActionCinemaTeleShopping175522296572bf44e3d49d9bf7768b3b604e898.jpg" />
   </programme>
   <programme channel="0-9-zeeaction" start="20261020203000 +0000" stop="20261020225500 +0000">
     <title lang="en">Meri Izzat</title>
@@ -151421,82 +151389,47 @@
     <language>Hindi</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050002-20261026230000/list/GNTGoodLuckToday11847968ee563e77acd40d7a36efdfccba2c03b.jpg" />
   </programme>
-  <programme channel="0-9-bigmagic_1786965389" start="20261020003000 +0000" stop="20261020023000 +0000">
-    <title lang="en">Vadh</title>
-    <desc lang="en">Burdened by debt and tormented by a ruthless loanshark, a retired school teacher's life takes a dark turn when he succumbs to his impulses, committing a shocking murder.</desc>
+  <programme channel="0-9-bigmagic_1786965389" start="20261020154300 +0000" stop="20261020183000 +0000">
+    <title lang="en">Udta Punjab</title>
+    <desc lang="en">Udta Punjab follows four people: a rock-star, a migrant worker, a doctor, and a police officer as they confront drugs and danger in Punjab.</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20261020060000/list/BigMagicVadh20624076930d87375c74d4897afa6c8c9511313.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20261020211300/list/BigMagicUdtaPunjab20495773b39b1e87262414db903da8f3ef43e08.jpg" />
   </programme>
-  <programme channel="0-9-bigmagic_1786965389" start="20261020023000 +0000" stop="20261020035100 +0000">
-    <title lang="en">Aai Aai Ya Karoon Mai Kya</title>
-    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
+  <programme channel="0-9-bigmagic_1786965389" start="20261020183000 +0000" stop="20261020203000 +0000">
+    <title lang="en">Table No. 21</title>
+    <desc lang="en">A couple win a vacation to Fiji and a chance to play 'Tell All Truth'. Catch is that they have to play for their lives.</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20261020080000/list/BigMagicAaiAaiYaKaroonMaiKya20810924f7e431cb20942c4b55ae53345cfdfa5.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20261021000000/list/BigMagicTableNo214557911aee78945204c83844bdd1013109d7e.jpg" />
   </programme>
-  <programme channel="0-9-bigmagic_1786965389" start="20261020035100 +0000" stop="20261020055900 +0000">
-    <title lang="en">Darlings</title>
-    <desc lang="en">Hamza and Badru's love marriage turns toxic as he becomes abusive and alcoholic, but after a devastating incident, Badru decides to fight back and seek justice in her own way.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20261020092100/list/BigMagicDarlings205532054f22ba0ed2f43fb9872e2e165d4e0b0.jpg" />
-  </programme>
-  <programme channel="0-9-bigmagic_1786965389" start="20261020055900 +0000" stop="20261020081700 +0000">
-    <title lang="en">Manikarnika - The Queen Of Jhansi</title>
-    <desc lang="en">Rani Lakshmibai rises against British rule, leading fierce battles while sacrificing everything for Jhansi's freedom and honour.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20261020112900/list/BigMagicManikarnikaTheQueenOfJhansi20800897b3d0d90dc6542578ef6075b07bab3b0.jpg" />
-  </programme>
-  <programme channel="0-9-bigmagic_1786965389" start="20261020081700 +0000" stop="20261020112200 +0000">
-    <title lang="en">Henna</title>
-    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20261020134700/list/BigMagicHenna20837459b96a7a9490c48c58746093b39ae3c94.jpg" />
-  </programme>
-  <programme channel="0-9-bigmagic_1786965389" start="20261020112200 +0000" stop="20261020133000 +0000">
-    <title lang="en">Commando 3</title>
-    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20261020165200/list/BigMagicCommando321159828ec538cd34a34aa8abccbf733c5ec511.jpg" />
-  </programme>
-  <programme channel="0-9-bigmagic_1786965389" start="20261020133000 +0000" stop="20261020194000 +0000">
-    <title lang="en">Singh Is Kinng</title>
-    <desc lang="en">A fun filled action comedy about a kind hearted man who accidentally becomes powerful leader. With humor and chaos, he transforms lives while proving that goodness can change even toughest situations</desc>
-    <category>Entertainment</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20261020190000/list/BigMagicSinghIsKinng2059230d48d386e7e734525bb791f641ddcf127.jpg" />
-  </programme>
-  <programme channel="0-9-bigmagic_1786965389" start="20261020194000 +0000" stop="20261020213700 +0000">
+  <programme channel="0-9-bigmagic_1786965389" start="20261020203000 +0000" stop="20261020223000 +0000">
     <title lang="en">City Lights</title>
     <desc lang="en">Deepak loses his loan-backed shop, moves to Mumbai with Rakhi and Mahi, gets conned, shelters with an escort, joins a security agency, and becomes part of a robbery plot.</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20261021011000/list/BigMagicCityLights20495714c786bf339ea4dc7b81537b15badeaa4.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20261021020000/list/BigMagicCityLights2049571b57ba0ed9aae4f8c89bcbd80f57d711a.jpg" />
   </programme>
-  <programme channel="0-9-bigmagic_1786965389" start="20261020213700 +0000" stop="20261020230000 +0000">
+  <programme channel="0-9-bigmagic_1786965389" start="20261020223000 +0000" stop="20261021003000 +0000">
     <title lang="en">The Last Color</title>
     <desc lang="en">Choti, a young tightrope walker, dreams of continuing her education but struggles to survive. She befriends Noor, a widow who longs to celebrate Holi but is bound by restrictions.</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20261021030700/list/BigMagicTheLastColor20481310b94e783318d4a2e97ab59d40780c03c.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20261021040000/list/BigMagicTheLastColor2048131b888bbb79730477bb01be5ea1a60562d.jpg" />
   </programme>
-  <programme channel="0-9-bigmagic_1786965389" start="20261020230000 +0000" stop="20261021005300 +0000">
-    <title lang="en">Mr. X</title>
-    <desc lang="en">A mysterious man gains extraordinary powers of invisibility, but his abilities pull him into dangerous conflicts where science, ambition and revenge collide.</desc>
+  <programme channel="0-9-bigmagic_1786965389" start="20261021003000 +0000" stop="20261021023000 +0000">
+    <title lang="en">Oh My God</title>
+    <desc lang="en">When an earthquake destroys atheist Kanji's antique shop, he sues God. Lord Krishna guides him through the lawsuit, exposing corrupt charlatans and ultimately restoring his faith.</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20261021043000/list/BigMagicMrX2050293f6d69f418a7f454b9737b0eac9f706e0.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20261021060000/list/BigMagicOhMyGod2049252cf667ffadfe14f75a88d0362dd9c3c15.jpg" />
   </programme>
-  <programme channel="0-9-bigmagic_1786965389" start="20261021005300 +0000" stop="20261021040600 +0000">
+  <programme channel="0-9-bigmagic_1786965389" start="20261021023000 +0000" stop="20261021040600 +0000">
     <title lang="en">U Turn</title>
     <desc lang="en">A suspenseful drama revolving around mysterious events and unexpected twists, where choices lead to consequences, keeping viewers engaged with intrigue and emotional depth.</desc>
     <category>Entertainment</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20261021062300/list/BigMagicUTurn206487420f9d5f3bdaf4a94b61d00a006d95326.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-091340000-20261021080000/list/BigMagicUTurn2064874146adda7786040aa96ad0e62818bfd60.jpg" />
   </programme>
   <programme channel="0-9-bigmagic_1786965389" start="20261021040600 +0000" stop="20261021062600 +0000">
     <title lang="en">Yeh Vaada Raha</title>
@@ -155068,61 +155001,33 @@
     <language>Hindi</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-031500000-20261026233000/list/AnmolTVJagritiEkNayiSubah213656121328192162d425bbe1bea43f8c9ab36.jpg" />
   </programme>
-  <programme channel="0-9-bigganga" start="20261019190000 +0000" stop="20261019223000 +0000">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.</desc>
-    <category>Film</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000500271-20261020003000/list/AnmolCinema2Teleshopping17208999caba0c95d8643d7bdd0e817f7371ab1.jpg" />
-  </programme>
-  <programme channel="0-9-bigganga" start="20261019223000 +0000" stop="20261020002900 +0000">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.</desc>
-    <category>Film</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000500271-20261020040000/list/AnmolCinema2Teleshopping1720899c0e65fff85c342bfae0f165277c5e9f4.jpg" />
-  </programme>
-  <programme channel="0-9-bigganga" start="20261020002900 +0000" stop="20261020012900 +0000">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.</desc>
-    <category>Film</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000500271-20261020055900/list/AnmolCinema2Teleshopping1720899121407fa0539424ebc8cab1d3d6390b7.jpg" />
-  </programme>
-  <programme channel="0-9-bigganga" start="20261020012900 +0000" stop="20261020023600 +0000">
-    <title lang="en">Jai Shree Ganesh</title>
-    <desc lang="en">Lord Ganesha is born when Lord Shiva mistakenly beheads Parvati's son, replacing his head with an elephant's. He later becomes revered as the God of education, knowledge, wisdom, and wealth.</desc>
-    <category>Film</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000500271-20261020065900/list/AnmolCinema2JaiShreeGanesh16583998d1d0b6e74b3412da87cd4ca28f1ea8f.jpg" />
-  </programme>
-  <programme channel="0-9-bigganga" start="20261020023600 +0000" stop="20261020044700 +0000">
+  <programme channel="0-9-bigganga" start="20261020031500 +0000" stop="20261020045500 +0000">
     <title lang="en">Fighter No.1</title>
     <desc lang="en">Raja, An Ex-Boxer, Falls In Love With Lakshmi, A Woman With Visual Impairment. He Decides To Return To His Boxing Career To Help Her Get Her Vision Back.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000500271-20261020080600/list/AnmolCinema2FighterNo12128048830588ba18504dc6a6eea07df9f88e07.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000500271-20261020084500/list/AnmolCinema2FighterNo121280481e7212ac12f94fb58971694b33810070.jpg" />
   </programme>
-  <programme channel="0-9-bigganga" start="20261020044700 +0000" stop="20261020074700 +0000">
+  <programme channel="0-9-bigganga" start="20261020045500 +0000" stop="20261020080100 +0000">
     <title lang="en">Don Aur Doctor</title>
     <desc lang="en">Honest doctor Das befriends feared gangster Deva, but their friendship strains when Das's profession conflicts with Deva's criminal activities, creating a rift between them.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000500271-20261020101700/list/AnmolCinema2DonAurDoctor1644730526745dfa9264f9a839ef00b37fe9459.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000500271-20261020102500/list/AnmolCinema2DonAurDoctor1644730cdf7a92a5072490b9ab8af8d006e266f.jpg" />
   </programme>
-  <programme channel="0-9-bigganga" start="20261020074700 +0000" stop="20261020103400 +0000">
+  <programme channel="0-9-bigganga" start="20261020080100 +0000" stop="20261020103200 +0000">
     <title lang="en">Rishtey - A Grand Celebration</title>
     <desc lang="en">A guy and a girl fall for each other, but they have to tackle family drama and deep-rooted feuds that have lasted generations. Love takes work, right?</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000500271-20261020131700/list/ZeeAnmolCinema2RishteyAGrandCelebration1658402a0c37ca9dffe43629cfdec2f63fb2a24.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000500271-20261020133100/list/ZeeAnmolCinema2RishteyAGrandCelebration16584029e3459ef20974b41b6afdf942d42b5b7.jpg" />
   </programme>
-  <programme channel="0-9-bigganga" start="20261020103400 +0000" stop="20261020133000 +0000">
+  <programme channel="0-9-bigganga" start="20261020103200 +0000" stop="20261020133000 +0000">
     <title lang="en">Masss</title>
     <desc lang="en">After his partner's death, a con artist begins interacting with ghosts. He encounters a vengeful spirit seeking justice for its family's killers, leading him into a dangerous and supernatural quest.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000500271-20261020160400/list/ZeeAnmolCinema2Masss16479903e264515f6dc40549c971b7627e68810.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000500271-20261020160200/list/ZeeAnmolCinema2Masss16479905ea7dae0ed7741b2a3d89a05c766ca25.jpg" />
   </programme>
   <programme channel="0-9-bigganga" start="20261020133000 +0000" stop="20261020165400 +0000">
     <title lang="en">Gangaajal</title>
@@ -155474,89 +155379,47 @@
     <language>Hindi</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000500271-20261026212500/list/ZeeAnmolCinema2PolicePower1648833ca4c5228ae1744c98df46e48bc8b0d1e.jpg" />
   </programme>
-  <programme channel="0-9-zeeanmolcinema" start="20261019193200 +0000" stop="20261019203200 +0000">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.</desc>
-    <category>Film</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050065-20261020010200/list/AnmolCinemaTeleShopping4599251d4bfd4b9f0341fd9bc20bb692943815.jpg" />
-  </programme>
-  <programme channel="0-9-zeeanmolcinema" start="20261019203200 +0000" stop="20261019231100 +0000">
-    <title lang="en">Prem Deewane</title>
-    <desc lang="en">Radha runs away with Manohar with the help of her uncle. Her uncle convinces them to kidnap a wealthy person and take the money to appease Radha's dad.</desc>
-    <category>Film</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050065-20261020020200/list/AnmolCinemaPremDeewane46114608d4269b535a417d8bc7ded48d2dbe1b.jpg" />
-  </programme>
-  <programme channel="0-9-zeeanmolcinema" start="20261019231100 +0000" stop="20261019233000 +0000">
-    <title lang="en">Fillers</title>
-    <desc lang="en">Catch nonstop entertainment with back-to-back promos, music, and fun fillers from your favorite movies and shows. Perfect for binge-watching and keeping the excitement alive!</desc>
-    <category>Film</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050065-20261020044100/list/AnmolCinemaFillers191160546b659d7290243f28f105e41fc9de8e7.jpg" />
-  </programme>
-  <programme channel="0-9-zeeanmolcinema" start="20261019233000 +0000" stop="20261020003000 +0000">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.</desc>
-    <category>Film</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050065-20261020050000/list/AnmolCinemaTeleShopping459925e8079af6da624f73947d5434f304ca4f.jpg" />
-  </programme>
-  <programme channel="0-9-zeeanmolcinema" start="20261020003000 +0000" stop="20261020013000 +0000">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.</desc>
-    <category>Film</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050065-20261020060000/list/AnmolCinemaTeleShopping4599256adb9168476748de9bc6c30443fcc4fe.jpg" />
-  </programme>
-  <programme channel="0-9-zeeanmolcinema" start="20261020013000 +0000" stop="20261020014900 +0000">
-    <title lang="en">Fillers</title>
-    <desc lang="en">Catch nonstop entertainment with back-to-back promos, music, and fun fillers from your favorite movies and shows. Perfect for binge-watching and keeping the excitement alive!</desc>
-    <category>Film</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050065-20261020070000/list/AnmolCinemaFillers1911605a0cfdd60133041a1bc390afa45b014c4.jpg" />
-  </programme>
-  <programme channel="0-9-zeeanmolcinema" start="20261020014900 +0000" stop="20261020042900 +0000">
+  <programme channel="0-9-zeeanmolcinema" start="20261020014400 +0000" stop="20261020043000 +0000">
     <title lang="en">Ghayal Once Again</title>
     <desc lang="en">When a video of his mentor's murder surfaces, an investigative journalist takes action to find those responsible.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050065-20261020071900/list/ZeeAnmolCinemaGhayalOnceAgain77345389cc266c71a8431bb05a5a8e81e44183.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050065-20261020071400/list/ZeeAnmolCinemaGhayalOnceAgain773453cd073da205784fc09eb4467c26dbbdc7.jpg" />
   </programme>
-  <programme channel="0-9-zeeanmolcinema" start="20261020042900 +0000" stop="20261020072200 +0000">
+  <programme channel="0-9-zeeanmolcinema" start="20261020043000 +0000" stop="20261020070800 +0000">
     <title lang="en">Shaadi Mein Zaroor Aana</title>
     <desc lang="en">Aarti agreed to marry Satyendar. However, she left when she learned she couldn't work afterward. Aarti valued her independence and career, leading her to choose her ambitions over the marriage.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050065-20261020095900/list/AnmolCinemaShaadiMeinZaroorAana994336fed84ffd86fd4dc3b4443ff2bb9b822d.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050065-20261020100000/list/AnmolCinemaShaadiMeinZaroorAana994336ab51281b02214a0dbcc2c295b380c9e7.jpg" />
   </programme>
-  <programme channel="0-9-zeeanmolcinema" start="20261020072200 +0000" stop="20261020103000 +0000">
+  <programme channel="0-9-zeeanmolcinema" start="20261020070800 +0000" stop="20261020104700 +0000">
     <title lang="en">Sanam Teri Kasam</title>
     <desc lang="en">When Saraswati'S Father Throws Her Out Of The House, Inder Stands With Her Against All Odds And This Brings Them Close To Each Other. However, Destiny Has Its Own Plans.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050065-20261020125200/list/ZeeAnmolCinemaSanamTeriKasam6754670f99552064504774b412eac90a6c61e2.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050065-20261020123800/list/ZeeAnmolCinemaSanamTeriKasam675467878380f08ccd4c728af314c16b22340c.jpg" />
   </programme>
-  <programme channel="0-9-zeeanmolcinema" start="20261020103000 +0000" stop="20261020133100 +0000">
+  <programme channel="0-9-zeeanmolcinema" start="20261020104700 +0000" stop="20261020133000 +0000">
     <title lang="en">Raavan Raaj</title>
     <desc lang="en">Beset with corrupt politicians, police officer Arjun tries to unravel a series of abductions and a kidney racket.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050065-20261020160000/list/AnmolCinemaRaavanRaaj11263830b3b02547fdb41b88ca864cbffde06fd.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050065-20261020161700/list/AnmolCinemaRaavanRaaj11263839f33bef7eead4a1a93127bda6c617133.jpg" />
   </programme>
-  <programme channel="0-9-zeeanmolcinema" start="20261020133100 +0000" stop="20261020172800 +0000">
+  <programme channel="0-9-zeeanmolcinema" start="20261020133000 +0000" stop="20261020165000 +0000">
     <title lang="en">Gadar 2</title>
     <desc lang="en">A fearless son rises to protect his family and homeland, reigniting patriotism as he faces powerful enemies with courage, sacrifice, and raw strength.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050065-20261020190100/list/AnmolCinemaGadar21533524a62a98a946ca45f0a005583767c352af.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050065-20261020190000/list/AnmolCinemaGadar21533524aeb04e6c4ab447c49da9aa4d6966c3c2.jpg" />
   </programme>
-  <programme channel="0-9-zeeanmolcinema" start="20261020172800 +0000" stop="20261020193000 +0000">
-    <title lang="en">Chatrapathi</title>
-    <desc lang="en">Shivaji and his family are uprooted from their community in Sri Lanka and wind up as bonded labourers in Visakhapatnam. The situation worsens when his jealous stepbrother enters his life.</desc>
+  <programme channel="0-9-zeeanmolcinema" start="20261020165000 +0000" stop="20261020193000 +0000">
+    <title lang="en">Khiladi 420</title>
+    <desc lang="en">Ritu is smitten by Dev Kumar and gets married to him. Distraught after losing her father, she realises that Dev is a completely different person who may also be the reason behind her father's death.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050065-20261020225800/list/AnmolCinemaChatrapathi15510763924adc7f9d54142942f38e9c596d269.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050065-20261020222000/list/ZeeAnmolCinemaKhiladi4201323799a2b6b062cd84417584619e649d27ac56.jpg" />
   </programme>
   <programme channel="0-9-zeeanmolcinema" start="20261020193000 +0000" stop="20261020203000 +0000">
     <title lang="en">Teleshopping</title>
@@ -165414,68 +165277,40 @@
     <language>Hindi</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002342200-20261026233000/list/TVHDFastKumkumBhagya2105075039d5d31c60f4818bfc68857d733af86.jpg" />
   </programme>
-  <programme channel="0-9-tvpictureshd" start="20261019193000 +0000" stop="20261019213000 +0000">
-    <title lang="en">Honeymoon Travels Pvt. Ltd.</title>
-    <desc lang="en">While on their honeymoon, six newly-married couples discover hidden facets and unravel secrets about their respective spouses.</desc>
-    <category>Film</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002340000-20261020010000/list/PICTURESHDHoneymoonTravelsPvtLtd237866ca36023eba8249daa85cf7c6308ce666.jpg" />
-  </programme>
-  <programme channel="0-9-tvpictureshd" start="20261019213000 +0000" stop="20261019232200 +0000">
-    <title lang="en">Good Boy Bad Boy</title>
-    <desc lang="en">Two students with similar names are total opposites. Due to a switch of their ID cards, they get admitted to each other's classes.</desc>
-    <category>Film</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002340000-20261020030000/list/PICTURESHDGoodBoyBadBoy179304872fb8f79f784886b889dc7719d568af.jpg" />
-  </programme>
-  <programme channel="0-9-tvpictureshd" start="20261019232200 +0000" stop="20261020003000 +0000">
-    <title lang="en">Bhoot Returns</title>
-    <desc lang="en">Shortly after a family moves in to a luxurious bungalow, they begin to feel a demonic presence in the house when their daughter Nimmi becomes fixated with an imaginary friend.</desc>
-    <category>Film</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002340000-20261020045200/list/PICTURESHDBhootReturns1011399c11e38d3c7234f2588c30d3e14b729e7.jpg" />
-  </programme>
-  <programme channel="0-9-tvpictureshd" start="20261020003000 +0000" stop="20261020021100 +0000">
+  <programme channel="0-9-tvpictureshd" start="20261020011600 +0000" stop="20261020025800 +0000">
     <title lang="en">Spider Is Back</title>
     <desc lang="en">Blackmailed by Xiang, Sima Cong descends 10,000 meters below a mountain to find the Golden Spider City, joined by girlfriend Lisa and father on island.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002340000-20261020060000/list/PICTURESHDSpiderIsBack2038753f162df6f11bd413eb4bc61ad8aa180f6.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002340000-20261020064600/list/PICTURESHDSpiderIsBack2038753c8d2e52dc06447c5b74d7472d39ce029.jpg" />
   </programme>
-  <programme channel="0-9-tvpictureshd" start="20261020021100 +0000" stop="20261020034200 +0000">
-    <title lang="en">Cabaret</title>
-    <desc lang="en">Roza, a small-town cabaret dancer, embarks on an intriguing journey as she intends to enter the world of entertainment and achieve success.</desc>
+  <programme channel="0-9-tvpictureshd" start="20261020025800 +0000" stop="20261020060200 +0000">
+    <title lang="en">Rathanam</title>
+    <desc lang="en">Rathanam</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002340000-20261020074100/list/PICTURESHDCabaret10990475be314101a7a4acc9063a634b61d9add.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002340000-20261020082800/list/PICTURESHDRathanam2149073b5c9c09caf244cf68cdb07e9dd28396d.jpg" />
   </programme>
-  <programme channel="0-9-tvpictureshd" start="20261020034200 +0000" stop="20261020060100 +0000">
-    <title lang="en">Mr. &amp; Mrs. Khiladi</title>
-    <desc lang="en">A slacker must impress a wealthy man to marry her daughter.</desc>
-    <category>Film</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002340000-20261020091200/list/AndPicturesHDMrMrsKhiladi12579076d2130ded47c4799acc024d7efb28bea.jpg" />
-  </programme>
-  <programme channel="0-9-tvpictureshd" start="20261020060100 +0000" stop="20261020084600 +0000">
+  <programme channel="0-9-tvpictureshd" start="20261020060200 +0000" stop="20261020083100 +0000">
     <title lang="en">Saamy 2</title>
     <desc lang="en">Ramaswamy, a receptionist aspiring for civil service, finds himself caught in a love story when Viswanathan's daughter takes an interest in him, complicating his life.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002340000-20261020113100/list/PICTURESHDSaamy28855487f360801d4bf4f75a1a508a887c50019.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002340000-20261020113200/list/PICTURESHDSaamy2885548dc438a2a873f4a1e9d6b3db8ba004772.jpg" />
   </programme>
-  <programme channel="0-9-tvpictureshd" start="20261020084600 +0000" stop="20261020113100 +0000">
+  <programme channel="0-9-tvpictureshd" start="20261020083100 +0000" stop="20261020112000 +0000">
     <title lang="en">Baaghi 4</title>
     <desc lang="en">Following A Failed Suicide Attempt, A Man Struggles With Reality And Descends Into Turmoil. His Family Faces Uncertainty While A Concealed Truth Lures Him Into A Complex Maze Of Obsession And Love.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002340000-20261020141600/list/PICTURESHDBaaghi4210703887754460c01b480499f5b22998a6322b.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002340000-20261020140100/list/PICTURESHDBaaghi4210703880647eda32d649efb9f2fe032232cb8c.jpg" />
   </programme>
-  <programme channel="0-9-tvpictureshd" start="20261020113100 +0000" stop="20261020140000 +0000">
+  <programme channel="0-9-tvpictureshd" start="20261020112000 +0000" stop="20261020140000 +0000">
     <title lang="en">Kalki 2898 Ad</title>
     <desc lang="en">Ashwatthama guards Sumati in a dystopian Kasi, battling Yaskin, Manas, and Bhairav, while destined immortality and Kalki's mother protection unfold across centuries.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002340000-20261020170100/list/PICTURESHDKalki2898Ad1965458beb6c27a6d784494b5bb4e4f26aaadf6.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002340000-20261020165000/list/PICTURESHDKalki2898Ad1965458b458f3f771c44d72aa0c48d5b4559956.jpg" />
   </programme>
   <programme channel="0-9-tvpictureshd" start="20261020140000 +0000" stop="20261020163700 +0000">
     <title lang="en">Tu Meri Main Tera Main Tera Tu Meri</title>
@@ -165869,68 +165704,40 @@
     <language>Hindi</language>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-002340000-20261026221600/list/PICTURESHDRavanasura1607105863587dd05ac45eab5637883b55e7df3.jpg" />
   </programme>
-  <programme channel="0-9-pictures" start="20261019185600 +0000" stop="20261019205000 +0000">
-    <title lang="en">Honeymoon Travels Pvt.</title>
-    <desc lang="en">Honeymoon Travels Pvt.</desc>
-    <category>Film</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050071-20261020002600/list/PICTURESHoneymoonTravelsPvt21490194478af5acb564381a27741456e41836c.jpg" />
-  </programme>
-  <programme channel="0-9-pictures" start="20261019205000 +0000" stop="20261019224100 +0000">
-    <title lang="en">Footfairy</title>
-    <desc lang="en">The psychological crime thriller showcases an intriguing chase between a serial killer with a distinctive fetish and CBI officer named Gulshan.</desc>
-    <category>Film</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050071-20261020022000/list/PICTURESFootfairy10338276843c1d35df84adfb0f2b83079651abf.jpg" />
-  </programme>
-  <programme channel="0-9-pictures" start="20261019224100 +0000" stop="20261020002700 +0000">
-    <title lang="en">Good Boy Bad Boy</title>
-    <desc lang="en">Two students with similar names but wildly different personalities switch classes in college when the administration mistakenly switches their identity cards.</desc>
-    <category>Film</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050071-20261020041100/list/PICTURESGoodBoyBadBoy62763f39353e3b39f409fa6f63fe855d00a06.jpg" />
-  </programme>
-  <programme channel="0-9-pictures" start="20261020002700 +0000" stop="20261020022300 +0000">
-    <title lang="en">Jawaani Jaaneman</title>
-    <desc lang="en">Jazz, a 40-year-old man, leads a frivolous casanova lifestyle in London. However, when Tia, a young woman claiming to be his daughter, enters his life, he decides to mend his ways.</desc>
-    <category>Film</category>
-    <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050071-20261020055700/list/PICTURESJawaaniJaaneman10019237ed1b27540aa4165bb32a042a724d4b6.jpg" />
-  </programme>
-  <programme channel="0-9-pictures" start="20261020022300 +0000" stop="20261020035700 +0000">
+  <programme channel="0-9-pictures" start="20261020011600 +0000" stop="20261020025800 +0000">
     <title lang="en">Spider Is Back</title>
     <desc lang="en">Sima Cong is blackmailed by a wealthy Thai businessman to find the legendary golden spider city. Joined by Lisa and her father, he travels to a mysterious island in search of it.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050071-20261020075300/list/PICTURESSpiderIsBack19680963b82efff2a694ed9863d3cca0aa6b304.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050071-20261020064600/list/PICTURESSpiderIsBack1968096f2e5a9959e70416b9ee393eb3b5d4fe5.jpg" />
   </programme>
-  <programme channel="0-9-pictures" start="20261020035700 +0000" stop="20261020061900 +0000">
-    <title lang="en">Mr &amp; Mrs Khiladi</title>
-    <desc lang="en">An astrologer's forecast makes Raja idle until he meets Shalu; his laziness clashes with her rich father's demand for hard work, and he works.</desc>
+  <programme channel="0-9-pictures" start="20261020025800 +0000" stop="20261020060200 +0000">
+    <title lang="en">Rathanam</title>
+    <desc lang="en">Rathanam</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050071-20261020092700/list/PICTURESMrMrsKhiladi19934469eeba80da88043bf9772c640e2e1e8d7.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050071-20261020082800/list/PICTURESRathanam2149037c2eeeaeb0c544f87a66e824f8c9d8dda.jpg" />
   </programme>
-  <programme channel="0-9-pictures" start="20261020061900 +0000" stop="20261020083900 +0000">
+  <programme channel="0-9-pictures" start="20261020060200 +0000" stop="20261020083100 +0000">
     <title lang="en">Saamy 2</title>
     <desc lang="en">Ramaswamy, a receptionist aspiring for civil service, finds himself caught in a love story when Viswanathan's daughter takes an interest in him, complicating his life.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050071-20261020114900/list/PICTURESSaamy2876173698adc0b04944704bfdddc2f69976238.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050071-20261020113200/list/PICTURESSaamy28761736f47599844dc430b9600669a2987749c.jpg" />
   </programme>
-  <programme channel="0-9-pictures" start="20261020083900 +0000" stop="20261020113000 +0000">
+  <programme channel="0-9-pictures" start="20261020083100 +0000" stop="20261020112000 +0000">
     <title lang="en">Baaghi 4</title>
     <desc lang="en">Following A Failed Suicide Attempt, A Man Struggles With Reality And Descends Into Turmoil. His Family Faces Uncertainty While A Concealed Truth Lures Him Into A Complex Maze Of Obsession And Love.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050071-20261020140900/list/PICTURESBaaghi42107037601c383d4b614f92a6e66150fda43144.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050071-20261020140100/list/PICTURESBaaghi42107037ef144e98c4dc4181924d9003ebddbd4c.jpg" />
   </programme>
-  <programme channel="0-9-pictures" start="20261020113000 +0000" stop="20261020140000 +0000">
+  <programme channel="0-9-pictures" start="20261020112000 +0000" stop="20261020140000 +0000">
     <title lang="en">Kalki 2898 Ad</title>
     <desc lang="en">Ashwatthama guards Sumati in a dystopian Kasi, battling Yaskin, Manas, and Bhairav, while destined immortality and Kalki's mother protection unfold across centuries.</desc>
     <category>Film</category>
     <language>Hindi</language>
-    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050071-20261020170000/list/PICTURESKalki2898Ad1965467eda23e027906467182c8b19a045278c6.jpg" />
+    <icon src="https://akamaividz2.zee5.com/image/upload/w_677,h_381,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050071-20261020165000/list/PICTURESKalki2898Ad19654678d59d3ee05654dc0a26bc2562854219e.jpg" />
   </programme>
   <programme channel="0-9-pictures" start="20261020140000 +0000" stop="20261020165900 +0000">
     <title lang="en">Tu Meri Main Tera Main Tera Tu Meri</title>
