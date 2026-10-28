@@ -408524,13 +408524,14 @@
     <episode-num system="onscreen">26</episode-num>
     <rating><value>U</value></rating>
   </programme>
-  <programme start="20261028090000 +0530" stop="20261028100000 +0530" channel="jtv3509">
-    <title>The Kapil Sharma Show - Masti Lagataar</title>
-    <desc>Host Kapil Sharma invites celebrity guests, who discuss their latest movie projects, while keeping the audience laughing with his humorous take on several topics.</desc>
-    <category>Comedy</category>
+  <programme start="20261028080000 +0530" stop="20261028091000 +0530" channel="jtv3509">
+    <title>Kaun Banega Crorepati</title>
+    <desc>Host Amitabh Bachchan asks a series of questions to several contestants to test their general knowledge and give them a chance to win a cash prize.</desc>
+    <category>Game show</category>
     <language>Hindi</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/11d2d93b5695c64b628a4e05f17a50e3.jpg?width=700"/>
-    <credits><actor>Kapil Sharma</actor><actor>Kiku Sharda</actor><actor>Bharti Singh</actor><actor>Krushna Abhishek</actor><actor>Sumona Chakravarti</actor></credits>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/742f021866e4d708672b606b3ed01b6d.jpg?width=700"/>
+    <credits><director>Arun Sheshkumar</director><director>Rahul Verma</director><actor>Amitabh Bachchan</actor></credits>
+    <episode-num system="onscreen">57</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261028100000 +0530" stop="20261028112000 +0530" channel="jtv3509">
@@ -447921,7 +447922,7 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <episode-num system="onscreen">6</episode-num>
     <rating><value>U</value></rating>
   </programme>
-  <programme start="20261029044800 +0530" stop="20261029045500 +0530" channel="jtv3587">
+  <programme start="20261029044800 +0530" stop="20261029050500 +0530" channel="jtv3587">
     <title>Bas Cha Sudhi</title>
     <desc>Bas Cha Sudhi</desc>
     <category>Romance</category>
@@ -447930,12 +447931,13 @@ Hence the doctor along with his colleagues &amp; the two friends (whom were thou
     <episode-num system="onscreen">7</episode-num>
     <rating><value>U</value></rating>
   </programme>
-  <programme start="20261029045500 +0530" stop="20261029095500 +0530" channel="jtv3587">
-    <title>Aadat</title>
-    <desc>Aadat</desc>
-    <category>Drama</category>
+  <programme start="20261029050500 +0530" stop="20261029095500 +0530" channel="jtv3587">
+    <title>Bas Cha Sudhi</title>
+    <desc>Bas Cha Sudhi</desc>
+    <category>Romance</category>
     <language>Gujarati</language>
-    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/1f5fe6a19db12cdebc48cdf4c689455c.jpg?width=700"/>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/bbbc8f9fb412f05e779a9f1025d29aec.jpg?width=700"/>
+    <episode-num system="onscreen">8</episode-num>
     <rating><value>U</value></rating>
   </programme>
   <programme start="20261029095500 +0530" stop="20261029155100 +0530" channel="jtv3587">
