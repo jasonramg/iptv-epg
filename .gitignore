@@ -1,3 +1,9 @@
 /epg/*.xml
 /epg/*.xml.gz
 /epg/*.json
+
+# Whitelist specific generated EPG files to track
+!/epg/airtel.xml
+!/epg/airtel.xml.gz
+!/epg/sunnxt.xml
+!/epg/sunnxt.xml.gz
