@@ -37,27 +37,36 @@ for file in sorted(REPO_EPG_DIR.glob("*.xml.gz")):
             updated = f"{age.days}d ago"
 
         status = "🟢" if hours < 24 else "🔴"
+        
+        # Calculate file size for the GZ file
+        size_bytes = file.stat().st_size
+        if size_bytes < 1024 * 1024:
+            size_str = f"{size_bytes / 1024:.0f} KB"
+        else:
+            size_str = f"{size_bytes / (1024 * 1024):.1f} MB"
 
     except Exception:
         updated = "Unknown"
         status = "🔴"
+        size_str = "---"
 
     providers.append(
         (
             provider,
             updated,
             status,
+            size_str,
             f"https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/{provider}.xml",
             f"https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/{provider}.xml.gz",
         )
     )
 
 table = [
-    "| Provider | Last Updated | Status | XML | XML.GZ |",
-    "|----------|--------------|:------:|-----|--------|",
+    "| Provider | Last Updated | Size (GZ) | Status | XML | XML.GZ |",
+    "|----------|--------------|-----------|:------:|-----|--------|",
 ]
 
-for provider, updated, status, xml, gz in providers:
+for provider, updated, status, size, xml, gz in providers:
     display = {
         "airtel": "Airtel",
         "dishtv": "Dish TV",
@@ -65,14 +74,19 @@ for provider, updated, status, xml, gz in providers:
         "runntv": "RunNTV",
         "slingtv": "Sling TV",
         "sundirectgo": "SunDirect GO",
+        "sunnxt": "Sun NXT", # Added SunNXT mapping
         "tataplay": "Tata Play",
         "yupptv": "YuppTV",
         "zee5": "ZEE5",
     }.get(provider, provider.title())
 
     table.append(
-        f"| {display} | {updated} | {status} | [XML]({xml}) | [GZ]({gz}) |"
+        f"| {display} | {updated} | {size} | {status} | [XML]({xml}) | [GZ]({gz}) |"
     )
+
+# Add a timestamp so visitors know the cron job is actually running
+ist_time = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+table.append(f"\n_Status last checked: {ist_time}_")
 
 table_text = "\n".join(table)
 
