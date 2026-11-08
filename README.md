@@ -23,8 +23,8 @@ Free XMLTV EPGs for supported IPTV providers.
 | Provider | Last Updated | Size (GZ) | Status | XML | XML.GZ |
 |----------|--------------|-----------|:------:|-----|--------|
 | Airtel | 14h ago | 2.9 MB | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/airtel.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/airtel.xml.gz) |
-| Dish TV | 17h ago | 2.1 MB | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/dishtv.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/dishtv.xml.gz) |
-| JioTV | 2m ago | 3.0 MB | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/jiotv.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/jiotv.xml.gz) |
+| Dish TV | 1m ago | 2.1 MB | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/dishtv.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/dishtv.xml.gz) |
+| JioTV | 14m ago | 3.0 MB | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/jiotv.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/jiotv.xml.gz) |
 | RunNTV | 11d ago | 221 KB | 🔴 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/runntv.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/runntv.xml.gz) |
 | Sling TV | 4h ago | 9 KB | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/slingtv.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/slingtv.xml.gz) |
 | SunDirect GO | 5h ago | 2.1 MB | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/sundirectgo.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/sundirectgo.xml.gz) |
@@ -33,7 +33,7 @@ Free XMLTV EPGs for supported IPTV providers.
 | YuppTV | 8h ago | 365 KB | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/yupptv.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/yupptv.xml.gz) |
 | ZEE5 | 10h ago | 1.1 MB | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/zee5.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/zee5.xml.gz) |
 
-_Status last checked: 2026-11-08 16:07 UTC_
+_Status last checked: 2026-11-08 16:20 UTC_
 <!-- EPG_STATUS_END -->
 
 **Status Legend**
