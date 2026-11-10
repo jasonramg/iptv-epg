@@ -22,18 +22,18 @@ Free XMLTV EPGs for supported IPTV providers.
 <!-- EPG_STATUS_START -->
 | Provider | Last Updated | Size (GZ) | Status | XML | XML.GZ |
 |----------|--------------|-----------|:------:|-----|--------|
-| Airtel | 2h ago | 2.8 MB | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/airtel.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/airtel.xml.gz) |
-| Dish TV | 5h ago | 2.1 MB | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/dishtv.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/dishtv.xml.gz) |
+| Airtel | 3h ago | 2.8 MB | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/airtel.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/airtel.xml.gz) |
+| Dish TV | 6h ago | 2.1 MB | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/dishtv.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/dishtv.xml.gz) |
 | JioTV | 6h ago | 2.9 MB | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/jiotv.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/jiotv.xml.gz) |
 | RunNTV | 13d ago | 221 KB | 🔴 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/runntv.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/runntv.xml.gz) |
-| Sling TV | 10h ago | 9 KB | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/slingtv.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/slingtv.xml.gz) |
-| SunDirect GO | 0m ago | 1.1 MB | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/sundirectgo.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/sundirectgo.xml.gz) |
-| Sun NXT | 22m ago | 194 KB | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/sunnxt.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/sunnxt.xml.gz) |
+| Sling TV | 0m ago | 9 KB | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/slingtv.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/slingtv.xml.gz) |
+| SunDirect GO | 28m ago | 1.1 MB | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/sundirectgo.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/sundirectgo.xml.gz) |
+| Sun NXT | 50m ago | 194 KB | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/sunnxt.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/sunnxt.xml.gz) |
 | Tata Play | 13d ago | 1.5 MB | 🔴 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/tataplay.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/tataplay.xml.gz) |
-| YuppTV | 41m ago | 392 KB | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/yupptv.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/yupptv.xml.gz) |
-| ZEE5 | 1h ago | 1.2 MB | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/zee5.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/zee5.xml.gz) |
+| YuppTV | 1h ago | 392 KB | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/yupptv.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/yupptv.xml.gz) |
+| ZEE5 | 2h ago | 1.2 MB | 🟢 | [XML](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/zee5.xml) | [GZ](https://raw.githubusercontent.com/jasonramg/iptv-epg/main/epg/zee5.xml.gz) |
 
-_Status last checked: 2026-11-09 23:53 UTC_
+_Status last checked: 2026-11-10 00:21 UTC_
 <!-- EPG_STATUS_END -->
 
 **Status Legend**
